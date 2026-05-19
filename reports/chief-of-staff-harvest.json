@@ -1,0 +1,5473 @@
+{
+  "generatedAt": "2026-05-19T12:44:23.833Z",
+  "collection": {
+    "naid": "580456",
+    "title": "Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration)",
+    "catalogUrl": "https://catalog.archives.gov/id/580456"
+  },
+  "targetNaids": [
+    "702362",
+    "702363",
+    "702364",
+    "472802379",
+    "472802380",
+    "472802381",
+    "702683",
+    "702684",
+    "702720",
+    "563877964",
+    "563877965",
+    "472802366",
+    "702471"
+  ],
+  "targetQueries": [
+    "National Drug Control Strategy",
+    "Drugs Issue",
+    "Bennett Drug Policy",
+    "Bennett Drug Control",
+    "Martinez Drug Policy",
+    "Drug Information",
+    "Pan Am 103 Commission"
+  ],
+  "searchLog": [
+    {
+      "query": "National Drug Control Strategy",
+      "total": 690,
+      "returned": 140
+    },
+    {
+      "query": "Drugs Issue",
+      "total": 725,
+      "returned": 160
+    },
+    {
+      "query": "Bennett Drug Policy",
+      "total": 379,
+      "returned": 80
+    },
+    {
+      "query": "Bennett Drug Control",
+      "total": 348,
+      "returned": 80
+    },
+    {
+      "query": "Martinez Drug Policy",
+      "total": 237,
+      "returned": 60
+    },
+    {
+      "query": "Drug Information",
+      "total": 1055,
+      "returned": 220
+    },
+    {
+      "query": "Pan Am 103 Commission",
+      "total": 71,
+      "returned": 20
+    }
+  ],
+  "broadAudit": {
+    "reviewedRecords": 299,
+    "searchLog": [
+      {
+        "term": "narcotics",
+        "total": 216,
+        "returned": 60
+      },
+      {
+        "term": "drug",
+        "total": 1055,
+        "returned": 220
+      },
+      {
+        "term": "drugs",
+        "total": 751,
+        "returned": 160
+      },
+      {
+        "term": "cocaine",
+        "total": 141,
+        "returned": 40
+      },
+      {
+        "term": "colombia",
+        "total": 143,
+        "returned": 40
+      },
+      {
+        "term": "peru",
+        "total": 120,
+        "returned": 40
+      },
+      {
+        "term": "bolivia",
+        "total": 84,
+        "returned": 20
+      },
+      {
+        "term": "drug summit",
+        "total": 546,
+        "returned": 120
+      },
+      {
+        "term": "san antonio",
+        "total": 306,
+        "returned": 80
+      },
+      {
+        "term": "terrorism",
+        "total": 242,
+        "returned": 60
+      },
+      {
+        "term": "terrorist",
+        "total": 129,
+        "returned": 40
+      },
+      {
+        "term": "hostage",
+        "total": 212,
+        "returned": 60
+      },
+      {
+        "term": "hostages",
+        "total": 162,
+        "returned": 40
+      },
+      {
+        "term": "kidnapping",
+        "total": 30,
+        "returned": 20
+      },
+      {
+        "term": "pan am",
+        "total": 249,
+        "returned": 60
+      },
+      {
+        "term": "lockerbie",
+        "total": 17,
+        "returned": 17
+      },
+      {
+        "term": "hijacking",
+        "total": 23,
+        "returned": 20
+      },
+      {
+        "term": "aviation security",
+        "total": 418,
+        "returned": 100
+      },
+      {
+        "term": "libya",
+        "total": 78,
+        "returned": 20
+      },
+      {
+        "term": "extradition",
+        "total": 23,
+        "returned": 20
+      },
+      {
+        "term": "thornburgh",
+        "total": 309,
+        "returned": 80
+      },
+      {
+        "term": "skinner",
+        "total": 494,
+        "returned": 100
+      }
+    ],
+    "seriesCounts": {
+      "472248505: Andrew Card Briefing Books Files": 6,
+      "472250376: Andrew Card Doug Wead Letters Files": 3,
+      "2103240: Andrew Card Subject Files": 10,
+      "519802568: Andrew Card's Chronological Files": 1,
+      "519802567: Andrew Card's Files": 36,
+      "2105076: Cameron D. Findlay Files": 1,
+      "472448950: Ed Rogers' Correspondence Files": 9,
+      "472448952: Ed Rogers' Subject Files": 14,
+      "2105090: James A. Baker III Files": 14,
+      "580521: John Sununu Cabinet Agencies Files": 16,
+      "580461: John Sununu Correspondence Files": 42,
+      "580523: John Sununu Daily Agenda Files": 8,
+      "580478: John Sununu Issues Files": 52,
+      "581229: John Sununu Itinerary Files": 8,
+      "581839: John Sununu Subject Files": 1,
+      "580510: John Sununu White House Office Files": 17,
+      "2105098: Katie Winklejohn Files": 7,
+      "486553369: Phillip D. Brady Files": 7,
+      "472248475: Phillip D. Brady's Chronological Files": 15,
+      "2105091: Robert B. Zoellick Files": 1,
+      "519802569: Robert B. Zoellick's Chronological Files": 1,
+      "2105093: Samuel K. Skinner Files": 30
+    },
+    "records": [
+      {
+        "naid": "563878202",
+        "title": "Briefing Book: Federal Judgeships - 1989 [1]",
+        "seriesNaid": "472248505",
+        "seriesTitle": "Andrew Card Briefing Books Files",
+        "localIdentifier": "CF00556-003a",
+        "containerId": "CF00556",
+        "catalogUrl": "https://catalog.archives.gov/id/563878202",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "563878203",
+        "title": "Briefing Book: Federal Judgeships - 1989 [2]",
+        "seriesNaid": "472248505",
+        "seriesTitle": "Andrew Card Briefing Books Files",
+        "localIdentifier": "CF00556-003b",
+        "containerId": "CF00556",
+        "catalogUrl": "https://catalog.archives.gov/id/563878203",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "472802394",
+        "title": "Briefing Book: President's Trip to Japan, China, and Korea - 2/22-27/89",
+        "seriesNaid": "472248505",
+        "seriesTitle": "Andrew Card Briefing Books Files",
+        "localIdentifier": "CF00556-005",
+        "containerId": "CF00556",
+        "catalogUrl": "https://catalog.archives.gov/id/472802394",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics",
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "563878193",
+        "title": "Briefing Book: STA/LTA Planning Book - 1/9/89 [1]",
+        "seriesNaid": "472248505",
+        "seriesTitle": "Andrew Card Briefing Books Files",
+        "localIdentifier": "CF00555-003a",
+        "containerId": "CF00555/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878193",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "563878201",
+        "title": "First 100 Days 12/8/88",
+        "seriesNaid": "472248505",
+        "seriesTitle": "Andrew Card Briefing Books Files",
+        "localIdentifier": "CF00556-002",
+        "containerId": "CF00556",
+        "catalogUrl": "https://catalog.archives.gov/id/563878201",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "472802392",
+        "title": "The President's Education Summit with Governors, Media Briefing Book",
+        "seriesNaid": "472248505",
+        "seriesTitle": "Andrew Card Briefing Books Files",
+        "localIdentifier": "CF00555-009",
+        "containerId": "CF00555",
+        "catalogUrl": "https://catalog.archives.gov/id/472802392",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "472802395",
+        "title": "Letters Concerning Doug Wead [1]",
+        "seriesNaid": "472250376",
+        "seriesTitle": "Andrew Card Doug Wead Letters Files",
+        "localIdentifier": "02451-001",
+        "containerId": "02451",
+        "catalogUrl": "https://catalog.archives.gov/id/472802395",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "472802425",
+        "title": "Letters Concerning Doug Wead [1]",
+        "seriesNaid": "472250376",
+        "seriesTitle": "Andrew Card Doug Wead Letters Files",
+        "localIdentifier": "02452-001",
+        "containerId": "02452",
+        "catalogUrl": "https://catalog.archives.gov/id/472802425",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "472802434",
+        "title": "Letters Concerning Doug Wead [10]",
+        "seriesNaid": "472250376",
+        "seriesTitle": "Andrew Card Doug Wead Letters Files",
+        "localIdentifier": "02452-010",
+        "containerId": "02452",
+        "catalogUrl": "https://catalog.archives.gov/id/472802434",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "472802455",
+        "title": "Briefing Book: NATO Summit, Rome - 11/6-8/91 [3]",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "CF00554-003",
+        "containerId": "CF00554",
+        "catalogUrl": "https://catalog.archives.gov/id/472802455",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "472802458",
+        "title": "Briefing Book: President's Visit to the Hague and the Netherlands - 11/8-9/91",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "CF00554-006",
+        "containerId": "CF00554",
+        "catalogUrl": "https://catalog.archives.gov/id/472802458",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802377",
+        "title": "Card - Budget",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "08373-003",
+        "containerId": "08373",
+        "catalogUrl": "https://catalog.archives.gov/id/472802377",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "472802379",
+        "title": "Drugs Issue - Drug Czar [1]",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "08373-012",
+        "containerId": "08373",
+        "catalogUrl": "https://catalog.archives.gov/id/472802379",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "drug summit",
+          "terrorism",
+          "hostages",
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "472802380",
+        "title": "Drugs Issue - Drug Czar [2]",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "08373-013",
+        "containerId": "08373",
+        "catalogUrl": "https://catalog.archives.gov/id/472802380",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "472802381",
+        "title": "Drugs Issue - Drug Czar [3]",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "08373-014",
+        "containerId": "08373",
+        "catalogUrl": "https://catalog.archives.gov/id/472802381",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "peru",
+          "drug summit",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "472802376",
+        "title": "Global Change (Card) [4]",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "05215-009",
+        "containerId": "05215",
+        "catalogUrl": "https://catalog.archives.gov/id/472802376",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia"
+        ]
+      },
+      {
+        "naid": "472802366",
+        "title": "Pan Am 103 Commission",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "02718-015",
+        "containerId": "02718",
+        "catalogUrl": "https://catalog.archives.gov/id/472802366",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "terrorism",
+          "terrorist",
+          "pan am",
+          "lockerbie",
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "472802367",
+        "title": "Radio Marti",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "02719-003",
+        "containerId": "02719",
+        "catalogUrl": "https://catalog.archives.gov/id/472802367",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "472802370",
+        "title": "Sununu - Related Correspondence [3]",
+        "seriesNaid": "2103240",
+        "seriesTitle": "Andrew Card Subject Files",
+        "localIdentifier": "02719-013",
+        "containerId": "02719",
+        "catalogUrl": "https://catalog.archives.gov/id/472802370",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio",
+          "pan am"
+        ]
+      },
+      {
+        "naid": "563877823",
+        "title": "[Andrew Card] [Chron Files January 1989 to May 1990] [4]",
+        "seriesNaid": "519802568",
+        "seriesTitle": "Andrew Card's Chronological Files",
+        "localIdentifier": "02328-001d",
+        "containerId": "02328",
+        "catalogUrl": "https://catalog.archives.gov/id/563877823",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "563877908",
+        "title": "AHC General Correspondence December 1990 [4]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04012-005d",
+        "containerId": "04012/3",
+        "catalogUrl": "https://catalog.archives.gov/id/563877908",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug"
+        ]
+      },
+      {
+        "naid": "563877909",
+        "title": "AHC General Correspondence June-August 1990 [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04012-006a",
+        "containerId": "04012/3",
+        "catalogUrl": "https://catalog.archives.gov/id/563877909",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "drugs"
+        ]
+      },
+      {
+        "naid": "563877898",
+        "title": "AHC General Correspondence October 1990 [2]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04012-003b",
+        "containerId": "04012/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563877898",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "286185815",
+        "title": "Armenian Genocide",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02718-002",
+        "containerId": "02718/1",
+        "catalogUrl": "https://catalog.archives.gov/id/286185815",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "563878103",
+        "title": "Articles - Andy Card",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "08373-002",
+        "containerId": "08373/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878103",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "563877826",
+        "title": "Bosch, Orlando",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02718-004",
+        "containerId": "02718/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877826",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "563878104",
+        "title": "Bush-Quayle '92",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "08373-004",
+        "containerId": "08373/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878104",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "563878105",
+        "title": "Cabinet Affairs [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "08373-005a",
+        "containerId": "08373/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878105",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "563877895",
+        "title": "Card--Phone Logs July-Dec. 1990 [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04012-002a",
+        "containerId": "04012/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877895",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "563877915",
+        "title": "Correspondence - General (1/90 -  ) [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04013-001a",
+        "containerId": "04013",
+        "catalogUrl": "https://catalog.archives.gov/id/563877915",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "563877916",
+        "title": "Correspondence - General (1/90 -  ) [2]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04013-001b",
+        "containerId": "04013",
+        "catalogUrl": "https://catalog.archives.gov/id/563877916",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia"
+        ]
+      },
+      {
+        "naid": "563877992",
+        "title": "Correspondence--E",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04883-005",
+        "containerId": "04883/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563877992",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "563877995",
+        "title": "Correspondence--F [3]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04883-006c",
+        "containerId": "04883/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563877995",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "563877997",
+        "title": "Correspondence--G [2]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04883-007b",
+        "containerId": "04883/3",
+        "catalogUrl": "https://catalog.archives.gov/id/563877997",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "563877998",
+        "title": "Correspondence--G [3]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04883-007c",
+        "containerId": "04883/3",
+        "catalogUrl": "https://catalog.archives.gov/id/563877998",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "563877999",
+        "title": "Correspondence--H [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04883-008a",
+        "containerId": "04883/3",
+        "catalogUrl": "https://catalog.archives.gov/id/563877999",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "563878003",
+        "title": "Correspondence--K [2]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04884-002",
+        "containerId": "04884/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878003",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "563878007",
+        "title": "Correspondence--M [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04884-006",
+        "containerId": "04884/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878007",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "563878010",
+        "title": "Correspondence--M [4]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04884-009",
+        "containerId": "04884/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878010",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "563878011",
+        "title": "Correspondence--N",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04884-010",
+        "containerId": "04884/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563878011",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism",
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "563878014",
+        "title": "Correspondence--O, P, Q [3]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04884-013",
+        "containerId": "04884/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563878014",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "563878020",
+        "title": "Correspondence--S [4]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04884-019",
+        "containerId": "04884/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563878020",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia"
+        ]
+      },
+      {
+        "naid": "563878110",
+        "title": "Counsel's Office Materials [2]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "08373-009b",
+        "containerId": "08373/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878110",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "563878111",
+        "title": "Counsel's Office Materials [3]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "08373-009c",
+        "containerId": "08373/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563878111",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "563878057",
+        "title": "EC 1992",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04885-014",
+        "containerId": "04885/3",
+        "catalogUrl": "https://catalog.archives.gov/id/563878057",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "563877830",
+        "title": "Economic Summit 1990--Card/ 1990 [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02718-008a",
+        "containerId": "02718/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877830",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "563877921",
+        "title": "General Correspondence (4/23/90 -  (Card) [2]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04013-003b",
+        "containerId": "04013",
+        "catalogUrl": "https://catalog.archives.gov/id/563877921",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "563877891",
+        "title": "General Correspondence September 1990 [3]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "04012-001c",
+        "containerId": "04012/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877891",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "563877834",
+        "title": "Goodwill Games 1990: Goodwill Games Task Force Meeting--March 13, 1990, EOB 180",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02718-011b",
+        "containerId": "02718/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877834",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "563877837",
+        "title": "Goodwill Games: Goodwill Games--List of Names Representing Each Agency",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02718-011e",
+        "containerId": "02718/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877837",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am",
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "563877843",
+        "title": "Peace Corps Budget",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02718-016",
+        "containerId": "02718/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563877843",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "563877846",
+        "title": "Personnel (Inquiries for White House Jobs) [3]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02718-017c",
+        "containerId": "02718/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563877846",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "563878133",
+        "title": "Personnel (Mar. 90) [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "08374-008a",
+        "containerId": "08374/2",
+        "catalogUrl": "https://catalog.archives.gov/id/563878133",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "563877849",
+        "title": "Presidential Delegations",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02719-001",
+        "containerId": "02719/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877849",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "peru",
+          "bolivia",
+          "pan am"
+        ]
+      },
+      {
+        "naid": "563877850",
+        "title": "Proposition 65",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02719-002",
+        "containerId": "02719/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877850",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "drugs"
+        ]
+      },
+      {
+        "naid": "563877852",
+        "title": "Resumes - File 3 [1]",
+        "seriesNaid": "519802567",
+        "seriesTitle": "Andrew Card's Files",
+        "localIdentifier": "02719-005a",
+        "containerId": "02719/1",
+        "catalogUrl": "https://catalog.archives.gov/id/563877852",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "563878074",
+        "title": "[Memoranda, Correspondence, and Policy Papers] [1]",
+        "seriesNaid": "2105076",
+        "seriesTitle": "Cameron D. Findlay Files",
+        "localIdentifier": "05831-001",
+        "containerId": "05831",
+        "catalogUrl": "https://catalog.archives.gov/id/563878074",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "563877873",
+        "title": "[January 1989-August 1989] Memos",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "03661-010",
+        "containerId": "03661",
+        "catalogUrl": "https://catalog.archives.gov/id/563877873",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "563877810",
+        "title": "April 1990 [Letters]",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "02134-010",
+        "containerId": "02134",
+        "catalogUrl": "https://catalog.archives.gov/id/563877810",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug"
+        ]
+      },
+      {
+        "naid": "563877790",
+        "title": "February [1989]",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "01559-003",
+        "containerId": "01559",
+        "catalogUrl": "https://catalog.archives.gov/id/563877790",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "563878150",
+        "title": "July 1991 [Memos]",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "11321-003",
+        "containerId": "11321",
+        "catalogUrl": "https://catalog.archives.gov/id/563878150",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "563877875",
+        "title": "Memos to JHS [John Sununu] May 1990 - August 1990 [1]",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "03661-012a",
+        "containerId": "03661",
+        "catalogUrl": "https://catalog.archives.gov/id/563877875",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "563877871",
+        "title": "November 1990 [Memos]",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "03661-008",
+        "containerId": "03661",
+        "catalogUrl": "https://catalog.archives.gov/id/563877871",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "563877870",
+        "title": "October 1990 [Memos]",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "03661-007",
+        "containerId": "03661",
+        "catalogUrl": "https://catalog.archives.gov/id/563877870",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "563877874",
+        "title": "September 1989-December 1989 Memos",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "03661-011",
+        "containerId": "03661",
+        "catalogUrl": "https://catalog.archives.gov/id/563877874",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "563877819",
+        "title": "September 1990 [Memos] [2]",
+        "seriesNaid": "472448950",
+        "seriesTitle": "Ed Rogers' Correspondence Files",
+        "localIdentifier": "02134-017b",
+        "containerId": "02134",
+        "catalogUrl": "https://catalog.archives.gov/id/563877819",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "472802491",
+        "title": "[Notebook for Trip to Moscow] [1]",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04015-013",
+        "containerId": "04015",
+        "catalogUrl": "https://catalog.archives.gov/id/472802491",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "404581990",
+        "title": "American Disabilities Act",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04016-002",
+        "containerId": "04016",
+        "catalogUrl": "https://catalog.archives.gov/id/404581990",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "472802496",
+        "title": "Budget/Taxes",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04016-009",
+        "containerId": "04016",
+        "catalogUrl": "https://catalog.archives.gov/id/472802496",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "563877953",
+        "title": "Bush Doctrine",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04016-010",
+        "containerId": "04016",
+        "catalogUrl": "https://catalog.archives.gov/id/563877953",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "563877959",
+        "title": "Coast Guard",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04016-016",
+        "containerId": "04016",
+        "catalogUrl": "https://catalog.archives.gov/id/563877959",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "563877964",
+        "title": "Drug Information [1]",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04016-020a",
+        "containerId": "04016",
+        "catalogUrl": "https://catalog.archives.gov/id/563877964",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine",
+          "drug summit",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "563877965",
+        "title": "Drug Information [2]",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04016-020b",
+        "containerId": "04016",
+        "catalogUrl": "https://catalog.archives.gov/id/563877965",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "colombia",
+          "bolivia",
+          "drug summit",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "472802468",
+        "title": "Jewish Reaction",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04014-007",
+        "containerId": "04014",
+        "catalogUrl": "https://catalog.archives.gov/id/472802468",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist",
+          "libya",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "472802483",
+        "title": "Mailings 1989 [2]",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04015-005",
+        "containerId": "04015",
+        "catalogUrl": "https://catalog.archives.gov/id/472802483",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine",
+          "colombia",
+          "peru",
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "472802481",
+        "title": "Mailings 1990-1991 [2]",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04015-003",
+        "containerId": "04015",
+        "catalogUrl": "https://catalog.archives.gov/id/472802481",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "472802470",
+        "title": "National Endowment for the Arts",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04014-012",
+        "containerId": "04014",
+        "catalogUrl": "https://catalog.archives.gov/id/472802470",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "563877933",
+        "title": "Point(s) of Light",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04014-020",
+        "containerId": "04014",
+        "catalogUrl": "https://catalog.archives.gov/id/563877933",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "563877937",
+        "title": "S&L Situation",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04014-024",
+        "containerId": "04014",
+        "catalogUrl": "https://catalog.archives.gov/id/563877937",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "563877938",
+        "title": "Sea-Search Armada",
+        "seriesNaid": "472448952",
+        "seriesTitle": "Ed Rogers' Subject Files",
+        "localIdentifier": "04014-025",
+        "containerId": "04014",
+        "catalogUrl": "https://catalog.archives.gov/id/563877938",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "peru"
+        ]
+      },
+      {
+        "naid": "472802298",
+        "title": "[Public Correspondence, Dec 1992 & Jan 1993] [6]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93020-002",
+        "containerId": "93020",
+        "catalogUrl": "https://catalog.archives.gov/id/472802298",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "472802288",
+        "title": "[Public Correspondence, Fall 1992] [5]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93018-005",
+        "containerId": "93018",
+        "catalogUrl": "https://catalog.archives.gov/id/472802288",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "472802289",
+        "title": "[Public Correspondence, Fall 1992] [6]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93018-006",
+        "containerId": "93018",
+        "catalogUrl": "https://catalog.archives.gov/id/472802289",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "472802265",
+        "title": "[Public Correspondence, Oct 1992] [3]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93013-003",
+        "containerId": "93013",
+        "catalogUrl": "https://catalog.archives.gov/id/472802265",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "472802255",
+        "title": "[Public Correspondence, Oct 1992] [9]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93011-004",
+        "containerId": "93011",
+        "catalogUrl": "https://catalog.archives.gov/id/472802255",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802283",
+        "title": "[Public Correspondence, Oct/Nov 1992] [14]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93017-002",
+        "containerId": "93017",
+        "catalogUrl": "https://catalog.archives.gov/id/472802283",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "472802272",
+        "title": "[Public Correspondence, Oct/Nov 1992] [3]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93015-003",
+        "containerId": "93015",
+        "catalogUrl": "https://catalog.archives.gov/id/472802272",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802276",
+        "title": "[Public Correspondence, Oct/Nov 1992] [7]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93016-001",
+        "containerId": "93016",
+        "catalogUrl": "https://catalog.archives.gov/id/472802276",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "472802231",
+        "title": "[Public Correspondence, Sept/Oct 1992] [1]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93007-001",
+        "containerId": "93007",
+        "catalogUrl": "https://catalog.archives.gov/id/472802231",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist",
+          "kidnapping",
+          "hijacking",
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802232",
+        "title": "[Public Correspondence, Sept/Oct 1992] [2]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93007-002",
+        "containerId": "93007",
+        "catalogUrl": "https://catalog.archives.gov/id/472802232",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "472802236",
+        "title": "[Public Correspondence, Sept/Oct 1992] [6]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93008-002",
+        "containerId": "93008",
+        "catalogUrl": "https://catalog.archives.gov/id/472802236",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie",
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802239",
+        "title": "[Public Correspondence, Sept/Oct 1992] [9]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93008-005",
+        "containerId": "93008",
+        "catalogUrl": "https://catalog.archives.gov/id/472802239",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "472802221",
+        "title": "[Public Correspondence] [7]",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93005-002",
+        "containerId": "93005",
+        "catalogUrl": "https://catalog.archives.gov/id/472802221",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "472802207",
+        "title": "H.R. 5679",
+        "seriesNaid": "2105090",
+        "seriesTitle": "James A. Baker III Files",
+        "localIdentifier": "93003-005",
+        "containerId": "93003",
+        "catalogUrl": "https://catalog.archives.gov/id/472802207",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "702684",
+        "title": "Bennett (Drug Control) (1990)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29186-005",
+        "containerId": "29186",
+        "catalogUrl": "https://catalog.archives.gov/id/702684",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "cocaine",
+          "bolivia",
+          "drug summit",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702683",
+        "title": "Bennett (Drug Policy - 1989)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29186-004",
+        "containerId": "29186",
+        "catalogUrl": "https://catalog.archives.gov/id/702683",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine",
+          "colombia",
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702693",
+        "title": "Cheney (Defense - 1989)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29187-003",
+        "containerId": "29187",
+        "catalogUrl": "https://catalog.archives.gov/id/702693",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drugs",
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "702694",
+        "title": "Cheney (Defense) (1990)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29187-004",
+        "containerId": "29187",
+        "catalogUrl": "https://catalog.archives.gov/id/702694",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702720",
+        "title": "Martinez (Drug Policy) [1991]",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29189-005",
+        "containerId": "29189",
+        "catalogUrl": "https://catalog.archives.gov/id/702720",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine",
+          "peru",
+          "drug summit",
+          "terrorism",
+          "hostages",
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "702723",
+        "title": "Reilly (EPA - 1989)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29189-008",
+        "containerId": "29189",
+        "catalogUrl": "https://catalog.archives.gov/id/702723",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia",
+          "san antonio",
+          "pan am"
+        ]
+      },
+      {
+        "naid": "702728",
+        "title": "Skinner (Eastern Airlines - 1989)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-001",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702728",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "702729",
+        "title": "Skinner (Transportation - 1989)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-002",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702729",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism",
+          "aviation security",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "702730",
+        "title": "Skinner (Transportation) (1990)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-003",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702730",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "702731",
+        "title": "Skinner (Transportation) 1991",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-004",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702731",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "702735",
+        "title": "Thornburgh (Justice - 1989)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-008",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702735",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702736",
+        "title": "Thornburgh (Justice) (1990)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-009",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702736",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics",
+          "terrorism",
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702737",
+        "title": "Thornburgh/Barr (Justice) [1991] [1]",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-010",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702737",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage",
+          "hostages",
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702738",
+        "title": "Thornburgh/Barr (Justice) [1991] [2]",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29190-011",
+        "containerId": "29190",
+        "catalogUrl": "https://catalog.archives.gov/id/702738",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702675",
+        "title": "Vice President (Kristol) (1990)",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29185-006",
+        "containerId": "29185",
+        "catalogUrl": "https://catalog.archives.gov/id/702675",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia"
+        ]
+      },
+      {
+        "naid": "702740",
+        "title": "Watkins (Energy) (1990) [1]",
+        "seriesNaid": "580521",
+        "seriesTitle": "John Sununu Cabinet Agencies Files",
+        "localIdentifier": "29191-002",
+        "containerId": "29191",
+        "catalogUrl": "https://catalog.archives.gov/id/702740",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "701918",
+        "title": "M.I. [More Important] (copies) 1/90 - 3/16/90 Incoming P - R [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29099-008",
+        "containerId": "29099",
+        "catalogUrl": "https://catalog.archives.gov/id/701918",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "701920",
+        "title": "M.I. [More Important] (copies) 1/90 - 3/16/90 Incoming S [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29100-002",
+        "containerId": "29100",
+        "catalogUrl": "https://catalog.archives.gov/id/701920",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia"
+        ]
+      },
+      {
+        "naid": "702153",
+        "title": "M.I. [More Important] (copies) 1/90 - 4/20/91Outgoing L",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29128-001",
+        "containerId": "29128",
+        "catalogUrl": "https://catalog.archives.gov/id/702153",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "702001",
+        "title": "M.I. [More Important] (copies) 12/90 - 2/91 Incoming B",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29111-002",
+        "containerId": "29111",
+        "catalogUrl": "https://catalog.archives.gov/id/702001",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "702025",
+        "title": "M.I. [More Important] (copies) 2/91 - 5/91 Incoming D",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29113-005",
+        "containerId": "29113",
+        "catalogUrl": "https://catalog.archives.gov/id/702025",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "702028",
+        "title": "M.I. [More Important] (copies) 2/91 - 5/91 Incoming G",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29113-008",
+        "containerId": "29113",
+        "catalogUrl": "https://catalog.archives.gov/id/702028",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "702033",
+        "title": "M.I. [More Important] (copies) 2/91 - 5/91 Incoming M [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29114-005",
+        "containerId": "29114",
+        "catalogUrl": "https://catalog.archives.gov/id/702033",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "702038",
+        "title": "M.I. [More Important] (copies) 2/91 - 5/91 Incoming R",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29115-001",
+        "containerId": "29115",
+        "catalogUrl": "https://catalog.archives.gov/id/702038",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "702039",
+        "title": "M.I. [More Important] (copies) 2/91 - 5/91 Incoming S [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29115-002",
+        "containerId": "29115",
+        "catalogUrl": "https://catalog.archives.gov/id/702039",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "702040",
+        "title": "M.I. [More Important] (copies) 2/91 - 5/91 Incoming S [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29115-003",
+        "containerId": "29115",
+        "catalogUrl": "https://catalog.archives.gov/id/702040",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "701934",
+        "title": "M.I. [More Important] (copies) 3/16/90 - 6/5/90 Incoming G",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29102-001",
+        "containerId": "29102",
+        "catalogUrl": "https://catalog.archives.gov/id/701934",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "701938",
+        "title": "M.I. [More Important] (copies) 3/16/90 - 6/5/90 Incoming K - L [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29102-005",
+        "containerId": "29102",
+        "catalogUrl": "https://catalog.archives.gov/id/701938",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping",
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "701943",
+        "title": "M.I. [More Important] (copies) 3/16/90 - 6/5/90 Incoming O - R [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29103-004",
+        "containerId": "29103",
+        "catalogUrl": "https://catalog.archives.gov/id/701943",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "701813",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming B [5]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29086-008",
+        "containerId": "29086",
+        "catalogUrl": "https://catalog.archives.gov/id/701813",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "701819",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming D [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29087-005",
+        "containerId": "29087",
+        "catalogUrl": "https://catalog.archives.gov/id/701819",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "701827",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming G [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29088-002",
+        "containerId": "29088",
+        "catalogUrl": "https://catalog.archives.gov/id/701827",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "701828",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming G [3]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29088-003",
+        "containerId": "29088",
+        "catalogUrl": "https://catalog.archives.gov/id/701828",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "701832",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming H [3]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29088-007",
+        "containerId": "29088",
+        "catalogUrl": "https://catalog.archives.gov/id/701832",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "701833",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming H [4]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29088-008",
+        "containerId": "29088",
+        "catalogUrl": "https://catalog.archives.gov/id/701833",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "701839",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming L [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29089-006",
+        "containerId": "29089",
+        "catalogUrl": "https://catalog.archives.gov/id/701839",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "701842",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming M [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29090-001",
+        "containerId": "29090",
+        "catalogUrl": "https://catalog.archives.gov/id/701842",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "701857",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming S [5]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29092-002",
+        "containerId": "29092",
+        "catalogUrl": "https://catalog.archives.gov/id/701857",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "701859",
+        "title": "M.I. [More Important] (copies) 3/22/89 - 9/1/89 Incoming U - V",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29092-004",
+        "containerId": "29092",
+        "catalogUrl": "https://catalog.archives.gov/id/701859",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "496598856",
+        "title": "M.I. [More Important] (copies) 3/22/89-9/1/89 Incoming B [3]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29086-006",
+        "containerId": "29086",
+        "catalogUrl": "https://catalog.archives.gov/id/496598856",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "496598857",
+        "title": "M.I. [More Important] (copies) 3/22/89-9/1/89 Incoming B [4]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29086-007",
+        "containerId": "29086",
+        "catalogUrl": "https://catalog.archives.gov/id/496598857",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "702049",
+        "title": "M.I. [More Important] (copies) 5/91 - 8/91 Incoming D",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29116-005",
+        "containerId": "29116",
+        "catalogUrl": "https://catalog.archives.gov/id/702049",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702054",
+        "title": "M.I. [More Important] (copies) 5/91 - 8/91 Incoming I - J",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29117-002",
+        "containerId": "29117",
+        "catalogUrl": "https://catalog.archives.gov/id/702054",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drugs"
+        ]
+      },
+      {
+        "naid": "701964",
+        "title": "M.I. [More Important] (copies) 6/90 - 8/90 Incoming P - Q",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29106-005",
+        "containerId": "29106",
+        "catalogUrl": "https://catalog.archives.gov/id/701964",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "701965",
+        "title": "M.I. [More Important] (copies) 6/90 - 8/90 Incoming R",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29106-006",
+        "containerId": "29106",
+        "catalogUrl": "https://catalog.archives.gov/id/701965",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "701967",
+        "title": "M.I. [More Important] (copies) 6/90 - 8/90 Incoming S [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29106-008",
+        "containerId": "29106",
+        "catalogUrl": "https://catalog.archives.gov/id/701967",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "701972",
+        "title": "M.I. [More Important] (copies) 8/90 - 11/90 Incoming A",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29107-005",
+        "containerId": "29107",
+        "catalogUrl": "https://catalog.archives.gov/id/701972",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug"
+        ]
+      },
+      {
+        "naid": "701985",
+        "title": "M.I. [More Important] (copies) 8/90 - 11/90 Incoming L",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29109-002",
+        "containerId": "29109",
+        "catalogUrl": "https://catalog.archives.gov/id/701985",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "701996",
+        "title": "M.I. [More Important] (copies) 8/90 - 12/90 Incoming T",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29110-005",
+        "containerId": "29110",
+        "catalogUrl": "https://catalog.archives.gov/id/701996",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "702081",
+        "title": "M.I. [More Important] (copies) 8/91 - 12/91 Incoming M [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29120-003",
+        "containerId": "29120",
+        "catalogUrl": "https://catalog.archives.gov/id/702081",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "701896",
+        "title": "M.I. [More Important] (copies) 9/89 - `12/89 Incoming Y - Z",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29097-003",
+        "containerId": "29097",
+        "catalogUrl": "https://catalog.archives.gov/id/701896",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "701863",
+        "title": "M.I. [More Important] (copies) 9/89 - 12/89 Incoming A",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29093-001",
+        "containerId": "29093",
+        "catalogUrl": "https://catalog.archives.gov/id/701863",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "701865",
+        "title": "M.I. [More Important] (copies) 9/89 - 12/89 Incoming B [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29093-003",
+        "containerId": "29093",
+        "catalogUrl": "https://catalog.archives.gov/id/701865",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics",
+          "colombia"
+        ]
+      },
+      {
+        "naid": "701868",
+        "title": "M.I. [More Important] (copies) 9/89 - 12/89 Incoming D [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29093-006",
+        "containerId": "29093",
+        "catalogUrl": "https://catalog.archives.gov/id/701868",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "701869",
+        "title": "M.I. [More Important] (copies) 9/89 - 12/89 Incoming D [2]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29094-001",
+        "containerId": "29094",
+        "catalogUrl": "https://catalog.archives.gov/id/701869",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702168",
+        "title": "Special Drafts (copies) 2/89 [3]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29129-005",
+        "containerId": "29129",
+        "catalogUrl": "https://catalog.archives.gov/id/702168",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "702174",
+        "title": "Special Drafts (copies) 5/89 [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29130-003",
+        "containerId": "29130",
+        "catalogUrl": "https://catalog.archives.gov/id/702174",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "702202",
+        "title": "Unanswered Mail 11/15/91 [1]",
+        "seriesNaid": "580461",
+        "seriesTitle": "John Sununu Correspondence Files",
+        "localIdentifier": "29134-001",
+        "containerId": "29134",
+        "catalogUrl": "https://catalog.archives.gov/id/702202",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "702757",
+        "title": "Chief of Staff Discussion Items 1/1/90 - 5/19/90 [1]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29193-005",
+        "containerId": "29193",
+        "catalogUrl": "https://catalog.archives.gov/id/702757",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702748",
+        "title": "Chief of Staff Discussion Items 1/8/89 - 4/22/89 [4]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29192-002",
+        "containerId": "29192",
+        "catalogUrl": "https://catalog.archives.gov/id/702748",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am",
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "702762",
+        "title": "Chief of Staff Discussion Items 5/20/90 - 9/1/90 [2]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29194-005",
+        "containerId": "29194",
+        "catalogUrl": "https://catalog.archives.gov/id/702762",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "702753",
+        "title": "Chief of Staff Discussion Items 8/20/89 - 12/31/89 [1]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29193-001",
+        "containerId": "29193",
+        "catalogUrl": "https://catalog.archives.gov/id/702753",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702754",
+        "title": "Chief of Staff Discussion Items 8/20/89 - 12/31/89 [2]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29193-002",
+        "containerId": "29193",
+        "catalogUrl": "https://catalog.archives.gov/id/702754",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "702764",
+        "title": "Chief of Staff Discussion Items 9/2/90 - 12/31/90 [1]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29195-001",
+        "containerId": "29195",
+        "catalogUrl": "https://catalog.archives.gov/id/702764",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "702768",
+        "title": "Daily Agenda 1/1/91 - 3/31/91 [2]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29195-005",
+        "containerId": "29195",
+        "catalogUrl": "https://catalog.archives.gov/id/702768",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "702779",
+        "title": "JHS [John H. Sununu] Daily Agenda [June 1991 - September 1991] [II]",
+        "seriesNaid": "580523",
+        "seriesTitle": "John Sununu Daily Agenda Files",
+        "localIdentifier": "29197-003",
+        "containerId": "29197",
+        "catalogUrl": "https://catalog.archives.gov/id/702779",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702215",
+        "title": "Armenian Joint Resolution (1990) [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29135-007",
+        "containerId": "29135",
+        "catalogUrl": "https://catalog.archives.gov/id/702215",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "702216",
+        "title": "Armenian Joint Resolution (1990) [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29135-008",
+        "containerId": "29135",
+        "catalogUrl": "https://catalog.archives.gov/id/702216",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "702223",
+        "title": "Budget [1990] (1 of 2) [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29136-006",
+        "containerId": "29136",
+        "catalogUrl": "https://catalog.archives.gov/id/702223",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "702226",
+        "title": "Budget [1990] (1 of 2) [4]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29136-009",
+        "containerId": "29136",
+        "catalogUrl": "https://catalog.archives.gov/id/702226",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drugs",
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "702236",
+        "title": "Budget [1990] (2 of 2) [6]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29138-001",
+        "containerId": "29138",
+        "catalogUrl": "https://catalog.archives.gov/id/702236",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "702239",
+        "title": "Budget Summit [1990] [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29138-004",
+        "containerId": "29138",
+        "catalogUrl": "https://catalog.archives.gov/id/702239",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702240",
+        "title": "Budget Summit [1990] [3]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29138-005",
+        "containerId": "29138",
+        "catalogUrl": "https://catalog.archives.gov/id/702240",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702241",
+        "title": "Budget Summit [1990] [4]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29138-006",
+        "containerId": "29138",
+        "catalogUrl": "https://catalog.archives.gov/id/702241",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702243",
+        "title": "Budget Summit [1990] [6]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29138-008",
+        "containerId": "29138",
+        "catalogUrl": "https://catalog.archives.gov/id/702243",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702274",
+        "title": "Canadian Softwood Lumber 1991",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29142-003",
+        "containerId": "29142",
+        "catalogUrl": "https://catalog.archives.gov/id/702274",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "702279",
+        "title": "Central American Trade (1990) [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29142-008",
+        "containerId": "29142",
+        "catalogUrl": "https://catalog.archives.gov/id/702279",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "peru",
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "702311",
+        "title": "Civil Rights (1 of 2) 1991 [6]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29146-004",
+        "containerId": "29146",
+        "catalogUrl": "https://catalog.archives.gov/id/702311",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702359",
+        "title": "Crime Legislation 1991",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29152-003",
+        "containerId": "29152",
+        "catalogUrl": "https://catalog.archives.gov/id/702359",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist",
+          "hostage",
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "702361",
+        "title": "Disabilities (1990)",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29152-005",
+        "containerId": "29152",
+        "catalogUrl": "https://catalog.archives.gov/id/702361",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "drugs"
+        ]
+      },
+      {
+        "naid": "702365",
+        "title": "Economic Summit (1990) [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29153-001",
+        "containerId": "29153",
+        "catalogUrl": "https://catalog.archives.gov/id/702365",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702366",
+        "title": "Economic Summit (1990) [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29153-002",
+        "containerId": "29153",
+        "catalogUrl": "https://catalog.archives.gov/id/702366",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702371",
+        "title": "Education Summit (1990) [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29153-007",
+        "containerId": "29153",
+        "catalogUrl": "https://catalog.archives.gov/id/702371",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702372",
+        "title": "Education Summit (1990) [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29153-008",
+        "containerId": "29153",
+        "catalogUrl": "https://catalog.archives.gov/id/702372",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702373",
+        "title": "Education Summit (1990) [3]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29154-001",
+        "containerId": "29154",
+        "catalogUrl": "https://catalog.archives.gov/id/702373",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702294",
+        "title": "H.R. 2712 / Chinese Students (1989) [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29144-005",
+        "containerId": "29144",
+        "catalogUrl": "https://catalog.archives.gov/id/702294",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702295",
+        "title": "H.R. 2712 / Chinese Students (1989) [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29144-006",
+        "containerId": "29144",
+        "catalogUrl": "https://catalog.archives.gov/id/702295",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702424",
+        "title": "Health Care 1991 [5]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29160-005",
+        "containerId": "29160",
+        "catalogUrl": "https://catalog.archives.gov/id/702424",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "702426",
+        "title": "Hispanic Community 1991",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29160-007",
+        "containerId": "29160",
+        "catalogUrl": "https://catalog.archives.gov/id/702426",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "702432",
+        "title": "Jewish Community 1991",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29161-005",
+        "containerId": "29161",
+        "catalogUrl": "https://catalog.archives.gov/id/702432",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "702434",
+        "title": "Judicial Selection 1991 [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29161-007",
+        "containerId": "29161",
+        "catalogUrl": "https://catalog.archives.gov/id/702434",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping",
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "702435",
+        "title": "Judicial Selection 1991 [3]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29161-008",
+        "containerId": "29161",
+        "catalogUrl": "https://catalog.archives.gov/id/702435",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702441",
+        "title": "Leveraging/Obey Amendment (1989)",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29162-005",
+        "containerId": "29162",
+        "catalogUrl": "https://catalog.archives.gov/id/702441",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "702442",
+        "title": "Middle East - Address to Congress (9/11/90) [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29162-006",
+        "containerId": "29162",
+        "catalogUrl": "https://catalog.archives.gov/id/702442",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702443",
+        "title": "Middle East - Address to Congress (9/11/90) [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29162-007",
+        "containerId": "29162",
+        "catalogUrl": "https://catalog.archives.gov/id/702443",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist",
+          "hostage",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702362",
+        "title": "National Drug Control Strategy (1990) [1989] [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29152-006",
+        "containerId": "29152",
+        "catalogUrl": "https://catalog.archives.gov/id/702362",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine",
+          "colombia",
+          "peru",
+          "bolivia",
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702363",
+        "title": "National Drug Control Strategy (1990) [1989] [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29152-007",
+        "containerId": "29152",
+        "catalogUrl": "https://catalog.archives.gov/id/702363",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine",
+          "colombia",
+          "peru",
+          "bolivia",
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702364",
+        "title": "National Drug Control Strategy (1990) [1989] [3]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29152-008",
+        "containerId": "29152",
+        "catalogUrl": "https://catalog.archives.gov/id/702364",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine",
+          "drug summit",
+          "hostage"
+        ]
+      },
+      {
+        "naid": "702376",
+        "title": "National Energy Strategy (1 of 2) 1991 [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29154-004",
+        "containerId": "29154",
+        "catalogUrl": "https://catalog.archives.gov/id/702376",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "702374",
+        "title": "Nicaragua Elections",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29154-002",
+        "containerId": "29154",
+        "catalogUrl": "https://catalog.archives.gov/id/702374",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "702471",
+        "title": "Pan Am 103 Commission (1989)",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29166-001",
+        "containerId": "29166",
+        "catalogUrl": "https://catalog.archives.gov/id/702471",
+        "online": true,
+        "selected": true,
+        "matchedTerms": [
+          "terrorism",
+          "terrorist",
+          "pan am",
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702482",
+        "title": "Persian Gulf War 1991 [10]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29167-003",
+        "containerId": "29167",
+        "catalogUrl": "https://catalog.archives.gov/id/702482",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "702474",
+        "title": "Persian Gulf War 1991 [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29166-004",
+        "containerId": "29166",
+        "catalogUrl": "https://catalog.archives.gov/id/702474",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702476",
+        "title": "Persian Gulf War 1991 [4]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29166-006",
+        "containerId": "29166",
+        "catalogUrl": "https://catalog.archives.gov/id/702476",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "702479",
+        "title": "Persian Gulf War 1991 [7]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29166-009",
+        "containerId": "29166",
+        "catalogUrl": "https://catalog.archives.gov/id/702479",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "702481",
+        "title": "Persian Gulf War 1991 [9]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29167-002",
+        "containerId": "29167",
+        "catalogUrl": "https://catalog.archives.gov/id/702481",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "702484",
+        "title": "Persian Gulf Working Group",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29167-005",
+        "containerId": "29167",
+        "catalogUrl": "https://catalog.archives.gov/id/702484",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702465",
+        "title": "Personnel (1 of 2) (1990) [10] : Statistics on Appointments",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29165-005",
+        "containerId": "29165",
+        "catalogUrl": "https://catalog.archives.gov/id/702465",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "702461",
+        "title": "Personnel (1 of 2) (1990) [6] : Ambassadorial Selections",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29165-001",
+        "containerId": "29165",
+        "catalogUrl": "https://catalog.archives.gov/id/702461",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "peru",
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "702462",
+        "title": "Personnel (1 of 2) (1990) [7] : Miscellaneous Resumes/Vacancies",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29165-002",
+        "containerId": "29165",
+        "catalogUrl": "https://catalog.archives.gov/id/702462",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "drugs"
+        ]
+      },
+      {
+        "naid": "702486",
+        "title": "Politics 1991 [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29167-007",
+        "containerId": "29167",
+        "catalogUrl": "https://catalog.archives.gov/id/702486",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702493",
+        "title": "Polling (1 of 3) 1991 [3]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29168-006",
+        "containerId": "29168",
+        "catalogUrl": "https://catalog.archives.gov/id/702493",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist",
+          "hostage",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702488",
+        "title": "Polling (1990) [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29168-001",
+        "containerId": "29168",
+        "catalogUrl": "https://catalog.archives.gov/id/702488",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702496",
+        "title": "Polling (2 of 3) 1991 [2]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29169-002",
+        "containerId": "29169",
+        "catalogUrl": "https://catalog.archives.gov/id/702496",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "702498",
+        "title": "Polling (3 of 3) 1991 [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29169-004",
+        "containerId": "29169",
+        "catalogUrl": "https://catalog.archives.gov/id/702498",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "702248",
+        "title": "Post Budget Summit [1990] [5]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29139-004",
+        "containerId": "29139",
+        "catalogUrl": "https://catalog.archives.gov/id/702248",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug summit"
+        ]
+      },
+      {
+        "naid": "702504",
+        "title": "Right to Life / Abortion 1991 [1]",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29170-001",
+        "containerId": "29170",
+        "catalogUrl": "https://catalog.archives.gov/id/702504",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage",
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "702514",
+        "title": "Senate - Miscellaneous 1991",
+        "seriesNaid": "580478",
+        "seriesTitle": "John Sununu Issues Files",
+        "localIdentifier": "29171-004",
+        "containerId": "29171",
+        "catalogUrl": "https://catalog.archives.gov/id/702514",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702571",
+        "title": "Chief of Staff - Itinerary [1/1/91-3/20/91]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29199-002",
+        "containerId": "29199",
+        "catalogUrl": "https://catalog.archives.gov/id/702571",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702570",
+        "title": "Chief of Staff - Itinerary [10/27/90-12/21/90]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29199-001",
+        "containerId": "29199",
+        "catalogUrl": "https://catalog.archives.gov/id/702570",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702565",
+        "title": "Chief of Staff - Itinerary [11/15/89-12/22/89]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29198-003",
+        "containerId": "29198",
+        "catalogUrl": "https://catalog.archives.gov/id/702565",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702563",
+        "title": "Chief of Staff - Itinerary [2/2/89-6/11/89]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29198-001",
+        "containerId": "29198",
+        "catalogUrl": "https://catalog.archives.gov/id/702563",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "702567",
+        "title": "Chief of Staff - Itinerary [3/15/90-5/31/90]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29198-005",
+        "containerId": "29198",
+        "catalogUrl": "https://catalog.archives.gov/id/702567",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702572",
+        "title": "Chief of Staff - Itinerary [3/21/91-5/8/91]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29199-003",
+        "containerId": "29199",
+        "catalogUrl": "https://catalog.archives.gov/id/702572",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "702573",
+        "title": "Chief of Staff - Itinerary [5/9/91-7/3/91]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29199-004",
+        "containerId": "29199",
+        "catalogUrl": "https://catalog.archives.gov/id/702573",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "702568",
+        "title": "Chief of Staff - Itinerary [6/1/90-8/25/90]",
+        "seriesNaid": "581229",
+        "seriesTitle": "John Sununu Itinerary Files",
+        "localIdentifier": "29198-006",
+        "containerId": "29198",
+        "catalogUrl": "https://catalog.archives.gov/id/702568",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security",
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702785",
+        "title": "Chief of Staff Has Seen File (Sununu) [1989] [1]",
+        "seriesNaid": "581839",
+        "seriesTitle": "John Sununu Subject Files",
+        "localIdentifier": "29200-001",
+        "containerId": "29200",
+        "catalogUrl": "https://catalog.archives.gov/id/702785",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702578",
+        "title": "Activities (Rogich) 1991",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29175-003",
+        "containerId": "29175",
+        "catalogUrl": "https://catalog.archives.gov/id/702578",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia"
+        ]
+      },
+      {
+        "naid": "702577",
+        "title": "Activities and Initiatives (Rogich) (1990)",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29175-002",
+        "containerId": "29175",
+        "catalogUrl": "https://catalog.archives.gov/id/702577",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "702587",
+        "title": "Cabinet Affairs (Bates/Holiday) (1990) [1]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29176-002",
+        "containerId": "29176",
+        "catalogUrl": "https://catalog.archives.gov/id/702587",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "702589",
+        "title": "Cabinet Affairs (Bates/Holiday) (1990) [3]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29176-004",
+        "containerId": "29176",
+        "catalogUrl": "https://catalog.archives.gov/id/702589",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics",
+          "drug",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "702591",
+        "title": "Cabinet Affairs (Holiday) 1991 [2]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29176-006",
+        "containerId": "29176",
+        "catalogUrl": "https://catalog.archives.gov/id/702591",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "702592",
+        "title": "Cabinet Affairs (Holiday) 1991 [3]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29176-007",
+        "containerId": "29176",
+        "catalogUrl": "https://catalog.archives.gov/id/702592",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "702586",
+        "title": "Cabinet Affairs (Transition)",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29176-001",
+        "containerId": "29176",
+        "catalogUrl": "https://catalog.archives.gov/id/702586",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "702596",
+        "title": "Communications (Demarest) (1990) [2]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29177-003",
+        "containerId": "29177",
+        "catalogUrl": "https://catalog.archives.gov/id/702596",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "702595",
+        "title": "Communications (Demarest) (1990) Editorial Responses [1]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29177-002",
+        "containerId": "29177",
+        "catalogUrl": "https://catalog.archives.gov/id/702595",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702606",
+        "title": "First Lady (Porter Rose) 1991",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29178-005",
+        "containerId": "29178",
+        "catalogUrl": "https://catalog.archives.gov/id/702606",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru",
+          "terrorism",
+          "hostage"
+        ]
+      },
+      {
+        "naid": "702609",
+        "title": "Legislative Affairs (1989)",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29178-008",
+        "containerId": "29178",
+        "catalogUrl": "https://catalog.archives.gov/id/702609",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "702610",
+        "title": "Legislative Affairs (McClure) (1990) [1]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29178-009",
+        "containerId": "29178",
+        "catalogUrl": "https://catalog.archives.gov/id/702610",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "702616",
+        "title": "Legislative Affairs (McClure) 1991 [2]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29179-006",
+        "containerId": "29179",
+        "catalogUrl": "https://catalog.archives.gov/id/702616",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "702619",
+        "title": "National Security Affairs (Transition)",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29179-009",
+        "containerId": "29179",
+        "catalogUrl": "https://catalog.archives.gov/id/702619",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking",
+          "libya"
+        ]
+      },
+      {
+        "naid": "702625",
+        "title": "Personnel (Untermeyer/Horner) 1991 [2]",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29180-006",
+        "containerId": "29180",
+        "catalogUrl": "https://catalog.archives.gov/id/702625",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "702651",
+        "title": "Public Affairs (D. Smith) 1991",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29182-011",
+        "containerId": "29182",
+        "catalogUrl": "https://catalog.archives.gov/id/702651",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism"
+        ]
+      },
+      {
+        "naid": "702670",
+        "title": "Staff Secretary (Cicconi) (1990)",
+        "seriesNaid": "580510",
+        "seriesTitle": "John Sununu White House Office Files",
+        "localIdentifier": "29185-001",
+        "containerId": "29185",
+        "catalogUrl": "https://catalog.archives.gov/id/702670",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802615",
+        "title": "Chief of Staff-Designate Transition Files 11/88-1/89: Bush Notes - December [1]",
+        "seriesNaid": "2105098",
+        "seriesTitle": "Katie Winklejohn Files",
+        "localIdentifier": "00834-002",
+        "containerId": "00834",
+        "catalogUrl": "https://catalog.archives.gov/id/472802615",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "472802616",
+        "title": "Chief of Staff-Designate Transition Files 11/88-1/89: Bush Notes - December [2]",
+        "seriesNaid": "2105098",
+        "seriesTitle": "Katie Winklejohn Files",
+        "localIdentifier": "00834-003",
+        "containerId": "00834",
+        "catalogUrl": "https://catalog.archives.gov/id/472802616",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am",
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "472802618",
+        "title": "Chief of Staff-Designate Transition Files 11/88-1/89: Bush Notes - November [2]",
+        "seriesNaid": "2105098",
+        "seriesTitle": "Katie Winklejohn Files",
+        "localIdentifier": "00834-005",
+        "containerId": "00834",
+        "catalogUrl": "https://catalog.archives.gov/id/472802618",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "472802637",
+        "title": "Chief of Staff-Designate Transition Files 11/88-1/89: Correspondence - Congressional",
+        "seriesNaid": "2105098",
+        "seriesTitle": "Katie Winklejohn Files",
+        "localIdentifier": "00834-025",
+        "containerId": "00834",
+        "catalogUrl": "https://catalog.archives.gov/id/472802637",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "cocaine",
+          "thornburgh"
+        ]
+      },
+      {
+        "naid": "472802623",
+        "title": "Chief of Staff-Designate Transition Files 11/88-1/89: Correspondence - December [1][1]",
+        "seriesNaid": "2105098",
+        "seriesTitle": "Katie Winklejohn Files",
+        "localIdentifier": "00834-011",
+        "containerId": "00834",
+        "catalogUrl": "https://catalog.archives.gov/id/472802623",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist",
+          "hostage",
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802632",
+        "title": "Chief of Staff-Designate Transition Files 11/88-1/89: Correspondence - January [1][1]",
+        "seriesNaid": "2105098",
+        "seriesTitle": "Katie Winklejohn Files",
+        "localIdentifier": "00834-020",
+        "containerId": "00834",
+        "catalogUrl": "https://catalog.archives.gov/id/472802632",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am"
+        ]
+      },
+      {
+        "naid": "472802633",
+        "title": "Chief of Staff-Designate Transition Files 11/88-1/89: Correspondence - January [1][2]",
+        "seriesNaid": "2105098",
+        "seriesTitle": "Katie Winklejohn Files",
+        "localIdentifier": "00834-021",
+        "containerId": "00834",
+        "catalogUrl": "https://catalog.archives.gov/id/472802633",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist"
+        ]
+      },
+      {
+        "naid": "563878164",
+        "title": "[Correspondence, 1990-1993] [1]",
+        "seriesNaid": "486553369",
+        "seriesTitle": "Phillip D. Brady Files",
+        "localIdentifier": "20390-008a",
+        "containerId": "20390",
+        "catalogUrl": "https://catalog.archives.gov/id/563878164",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "563878165",
+        "title": "[Correspondence, 1990-1993] [2]",
+        "seriesNaid": "486553369",
+        "seriesTitle": "Phillip D. Brady Files",
+        "localIdentifier": "20390-008b",
+        "containerId": "20390",
+        "catalogUrl": "https://catalog.archives.gov/id/563878165",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "563878160",
+        "title": "[Presidential Medal of Freedom & Citizens Medal Nominations & Correspondence] [1]",
+        "seriesNaid": "486553369",
+        "seriesTitle": "Phillip D. Brady Files",
+        "localIdentifier": "20390-007a",
+        "containerId": "20390",
+        "catalogUrl": "https://catalog.archives.gov/id/563878160",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostages"
+        ]
+      },
+      {
+        "naid": "563878162",
+        "title": "[Presidential Medal of Freedom & Citizens Medal Nominations & Correspondence] [3]",
+        "seriesNaid": "486553369",
+        "seriesTitle": "Phillip D. Brady Files",
+        "localIdentifier": "20390-007c",
+        "containerId": "20390",
+        "catalogUrl": "https://catalog.archives.gov/id/563878162",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "563878163",
+        "title": "[Presidential Medal of Freedom & Citizens Medal Nominations & Correspondence] [4]",
+        "seriesNaid": "486553369",
+        "seriesTitle": "Phillip D. Brady Files",
+        "localIdentifier": "20390-007d",
+        "containerId": "20390",
+        "catalogUrl": "https://catalog.archives.gov/id/563878163",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "563878168",
+        "title": "Bush Record Diskette [The Bush Administration Record on…] [1]",
+        "seriesNaid": "486553369",
+        "seriesTitle": "Phillip D. Brady Files",
+        "localIdentifier": "20390-011a",
+        "containerId": "20390",
+        "catalogUrl": "https://catalog.archives.gov/id/563878168",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorist",
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "563878169",
+        "title": "Bush Record Diskette [The Bush Administration Record on…] [2]",
+        "seriesNaid": "486553369",
+        "seriesTitle": "Phillip D. Brady Files",
+        "localIdentifier": "20390-011b",
+        "containerId": "20390",
+        "catalogUrl": "https://catalog.archives.gov/id/563878169",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics",
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "472802336",
+        "title": "Chron File 1/92 [1]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05483-001",
+        "containerId": "05483",
+        "catalogUrl": "https://catalog.archives.gov/id/472802336",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "terrorism",
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "472802337",
+        "title": "Chron File 1/92 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05483-002",
+        "containerId": "05483",
+        "catalogUrl": "https://catalog.archives.gov/id/472802337",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am",
+          "libya"
+        ]
+      },
+      {
+        "naid": "472802363",
+        "title": "Chron File 10/92 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "06712-011",
+        "containerId": "06712",
+        "catalogUrl": "https://catalog.archives.gov/id/472802363",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio",
+          "hostages"
+        ]
+      },
+      {
+        "naid": "472802328",
+        "title": "Chron File 11/91 [1]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05482-007",
+        "containerId": "05482",
+        "catalogUrl": "https://catalog.archives.gov/id/472802328",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "libya"
+        ]
+      },
+      {
+        "naid": "492080468",
+        "title": "Chron File 11/92 [3]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "06723-003",
+        "containerId": "06723",
+        "catalogUrl": "https://catalog.archives.gov/id/492080468",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking"
+        ]
+      },
+      {
+        "naid": "472802335",
+        "title": "Chron File 12/91 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05482-014",
+        "containerId": "05482",
+        "catalogUrl": "https://catalog.archives.gov/id/472802335",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping"
+        ]
+      },
+      {
+        "naid": "563878100",
+        "title": "Chron File 12/92 [1]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "06723-004",
+        "containerId": "06723",
+        "catalogUrl": "https://catalog.archives.gov/id/563878100",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "472802305",
+        "title": "Chron File 2/91 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05480-005",
+        "containerId": "05480",
+        "catalogUrl": "https://catalog.archives.gov/id/472802305",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am",
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "472802308",
+        "title": "Chron File 3/91 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05480-008",
+        "containerId": "05480",
+        "catalogUrl": "https://catalog.archives.gov/id/472802308",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "472802314",
+        "title": "Chron File 5/91 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05481-002",
+        "containerId": "05481",
+        "catalogUrl": "https://catalog.archives.gov/id/472802314",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drugs"
+        ]
+      },
+      {
+        "naid": "472802317",
+        "title": "Chron File 6/91 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05481-005",
+        "containerId": "05481",
+        "catalogUrl": "https://catalog.archives.gov/id/472802317",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "peru",
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "472802318",
+        "title": "Chron File 6/91 [3]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05481-006",
+        "containerId": "05481",
+        "catalogUrl": "https://catalog.archives.gov/id/472802318",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "472802351",
+        "title": "Chron File 6/92 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05484-008",
+        "containerId": "05484",
+        "catalogUrl": "https://catalog.archives.gov/id/472802351",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "narcotics"
+        ]
+      },
+      {
+        "naid": "472802322",
+        "title": "Chron File 8/91 [1]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05482-001",
+        "containerId": "05482",
+        "catalogUrl": "https://catalog.archives.gov/id/472802322",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "472802325",
+        "title": "Chron File 9/91 [2]",
+        "seriesNaid": "472248475",
+        "seriesTitle": "Phillip D. Brady's Chronological Files",
+        "localIdentifier": "05482-004",
+        "containerId": "05482",
+        "catalogUrl": "https://catalog.archives.gov/id/472802325",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "peru"
+        ]
+      },
+      {
+        "naid": "472802641",
+        "title": "BA [British Airways]/USAir RBZoellick",
+        "seriesNaid": "2105091",
+        "seriesTitle": "Robert B. Zoellick Files",
+        "localIdentifier": "45577-004",
+        "containerId": "45577",
+        "catalogUrl": "https://catalog.archives.gov/id/472802641",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security"
+        ]
+      },
+      {
+        "naid": "563878178",
+        "title": "[Chron File: August to December 1992] [5]",
+        "seriesNaid": "519802569",
+        "seriesTitle": "Robert B. Zoellick's Chronological Files",
+        "localIdentifier": "93002-006",
+        "containerId": "93002",
+        "catalogUrl": "https://catalog.archives.gov/id/563878178",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping",
+          "lockerbie",
+          "hijacking",
+          "extradition"
+        ]
+      },
+      {
+        "naid": "472802505",
+        "title": "[Binder]: 1993 Economic and Policy Issues by Clayton Yeutter [3]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "29420-006",
+        "containerId": "29420",
+        "catalogUrl": "https://catalog.archives.gov/id/472802505",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "472802500",
+        "title": "[Binder]: The Bush Administration Record: President's Copy [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "29420-001",
+        "containerId": "29420",
+        "catalogUrl": "https://catalog.archives.gov/id/472802500",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug",
+          "drugs",
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "472802502",
+        "title": "[Binder]: The Bush Administration Record: President's Copy [3]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "29420-003",
+        "containerId": "29420",
+        "catalogUrl": "https://catalog.archives.gov/id/472802502",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "bolivia",
+          "terrorist",
+          "hostages",
+          "lockerbie"
+        ]
+      },
+      {
+        "naid": "472802556",
+        "title": "[Invitations] [10]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40923-003",
+        "containerId": "40923",
+        "catalogUrl": "https://catalog.archives.gov/id/472802556",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "colombia",
+          "peru",
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "472802558",
+        "title": "[Invitations] [12]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40923-005",
+        "containerId": "40923",
+        "catalogUrl": "https://catalog.archives.gov/id/472802558",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "san antonio"
+        ]
+      },
+      {
+        "naid": "472802551",
+        "title": "[Invitations] [5]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40922-009",
+        "containerId": "40922",
+        "catalogUrl": "https://catalog.archives.gov/id/472802551",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "drug"
+        ]
+      },
+      {
+        "naid": "563877974",
+        "title": "[Loose]: Congratulatory Letters [12/91-1/92] [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "04761-001",
+        "containerId": "04761",
+        "catalogUrl": "https://catalog.archives.gov/id/563877974",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563877977",
+        "title": "[Loose]: Congratulatory Letters [12/91-1/92] [4]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "04761-004",
+        "containerId": "04761",
+        "catalogUrl": "https://catalog.archives.gov/id/563877977",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563877978",
+        "title": "[Loose]: Congratulatory Letters [12/91-1/92] [5]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "04761-005",
+        "containerId": "04761",
+        "catalogUrl": "https://catalog.archives.gov/id/563877978",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "472802580",
+        "title": "[Memos and Correspondence] 3/92 [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40924-013",
+        "containerId": "40924",
+        "catalogUrl": "https://catalog.archives.gov/id/472802580",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "472802535",
+        "title": "Discussion Items for Chief of Staff [3]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40921-006",
+        "containerId": "40921",
+        "catalogUrl": "https://catalog.archives.gov/id/472802535",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "cocaine"
+        ]
+      },
+      {
+        "naid": "472802608",
+        "title": "Invitations 4/92 [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40927-005",
+        "containerId": "40927",
+        "catalogUrl": "https://catalog.archives.gov/id/472802608",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "472802530",
+        "title": "Memos - 6/92",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40921-001",
+        "containerId": "40921",
+        "catalogUrl": "https://catalog.archives.gov/id/472802530",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "472802518",
+        "title": "Memos [12]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40920-001",
+        "containerId": "40920",
+        "catalogUrl": "https://catalog.archives.gov/id/472802518",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "bolivia"
+        ]
+      },
+      {
+        "naid": "472802515",
+        "title": "Memos [9]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40919-010",
+        "containerId": "40919",
+        "catalogUrl": "https://catalog.archives.gov/id/472802515",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "extradition"
+        ]
+      },
+      {
+        "naid": "472802540",
+        "title": "Memos and Correspondence [3]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "40921-011",
+        "containerId": "40921",
+        "catalogUrl": "https://catalog.archives.gov/id/472802540",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hostage"
+        ]
+      },
+      {
+        "naid": "563878085",
+        "title": "Sam Skinner: 1989 Alpha File A-B [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-001",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878085",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878086",
+        "title": "Sam Skinner: 1989 Alpha File A-B [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-002",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878086",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "pan am",
+          "aviation security",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878087",
+        "title": "Sam Skinner: 1989 Alpha File A-B [3]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-003",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878087",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878088",
+        "title": "Sam Skinner: 1989 Alpha File C-F [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-004",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878088",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878089",
+        "title": "Sam Skinner: 1989 Alpha File C-F [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-005",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878089",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878090",
+        "title": "Sam Skinner: 1989 Alpha File G-J [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-006",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878090",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "kidnapping",
+          "hijacking",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878091",
+        "title": "Sam Skinner: 1989 Alpha File G-J [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-007",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878091",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878092",
+        "title": "Sam Skinner: 1989 Alpha File K-M [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-008",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878092",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878093",
+        "title": "Sam Skinner: 1989 Alpha File K-M [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-009",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878093",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "lockerbie",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878094",
+        "title": "Sam Skinner: 1989 Alpha File K-M [3]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-010",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878094",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "hijacking",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878095",
+        "title": "Sam Skinner: 1989 Alpha File N-R [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-011",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878095",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878096",
+        "title": "Sam Skinner: 1989 Alpha File N-R [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-012",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878096",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "aviation security",
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878097",
+        "title": "Sam Skinner: 1989 Alpha File S-Z [1]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-013",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878097",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "skinner"
+        ]
+      },
+      {
+        "naid": "563878098",
+        "title": "Sam Skinner: 1989 Alpha File S-Z [2]",
+        "seriesNaid": "2105093",
+        "seriesTitle": "Samuel K. Skinner Files",
+        "localIdentifier": "06121-014",
+        "containerId": "06121",
+        "catalogUrl": "https://catalog.archives.gov/id/563878098",
+        "online": true,
+        "selected": false,
+        "matchedTerms": [
+          "thornburgh",
+          "skinner"
+        ]
+      }
+    ]
+  },
+  "selectedRecords": 13,
+  "reviewedTargetRecords": 13,
+  "measuredRecords": 13,
+  "estimatedRecords": 0,
+  "chapterCounts": {
+    "Counternarcotics": 11,
+    "Counterterrorism": 2
+  },
+  "excludedAfterPageReview": [],
+  "records": [
+    {
+      "id": "chief-of-staff-702364",
+      "naid": "702364",
+      "title": "National Drug Control Strategy (1990) [1989] [3]",
+      "documentTitle": "National Drug Control Strategy (1990) [1989] [3]",
+      "documentType": "Chief of Staff policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-09-01",
+      "sortDate": "1989-09-01",
+      "dateLine": "1989-09-01",
+      "subjectLine": "John Sununu Issues Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/702364",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-008.pdf",
+      "objectFilename": "41-bpr-whcos-sununu-iss-29152-008.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 96,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "29152-008",
+      "containerId": "29152",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "580478",
+        "title": "John Sununu Issues Files",
+        "shortName": "COS: John Sununu Issues Files",
+        "url": "https://catalog.archives.gov/id/580478"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), John Sununu Issues Files, 29152-008, NAID 702364. Catalog URL: https://catalog.archives.gov/id/702364. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29152-008.pdf, object ID 619451140, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-008.pdf. Approximate pages: 96 (measured from available PDF). FOIA tracking: 1998-0004-F, 2010-1073-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 29152. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-702363",
+      "naid": "702363",
+      "title": "National Drug Control Strategy (1990) [1989] [2]",
+      "documentTitle": "National Drug Control Strategy (1990) [1989] [2]",
+      "documentType": "Chief of Staff policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-09-01",
+      "sortDate": "1989-09-01",
+      "dateLine": "1989-09-01",
+      "subjectLine": "John Sununu Issues Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/702363",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-007.pdf",
+      "objectFilename": "41-bpr-whcos-sununu-iss-29152-007.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 122,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "29152-007",
+      "containerId": "29152",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "580478",
+        "title": "John Sununu Issues Files",
+        "shortName": "COS: John Sununu Issues Files",
+        "url": "https://catalog.archives.gov/id/580478"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), John Sununu Issues Files, 29152-007, NAID 702363. Catalog URL: https://catalog.archives.gov/id/702363. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29152-007.pdf, object ID 619451139, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-007.pdf. Approximate pages: 122 (measured from available PDF). FOIA tracking: 2010-1073-F, 1998-0004-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 29152. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-702362",
+      "naid": "702362",
+      "title": "National Drug Control Strategy (1990) [1989] [1]",
+      "documentTitle": "National Drug Control Strategy (1990) [1989] [1]",
+      "documentType": "Chief of Staff policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-09-01",
+      "sortDate": "1989-09-01",
+      "dateLine": "1989-09-01",
+      "subjectLine": "John Sununu Issues Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/702362",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-006.pdf",
+      "objectFilename": "41-bpr-whcos-sununu-iss-29152-006.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 105,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "29152-006",
+      "containerId": "29152",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "580478",
+        "title": "John Sununu Issues Files",
+        "shortName": "COS: John Sununu Issues Files",
+        "url": "https://catalog.archives.gov/id/580478"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), John Sununu Issues Files, 29152-006, NAID 702362. Catalog URL: https://catalog.archives.gov/id/702362. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29152-006.pdf, object ID 619451138, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-006.pdf. Approximate pages: 105 (measured from available PDF). FOIA tracking: 1998-0004-F, 2010-1073-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 29152. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-702684",
+      "naid": "702684",
+      "title": "Bennett (Drug Control) (1990)",
+      "documentTitle": "Bennett (Drug Control) (1990)",
+      "documentType": "Chief of Staff Cabinet file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-01-01",
+      "sortDate": "1990-01-01",
+      "dateLine": "1990-01-01",
+      "subjectLine": "John Sununu Cabinet Agencies Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/702684",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29186-005.pdf",
+      "objectFilename": "41-bpr-whcos-sununu-ca-29186-005.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 207,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "29186-005",
+      "containerId": "29186",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "580521",
+        "title": "John Sununu Cabinet Agencies Files",
+        "shortName": "COS: John Sununu Cabinet Agencies Files",
+        "url": "https://catalog.archives.gov/id/580521"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), John Sununu Cabinet Agencies Files, 29186-005, NAID 702684. Catalog URL: https://catalog.archives.gov/id/702684. Series URL: https://catalog.archives.gov/id/580521. Digital object: 41-bpr-whcos-sununu-ca-29186-005.pdf, object ID 619451432, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29186-005.pdf. Approximate pages: 207 (measured from available PDF). FOIA tracking: 1998-0004-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 29186. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-563877964",
+      "naid": "563877964",
+      "title": "Drug Information [1]",
+      "documentTitle": "Drug Information [1]",
+      "documentType": "Chief of Staff subject file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-01-20",
+      "sortDate": "1989-01-20",
+      "dateLine": "1989-01-20",
+      "subjectLine": "Ed Rogers' Subject Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/563877964",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/rogers_subject_472448952/bpr-cos-rogers_subj-04016-020a.pdf",
+      "objectFilename": "bpr-cos-rogers_subj-04016-020a.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 147,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "04016-020a",
+      "containerId": "04016",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "472448952",
+        "title": "Ed Rogers' Subject Files",
+        "shortName": "COS: Ed Rogers' Subject Files",
+        "url": "https://catalog.archives.gov/id/472448952"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), Ed Rogers' Subject Files, 04016-020a, NAID 563877964. Catalog URL: https://catalog.archives.gov/id/563877964. Series URL: https://catalog.archives.gov/id/472448952. Digital object: bpr-cos-rogers_subj-04016-020a.pdf, object ID 612851761, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/rogers_subject_472448952/bpr-cos-rogers_subj-04016-020a.pdf. Approximate pages: 147 (measured from available PDF). Other finding aid identifier: 2025-0647-S, Pres-Bush. Extent: One Legal File Folder. Container: 04016. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-563877965",
+      "naid": "563877965",
+      "title": "Drug Information [2]",
+      "documentTitle": "Drug Information [2]",
+      "documentType": "Chief of Staff subject file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-01-20",
+      "sortDate": "1989-01-20",
+      "dateLine": "1989-01-20",
+      "subjectLine": "Ed Rogers' Subject Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/563877965",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/rogers_subject_472448952/bpr-cos-rogers_subj-04016-020b.pdf",
+      "objectFilename": "bpr-cos-rogers_subj-04016-020b.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 106,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "04016-020b",
+      "containerId": "04016",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "472448952",
+        "title": "Ed Rogers' Subject Files",
+        "shortName": "COS: Ed Rogers' Subject Files",
+        "url": "https://catalog.archives.gov/id/472448952"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), Ed Rogers' Subject Files, 04016-020b, NAID 563877965. Catalog URL: https://catalog.archives.gov/id/563877965. Series URL: https://catalog.archives.gov/id/472448952. Digital object: bpr-cos-rogers_subj-04016-020b.pdf, object ID 612851762, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/rogers_subject_472448952/bpr-cos-rogers_subj-04016-020b.pdf. Approximate pages: 106 (measured from available PDF). Other finding aid identifier: Pres-Bush, 2025-0647-S. Extent: One Legal File Folder. Container: 04016. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-702683",
+      "naid": "702683",
+      "title": "Bennett (Drug Policy - 1989)",
+      "documentTitle": "Bennett (Drug Policy - 1989)",
+      "documentType": "Chief of Staff Cabinet file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-01-20",
+      "sortDate": "1989-01-20",
+      "dateLine": "1989-01-20",
+      "subjectLine": "John Sununu Cabinet Agencies Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/702683",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29186-004.pdf",
+      "objectFilename": "41-bpr-whcos-sununu-ca-29186-004.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 121,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "29186-004",
+      "containerId": "29186",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "580521",
+        "title": "John Sununu Cabinet Agencies Files",
+        "shortName": "COS: John Sununu Cabinet Agencies Files",
+        "url": "https://catalog.archives.gov/id/580521"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), John Sununu Cabinet Agencies Files, 29186-004, NAID 702683. Catalog URL: https://catalog.archives.gov/id/702683. Series URL: https://catalog.archives.gov/id/580521. Digital object: 41-bpr-whcos-sununu-ca-29186-004.pdf, object ID 619451431, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29186-004.pdf. Approximate pages: 121 (measured from available PDF). FOIA tracking: 1998-0004-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 29186. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-472802381",
+      "naid": "472802381",
+      "title": "Drugs Issue - Drug Czar [3]",
+      "documentTitle": "Drugs Issue - Drug Czar [3]",
+      "documentType": "Chief of Staff policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-01-20",
+      "sortDate": "1989-01-20",
+      "dateLine": "1989-01-20",
+      "subjectLine": "Andrew Card Subject Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/472802381",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-014.pdf",
+      "objectFilename": "bpr-cos-card-08373-014.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 81,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "08373-014",
+      "containerId": "08373",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "2103240",
+        "title": "Andrew Card Subject Files",
+        "shortName": "COS: Andrew Card Subject Files",
+        "url": "https://catalog.archives.gov/id/2103240"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), Andrew Card Subject Files, 08373-014, NAID 472802381. Catalog URL: https://catalog.archives.gov/id/472802381. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-08373-014.pdf, object ID 612851467, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-014.pdf. Approximate pages: 81 (measured from available PDF). FOIA tracking: 2023-1229-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 08373. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-702720",
+      "naid": "702720",
+      "title": "Martinez (Drug Policy) [1991]",
+      "documentTitle": "Martinez (Drug Policy) [1991]",
+      "documentType": "Chief of Staff Cabinet file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1991-01-01",
+      "sortDate": "1991-01-01",
+      "dateLine": "1991-01-01",
+      "subjectLine": "John Sununu Cabinet Agencies Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/702720",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29189-005.pdf",
+      "objectFilename": "41-bpr-whcos-sununu-ca-29189-005.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 73,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "29189-005",
+      "containerId": "29189",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "580521",
+        "title": "John Sununu Cabinet Agencies Files",
+        "shortName": "COS: John Sununu Cabinet Agencies Files",
+        "url": "https://catalog.archives.gov/id/580521"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), John Sununu Cabinet Agencies Files, 29189-005, NAID 702720. Catalog URL: https://catalog.archives.gov/id/702720. Series URL: https://catalog.archives.gov/id/580521. Digital object: 41-bpr-whcos-sununu-ca-29189-005.pdf, object ID 619451468, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29189-005.pdf. Approximate pages: 73 (measured from available PDF). FOIA tracking: 1998-0004-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 29189. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-472802379",
+      "naid": "472802379",
+      "title": "Drugs Issue - Drug Czar [1]",
+      "documentTitle": "Drugs Issue - Drug Czar [1]",
+      "documentType": "Chief of Staff policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-01-20",
+      "sortDate": "1989-01-20",
+      "dateLine": "1989-01-20",
+      "subjectLine": "Andrew Card Subject Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/472802379",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-012.pdf",
+      "objectFilename": "bpr-cos-card-08373-012.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 87,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "08373-012",
+      "containerId": "08373",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "2103240",
+        "title": "Andrew Card Subject Files",
+        "shortName": "COS: Andrew Card Subject Files",
+        "url": "https://catalog.archives.gov/id/2103240"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), Andrew Card Subject Files, 08373-012, NAID 472802379. Catalog URL: https://catalog.archives.gov/id/472802379. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-08373-012.pdf, object ID 612851465, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-012.pdf. Approximate pages: 87 (measured from available PDF). FOIA tracking: 2023-1229-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 08373. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-472802380",
+      "naid": "472802380",
+      "title": "Drugs Issue - Drug Czar [2]",
+      "documentTitle": "Drugs Issue - Drug Czar [2]",
+      "documentType": "Chief of Staff policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-01-20",
+      "sortDate": "1989-01-20",
+      "dateLine": "1989-01-20",
+      "subjectLine": "Andrew Card Subject Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug policy",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/472802380",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-013.pdf",
+      "objectFilename": "bpr-cos-card-08373-013.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 117,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "08373-013",
+      "containerId": "08373",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "2103240",
+        "title": "Andrew Card Subject Files",
+        "shortName": "COS: Andrew Card Subject Files",
+        "url": "https://catalog.archives.gov/id/2103240"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), Andrew Card Subject Files, 08373-013, NAID 472802380. Catalog URL: https://catalog.archives.gov/id/472802380. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-08373-013.pdf, object ID 612851466, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-013.pdf. Approximate pages: 117 (measured from available PDF). FOIA tracking: 2023-1229-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 08373. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "National Drug Control Strategy",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Drugs Issue",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Policy",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Bennett Drug Control",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Martinez Drug Policy",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information",
+        "Drug Information"
+      ]
+    },
+    {
+      "id": "chief-of-staff-472802366",
+      "naid": "472802366",
+      "title": "Pan Am 103 Commission",
+      "documentTitle": "Pan Am 103 Commission",
+      "documentType": "Chief of Staff Pan Am 103 file",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1989-09-01",
+      "sortDate": "1989-09-01",
+      "dateLine": "1989-09-01",
+      "subjectLine": "Andrew Card Subject Files",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am",
+          "lockerbie",
+          "aviation security"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/472802366",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-02718-015.pdf",
+      "objectFilename": "bpr-cos-card-02718-015.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 40,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "02718-015",
+      "containerId": "02718",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "2103240",
+        "title": "Andrew Card Subject Files",
+        "shortName": "COS: Andrew Card Subject Files",
+        "url": "https://catalog.archives.gov/id/2103240"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), Andrew Card Subject Files, 02718-015, NAID 472802366. Catalog URL: https://catalog.archives.gov/id/472802366. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-02718-015.pdf, object ID 612851289, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-02718-015.pdf. Approximate pages: 40 (measured from available PDF). FOIA tracking: 1998-0034-F. Extent: One legal file folder. Container: 02718. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "Pan Am 103 Commission"
+      ]
+    },
+    {
+      "id": "chief-of-staff-702471",
+      "naid": "702471",
+      "title": "Pan Am 103 Commission (1989)",
+      "documentTitle": "Pan Am 103 Commission (1989)",
+      "documentType": "Chief of Staff Pan Am 103 file",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1989-09-01",
+      "sortDate": "1989-09-01",
+      "dateLine": "1989-09-01",
+      "subjectLine": "John Sununu Issues Files",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am",
+          "lockerbie",
+          "aviation security"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/702471",
+      "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29166-001.pdf",
+      "objectFilename": "41-bpr-whcos-sununu-iss-29166-001.pdf",
+      "objectFileSize": 1234,
+      "pageCount": 60,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "29166-001",
+      "containerId": "29166",
+      "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "chief-of-staff-listed-pdf",
+      "source": {
+        "naid": "580478",
+        "title": "John Sununu Issues Files",
+        "shortName": "COS: John Sununu Issues Files",
+        "url": "https://catalog.archives.gov/id/580478"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the White House Office of the Chief of Staff to the President (George H. W. Bush Administration), John Sununu Issues Files, 29166-001, NAID 702471. Catalog URL: https://catalog.archives.gov/id/702471. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29166-001.pdf, object ID 619451247, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29166-001.pdf. Approximate pages: 60 (measured from available PDF). FOIA tracking: 1998-0004-F, 1998-0034-F. Other finding aid identifier: Pres-Bush. Extent: One legal file folder. Container: 29166. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "Pan Am 103 Commission"
+      ]
+    }
+  ]
+}

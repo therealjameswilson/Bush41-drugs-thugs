@@ -1,0 +1,2686 @@
+{
+  "generatedAt": "2026-05-19T10:19:26.654Z",
+  "sourceSeries": [
+    {
+      "naid": "312293887",
+      "shortName": "NSC Meeting Files",
+      "title": "H-Files - National Security Council (NSC) Meeting Files",
+      "documentType": "NSC meeting minutes",
+      "estimatedPages": 14,
+      "catalogUrl": "https://catalog.archives.gov/id/312293887"
+    },
+    {
+      "naid": "312294079",
+      "shortName": "NSC/DC Meetings",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+      "documentType": "Deputies Committee meeting minutes",
+      "estimatedPages": 12,
+      "catalogUrl": "https://catalog.archives.gov/id/312294079"
+    },
+    {
+      "naid": "312294094",
+      "shortName": "NSC/DC Follow-Up",
+      "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files",
+      "documentType": "Deputies Committee follow-up file",
+      "estimatedPages": 8,
+      "catalogUrl": "https://catalog.archives.gov/id/312294094"
+    }
+  ],
+  "searchTerms": [
+    "counternarcotics",
+    "counter narcotics",
+    "counter-narcotics",
+    "narcotics",
+    "drug",
+    "drugs",
+    "cocaine",
+    "shipboarding",
+    "standoff",
+    "caribbean",
+    "andean",
+    "colombia",
+    "peru",
+    "bolivia",
+    "counterterrorism",
+    "counter terrorism",
+    "counter-terrorism",
+    "terrorism",
+    "terrorist",
+    "hostage",
+    "hostages",
+    "aviation security",
+    "pan am",
+    "lockerbie",
+    "libya",
+    "higgins",
+    "hijacking",
+    "bombing"
+  ],
+  "searchLog": [
+    {
+      "series": "NSC Meeting Files",
+      "term": "counternarcotics",
+      "total": 3,
+      "returned": 3
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "counter narcotics",
+      "total": 6,
+      "returned": 6
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "counter-narcotics",
+      "total": 6,
+      "returned": 6
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "narcotics",
+      "total": 10,
+      "returned": 10
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "drug",
+      "total": 11,
+      "returned": 11
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "drugs",
+      "total": 5,
+      "returned": 5
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "cocaine",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "shipboarding",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "standoff",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "caribbean",
+      "total": 4,
+      "returned": 4
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "andean",
+      "total": 2,
+      "returned": 2
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "colombia",
+      "total": 2,
+      "returned": 2
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "peru",
+      "total": 4,
+      "returned": 4
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "bolivia",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "counterterrorism",
+      "total": 2,
+      "returned": 2
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "counter terrorism",
+      "total": 3,
+      "returned": 3
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "counter-terrorism",
+      "total": 3,
+      "returned": 3
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "terrorism",
+      "total": 10,
+      "returned": 10
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "terrorist",
+      "total": 8,
+      "returned": 8
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "hostage",
+      "total": 4,
+      "returned": 4
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "hostages",
+      "total": 6,
+      "returned": 6
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "aviation security",
+      "total": 5,
+      "returned": 5
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "pan am",
+      "total": 9,
+      "returned": 9
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "lockerbie",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "libya",
+      "total": 6,
+      "returned": 6
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "higgins",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "hijacking",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC Meeting Files",
+      "term": "bombing",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "counternarcotics",
+      "total": 33,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "counter narcotics",
+      "total": 16,
+      "returned": 16
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "counter-narcotics",
+      "total": 16,
+      "returned": 16
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "narcotics",
+      "total": 34,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "drug",
+      "total": 44,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "drugs",
+      "total": 30,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "cocaine",
+      "total": 16,
+      "returned": 16
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "shipboarding",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "standoff",
+      "total": 11,
+      "returned": 11
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "caribbean",
+      "total": 13,
+      "returned": 13
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "andean",
+      "total": 17,
+      "returned": 17
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "colombia",
+      "total": 29,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "peru",
+      "total": 24,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "bolivia",
+      "total": 17,
+      "returned": 17
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "counterterrorism",
+      "total": 20,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "counter terrorism",
+      "total": 21,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "counter-terrorism",
+      "total": 21,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "terrorism",
+      "total": 49,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "terrorist",
+      "total": 27,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "hostage",
+      "total": 20,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "hostages",
+      "total": 25,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "aviation security",
+      "total": 17,
+      "returned": 17
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "pan am",
+      "total": 27,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "lockerbie",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "libya",
+      "total": 40,
+      "returned": 20
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "higgins",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "hijacking",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Meetings",
+      "term": "bombing",
+      "total": 6,
+      "returned": 6
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "counternarcotics",
+      "total": 7,
+      "returned": 7
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "counter narcotics",
+      "total": 3,
+      "returned": 3
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "counter-narcotics",
+      "total": 3,
+      "returned": 3
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "narcotics",
+      "total": 4,
+      "returned": 4
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "drug",
+      "total": 7,
+      "returned": 7
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "drugs",
+      "total": 3,
+      "returned": 3
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "cocaine",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "shipboarding",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "standoff",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "caribbean",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "andean",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "colombia",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "peru",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "bolivia",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "counterterrorism",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "counter terrorism",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "counter-terrorism",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "terrorism",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "terrorist",
+      "total": 1,
+      "returned": 1
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "hostage",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "hostages",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "aviation security",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "pan am",
+      "total": 4,
+      "returned": 4
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "lockerbie",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "libya",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "higgins",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "hijacking",
+      "total": 0,
+      "returned": 0
+    },
+    {
+      "series": "NSC/DC Follow-Up",
+      "term": "bombing",
+      "total": 0,
+      "returned": 0
+    }
+  ],
+  "selectedRecords": 45,
+  "reviewedRecords": 49,
+  "measuredRecords": 45,
+  "estimatedRecords": 0,
+  "listedNoOnlinePdfRecords": 0,
+  "chapterCounts": {
+    "Counternarcotics": 26,
+    "Counterterrorism": 19
+  },
+  "excludedAfterPageReview": [
+    {
+      "naid": "470761259",
+      "title": "NSC/DC 251 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "date": "1991-01-25",
+      "pageCount": 1,
+      "pageCountBasis": "measured from available PDF",
+      "reason": "Excluded from primary chronology because the available file is a one- or two-page locator/placeholder rather than substantive minutes."
+    },
+    {
+      "naid": "470761089",
+      "title": "NSC/DC 105 - February 13, 1990 - NSC/DC Meeting on Nicaragua / Hostages, Keywords: Nicaragua, Hostages (File located @ NLMS)",
+      "date": "1990-02-13",
+      "pageCount": 1,
+      "pageCountBasis": "measured from available PDF",
+      "reason": "Excluded from primary chronology because the available file is a one- or two-page locator/placeholder rather than substantive minutes."
+    },
+    {
+      "naid": "470760985",
+      "title": "NSC/DC 011 - March 29, 1989 - NSC/DC Meeting on Libya, Keywords: Libya (File located @ LM)",
+      "date": "1989-03-29",
+      "pageCount": 1,
+      "pageCountBasis": "measured from available PDF",
+      "reason": "Excluded from primary chronology because the available file is a one- or two-page locator/placeholder rather than substantive minutes."
+    },
+    {
+      "naid": "470761047",
+      "title": "NSC/DC 070 - October 31, 1989 - NSC/DC Meeting on Libya, Keywords: Libya, Navigational Freedom (File located @ NLMS)",
+      "date": "1989-10-31",
+      "pageCount": 1,
+      "pageCountBasis": "measured from available PDF",
+      "reason": "Excluded from primary chronology because the available file is a one- or two-page locator/placeholder rather than substantive minutes."
+    }
+  ],
+  "records": [
+    {
+      "id": "nsc-dc-470761132",
+      "naid": "470761132",
+      "title": "NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "documentTitle": "NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-06-13",
+      "sortDate": "1990-06-13",
+      "dateLine": "1990-06-13",
+      "subjectLine": "NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761132",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-140-90014-029.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-140-90014-029.pdf",
+      "objectFileSize": 16643512,
+      "pageCount": 90,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90014-029",
+      "containerId": "90014",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90014-029, NAID 470761132. Catalog URL: https://catalog.archives.gov/id/470761132. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-140-90014-029.pdf, object ID 483295837, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-140-90014-029.pdf. Approximate pages: 90 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90014. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761386",
+      "naid": "470761386",
+      "title": "NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics",
+      "documentTitle": "NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-06-15",
+      "sortDate": "1992-06-15",
+      "dateLine": "1992-06-15",
+      "subjectLine": "NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761386",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-358-90022-021.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-358-90022-021.pdf",
+      "objectFileSize": 26474848,
+      "pageCount": 157,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90022-021",
+      "containerId": "90022",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90022-021, NAID 470761386. Catalog URL: https://catalog.archives.gov/id/470761386. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-358-90022-021.pdf, object ID 483296113, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-358-90022-021.pdf. Approximate pages: 157 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90022. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: caribbean",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761390",
+      "naid": "470761390",
+      "title": "NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "documentTitle": "NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-07-09",
+      "sortDate": "1992-07-09",
+      "dateLine": "1992-07-09",
+      "subjectLine": "NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761390",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-362-90022-025.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-362-90022-025.pdf",
+      "objectFileSize": 12613398,
+      "pageCount": 87,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90022-025",
+      "containerId": "90022",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90022-025, NAID 470761390. Catalog URL: https://catalog.archives.gov/id/470761390. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-362-90022-025.pdf, object ID 483296117, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-362-90022-025.pdf. Approximate pages: 87 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90022. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: peru"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761370",
+      "naid": "470761370",
+      "title": "NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "documentTitle": "NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-04-15",
+      "sortDate": "1992-04-15",
+      "dateLine": "1992-04-15",
+      "subjectLine": "NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761370",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-346-90022-005.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-346-90022-005.pdf",
+      "objectFileSize": 11636549,
+      "pageCount": 90,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90022-005",
+      "containerId": "90022",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90022-005, NAID 470761370. Catalog URL: https://catalog.archives.gov/id/470761370. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-346-90022-005.pdf, object ID 483296096, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-346-90022-005.pdf. Approximate pages: 90 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90022. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761330",
+      "naid": "470761330",
+      "title": "NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics",
+      "documentTitle": "NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1991-09-06",
+      "sortDate": "1991-09-06",
+      "dateLine": "1991-09-06",
+      "subjectLine": "NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761330",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf",
+      "objectFileSize": 16701599,
+      "pageCount": 107,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90020-031",
+      "containerId": "90020",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90020-031, NAID 470761330. Catalog URL: https://catalog.archives.gov/id/470761330. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf, object ID 483296053, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf. Approximate pages: 107 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90020. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761375",
+      "naid": "470761375",
+      "title": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2]",
+      "documentTitle": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2]",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-05-04",
+      "sortDate": "1992-05-04",
+      "dateLine": "1992-05-04",
+      "subjectLine": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2]",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761375",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-349_2-90022-010.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-349_2-90022-010.pdf",
+      "objectFileSize": 10067398,
+      "pageCount": 93,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90022-010",
+      "containerId": "90022",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90022-010, NAID 470761375. Catalog URL: https://catalog.archives.gov/id/470761375. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-349_2-90022-010.pdf, object ID 483296101, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-349_2-90022-010.pdf. Approximate pages: 93 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90022. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: caribbean"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761393",
+      "naid": "470761393",
+      "title": "NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia",
+      "documentTitle": "NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-07-16",
+      "sortDate": "1992-07-16",
+      "dateLine": "1992-07-16",
+      "subjectLine": "NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics",
+          "colombia"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761393",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf",
+      "objectFileSize": 18759808,
+      "pageCount": 107,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90023-003",
+      "containerId": "90023",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90023-003, NAID 470761393. Catalog URL: https://catalog.archives.gov/id/470761393. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf, object ID 483296120, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf. Approximate pages: 107 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90023. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761221",
+      "naid": "470761221",
+      "title": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2]",
+      "documentTitle": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2]",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-11-07",
+      "sortDate": "1990-11-07",
+      "dateLine": "1990-11-07",
+      "subjectLine": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2]",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761221",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-219_2-90017-015.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-219_2-90017-015.pdf",
+      "objectFileSize": 5878381,
+      "pageCount": 53,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90017-015",
+      "containerId": "90017",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90017-015, NAID 470761221. Catalog URL: https://catalog.archives.gov/id/470761221. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-219_2-90017-015.pdf, object ID 483295935, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-219_2-90017-015.pdf. Approximate pages: 53 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90017. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: standoff",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761307",
+      "naid": "470761307",
+      "title": "NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America",
+      "documentTitle": "NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1991-06-24",
+      "sortDate": "1991-06-24",
+      "dateLine": "1991-06-24",
+      "subjectLine": "NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761307",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf",
+      "objectFileSize": 18627798,
+      "pageCount": 145,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90020-007",
+      "containerId": "90020",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90020-007, NAID 470761307. Catalog URL: https://catalog.archives.gov/id/470761307. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf, object ID 483296027, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf. Approximate pages: 145 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F, 2011-2116-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90020. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761374",
+      "naid": "470761374",
+      "title": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1]",
+      "documentTitle": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1]",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-05-04",
+      "sortDate": "1992-05-04",
+      "dateLine": "1992-05-04",
+      "subjectLine": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1]",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761374",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-349_1-90022-009.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-349_1-90022-009.pdf",
+      "objectFileSize": 13226929,
+      "pageCount": 83,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90022-009",
+      "containerId": "90022",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90022-009, NAID 470761374. Catalog URL: https://catalog.archives.gov/id/470761374. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-349_1-90022-009.pdf, object ID 483296100, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-349_1-90022-009.pdf. Approximate pages: 83 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush. Container: 90022. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: caribbean",
+        "NSC/DC Meetings: colombia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761185",
+      "naid": "470761185",
+      "title": "NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama",
+      "documentTitle": "NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-08-31",
+      "sortDate": "1990-08-31",
+      "dateLine": "1990-08-31",
+      "subjectLine": "NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761185",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-191-90016-019.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-191-90016-019.pdf",
+      "objectFileSize": 3990023,
+      "pageCount": 24,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90016-019",
+      "containerId": "90016",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90016-019, NAID 470761185. Catalog URL: https://catalog.archives.gov/id/470761185. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-191-90016-019.pdf, object ID 483295896, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-191-90016-019.pdf. Approximate pages: 24 (measured from available PDF). FOIA tracking: 2004-0722-F, 2011-2116-F, 2005-0995-F, 2005-0989-F, 2005-0992-F, 2008-1289-F, 2004-0728-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90016. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: counterterrorism"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761220",
+      "naid": "470761220",
+      "title": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1]",
+      "documentTitle": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1]",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-11-07",
+      "sortDate": "1990-11-07",
+      "dateLine": "1990-11-07",
+      "subjectLine": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1]",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761220",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-219_1-90017-014.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-219_1-90017-014.pdf",
+      "objectFileSize": 17043108,
+      "pageCount": 80,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90017-014",
+      "containerId": "90017",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90017-014, NAID 470761220. Catalog URL: https://catalog.archives.gov/id/470761220. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-219_1-90017-014.pdf, object ID 483295934, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-219_1-90017-014.pdf. Approximate pages: 80 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90017. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: standoff",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761118",
+      "naid": "470761118",
+      "title": "NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics",
+      "documentTitle": "NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-05-09",
+      "sortDate": "1990-05-09",
+      "dateLine": "1990-05-09",
+      "subjectLine": "NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics",
+          "drug",
+          "drugs"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761118",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf",
+      "objectFileSize": 2880139,
+      "pageCount": 16,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90014-015",
+      "containerId": "90014",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90014-015, NAID 470761118. Catalog URL: https://catalog.archives.gov/id/470761118. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf, object ID 483295821, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf. Approximate pages: 16 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90014. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: colombia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761360",
+      "naid": "470761360",
+      "title": "NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America",
+      "documentTitle": "NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-02-14",
+      "sortDate": "1992-02-14",
+      "dateLine": "1992-02-14",
+      "subjectLine": "NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics",
+          "drug",
+          "drugs"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761360",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf",
+      "objectFileSize": 18963580,
+      "pageCount": 123,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90021-025",
+      "containerId": "90021",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90021-025, NAID 470761360. Catalog URL: https://catalog.archives.gov/id/470761360. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf, object ID 483296085, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf. Approximate pages: 123 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90021. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: peru"
+      ]
+    },
+    {
+      "id": "nsc-dc-470760997",
+      "naid": "470760997",
+      "title": "NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs",
+      "documentTitle": "NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-05-10",
+      "sortDate": "1989-05-10",
+      "dateLine": "1989-05-10",
+      "subjectLine": "NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics",
+          "drug",
+          "drugs",
+          "peru"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470760997",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf",
+      "objectFileSize": 16665964,
+      "pageCount": 50,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90010-002",
+      "containerId": "90010",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90010-002, NAID 470760997. Catalog URL: https://catalog.archives.gov/id/470760997. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf, object ID 483295947, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf. Approximate pages: 50 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90010. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761018",
+      "naid": "470761018",
+      "title": "NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs",
+      "documentTitle": "NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-08-17",
+      "sortDate": "1989-08-17",
+      "dateLine": "1989-08-17",
+      "subjectLine": "NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761018",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf",
+      "objectFileSize": 12123773,
+      "pageCount": 37,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90010-023",
+      "containerId": "90010",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90010-023, NAID 470761018. Catalog URL: https://catalog.archives.gov/id/470761018. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf, object ID 483296197, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf. Approximate pages: 37 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90010. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761063",
+      "naid": "470761063",
+      "title": "NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+      "documentTitle": "NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-12-07",
+      "sortDate": "1989-12-07",
+      "dateLine": "1989-12-07",
+      "subjectLine": "NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs",
+          "andean"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761063",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf",
+      "objectFileSize": 14319114,
+      "pageCount": 76,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90012-017",
+      "containerId": "90012",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90012-017, NAID 470761063. Catalog URL: https://catalog.archives.gov/id/470761063. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf, object ID 483296244, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf. Approximate pages: 76 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90012. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761052",
+      "naid": "470761052",
+      "title": "NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+      "documentTitle": "NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-11-09",
+      "sortDate": "1989-11-09",
+      "dateLine": "1989-11-09",
+      "subjectLine": "NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs",
+          "andean"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761052",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf",
+      "objectFileSize": 20919496,
+      "pageCount": 58,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90012-006",
+      "containerId": "90012",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90012-006, NAID 470761052. Catalog URL: https://catalog.archives.gov/id/470761052. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf, object ID 483296233, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf. Approximate pages: 58 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90012. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counternarcotics",
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761229",
+      "naid": "470761229",
+      "title": "NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs",
+      "documentTitle": "NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-11-29",
+      "sortDate": "1990-11-29",
+      "dateLine": "1990-11-29",
+      "subjectLine": "NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs",
+          "shipboarding",
+          "standoff",
+          "caribbean"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761229",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf",
+      "objectFileSize": 17025612,
+      "pageCount": 104,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90017-023",
+      "containerId": "90017",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90017-023, NAID 470761229. Catalog URL: https://catalog.archives.gov/id/470761229. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf, object ID 483295943, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf. Approximate pages: 104 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90017. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: shipboarding",
+        "NSC/DC Meetings: standoff",
+        "NSC/DC Meetings: caribbean",
+        "NSC/DC Meetings: pan am"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761105",
+      "naid": "470761105",
+      "title": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2]",
+      "documentTitle": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2]",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-04-10",
+      "sortDate": "1990-04-10",
+      "dateLine": "1990-04-10",
+      "subjectLine": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2]",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs",
+          "andean"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761105",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf",
+      "objectFileSize": 11752462,
+      "pageCount": 52,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90014-002",
+      "containerId": "90014",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90014-002, NAID 470761105. Catalog URL: https://catalog.archives.gov/id/470761105. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf, object ID 483295808, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf. Approximate pages: 52 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90014. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counter narcotics",
+        "NSC/DC Meetings: counter-narcotics",
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761025",
+      "naid": "470761025",
+      "title": "NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba",
+      "documentTitle": "NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-09-11",
+      "sortDate": "1989-09-11",
+      "dateLine": "1989-09-11",
+      "subjectLine": "NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba",
+      "topicTerms": {
+        "Counternarcotics": [
+          "narcotics",
+          "drug",
+          "drugs"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761025",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf",
+      "objectFileSize": 10968768,
+      "pageCount": 48,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90011-004",
+      "containerId": "90011",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90011-004, NAID 470761025. Catalog URL: https://catalog.archives.gov/id/470761025. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf, object ID 483296205, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf. Approximate pages: 48 (measured from available PDF). FOIA tracking: 2005-0995-F, 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90011. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: aviation security"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761079",
+      "naid": "470761079",
+      "title": "NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit",
+      "documentTitle": "NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-01-09",
+      "sortDate": "1990-01-09",
+      "dateLine": "1990-01-09",
+      "subjectLine": "NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs",
+          "andean"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761079",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf",
+      "objectFileSize": 8385071,
+      "pageCount": 48,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90013-002",
+      "containerId": "90013",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90013-002, NAID 470761079. Catalog URL: https://catalog.archives.gov/id/470761079. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf, object ID 483296260, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf. Approximate pages: 48 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90013. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: narcotics",
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761049",
+      "naid": "470761049",
+      "title": "NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs",
+      "documentTitle": "NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-11-03",
+      "sortDate": "1989-11-03",
+      "dateLine": "1989-11-03",
+      "subjectLine": "NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761049",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf",
+      "objectFileSize": 13211768,
+      "pageCount": 50,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90012-003",
+      "containerId": "90012",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90012-003, NAID 470761049. Catalog URL: https://catalog.archives.gov/id/470761049. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf, object ID 483296230, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf. Approximate pages: 50 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90012. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: drug",
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: cocaine",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761104",
+      "naid": "470761104",
+      "title": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1]",
+      "documentTitle": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1]",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-04-10",
+      "sortDate": "1990-04-10",
+      "dateLine": "1990-04-10",
+      "subjectLine": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1]",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs",
+          "andean"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761104",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf",
+      "objectFileSize": 6088785,
+      "pageCount": 28,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90014-001",
+      "containerId": "90014",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90014-001, NAID 470761104. Catalog URL: https://catalog.archives.gov/id/470761104. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf, object ID 483295807, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf. Approximate pages: 28 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90014. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: drugs",
+        "NSC/DC Meetings: andean",
+        "NSC/DC Meetings: colombia",
+        "NSC/DC Meetings: peru",
+        "NSC/DC Meetings: bolivia"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761241",
+      "naid": "470761241",
+      "title": "NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentTitle": "NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-01-08",
+      "sortDate": "1991-01-08",
+      "dateLine": "1991-01-08",
+      "subjectLine": "NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "counterterrorism",
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761241",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-238-90018-012.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-238-90018-012.pdf",
+      "objectFileSize": 6907401,
+      "pageCount": 31,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90018-012",
+      "containerId": "90018",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90018-012, NAID 470761241. Catalog URL: https://catalog.archives.gov/id/470761241. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-238-90018-012.pdf, object ID 483295955, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-238-90018-012.pdf. Approximate pages: 31 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90018. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: counter terrorism",
+        "NSC/DC Meetings: counter-terrorism"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761028",
+      "naid": "470761028",
+      "title": "NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentTitle": "NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1989-09-13",
+      "sortDate": "1989-09-13",
+      "dateLine": "1989-09-13",
+      "subjectLine": "NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "counterterrorism",
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761028",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-54-90011-007.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-54-90011-007.pdf",
+      "objectFileSize": 7387408,
+      "pageCount": 33,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90011-007",
+      "containerId": "90011",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90011-007, NAID 470761028. Catalog URL: https://catalog.archives.gov/id/470761028. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-54-90011-007.pdf, object ID 483296208, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-54-90011-007.pdf. Approximate pages: 33 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush. Container: 90011. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: terrorist",
+        "NSC/DC Meetings: hostage",
+        "NSC/DC Meetings: higgins",
+        "NSC/DC Meetings: hijacking"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761257",
+      "naid": "470761257",
+      "title": "NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentTitle": "NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-01-25",
+      "sortDate": "1991-01-25",
+      "dateLine": "1991-01-25",
+      "subjectLine": "NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "counterterrorism",
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761257",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-249-90018-028.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-249-90018-028.pdf",
+      "objectFileSize": 9840542,
+      "pageCount": 59,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90018-028",
+      "containerId": "90018",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90018-028, NAID 470761257. Catalog URL: https://catalog.archives.gov/id/470761257. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-249-90018-028.pdf, object ID 483295972, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-249-90018-028.pdf. Approximate pages: 59 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90018. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: terrorism"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761249",
+      "naid": "470761249",
+      "title": "NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentTitle": "NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-01-14",
+      "sortDate": "1991-01-14",
+      "dateLine": "1991-01-14",
+      "subjectLine": "NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "counterterrorism",
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761249",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-243-90018-020.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-243-90018-020.pdf",
+      "objectFileSize": 7367688,
+      "pageCount": 37,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90018-020",
+      "containerId": "90018",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90018-020, NAID 470761249. Catalog URL: https://catalog.archives.gov/id/470761249. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-243-90018-020.pdf, object ID 483295964, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-243-90018-020.pdf. Approximate pages: 37 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90018. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: terrorism"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761238",
+      "naid": "470761238",
+      "title": "NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentTitle": "NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-01-03",
+      "sortDate": "1991-01-03",
+      "dateLine": "1991-01-03",
+      "subjectLine": "NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "counterterrorism",
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761238",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-235-90018-009.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-235-90018-009.pdf",
+      "objectFileSize": 13515629,
+      "pageCount": 95,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90018-009",
+      "containerId": "90018",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90018-009, NAID 470761238. Catalog URL: https://catalog.archives.gov/id/470761238. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-235-90018-009.pdf, object ID 483295952, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-235-90018-009.pdf. Approximate pages: 95 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90018. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: counter terrorism",
+        "NSC/DC Meetings: counter-terrorism",
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: terrorist"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761245",
+      "naid": "470761245",
+      "title": "NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentTitle": "NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-01-13",
+      "sortDate": "1991-01-13",
+      "dateLine": "1991-01-13",
+      "subjectLine": "NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "counterterrorism",
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761245",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-240-90018-016.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-240-90018-016.pdf",
+      "objectFileSize": 2012772,
+      "pageCount": 9,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90018-016",
+      "containerId": "90018",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90018-016, NAID 470761245. Catalog URL: https://catalog.archives.gov/id/470761245. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-240-90018-016.pdf, object ID 483295960, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-240-90018-016.pdf. Approximate pages: 9 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90018. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761276",
+      "naid": "470761276",
+      "title": "NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM)",
+      "documentTitle": "NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM)",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-03-28",
+      "sortDate": "1991-03-28",
+      "dateLine": "1991-03-28",
+      "subjectLine": "NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM)",
+      "topicTerms": {
+        "Counterterrorism": [
+          "counterterrorism",
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761276",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-263-90019-007.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-263-90019-007.pdf",
+      "objectFileSize": 16974278,
+      "pageCount": 95,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90019-007",
+      "containerId": "90019",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90019-007, NAID 470761276. Catalog URL: https://catalog.archives.gov/id/470761276. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-263-90019-007.pdf, object ID 483295993, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-263-90019-007.pdf. Approximate pages: 95 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90019. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: counter terrorism",
+        "NSC/DC Meetings: counter-terrorism",
+        "NSC/DC Meetings: terrorist"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761309",
+      "naid": "470761309",
+      "title": "NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya",
+      "documentTitle": "NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-06-27",
+      "sortDate": "1991-06-27",
+      "dateLine": "1991-06-27",
+      "subjectLine": "NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya",
+      "topicTerms": {
+        "Counterterrorism": [
+          "terrorism",
+          "pan am",
+          "libya"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761309",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-290-90020-009.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-290-90020-009.pdf",
+      "objectFileSize": 3398864,
+      "pageCount": 26,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90020-009",
+      "containerId": "90020",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90020-009, NAID 470761309. Catalog URL: https://catalog.archives.gov/id/470761309. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-290-90020-009.pdf, object ID 483296030, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-290-90020-009.pdf. Approximate pages: 26 (measured from available PDF). FOIA tracking: 2005-0575-F, 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90020. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: counter terrorism",
+        "NSC/DC Meetings: counter-terrorism",
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: terrorist",
+        "NSC/DC Meetings: pan am",
+        "NSC/DC Meetings: lockerbie",
+        "NSC/DC Meetings: libya",
+        "NSC/DC Meetings: bombing"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761009",
+      "naid": "470761009",
+      "title": "NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism",
+      "documentTitle": "NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1989-06-13",
+      "sortDate": "1989-06-13",
+      "dateLine": "1989-06-13",
+      "subjectLine": "NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761009",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-35-90010-014.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-35-90010-014.pdf",
+      "objectFileSize": 10333439,
+      "pageCount": 55,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90010-014",
+      "containerId": "90010",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90010-014, NAID 470761009. Catalog URL: https://catalog.archives.gov/id/470761009. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-35-90010-014.pdf, object ID 483296102, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-35-90010-014.pdf. Approximate pages: 55 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90010. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counterterrorism",
+        "NSC/DC Meetings: counter terrorism",
+        "NSC/DC Meetings: counter-terrorism",
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: terrorist"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761346",
+      "naid": "470761346",
+      "title": "NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions",
+      "documentTitle": "NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-12-02",
+      "sortDate": "1991-12-02",
+      "dateLine": "1991-12-02",
+      "subjectLine": "NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am",
+          "libya"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761346",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-323-90021-011.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-323-90021-011.pdf",
+      "objectFileSize": 10522871,
+      "pageCount": 55,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90021-011",
+      "containerId": "90021",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90021-011, NAID 470761346. Catalog URL: https://catalog.archives.gov/id/470761346. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-323-90021-011.pdf, object ID 483296070, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-323-90021-011.pdf. Approximate pages: 55 (measured from available PDF). FOIA tracking: 2005-1002-F, 2005-0575-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90021. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: counter terrorism",
+        "NSC/DC Meetings: counter-terrorism",
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: aviation security",
+        "NSC/DC Meetings: pan am",
+        "NSC/DC Meetings: libya",
+        "NSC/DC Meetings: bombing"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761338",
+      "naid": "470761338",
+      "title": "NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France",
+      "documentTitle": "NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-10-23",
+      "sortDate": "1991-10-23",
+      "dateLine": "1991-10-23",
+      "subjectLine": "NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France",
+      "topicTerms": {
+        "Counterterrorism": [
+          "terrorism",
+          "pan am"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761338",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-315-90021-003.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-315-90021-003.pdf",
+      "objectFileSize": 1870782,
+      "pageCount": 19,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90021-003",
+      "containerId": "90021",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90021-003, NAID 470761338. Catalog URL: https://catalog.archives.gov/id/470761338. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-315-90021-003.pdf, object ID 483296061, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-315-90021-003.pdf. Approximate pages: 19 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-0030-F, 2008-1289-F, 2009-0784-F, 2009-0786-F, 2009-1293-F, 2009-0790-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90021. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: pan am",
+        "NSC/DC Meetings: libya"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761298",
+      "naid": "470761298",
+      "title": "NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya",
+      "documentTitle": "NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-05-17",
+      "sortDate": "1991-05-17",
+      "dateLine": "1991-05-17",
+      "subjectLine": "NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya",
+      "topicTerms": {
+        "Counterterrorism": [
+          "libya"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761298",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-280-90019-030.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-280-90019-030.pdf",
+      "objectFileSize": 9007996,
+      "pageCount": 51,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90019-030",
+      "containerId": "90019",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90019-030, NAID 470761298. Catalog URL: https://catalog.archives.gov/id/470761298. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-280-90019-030.pdf, object ID 483296018, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-280-90019-030.pdf. Approximate pages: 51 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90019. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: pan am",
+        "NSC/DC Meetings: libya"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761250",
+      "naid": "470761250",
+      "title": "NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism",
+      "documentTitle": "NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-01-14",
+      "sortDate": "1991-01-14",
+      "dateLine": "1991-01-14",
+      "subjectLine": "NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism",
+      "topicTerms": {
+        "Counterterrorism": [
+          "terrorism"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761250",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-244-90018-021.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-244-90018-021.pdf",
+      "objectFileSize": 7834552,
+      "pageCount": 56,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90018-021",
+      "containerId": "90018",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90018-021, NAID 470761250. Catalog URL: https://catalog.archives.gov/id/470761250. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-244-90018-021.pdf, object ID 483295965, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-244-90018-021.pdf. Approximate pages: 56 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F, 2003-0261-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90018. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: aviation security",
+        "NSC/DC Meetings: pan am"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761352",
+      "naid": "470761352",
+      "title": "NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103",
+      "documentTitle": "NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-12-19",
+      "sortDate": "1991-12-19",
+      "dateLine": "1991-12-19",
+      "subjectLine": "NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761352",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-329-90021-017.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-329-90021-017.pdf",
+      "objectFileSize": 7121772,
+      "pageCount": 60,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90021-017",
+      "containerId": "90021",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90021-017, NAID 470761352. Catalog URL: https://catalog.archives.gov/id/470761352. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-329-90021-017.pdf, object ID 483296076, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-329-90021-017.pdf. Approximate pages: 60 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90021. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: terrorism",
+        "NSC/DC Meetings: pan am",
+        "NSC/DC Meetings: libya"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761109",
+      "naid": "470761109",
+      "title": "NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria",
+      "documentTitle": "NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1990-04-20",
+      "sortDate": "1990-04-20",
+      "dateLine": "1990-04-20",
+      "subjectLine": "NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria",
+      "topicTerms": {
+        "Counterterrorism": [
+          "hostage",
+          "hostages"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761109",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-117-90014-006.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-117-90014-006.pdf",
+      "objectFileSize": 1865192,
+      "pageCount": 11,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90014-006",
+      "containerId": "90014",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90014-006, NAID 470761109. Catalog URL: https://catalog.archives.gov/id/470761109. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-117-90014-006.pdf, object ID 483295812, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-117-90014-006.pdf. Approximate pages: 11 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90014. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: hostage",
+        "NSC/DC Meetings: hostages"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761320",
+      "naid": "470761320",
+      "title": "NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103",
+      "documentTitle": "NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103",
+      "documentType": "Deputies Committee meeting minutes",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-07-27",
+      "sortDate": "1991-07-27",
+      "dateLine": "1991-07-27",
+      "subjectLine": "NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761320",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-298-90020-020.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs-298-90020-020.pdf",
+      "objectFileSize": 1285980,
+      "pageCount": 10,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90020-020",
+      "containerId": "90020",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294079",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files",
+        "shortName": "NSC/DC Meetings",
+        "url": "https://catalog.archives.gov/id/312294079"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Files, 90020-020, NAID 470761320. Catalog URL: https://catalog.archives.gov/id/470761320. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-298-90020-020.pdf, object ID 483296041, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-298-90020-020.pdf. Approximate pages: 10 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90020. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Meetings: pan am"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761510",
+      "naid": "470761510",
+      "title": "DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room",
+      "documentTitle": "DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room",
+      "documentType": "Deputies Committee follow-up file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1992-05-04",
+      "sortDate": "1992-05-04",
+      "dateLine": "1992-05-04",
+      "subjectLine": "DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room",
+      "topicTerms": {
+        "Counternarcotics": [
+          "counternarcotics",
+          "narcotics"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761510",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-046.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-046.pdf",
+      "objectFileSize": 2970245,
+      "pageCount": 38,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90043-046",
+      "containerId": "90043",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294094",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files",
+        "shortName": "NSC/DC Follow-Up",
+        "url": "https://catalog.archives.gov/id/312294094"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files, 90043-046, NAID 470761510. Catalog URL: https://catalog.archives.gov/id/470761510. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-046.pdf, object ID 483296310, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-046.pdf. Approximate pages: 38 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90043. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Follow-Up: counternarcotics",
+        "NSC/DC Follow-Up: counter narcotics",
+        "NSC/DC Follow-Up: counter-narcotics",
+        "NSC/DC Follow-Up: narcotics",
+        "NSC/DC Follow-Up: drug",
+        "NSC/DC Follow-Up: cocaine",
+        "NSC/DC Follow-Up: caribbean"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761506",
+      "naid": "470761506",
+      "title": "Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00",
+      "documentTitle": "Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00",
+      "documentType": "Deputies Committee follow-up file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-01-20",
+      "sortDate": "1989-01-20",
+      "dateLine": "1989-01-20",
+      "subjectLine": "Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00",
+      "topicTerms": {
+        "Counternarcotics": [
+          "drug",
+          "drugs"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761506",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf",
+      "objectFileSize": 2368559,
+      "pageCount": 26,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90043-042",
+      "containerId": "90043",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294094",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files",
+        "shortName": "NSC/DC Follow-Up",
+        "url": "https://catalog.archives.gov/id/312294094"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files, 90043-042, NAID 470761506. Catalog URL: https://catalog.archives.gov/id/470761506. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf, object ID 483296306, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf. Approximate pages: 26 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90043. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Follow-Up: counternarcotics",
+        "NSC/DC Follow-Up: drug",
+        "NSC/DC Follow-Up: drugs"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761486",
+      "naid": "470761486",
+      "title": "DC Meeting 10/11/91 3:00 Room 208 Pan Am 103",
+      "documentTitle": "DC Meeting 10/11/91 3:00 Room 208 Pan Am 103",
+      "documentType": "Deputies Committee follow-up file",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-10-11",
+      "sortDate": "1991-10-11",
+      "dateLine": "1991-10-11",
+      "subjectLine": "DC Meeting 10/11/91 3:00 Room 208 Pan Am 103",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761486",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-022.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-022.pdf",
+      "objectFileSize": 771136,
+      "pageCount": 11,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90043-022",
+      "containerId": "90043",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294094",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files",
+        "shortName": "NSC/DC Follow-Up",
+        "url": "https://catalog.archives.gov/id/312294094"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files, 90043-022, NAID 470761486. Catalog URL: https://catalog.archives.gov/id/470761486. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-022.pdf, object ID 483296286, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-022.pdf. Approximate pages: 11 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90043. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Follow-Up: terrorist",
+        "NSC/DC Follow-Up: pan am"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761485",
+      "naid": "470761485",
+      "title": "DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103",
+      "documentTitle": "DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103",
+      "documentType": "Deputies Committee follow-up file",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-10-08",
+      "sortDate": "1991-10-08",
+      "dateLine": "1991-10-08",
+      "subjectLine": "DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761485",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-021.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-021.pdf",
+      "objectFileSize": 902086,
+      "pageCount": 9,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90043-021",
+      "containerId": "90043",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294094",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files",
+        "shortName": "NSC/DC Follow-Up",
+        "url": "https://catalog.archives.gov/id/312294094"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files, 90043-021, NAID 470761485. Catalog URL: https://catalog.archives.gov/id/470761485. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-021.pdf, object ID 483296285, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-021.pdf. Approximate pages: 9 (measured from available PDF). FOIA tracking: 2008-1289-F, 2005-1002-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90043. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Follow-Up: pan am"
+      ]
+    },
+    {
+      "id": "nsc-dc-470761487",
+      "naid": "470761487",
+      "title": "DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103",
+      "documentTitle": "DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103",
+      "documentType": "Deputies Committee follow-up file",
+      "chapter": {
+        "number": 2,
+        "name": "Counterterrorism"
+      },
+      "date": "1991-11-08",
+      "sortDate": "1991-11-08",
+      "dateLine": "1991-11-08",
+      "subjectLine": "DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103",
+      "topicTerms": {
+        "Counterterrorism": [
+          "pan am"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/470761487",
+      "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-023.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-023.pdf",
+      "objectFileSize": 648626,
+      "pageCount": 9,
+      "pageCountBasis": "measured from available PDF",
+      "localIdentifier": "90043-023",
+      "containerId": "90043",
+      "releaseStatus": "Listed; PDF available, access may include withdrawals",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "listed-restricted-pdf",
+      "source": {
+        "naid": "312294094",
+        "title": "H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files",
+        "shortName": "NSC/DC Follow-Up",
+        "url": "https://catalog.archives.gov/id/312294094"
+      },
+      "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), H-Files - National Security Council (NSC)/Deputies Committee (DC) Meetings Follow-Up Files, 90043-023, NAID 470761487. Catalog URL: https://catalog.archives.gov/id/470761487. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-023.pdf, object ID 483296287, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-023.pdf. Approximate pages: 9 (measured from available PDF). FOIA tracking: 2005-1002-F, 2008-1289-F. Other finding aid identifier: Pres-Bush, Pres-Bush. Container: 90043. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSC/DC Follow-Up: pan am"
+      ]
+    }
+  ]
+}
