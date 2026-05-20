@@ -36,11 +36,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079859. Catalog URL: https://catalog.archives.gov/id/428079859. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-24--Bhutto.pdf, object ID 428079860, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--Bhutto.pdf. Catalog subjects: Pakistan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079859. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079859. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079859. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-24--Bhutto.pdf, object ID 428079860, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-24--Bhutto.pdf. Catalog subjects: Pakistan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079869",
@@ -78,11 +80,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079869. Catalog URL: https://catalog.archives.gov/id/428079869. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-25--Babangida.pdf, object ID 428079870, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-25--Babangida.pdf. Catalog subjects: Nigeria. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079869. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079869. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079869. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-25--Babangida.pdf, object ID 428079870, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-25--Babangida.pdf. Catalog subjects: Nigeria. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079903",
@@ -120,11 +124,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079903. Catalog URL: https://catalog.archives.gov/id/428079903. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-26--Peng.pdf, object ID 428079904, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-26--Peng.pdf. Catalog subjects: China. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079903. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079903. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079903. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-26--Peng.pdf, object ID 428079904, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-26--Peng.pdf. Catalog subjects: China. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079921",
@@ -162,10 +168,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989, NAID 428079921. Catalog URL: https://catalog.archives.gov/id/428079921. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592630. Digital object: 1989-03-10--Salinas.pdf, object ID 428079922, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-10--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989, NAID 428079921. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989, NAID 428079921. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079921. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592630. Digital object: 1989-03-10--Salinas.pdf, object ID 428079922, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-10--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079929",
@@ -203,10 +211,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079929. Catalog URL: https://catalog.archives.gov/id/428079929. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377382. Digital object: 1989-03-15--Manley.pdf, object ID 428079930, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-03-15--Manley.pdf. Catalog subjects: Jamaica. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079929. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079929. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079929. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377382. Digital object: 1989-03-15--Manley.pdf, object ID 428079930, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-03-15--Manley.pdf. Catalog subjects: Jamaica. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079933",
@@ -244,10 +254,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079933. Catalog URL: https://catalog.archives.gov/id/428079933. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377382. Digital object: 1989-03-20--Solana.pdf, object ID 428079934, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-03-20--Solana.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079933. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079933. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079933. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377382. Digital object: 1989-03-20--Solana.pdf, object ID 428079934, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-03-20--Solana.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079941",
@@ -288,13 +300,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079941. Catalog URL: https://catalog.archives.gov/id/428079941. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-04--Arias.pdf, object ID 428079942, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-04--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079941. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drugs",
       "drug summit",
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079941. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079941. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-04--Arias.pdf, object ID 428079942, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-04--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079963",
@@ -335,13 +349,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079963. Catalog URL: https://catalog.archives.gov/id/428079963. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592631. Digital object: 1989-04-14--Barco.pdf, object ID 428079964, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-14--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079963. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "drugs",
       "drug summit"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079963. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079963. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592631. Digital object: 1989-04-14--Barco.pdf, object ID 428079964, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-14--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079971",
@@ -380,11 +396,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079971. Catalog URL: https://catalog.archives.gov/id/428079971. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-20--Esquivel.pdf, object ID 428079972, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-20--Esquivel.pdf. Catalog subjects: Belize. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079971. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "cocaine"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079971. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079971. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-20--Esquivel.pdf, object ID 428079972, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-20--Esquivel.pdf. Catalog subjects: Belize. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079983",
@@ -422,10 +440,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079983. Catalog URL: https://catalog.archives.gov/id/428079983. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592631. Digital object: 1989-04-28--Arias.pdf, object ID 428079984, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-28--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079983. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079983. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079983. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592631. Digital object: 1989-04-28--Arias.pdf, object ID 428079984, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-28--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080015",
@@ -463,10 +483,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428080015. Catalog URL: https://catalog.archives.gov/id/428080015. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-13--Garcia.pdf, object ID 428080016, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Garcia.pdf. Catalog subjects: Peru. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428080015. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428080015. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080015. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-13--Garcia.pdf, object ID 428080016, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-13--Garcia.pdf. Catalog subjects: Peru. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082461",
@@ -504,10 +526,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428082461. Catalog URL: https://catalog.archives.gov/id/428082461. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-20--bin-Mohamad.pdf, object ID 428082462, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-20--bin-Mohamad.pdf. Catalog subjects: Malaysia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428082461. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428082461. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082461. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-20--bin-Mohamad.pdf, object ID 428082462, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-20--bin-Mohamad.pdf. Catalog subjects: Malaysia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080045",
@@ -546,11 +570,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989, NAID 428080045. Catalog URL: https://catalog.archives.gov/id/428080045. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377389. Digital object: 1989-06-19--Hoyte.pdf, object ID 428080046, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-19--Hoyte.pdf. Catalog subjects: Guyana. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989, NAID 428080045. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989, NAID 428080045. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080045. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377389. Digital object: 1989-06-19--Hoyte.pdf, object ID 428080046, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-19--Hoyte.pdf. Catalog subjects: Guyana. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080119",
@@ -588,10 +614,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080119. Catalog URL: https://catalog.archives.gov/id/428080119. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-07--Estenssoro.pdf, object ID 428080120, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-07--Estenssoro.pdf. Catalog subjects: Bolivia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080119. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080119. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080119. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-07--Estenssoro.pdf, object ID 428080120, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-07--Estenssoro.pdf. Catalog subjects: Bolivia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080101",
@@ -629,11 +657,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989, NAID 428080101. Catalog URL: https://catalog.archives.gov/id/428080101. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377390. Digital object: 1989-07-15--First-Plenary-Session-Paris-Economic-Summit.pdf, object ID 428080102, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-15--First-Plenary-Session-Paris-Economic-Summit.pdf. Catalog subjects: Italy, France, United Kingdom, Germany, Canada, Japan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989, NAID 428080101. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug summit",
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989, NAID 428080101. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080101. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377390. Digital object: 1989-07-15--First-Plenary-Session-Paris-Economic-Summit.pdf, object ID 428080102, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-15--First-Plenary-Session-Paris-Economic-Summit.pdf. Catalog subjects: Italy, France, United Kingdom, Germany, Canada, Japan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080139",
@@ -671,10 +701,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080139. Catalog URL: https://catalog.archives.gov/id/428080139. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-20--Arias.pdf, object ID 428080140, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-20--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080139. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080139. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080139. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-20--Arias.pdf, object ID 428080140, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-20--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080141",
@@ -713,11 +745,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080141. Catalog URL: https://catalog.archives.gov/id/428080141. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-24--Salinas.pdf, object ID 428080142, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-24--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080141. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "cocaine"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080141. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080141. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-24--Salinas.pdf, object ID 428080142, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-24--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080147",
@@ -759,14 +793,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080147. Catalog URL: https://catalog.archives.gov/id/428080147. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-27--Thatcher.pdf, object ID 428080148, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-27--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080147. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "cartel",
       "cartels",
       "counternarcotics",
       "drug summit"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080147. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080147. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-27--Thatcher.pdf, object ID 428080148, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-27--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080207",
@@ -804,10 +840,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080207. Catalog URL: https://catalog.archives.gov/id/428080207. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-21--Barco.pdf, object ID 428080208, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-21--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080207. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080207. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080207. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-21--Barco.pdf, object ID 428080208, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-21--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080213",
@@ -845,11 +883,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080213. Catalog URL: https://catalog.archives.gov/id/428080213. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-26--Mitterrand.pdf, object ID 428080214, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-26--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080213. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080213. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080213. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-26--Mitterrand.pdf, object ID 428080214, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-26--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080215",
@@ -890,13 +930,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080215. Catalog URL: https://catalog.archives.gov/id/428080215. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-28--Barco.pdf, object ID 428080216, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-28--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080215. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "cartel",
       "drug summit"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080215. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080215. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-28--Barco.pdf, object ID 428080216, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-28--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080217",
@@ -934,10 +976,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080217. Catalog URL: https://catalog.archives.gov/id/428080217. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592636. Digital object: 1989-09-05--Kohl.pdf, object ID 428080218, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-05--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080217. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080217. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080217. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592636. Digital object: 1989-09-05--Kohl.pdf, object ID 428080218, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-05--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080219",
@@ -977,13 +1021,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080219. Catalog URL: https://catalog.archives.gov/id/428080219. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592636. Digital object: 1989-09-05--Thatcher.pdf, object ID 428080220, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-05--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080219. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "counternarcotics",
       "drug summit",
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080219. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080219. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592636. Digital object: 1989-09-05--Thatcher.pdf, object ID 428080220, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-05--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080181",
@@ -1025,14 +1071,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080181. Catalog URL: https://catalog.archives.gov/id/428080181. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-15--Sanguinetti.pdf, object ID 428080182, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-15--Sanguinetti.pdf. Catalog subjects: Uruguay. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080181. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "cartels",
       "drug summit",
       "drug trafficking",
       "Medellin"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080181. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080181. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-15--Sanguinetti.pdf, object ID 428080182, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-15--Sanguinetti.pdf. Catalog subjects: Uruguay. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080185",
@@ -1074,14 +1122,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080185. Catalog URL: https://catalog.archives.gov/id/428080185. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-20--Sandiford.pdf, object ID 428080186, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-20--Sandiford.pdf. Catalog subjects: Barbados. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080185. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "drug trafficking",
       "drug interdiction",
       "narcotics interdiction"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080185. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080185. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-20--Sandiford.pdf, object ID 428080186, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-20--Sandiford.pdf. Catalog subjects: Barbados. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080191",
@@ -1119,11 +1169,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080191. Catalog URL: https://catalog.archives.gov/id/428080191. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-25--Allied-Representatives.pdf, object ID 428080192, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Allied-Representatives.pdf. Catalog subjects: Canada, United Kingdom, Japan, Spain, Belgium, Denmark, Greece, Italy, Portugal, South Korea, Australia, France, Luxembourg, Netherlands, Norway, Turkey, Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080191. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs",
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080191. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080191. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-25--Allied-Representatives.pdf, object ID 428080192, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-25--Allied-Representatives.pdf. Catalog subjects: Canada, United Kingdom, Japan, Spain, Belgium, Denmark, Greece, Italy, Portugal, South Korea, Australia, France, Luxembourg, Netherlands, Norway, Turkey, Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080265",
@@ -1161,10 +1213,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080265. Catalog URL: https://catalog.archives.gov/id/428080265. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592636. Digital object: 1989-09-26--Barco.pdf, object ID 428080266, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-26--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080265. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989, NAID 428080265. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080265. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592636. Digital object: 1989-09-26--Barco.pdf, object ID 428080266, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-09-26--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080237",
@@ -1203,11 +1257,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080237. Catalog URL: https://catalog.archives.gov/id/428080237. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-27--Menem.pdf, object ID 428080238, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-27--Menem.pdf. Catalog subjects: Argentina. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080237. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drug summit"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080237. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080237. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-27--Menem.pdf, object ID 428080238, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-27--Menem.pdf. Catalog subjects: Argentina. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080241",
@@ -1249,14 +1305,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080241. Catalog URL: https://catalog.archives.gov/id/428080241. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-28--Barco.pdf, object ID 428080242, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-28--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080241. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "drugs",
       "drug summit",
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080241. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080241. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-28--Barco.pdf, object ID 428080242, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-28--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080245",
@@ -1297,13 +1355,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080245. Catalog URL: https://catalog.archives.gov/id/428080245. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377394. Digital object: 1989-10-03--Salinas.pdf, object ID 428080246, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-03--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080245. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drugs",
       "cocaine",
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080245. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080245. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377394. Digital object: 1989-10-03--Salinas.pdf, object ID 428080246, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-03--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080315",
@@ -1343,12 +1403,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989, NAID 428080315. Catalog URL: https://catalog.archives.gov/id/428080315. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592637. Digital object: 1989-10-30--Barco.pdf, object ID 428080316, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-10-30--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989, NAID 428080315. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drug summit",
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989, NAID 428080315. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080315. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592637. Digital object: 1989-10-30--Barco.pdf, object ID 428080316, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-10-30--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080381",
@@ -1386,10 +1448,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: December 1989, NAID 428080381. Catalog URL: https://catalog.archives.gov/id/428080381. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377396. Digital object: 1989-12-02--Gorbachev-Malta-First-Restriced.pdf, object ID 428080382, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-02--Gorbachev-Malta-First-Restriced.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: December 1989, NAID 428080381. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: December 1989, NAID 428080381. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080381. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377396. Digital object: 1989-12-02--Gorbachev-Malta-First-Restriced.pdf, object ID 428080382, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-12-02--Gorbachev-Malta-First-Restriced.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080453",
@@ -1427,10 +1491,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080453. Catalog URL: https://catalog.archives.gov/id/428080453. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Kohl.pdf, object ID 428080454, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080453. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080453. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080453. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Kohl.pdf, object ID 428080454, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080457",
@@ -1469,11 +1535,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080457. Catalog URL: https://catalog.archives.gov/id/428080457. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Mitterrand.pdf, object ID 428080458, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080457. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080457. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080457. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Mitterrand.pdf, object ID 428080458, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080461",
@@ -1511,10 +1579,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080461. Catalog URL: https://catalog.archives.gov/id/428080461. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Perez.pdf, object ID 428080462, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080461. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080461. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080461. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Perez.pdf, object ID 428080462, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080463",
@@ -1552,10 +1622,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080463. Catalog URL: https://catalog.archives.gov/id/428080463. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Salinas.pdf, object ID 428080464, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080463. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080463. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080463. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Salinas.pdf, object ID 428080464, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080451",
@@ -1593,10 +1665,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080451. Catalog URL: https://catalog.archives.gov/id/428080451. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Kaifu.pdf, object ID 428080452, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Kaifu.pdf. Catalog subjects: Japan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080451. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080451. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080451. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-20--Kaifu.pdf, object ID 428080452, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-20--Kaifu.pdf. Catalog subjects: Japan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080467",
@@ -1634,10 +1708,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080467. Catalog URL: https://catalog.archives.gov/id/428080467. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-26--Shamir.pdf, object ID 428080468, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-26--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080467. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989, NAID 428080467. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080467. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592639. Digital object: 1989-12-26--Shamir.pdf, object ID 428080468, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-12-26--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080509",
@@ -1677,12 +1753,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: January 1990, NAID 428080509. Catalog URL: https://catalog.archives.gov/id/428080509. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592640. Digital object: 1990-01-28--Barco.pdf, object ID 428080510, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-01-28--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: January 1990, NAID 428080509. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drug summit",
       "drug interdiction"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: January 1990, NAID 428080509. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080509. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592640. Digital object: 1990-01-28--Barco.pdf, object ID 428080510, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-01-28--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080485",
@@ -1722,13 +1800,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990, NAID 428080485. Catalog URL: https://catalog.archives.gov/id/428080485. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377405. Digital object: 1990-02-12--Sassou-Nguesso-2.pdf, object ID 428080486, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-12--Sassou-Nguesso-2.pdf. Catalog subjects: Congo (Democratic Republic). Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990, NAID 428080485. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drug summit",
       "drug trafficking",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990, NAID 428080485. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080485. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377405. Digital object: 1990-02-12--Sassou-Nguesso-2.pdf, object ID 428080486, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-12--Sassou-Nguesso-2.pdf. Catalog subjects: Congo (Democratic Republic). Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080487",
@@ -1774,7 +1854,7 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990, NAID 428080487. Catalog URL: https://catalog.archives.gov/id/428080487. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377405. Digital object: 1990-02-15--Cartagena-Drug-Summit.pdf, object ID 428080488, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-15--Cartagena-Drug-Summit.pdf. Catalog subjects: Peru, Colombia, Bolivia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990, NAID 428080487. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
@@ -1786,7 +1866,9 @@ window.FRUS_RECORDS = [
       "drug summit",
       "Andean",
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990, NAID 428080487. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080487. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377405. Digital object: 1990-02-15--Cartagena-Drug-Summit.pdf, object ID 428080488, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-02-15--Cartagena-Drug-Summit.pdf. Catalog subjects: Peru, Colombia, Bolivia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080605",
@@ -1825,11 +1907,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990, NAID 428080605. Catalog URL: https://catalog.archives.gov/id/428080605. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592642. Digital object: 1990-03-14--Endara.pdf, object ID 428080606, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-14--Endara.pdf. Catalog subjects: Panama. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990, NAID 428080605. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990, NAID 428080605. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080605. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592642. Digital object: 1990-03-14--Endara.pdf, object ID 428080606, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-14--Endara.pdf. Catalog subjects: Panama. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080673",
@@ -1867,10 +1951,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  April 1990, NAID 428080673. Catalog URL: https://catalog.archives.gov/id/428080673. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592643. Digital object: 1990-04-27--Barco.pdf, object ID 428080674, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-27--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990, NAID 428080673. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990, NAID 428080673. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080673. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592643. Digital object: 1990-04-27--Barco.pdf, object ID 428080674, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-27--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080685",
@@ -1912,14 +1998,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080685. Catalog URL: https://catalog.archives.gov/id/428080685. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-08--Zamora-1.pdf, object ID 428080686, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-1.pdf. Catalog subjects: Bolivia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080685. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drugs",
       "cartels",
       "drug interdiction",
       "narcotics interdiction"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080685. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080685. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-08--Zamora-1.pdf, object ID 428080686, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-08--Zamora-1.pdf. Catalog subjects: Bolivia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080695",
@@ -1957,10 +2045,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080695. Catalog URL: https://catalog.archives.gov/id/428080695. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-17--Kohl-1.pdf, object ID 428080696, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-1.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080695. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug summit"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080695. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080695. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-17--Kohl-1.pdf, object ID 428080696, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-1.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080699",
@@ -1998,10 +2088,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080699. Catalog URL: https://catalog.archives.gov/id/428080699. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-17--Kohl-3.pdf, object ID 428080700, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-3.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080699. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080699. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080699. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-17--Kohl-3.pdf, object ID 428080700, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-3.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080697",
@@ -2040,11 +2132,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080697. Catalog URL: https://catalog.archives.gov/id/428080697. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-17--Kohl-2.pdf, object ID 428080698, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-2.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080697. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug summit",
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080697. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080697. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-17--Kohl-2.pdf, object ID 428080698, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-17--Kohl-2.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080731",
@@ -2082,10 +2176,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080731. Catalog URL: https://catalog.archives.gov/id/428080731. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-04--Perez-de-Cuellar.pdf, object ID 428080732, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-04--Perez-de-Cuellar.pdf. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080731. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug summit"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080731. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080731. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-04--Perez-de-Cuellar.pdf, object ID 428080732, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-04--Perez-de-Cuellar.pdf. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080733",
@@ -2125,12 +2221,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080733. Catalog URL: https://catalog.archives.gov/id/428080733. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-05--Barco.pdf, object ID 428080734, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-05--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080733. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drug trafficking",
       "shipboarding"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080733. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080733. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-05--Barco.pdf, object ID 428080734, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-05--Barco.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080775",
@@ -2170,13 +2268,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080775. Catalog URL: https://catalog.archives.gov/id/428080775. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-14--Chunhawan-1.pdf, object ID 428080776, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-14--Chunhawan-1.pdf. Catalog subjects: Thailand. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080775. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "cocaine",
       "narcotics interdiction",
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080775. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080775. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-14--Chunhawan-1.pdf, object ID 428080776, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-14--Chunhawan-1.pdf. Catalog subjects: Thailand. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080777",
@@ -2216,12 +2316,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080777. Catalog URL: https://catalog.archives.gov/id/428080777. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-14--Chunhawan-2.pdf, object ID 428080778, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-14--Chunhawan-2.pdf. Catalog subjects: Thailand. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080777. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080777. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080777. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-14--Chunhawan-2.pdf, object ID 428080778, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-14--Chunhawan-2.pdf. Catalog subjects: Thailand. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080829",
@@ -2262,14 +2364,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080829. Catalog URL: https://catalog.archives.gov/id/428080829. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-09--Mitterrand-2.pdf, object ID 428080830, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-2.pdf. Catalog subjects: United Kingdom, France, Italy, Japan, Canada, Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080829. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs",
       "counter narcotics",
       "counter-narcotics",
       "drug summit",
       "aviation security"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080829. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080829. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-09--Mitterrand-2.pdf, object ID 428080830, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-09--Mitterrand-2.pdf. Catalog subjects: United Kingdom, France, Italy, Japan, Canada, Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080837",
@@ -2314,7 +2418,7 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080837. Catalog URL: https://catalog.archives.gov/id/428080837. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-13--Gaviria-Trujillo.pdf, object ID 428080838, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-13--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080837. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drugs",
@@ -2324,7 +2428,9 @@ window.FRUS_RECORDS = [
       "counter-narcotics",
       "drug trafficking",
       "Medellin"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080837. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080837. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-13--Gaviria-Trujillo.pdf, object ID 428080838, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-13--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080839",
@@ -2366,14 +2472,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080839. Catalog URL: https://catalog.archives.gov/id/428080839. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-23--Borja-1.pdf, object ID 428080840, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-1.pdf. Catalog subjects: Ecuador. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080839. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "drugs",
       "cocaine",
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080839. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080839. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-23--Borja-1.pdf, object ID 428080840, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-1.pdf. Catalog subjects: Ecuador. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080841",
@@ -2413,12 +2521,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080841. Catalog URL: https://catalog.archives.gov/id/428080841. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-23--Borja-2.pdf, object ID 428080842, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-2.pdf. Catalog subjects: Ecuador. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080841. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080841. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080841. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-23--Borja-2.pdf, object ID 428080842, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-23--Borja-2.pdf. Catalog subjects: Ecuador. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080951",
@@ -2456,10 +2566,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  August 1990 [2], NAID 428080951. Catalog URL: https://catalog.archives.gov/id/428080951. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-13--Perez.pdf, object ID 428080952, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-13--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428080951. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428080951. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080951. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-13--Perez.pdf, object ID 428080952, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-13--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081077",
@@ -2499,13 +2611,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081077. Catalog URL: https://catalog.archives.gov/id/428081077. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-29--Gaviria-Trujillo.pdf, object ID 428081078, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081077. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "shipboarding",
       "Andean",
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081077. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081077. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-29--Gaviria-Trujillo.pdf, object ID 428081078, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081105",
@@ -2544,11 +2658,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081105. Catalog URL: https://catalog.archives.gov/id/428081105. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Menem.pdf, object ID 428081106, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Menem.pdf. Catalog subjects: Argentina. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081105. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "counter narcotics",
       "counter-narcotics"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081105. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081105. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Menem.pdf, object ID 428081106, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Menem.pdf. Catalog subjects: Argentina. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081103",
@@ -2586,10 +2702,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081103. Catalog URL: https://catalog.archives.gov/id/428081103. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Lacalle.pdf, object ID 428081104, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Lacalle.pdf. Catalog subjects: Uruguay. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081103. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081103. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081103. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Lacalle.pdf, object ID 428081104, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Lacalle.pdf. Catalog subjects: Uruguay. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081225",
@@ -2631,14 +2749,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081225. Catalog URL: https://catalog.archives.gov/id/428081225. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-27--Salinas.pdf, object ID 428081226, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-27--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081225. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
       "cocaine",
       "drug summit",
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081225. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081225. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-27--Salinas.pdf, object ID 428081226, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-27--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081227",
@@ -2677,11 +2797,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081227. Catalog URL: https://catalog.archives.gov/id/428081227. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-28--Arias-Calderon.pdf, object ID 428081228, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-28--Arias-Calderon.pdf. Catalog subjects: Panama. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081227. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs",
       "cocaine"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081227. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081227. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-28--Arias-Calderon.pdf, object ID 428081228, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-28--Arias-Calderon.pdf. Catalog subjects: Panama. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081239",
@@ -2719,11 +2841,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990, NAID 428081239. Catalog URL: https://catalog.archives.gov/id/428081239. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541483. Digital object: 1990-12-08--Perez.pdf, object ID 428081240, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-08--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990, NAID 428081239. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Andean",
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990, NAID 428081239. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081239. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541483. Digital object: 1990-12-08--Perez.pdf, object ID 428081240, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-08--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082499",
@@ -2766,7 +2890,7 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [2], NAID 428082499. Catalog URL: https://catalog.archives.gov/id/428082499. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592655. Digital object: 1991-02-26--Gaviria-Trujillo.pdf, object ID 428082500, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-26--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2], NAID 428082499. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
@@ -2775,7 +2899,9 @@ window.FRUS_RECORDS = [
       "narcotics interdiction",
       "Andean",
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2], NAID 428082499. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082499. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592655. Digital object: 1991-02-26--Gaviria-Trujillo.pdf, object ID 428082500, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-02-26--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081585",
@@ -2813,10 +2939,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991, NAID 428081585. Catalog URL: https://catalog.archives.gov/id/428081585. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542550. Digital object: 1991-04-17--Chamorro.pdf, object ID 428081586, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-17--Chamorro.pdf. Catalog subjects: Nicaragua. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991, NAID 428081585. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "cocaine"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991, NAID 428081585. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081585. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542550. Digital object: 1991-04-17--Chamorro.pdf, object ID 428081586, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-17--Chamorro.pdf. Catalog subjects: Nicaragua. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081627",
@@ -2855,11 +2983,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: May 1991, NAID 428081627. Catalog URL: https://catalog.archives.gov/id/428081627. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542551. Digital object: 1991-05-03--Perez.pdf, object ID 428081628, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-03--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: May 1991, NAID 428081627. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "cartel",
       "cartels"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: May 1991, NAID 428081627. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081627. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542551. Digital object: 1991-05-03--Perez.pdf, object ID 428081628, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-05-03--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081715",
@@ -2899,12 +3029,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  June 1991, NAID 428081715. Catalog URL: https://catalog.archives.gov/id/428081715. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-11--Serrano.pdf, object ID 428081716, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-11--Serrano.pdf. Catalog subjects: Guatemala. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081715. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drugs",
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081715. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081715. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-11--Serrano.pdf, object ID 428081716, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-11--Serrano.pdf. Catalog subjects: Guatemala. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081689",
@@ -2942,10 +3074,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991, NAID 428081689. Catalog URL: https://catalog.archives.gov/id/428081689. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542552. Digital object: 1991-06-12--Cristiani-2.pdf, object ID 428081690, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-12--Cristiani-2.pdf. Catalog subjects: El Salvador. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991, NAID 428081689. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991, NAID 428081689. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081689. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542552. Digital object: 1991-06-12--Cristiani-2.pdf, object ID 428081690, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-12--Cristiani-2.pdf. Catalog subjects: El Salvador. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081721",
@@ -2984,11 +3118,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  June 1991, NAID 428081721. Catalog URL: https://catalog.archives.gov/id/428081721. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-20--Gaviria-Trujillo.pdf, object ID 428081722, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-20--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081721. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "cartel",
       "Cali cartel"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081721. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081721. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-20--Gaviria-Trujillo.pdf, object ID 428081722, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-20--Gaviria-Trujillo.pdf. Catalog subjects: Colombia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081889",
@@ -3034,7 +3170,7 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081889. Catalog URL: https://catalog.archives.gov/id/428081889. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-17--Fujimori-2.pdf, object ID 428081890, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-2.pdf. Catalog subjects: Peru. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081889. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug",
@@ -3045,7 +3181,9 @@ window.FRUS_RECORDS = [
       "drug interdiction",
       "narcotics interdiction",
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081889. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081889. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-17--Fujimori-2.pdf, object ID 428081890, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-2.pdf. Catalog subjects: Peru. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081887",
@@ -3086,13 +3224,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081887. Catalog URL: https://catalog.archives.gov/id/428081887. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-17--Fujimori-1.pdf, object ID 428081888, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-1.pdf. Catalog subjects: Peru. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081887. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug trafficking",
       "drug interdiction",
       "narcotics interdiction"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081887. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081887. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-17--Fujimori-1.pdf, object ID 428081888, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-17--Fujimori-1.pdf. Catalog subjects: Peru. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081905",
@@ -3131,11 +3271,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081905. Catalog URL: https://catalog.archives.gov/id/428081905. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-24--Perez.pdf, object ID 428081906, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081905. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "cocaine",
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081905. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081905. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-24--Perez.pdf, object ID 428081906, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081931",
@@ -3174,11 +3316,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081931. Catalog URL: https://catalog.archives.gov/id/428081931. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-02--Serrano.pdf, object ID 428081932, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-02--Serrano.pdf. Catalog subjects: Guatemala. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081931. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "cartel"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081931. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081931. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-02--Serrano.pdf, object ID 428081932, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-02--Serrano.pdf. Catalog subjects: Guatemala. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081935",
@@ -3217,11 +3361,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081935. Catalog URL: https://catalog.archives.gov/id/428081935. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-04--Aristide.pdf, object ID 428081936, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-04--Aristide.pdf. Catalog subjects: Haiti. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081935. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "drug"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081935. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081935. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-04--Aristide.pdf, object ID 428081936, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-04--Aristide.pdf. Catalog subjects: Haiti. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081943",
@@ -3259,10 +3405,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081943. Catalog URL: https://catalog.archives.gov/id/428081943. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-10--Calderon-1.pdf, object ID 428081944, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-10--Calderon-1.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081943. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081943. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081943. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-10--Calderon-1.pdf, object ID 428081944, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-10--Calderon-1.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082045",
@@ -3303,13 +3451,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  November 1991, NAID 428082045. Catalog URL: https://catalog.archives.gov/id/428082045. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592664. Digital object: 1991-11-15--Perez.pdf, object ID 428082046, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-11-15--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991, NAID 428082045. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug",
       "drug summit",
       "shipboarding",
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991, NAID 428082045. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082045. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592664. Digital object: 1991-11-15--Perez.pdf, object ID 428082046, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-11-15--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082079",
@@ -3347,10 +3497,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: December 1991, NAID 428082079. Catalog URL: https://catalog.archives.gov/id/428082079. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542561. Digital object: 1991-12-14--Salinas.pdf, object ID 428082080, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-12-14--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: December 1991, NAID 428082079. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drug trafficking"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: December 1991, NAID 428082079. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082079. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542561. Digital object: 1991-12-14--Salinas.pdf, object ID 428082080, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-12-14--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082203",
@@ -3388,11 +3540,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]:  April 1992, NAID 428082203. Catalog URL: https://catalog.archives.gov/id/428082203. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592762. Digital object: 1992-04-20--Fujimori.pdf, object ID 428082204, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-20--Fujimori.pdf. Catalog subjects: Peru. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: April 1992, NAID 428082203. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "narcotics",
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: April 1992, NAID 428082203. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082203. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592762. Digital object: 1992-04-20--Fujimori.pdf, object ID 428082204, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-04-20--Fujimori.pdf. Catalog subjects: Peru. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082233",
@@ -3431,11 +3585,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082233. Catalog URL: https://catalog.archives.gov/id/428082233. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592621. Digital object: 1992-07-06--Opening-Session--1992-Munich-Economic-Summit.pdf, object ID 428082234, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-06--Opening-Session--1992-Munich-Economic-Summit.pdf. Catalog subjects: Canada, France, Germany, Netherlands, United Kingdom, Italy, Japan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082233. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs",
       "drug summit"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082233. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082233. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592621. Digital object: 1992-07-06--Opening-Session--1992-Munich-Economic-Summit.pdf, object ID 428082234, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-06--Opening-Session--1992-Munich-Economic-Summit.pdf. Catalog subjects: Canada, France, Germany, Netherlands, United Kingdom, Italy, Japan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082273",
@@ -3473,10 +3629,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082273. Catalog URL: https://catalog.archives.gov/id/428082273. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592621. Digital object: 1992-07-07--Afternoon-Plenary-Session--1992-Munich-Economic-Summit.pdf, object ID 428082274, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-07--Afternoon-Plenary-Session--1992-Munich-Economic-Summit.pdf. Catalog subjects: France, Japan, Germany, United Kingdom, Canada, Netherlands, Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082273. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "drugs"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082273. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082273. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592621. Digital object: 1992-07-07--Afternoon-Plenary-Session--1992-Munich-Economic-Summit.pdf, object ID 428082274, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-07--Afternoon-Plenary-Session--1992-Munich-Economic-Summit.pdf. Catalog subjects: France, Japan, Germany, United Kingdom, Canada, Netherlands, Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082307",
@@ -3514,10 +3672,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082307. Catalog URL: https://catalog.archives.gov/id/428082307. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592621. Digital object: 1992-07-28--Ballen.pdf, object ID 428082308, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-28--Ballen.pdf. Catalog subjects: Ecuador. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082307. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Andean"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992, NAID 428082307. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082307. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592621. Digital object: 1992-07-28--Ballen.pdf, object ID 428082308, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-07-28--Ballen.pdf. Catalog subjects: Ecuador. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079913",
@@ -3555,10 +3715,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079913. Catalog URL: https://catalog.archives.gov/id/428079913. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-27--Tae-Woo-2.pdf, object ID 428079914, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-27--Tae-Woo-2.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079913. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989, NAID 428079913. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079913. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377380. Digital object: 1989-02-27--Tae-Woo-2.pdf, object ID 428079914, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-02-27--Tae-Woo-2.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079923",
@@ -3599,13 +3761,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079923. Catalog URL: https://catalog.archives.gov/id/428079923. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377382. Digital object: 1989-03-13--Arens.pdf, object ID 428079924, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-03-13--Arens.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079923. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist",
       "Qadhafi",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989, NAID 428079923. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079923. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377382. Digital object: 1989-03-13--Arens.pdf, object ID 428079924, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-03-13--Arens.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079935",
@@ -3643,10 +3807,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989, NAID 428079935. Catalog URL: https://catalog.archives.gov/id/428079935. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592630. Digital object: 1989-03-22--Cristiani.pdf, object ID 428079936, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-22--Cristiani.pdf. Catalog subjects: El Salvador. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989, NAID 428079935. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989, NAID 428079935. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079935. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592630. Digital object: 1989-03-22--Cristiani.pdf, object ID 428079936, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-03-22--Cristiani.pdf. Catalog subjects: El Salvador. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079943",
@@ -3684,10 +3850,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079943. Catalog URL: https://catalog.archives.gov/id/428079943. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-06--Shamir.pdf, object ID 428079944, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-06--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079943. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079943. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079943. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-06--Shamir.pdf, object ID 428079944, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-06--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079947",
@@ -3725,10 +3893,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079947. Catalog URL: https://catalog.archives.gov/id/428079947. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-11--Dumas.pdf, object ID 428079948, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-11--Dumas.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079947. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079947. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079947. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-11--Dumas.pdf, object ID 428079948, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-11--Dumas.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079967",
@@ -3766,10 +3936,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079967. Catalog URL: https://catalog.archives.gov/id/428079967. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-19--Hussein-I.pdf, object ID 428079968, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-19--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079967. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989, NAID 428079967. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079967. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377385. Digital object: 1989-04-19--Hussein-I.pdf, object ID 428079968, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-04-19--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428079979",
@@ -3807,10 +3979,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079979. Catalog URL: https://catalog.archives.gov/id/428079979. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592631. Digital object: 1989-04-22--Duarte.pdf, object ID 428079980, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-22--Duarte.pdf. Catalog subjects: El Salvador. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079979. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989, NAID 428079979. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428079979. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592631. Digital object: 1989-04-22--Duarte.pdf, object ID 428079980, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-22--Duarte.pdf. Catalog subjects: El Salvador. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080005",
@@ -3848,10 +4022,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428080005. Catalog URL: https://catalog.archives.gov/id/428080005. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-11--Arias.pdf, object ID 428080006, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-11--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428080005. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428080005. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080005. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-11--Arias.pdf, object ID 428080006, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-05-11--Arias.pdf. Catalog subjects: Costa Rica. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080023",
@@ -3889,10 +4065,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: May 1989, NAID 428080023. Catalog URL: https://catalog.archives.gov/id/428080023. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377387. Digital object: 1989-05-15--Jawara.pdf, object ID 428080024, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-15--Jawara.pdf. Catalog subjects: Gambia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: May 1989, NAID 428080023. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - January 1989-May 1989]: May 1989, NAID 428080023. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080023. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377387. Digital object: 1989-05-15--Jawara.pdf, object ID 428080024, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-15--Jawara.pdf. Catalog subjects: Gambia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082475",
@@ -3930,10 +4108,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428082475. Catalog URL: https://catalog.archives.gov/id/428082475. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-27--Cossiga.pdf, object ID 428082476, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-27--Cossiga.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428082475. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989, NAID 428082475. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082475. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592632. Digital object: 1989-05-27--Cossiga.pdf, object ID 428082476, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-05-27--Cossiga.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080029",
@@ -3971,10 +4151,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989, NAID 428080029. Catalog URL: https://catalog.archives.gov/id/428080029. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377389. Digital object: 1989-06-01--Thatcher-2.pdf, object ID 428080030, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-2.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989, NAID 428080029. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Lockerbie"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989, NAID 428080029. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080029. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377389. Digital object: 1989-06-01--Thatcher-2.pdf, object ID 428080030, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-06-01--Thatcher-2.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080059",
@@ -4014,12 +4196,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: June 1989, NAID 428080059. Catalog URL: https://catalog.archives.gov/id/428080059. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592633. Digital object: 1989-06-09--Mubarak.pdf, object ID 428080060, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-06-09--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: June 1989, NAID 428080059. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "Qadhafi",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: June 1989, NAID 428080059. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080059. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592633. Digital object: 1989-06-09--Mubarak.pdf, object ID 428080060, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-06-09--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080121",
@@ -4057,10 +4241,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080121. Catalog URL: https://catalog.archives.gov/id/428080121. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-07--Hussein-I.pdf, object ID 428080122, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-07--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080121. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989, NAID 428080121. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080121. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592634. Digital object: 1989-07-07--Hussein-I.pdf, object ID 428080122, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-07-07--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080103",
@@ -4098,10 +4284,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989, NAID 428080103. Catalog URL: https://catalog.archives.gov/id/428080103. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377390. Digital object: 1989-07-17--Lubbers-1.pdf, object ID 428080104, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-17--Lubbers-1.pdf. Catalog subjects: Netherlands. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989, NAID 428080103. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989, NAID 428080103. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080103. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377390. Digital object: 1989-07-17--Lubbers-1.pdf, object ID 428080104, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-07-17--Lubbers-1.pdf. Catalog subjects: Netherlands. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080151",
@@ -4140,11 +4328,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080151. Catalog URL: https://catalog.archives.gov/id/428080151. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-01--John-Paul-II.pdf, object ID 428080152, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-01--John-Paul-II.pdf. Catalog subjects: Vatican City. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080151. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080151. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080151. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-01--John-Paul-II.pdf, object ID 428080152, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-01--John-Paul-II.pdf. Catalog subjects: Vatican City. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080131",
@@ -4184,12 +4374,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989, NAID 428080131. Catalog URL: https://catalog.archives.gov/id/428080131. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377392. Digital object: 1989-08-02--bin-Mubarak.pdf, object ID 428080132, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-08-02--bin-Mubarak.pdf. Catalog subjects: Bahrain. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989, NAID 428080131. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist",
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989, NAID 428080131. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080131. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377392. Digital object: 1989-08-02--bin-Mubarak.pdf, object ID 428080132, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-08-02--bin-Mubarak.pdf. Catalog subjects: Bahrain. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080159",
@@ -4228,11 +4420,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080159. Catalog URL: https://catalog.archives.gov/id/428080159. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Hassan.pdf, object ID 428080160, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Hassan.pdf. Catalog subjects: Morocco. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080159. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "Hizballah"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080159. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080159. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Hassan.pdf, object ID 428080160, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Hassan.pdf. Catalog subjects: Morocco. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080157",
@@ -4271,11 +4465,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080157. Catalog URL: https://catalog.archives.gov/id/428080157. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Fahd.pdf, object ID 428080158, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Fahd.pdf. Catalog subjects: Saudi Arabia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080157. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080157. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080157. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Fahd.pdf, object ID 428080158, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Fahd.pdf. Catalog subjects: Saudi Arabia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080161",
@@ -4315,12 +4511,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080161. Catalog URL: https://catalog.archives.gov/id/428080161. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Thatcher.pdf, object ID 428080162, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080161. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist",
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080161. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080161. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Thatcher.pdf, object ID 428080162, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080155",
@@ -4359,11 +4557,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080155. Catalog URL: https://catalog.archives.gov/id/428080155. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Bendjedid.pdf, object ID 428080156, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Bendjedid.pdf. Catalog subjects: Algeria. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080155. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080155. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080155. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-02--Bendjedid.pdf, object ID 428080156, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-02--Bendjedid.pdf. Catalog subjects: Algeria. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080163",
@@ -4401,10 +4601,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080163. Catalog URL: https://catalog.archives.gov/id/428080163. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-03--Kohl.pdf, object ID 428080164, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-03--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080163. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080163. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080163. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-03--Kohl.pdf, object ID 428080164, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-03--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080165",
@@ -4442,10 +4644,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080165. Catalog URL: https://catalog.archives.gov/id/428080165. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-03--Qaboos.pdf, object ID 428080166, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-03--Qaboos.pdf. Catalog subjects: Oman. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080165. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080165. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080165. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-03--Qaboos.pdf, object ID 428080166, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-03--Qaboos.pdf. Catalog subjects: Oman. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080167",
@@ -4483,10 +4687,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080167. Catalog URL: https://catalog.archives.gov/id/428080167. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-04--Sommaruga.pdf, object ID 428080168, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-04--Sommaruga.pdf. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080167. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080167. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080167. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-04--Sommaruga.pdf, object ID 428080168, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-04--Sommaruga.pdf. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080169",
@@ -4524,10 +4730,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080169. Catalog URL: https://catalog.archives.gov/id/428080169. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-05--Bhutto.pdf, object ID 428080170, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-05--Bhutto.pdf. Catalog subjects: Pakistan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080169. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080169. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080169. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-05--Bhutto.pdf, object ID 428080170, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-05--Bhutto.pdf. Catalog subjects: Pakistan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080133",
@@ -4566,11 +4774,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989, NAID 428080133. Catalog URL: https://catalog.archives.gov/id/428080133. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377392. Digital object: 1989-08-08--Abu-Talib.pdf, object ID 428080134, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-08-08--Abu-Talib.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989, NAID 428080133. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989, NAID 428080133. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080133. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377392. Digital object: 1989-08-08--Abu-Talib.pdf, object ID 428080134, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-08-08--Abu-Talib.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080173",
@@ -4609,11 +4819,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080173. Catalog URL: https://catalog.archives.gov/id/428080173. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-09--Mubarak.pdf, object ID 428080174, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-09--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080173. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080173. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080173. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-09--Mubarak.pdf, object ID 428080174, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-09--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080205",
@@ -4653,12 +4865,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080205. Catalog URL: https://catalog.archives.gov/id/428080205. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-09--Shamir.pdf, object ID 428080206, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-09--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080205. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist",
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989, NAID 428080205. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080205. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592635. Digital object: 1989-08-09--Shamir.pdf, object ID 428080206, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-08-09--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080189",
@@ -4696,10 +4910,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080189. Catalog URL: https://catalog.archives.gov/id/428080189. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-21--Shevardnadze-1.pdf, object ID 428080190, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-21--Shevardnadze-1.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080189. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989, NAID 428080189. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080189. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377393. Digital object: 1989-09-21--Shevardnadze-1.pdf, object ID 428080190, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-09-21--Shevardnadze-1.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080243",
@@ -4740,13 +4956,15 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080243. Catalog URL: https://catalog.archives.gov/id/428080243. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377394. Digital object: 1989-10-02--Mubarak.pdf, object ID 428080244, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-02--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080243. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "Qadhafi",
       "Libya terrorism",
       "Abu Nidal"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080243. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080243. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377394. Digital object: 1989-10-02--Mubarak.pdf, object ID 428080244, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-02--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080275",
@@ -4784,10 +5002,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080275. Catalog URL: https://catalog.archives.gov/id/428080275. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377394. Digital object: 1989-10-17--Tae-Woo.pdf, object ID 428080276, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-17--Tae-Woo.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080275. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989, NAID 428080275. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080275. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377394. Digital object: 1989-10-17--Tae-Woo.pdf, object ID 428080276, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1989-10-17--Tae-Woo.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080303",
@@ -4825,10 +5045,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989, NAID 428080303. Catalog URL: https://catalog.archives.gov/id/428080303. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592637. Digital object: 1989-10-18--Mubarak.pdf, object ID 428080304, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-10-18--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989, NAID 428080303. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989, NAID 428080303. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080303. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592637. Digital object: 1989-10-18--Mubarak.pdf, object ID 428080304, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-10-18--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080433",
@@ -4866,10 +5088,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: January 1990, NAID 428080433. Catalog URL: https://catalog.archives.gov/id/428080433. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377404. Digital object: 1990-01-17--Rabin.pdf, object ID 428080434, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-17--Rabin.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: January 1990, NAID 428080433. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Hizballah"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: January 1990, NAID 428080433. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080433. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377404. Digital object: 1990-01-17--Rabin.pdf, object ID 428080434, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-01-17--Rabin.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080513",
@@ -4907,10 +5131,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: February 1990, NAID 428080513. Catalog URL: https://catalog.archives.gov/id/428080513. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592641. Digital object: 1990-02-05--Shamir.pdf, object ID 428080514, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-02-05--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: February 1990, NAID 428080513. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: February 1990, NAID 428080513. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080513. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592641. Digital object: 1990-02-05--Shamir.pdf, object ID 428080514, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-02-05--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080577",
@@ -4948,10 +5174,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: March 1990, NAID 428080577. Catalog URL: https://catalog.archives.gov/id/428080577. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377406. Digital object: 1990-03-06--Andreotti-2.pdf, object ID 428080578, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-2.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: March 1990, NAID 428080577. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: March 1990, NAID 428080577. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080577. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325377406. Digital object: 1990-03-06--Andreotti-2.pdf, object ID 428080578, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-03-06--Andreotti-2.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080611",
@@ -4989,10 +5217,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990, NAID 428080611. Catalog URL: https://catalog.archives.gov/id/428080611. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592642. Digital object: 1990-03-17--Mubarak.pdf, object ID 428080612, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-17--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990, NAID 428080611. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990, NAID 428080611. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080611. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592642. Digital object: 1990-03-17--Mubarak.pdf, object ID 428080612, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-03-17--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080627",
@@ -5031,11 +5261,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: April 1990, NAID 428080627. Catalog URL: https://catalog.archives.gov/id/428080627. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541469. Digital object: 1990-04-06--Shevardnadze.pdf, object ID 428080628, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-06--Shevardnadze.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: April 1990, NAID 428080627. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "counter terrorism",
       "counter-terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: April 1990, NAID 428080627. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080627. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541469. Digital object: 1990-04-06--Shevardnadze.pdf, object ID 428080628, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-04-06--Shevardnadze.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080671",
@@ -5073,10 +5305,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  April 1990, NAID 428080671. Catalog URL: https://catalog.archives.gov/id/428080671. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592643. Digital object: 1990-04-23--Hussein-I.pdf, object ID 428080672, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-23--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990, NAID 428080671. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990, NAID 428080671. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080671. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592643. Digital object: 1990-04-23--Hussein-I.pdf, object ID 428080672, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-23--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080669",
@@ -5115,11 +5349,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  April 1990, NAID 428080669. Catalog URL: https://catalog.archives.gov/id/428080669. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592643. Digital object: 1990-04-23--Assad.pdf, object ID 428080670, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-23--Assad.pdf. Catalog subjects: Syria. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990, NAID 428080669. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990, NAID 428080669. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080669. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592643. Digital object: 1990-04-23--Assad.pdf, object ID 428080670, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-04-23--Assad.pdf. Catalog subjects: Syria. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080709",
@@ -5157,10 +5393,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  May 1990, NAID 428080709. Catalog URL: https://catalog.archives.gov/id/428080709. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592644. Digital object: 1990-05-04--Mubarak.pdf, object ID 428080710, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-05-04--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: May 1990, NAID 428080709. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: May 1990, NAID 428080709. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080709. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592644. Digital object: 1990-05-04--Mubarak.pdf, object ID 428080710, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-05-04--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080691",
@@ -5198,10 +5436,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080691. Catalog URL: https://catalog.archives.gov/id/428080691. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-15--Ali-1.pdf, object ID 428080692, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-15--Ali-1.pdf. Catalog subjects: Tunisia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080691. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080691. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080691. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-15--Ali-1.pdf, object ID 428080692, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-15--Ali-1.pdf. Catalog subjects: Tunisia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080693",
@@ -5241,12 +5481,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080693. Catalog URL: https://catalog.archives.gov/id/428080693. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-15--Ali-2.pdf, object ID 428080694, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-15--Ali-2.pdf. Catalog subjects: Tunisia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080693. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi",
       "Libyan terrorism",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990, NAID 428080693. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080693. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541470. Digital object: 1990-05-15--Ali-2.pdf, object ID 428080694, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-05-15--Ali-2.pdf. Catalog subjects: Tunisia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080729",
@@ -5285,11 +5527,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080729. Catalog URL: https://catalog.archives.gov/id/428080729. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-02--Gorbachev.pdf, object ID 428080730, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-02--Gorbachev.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080729. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "aviation security"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080729. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080729. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-02--Gorbachev.pdf, object ID 428080730, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-02--Gorbachev.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080735",
@@ -5330,7 +5574,7 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080735. Catalog URL: https://catalog.archives.gov/id/428080735. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-06--Mitsotakis.pdf, object ID 428080736, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-06--Mitsotakis.pdf. Catalog subjects: Greece. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080735. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "counter narcotics",
       "counter-narcotics",
@@ -5338,7 +5582,9 @@ window.FRUS_RECORDS = [
       "counter terrorism",
       "counter-terrorism",
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080735. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080735. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-06--Mitsotakis.pdf, object ID 428080736, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-06--Mitsotakis.pdf. Catalog subjects: Greece. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080741",
@@ -5376,10 +5622,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080741. Catalog URL: https://catalog.archives.gov/id/428080741. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-06--Tae-Woo-3.pdf, object ID 428080742, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-06--Tae-Woo-3.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080741. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990, NAID 428080741. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080741. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541473. Digital object: 1990-06-06--Tae-Woo-3.pdf, object ID 428080742, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-06-06--Tae-Woo-3.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080771",
@@ -5419,12 +5667,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  June 1990, NAID 428080771. Catalog URL: https://catalog.archives.gov/id/428080771. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-08--Mubarak.pdf, object ID 428080772, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-08--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080771. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080771. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080771. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-08--Mubarak.pdf, object ID 428080772, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-08--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080801",
@@ -5462,10 +5712,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  June 1990, NAID 428080801. Catalog URL: https://catalog.archives.gov/id/428080801. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-12--Mubarak.pdf, object ID 428080802, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-12--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080801. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080801. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080801. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-12--Mubarak.pdf, object ID 428080802, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-12--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080805",
@@ -5504,11 +5756,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  June 1990, NAID 428080805. Catalog URL: https://catalog.archives.gov/id/428080805. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-23--Hussein-I.pdf, object ID 428080806, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-23--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080805. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080805. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080805. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-23--Hussein-I.pdf, object ID 428080806, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-23--Hussein-I.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080807",
@@ -5546,10 +5800,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]:  June 1990, NAID 428080807. Catalog URL: https://catalog.archives.gov/id/428080807. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-23--Mubarak.pdf, object ID 428080808, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-23--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080807. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990, NAID 428080807. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080807. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592645. Digital object: 1990-06-23--Mubarak.pdf, object ID 428080808, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-23--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080851",
@@ -5587,10 +5843,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080851. Catalog URL: https://catalog.archives.gov/id/428080851. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-31--Eyadema-3.pdf, object ID 428080852, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-31--Eyadema-3.pdf. Catalog subjects: Togo. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080851. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080851. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080851. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-31--Eyadema-3.pdf, object ID 428080852, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-31--Eyadema-3.pdf. Catalog subjects: Togo. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080847",
@@ -5628,10 +5886,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080847. Catalog URL: https://catalog.archives.gov/id/428080847. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-31--Eyadema-1.pdf, object ID 428080848, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-31--Eyadema-1.pdf. Catalog subjects: Togo. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080847. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990, NAID 428080847. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080847. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541475. Digital object: 1990-07-31--Eyadema-1.pdf, object ID 428080848, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-07-31--Eyadema-1.pdf. Catalog subjects: Togo. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080957",
@@ -5669,10 +5929,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  August 1990 [2], NAID 428080957. Catalog URL: https://catalog.archives.gov/id/428080957. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-20--Mitterrand.pdf, object ID 428080958, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-20--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428080957. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428080957. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080957. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-20--Mitterrand.pdf, object ID 428080958, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-20--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428080987",
@@ -5710,10 +5972,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  August 1990 [2], NAID 428080987. Catalog URL: https://catalog.archives.gov/id/428080987. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-29--Bendjedid.pdf, object ID 428080988, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-29--Bendjedid.pdf. Catalog subjects: Algeria. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428080987. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428080987. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428080987. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-29--Bendjedid.pdf, object ID 428080988, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-29--Bendjedid.pdf. Catalog subjects: Algeria. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081007",
@@ -5751,10 +6015,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  August 1990 [2], NAID 428081007. Catalog URL: https://catalog.archives.gov/id/428081007. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-31--Mitterrand.pdf, object ID 428081008, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-31--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428081007. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428081007. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081007. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-31--Mitterrand.pdf, object ID 428081008, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-31--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081005",
@@ -5793,11 +6059,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  August 1990 [2], NAID 428081005. Catalog URL: https://catalog.archives.gov/id/428081005. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-31--Thatcher.pdf, object ID 428081006, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-31--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428081005. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2], NAID 428081005. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081005. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592648. Digital object: 1990-08-31--Thatcher.pdf, object ID 428081006, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-08-31--Thatcher.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081011",
@@ -5836,11 +6104,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  September 1990, NAID 428081011. Catalog URL: https://catalog.archives.gov/id/428081011. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-01--Saleh.pdf, object ID 428081012, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-01--Saleh.pdf. Catalog subjects: Yemen (Republic). Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081011. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081011. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081011. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-01--Saleh.pdf, object ID 428081012, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-01--Saleh.pdf. Catalog subjects: Yemen (Republic). Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081019",
@@ -5878,10 +6148,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  September 1990, NAID 428081019. Catalog URL: https://catalog.archives.gov/id/428081019. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-06--Mitterrand.pdf, object ID 428081020, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-06--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081019. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081019. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081019. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-06--Mitterrand.pdf, object ID 428081020, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-06--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081025",
@@ -5919,10 +6191,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081025. Catalog URL: https://catalog.archives.gov/id/428081025. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-09--Gorbachev-1.pdf, object ID 428081026, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-09--Gorbachev-1.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081025. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081025. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081025. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-09--Gorbachev-1.pdf, object ID 428081026, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-09--Gorbachev-1.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081027",
@@ -5960,10 +6234,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081027. Catalog URL: https://catalog.archives.gov/id/428081027. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-09--Gorbachev-3.pdf, object ID 428081028, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-09--Gorbachev-3.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081027. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081027. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081027. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-09--Gorbachev-3.pdf, object ID 428081028, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-09--Gorbachev-3.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081029",
@@ -6001,10 +6277,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081029. Catalog URL: https://catalog.archives.gov/id/428081029. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-09--Gorbachev-2.pdf, object ID 428081030, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-09--Gorbachev-2.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081029. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "aviation security"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081029. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081029. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-09--Gorbachev-2.pdf, object ID 428081030, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-09--Gorbachev-2.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081055",
@@ -6042,10 +6320,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  September 1990, NAID 428081055. Catalog URL: https://catalog.archives.gov/id/428081055. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-10--Ozal.pdf, object ID 428081056, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-10--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081055. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081055. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081055. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-10--Ozal.pdf, object ID 428081056, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-10--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081059",
@@ -6083,10 +6363,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  September 1990, NAID 428081059. Catalog URL: https://catalog.archives.gov/id/428081059. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-11--Kohl.pdf, object ID 428081060, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-11--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081059. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990, NAID 428081059. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081059. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592649. Digital object: 1990-09-11--Kohl.pdf, object ID 428081060, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-09-11--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081043",
@@ -6124,10 +6406,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081043. Catalog URL: https://catalog.archives.gov/id/428081043. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-29--al-Huss.pdf, object ID 428081044, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--al-Huss.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081043. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081043. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081043. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-29--al-Huss.pdf, object ID 428081044, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-29--al-Huss.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081087",
@@ -6166,11 +6450,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081087. Catalog URL: https://catalog.archives.gov/id/428081087. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-30--Gonzalez.pdf, object ID 428081088, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-30--Gonzalez.pdf. Catalog subjects: Spain. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081087. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081087. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081087. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-30--Gonzalez.pdf, object ID 428081088, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-30--Gonzalez.pdf. Catalog subjects: Spain. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081091",
@@ -6208,10 +6494,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081091. Catalog URL: https://catalog.archives.gov/id/428081091. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-30--Salinas.pdf, object ID 428081092, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-30--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081091. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990, NAID 428081091. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081091. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541479. Digital object: 1990-09-30--Salinas.pdf, object ID 428081092, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-09-30--Salinas.pdf. Catalog subjects: Mexico. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081113",
@@ -6249,10 +6537,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081113. Catalog URL: https://catalog.archives.gov/id/428081113. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Shevardnadze.pdf, object ID 428081114, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Shevardnadze.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081113. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081113. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081113. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Shevardnadze.pdf, object ID 428081114, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Shevardnadze.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081111",
@@ -6290,10 +6580,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081111. Catalog URL: https://catalog.archives.gov/id/428081111. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Perez-de-Cuellar.pdf, object ID 428081112, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Perez-de-Cuellar.pdf. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081111. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081111. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081111. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Perez-de-Cuellar.pdf, object ID 428081112, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Perez-de-Cuellar.pdf. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081095",
@@ -6331,10 +6623,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081095. Catalog URL: https://catalog.archives.gov/id/428081095. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Collor-de-Mello.pdf, object ID 428081096, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Collor-de-Mello.pdf. Catalog subjects: Brazil. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081095. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081095. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081095. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-01--Collor-de-Mello.pdf, object ID 428081096, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-01--Collor-de-Mello.pdf. Catalog subjects: Brazil. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081117",
@@ -6373,11 +6667,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081117. Catalog URL: https://catalog.archives.gov/id/428081117. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-02--Moiseyev.pdf, object ID 428081118, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-02--Moiseyev.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081117. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081117. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081117. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-02--Moiseyev.pdf, object ID 428081118, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-02--Moiseyev.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081159",
@@ -6415,10 +6711,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  October 1990, NAID 428081159. Catalog URL: https://catalog.archives.gov/id/428081159. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592650. Digital object: 1990-10-25--Mubarak.pdf, object ID 428081160, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-10-25--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990, NAID 428081159. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990, NAID 428081159. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081159. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592650. Digital object: 1990-10-25--Mubarak.pdf, object ID 428081160, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-10-25--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081163",
@@ -6456,10 +6754,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  October 1990, NAID 428081163. Catalog URL: https://catalog.archives.gov/id/428081163. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592650. Digital object: 1990-10-26--Kohl.pdf, object ID 428081164, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-10-26--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990, NAID 428081163. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990, NAID 428081163. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081163. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592650. Digital object: 1990-10-26--Kohl.pdf, object ID 428081164, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-10-26--Kohl.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081161",
@@ -6497,10 +6797,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  October 1990, NAID 428081161. Catalog URL: https://catalog.archives.gov/id/428081161. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592650. Digital object: 1990-10-26--Andreotti.pdf, object ID 428081162, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-10-26--Andreotti.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990, NAID 428081161. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990, NAID 428081161. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081161. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592650. Digital object: 1990-10-26--Andreotti.pdf, object ID 428081162, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-10-26--Andreotti.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081131",
@@ -6538,10 +6840,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081131. Catalog URL: https://catalog.archives.gov/id/428081131. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-31--Casaroli.pdf, object ID 428081132, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-31--Casaroli.pdf. Catalog subjects: Vatican City. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081131. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990, NAID 428081131. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081131. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541480. Digital object: 1990-10-31--Casaroli.pdf, object ID 428081132, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-10-31--Casaroli.pdf. Catalog subjects: Vatican City. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081133",
@@ -6579,10 +6883,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081133. Catalog URL: https://catalog.archives.gov/id/428081133. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-13--Andreotti-1.pdf, object ID 428081134, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-1.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081133. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081133. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081133. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-13--Andreotti-1.pdf, object ID 428081134, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-1.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081135",
@@ -6620,10 +6926,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081135. Catalog URL: https://catalog.archives.gov/id/428081135. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-13--Andreotti-2.pdf, object ID 428081136, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-2.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081135. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081135. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081135. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-13--Andreotti-2.pdf, object ID 428081136, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-13--Andreotti-2.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081215",
@@ -6661,10 +6969,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  November 1990, NAID 428081215. Catalog URL: https://catalog.archives.gov/id/428081215. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592651. Digital object: 1990-11-15--Hawke.pdf, object ID 428081216, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-11-15--Hawke.pdf. Catalog subjects: Australia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: November 1990, NAID 428081215. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: November 1990, NAID 428081215. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081215. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592651. Digital object: 1990-11-15--Hawke.pdf, object ID 428081216, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-11-15--Hawke.pdf. Catalog subjects: Australia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081177",
@@ -6702,10 +7012,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081177. Catalog URL: https://catalog.archives.gov/id/428081177. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-16--Jong-Koo.pdf, object ID 428081178, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-16--Jong-Koo.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081177. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081177. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081177. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-16--Jong-Koo.pdf, object ID 428081178, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-16--Jong-Koo.pdf. Catalog subjects: South Korea. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081185",
@@ -6743,10 +7055,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081185. Catalog URL: https://catalog.archives.gov/id/428081185. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-17--Havel-2.pdf, object ID 428081186, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Havel-2.pdf. Catalog subjects: Czechoslovakia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081185. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081185. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081185. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-17--Havel-2.pdf, object ID 428081186, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-17--Havel-2.pdf. Catalog subjects: Czechoslovakia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081191",
@@ -6784,10 +7098,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081191. Catalog URL: https://catalog.archives.gov/id/428081191. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-18--Mitterrand.pdf, object ID 428081192, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-18--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081191. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081191. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081191. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-18--Mitterrand.pdf, object ID 428081192, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-18--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081193",
@@ -6825,10 +7141,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081193. Catalog URL: https://catalog.archives.gov/id/428081193. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-19--Thatcher.pdf, object ID 428081194, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-19--Thatcher.pdf. Catalog subjects: Great Britain. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081193. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081193. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081193. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-19--Thatcher.pdf, object ID 428081194, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-19--Thatcher.pdf. Catalog subjects: Great Britain. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081197",
@@ -6867,11 +7185,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081197. Catalog URL: https://catalog.archives.gov/id/428081197. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-21--al-Ahmed-al-Sabah.pdf, object ID 428081198, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-21--al-Ahmed-al-Sabah.pdf. Catalog subjects: Kuwait. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081197. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081197. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081197. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-21--al-Ahmed-al-Sabah.pdf, object ID 428081198, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-21--al-Ahmed-al-Sabah.pdf. Catalog subjects: Kuwait. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081205",
@@ -6911,12 +7231,14 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081205. Catalog URL: https://catalog.archives.gov/id/428081205. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-23--Assad.pdf, object ID 428081206, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-23--Assad.pdf. Catalog subjects: Syria. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081205. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist",
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990, NAID 428081205. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081205. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541482. Digital object: 1990-11-23--Assad.pdf, object ID 428081206, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-11-23--Assad.pdf. Catalog subjects: Syria. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081269",
@@ -6954,10 +7276,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]:  December 1990, NAID 428081269. Catalog URL: https://catalog.archives.gov/id/428081269. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592652. Digital object: 1990-12-17--Shoval.pdf, object ID 428081270, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-12-17--Shoval.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: December 1990, NAID 428081269. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Hamas"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: December 1990, NAID 428081269. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081269. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592652. Digital object: 1990-12-17--Shoval.pdf, object ID 428081270, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-12-17--Shoval.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081243",
@@ -6996,11 +7320,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990, NAID 428081243. Catalog URL: https://catalog.archives.gov/id/428081243. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541483. Digital object: 1990-12-21--Major-2.pdf, object ID 428081244, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-2.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990, NAID 428081243. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990, NAID 428081243. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081243. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325541483. Digital object: 1990-12-21--Major-2.pdf, object ID 428081244, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1990-12-21--Major-2.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081371",
@@ -7038,10 +7364,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  January 1991, NAID 428081371. Catalog URL: https://catalog.archives.gov/id/428081371. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592653. Digital object: 1991-01-21--Mubarak.pdf, object ID 428081372, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-21--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991, NAID 428081371. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991, NAID 428081371. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081371. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592653. Digital object: 1991-01-21--Mubarak.pdf, object ID 428081372, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-21--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081397",
@@ -7079,10 +7407,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  January 1991, NAID 428081397. Catalog URL: https://catalog.archives.gov/id/428081397. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592653. Digital object: 1991-01-28--Kohl-1.pdf, object ID 428081398, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-28--Kohl-1.pdf. Catalog subjects: Germany. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991, NAID 428081397. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991, NAID 428081397. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081397. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592653. Digital object: 1991-01-28--Kohl-1.pdf, object ID 428081398, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-01-28--Kohl-1.pdf. Catalog subjects: Germany. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081405",
@@ -7120,10 +7450,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [1], NAID 428081405. Catalog URL: https://catalog.archives.gov/id/428081405. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-02--Fahd.pdf, object ID 428081406, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-02--Fahd.pdf. Catalog subjects: Saudi Arabia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081405. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081405. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081405. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-02--Fahd.pdf, object ID 428081406, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-02--Fahd.pdf. Catalog subjects: Saudi Arabia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081423",
@@ -7161,10 +7493,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [1], NAID 428081423. Catalog URL: https://catalog.archives.gov/id/428081423. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-07--Hawke.pdf, object ID 428081424, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-07--Hawke.pdf. Catalog subjects: Australia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081423. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081423. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081423. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-07--Hawke.pdf, object ID 428081424, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-07--Hawke.pdf. Catalog subjects: Australia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081441",
@@ -7202,10 +7536,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [1], NAID 428081441. Catalog URL: https://catalog.archives.gov/id/428081441. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-08--Perez-de-Cuellar.pdf, object ID 428081442, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Perez-de-Cuellar.pdf. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081441. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081441. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081441. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-08--Perez-de-Cuellar.pdf, object ID 428081442, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Perez-de-Cuellar.pdf. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081443",
@@ -7243,10 +7579,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [1], NAID 428081443. Catalog URL: https://catalog.archives.gov/id/428081443. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-08--Shankar.pdf, object ID 428081444, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Shankar.pdf. Catalog subjects: India. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081443. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081443. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081443. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-08--Shankar.pdf, object ID 428081444, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-08--Shankar.pdf. Catalog subjects: India. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081449",
@@ -7284,10 +7622,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [1], NAID 428081449. Catalog URL: https://catalog.archives.gov/id/428081449. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-09--Lubbers.pdf, object ID 428081450, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-09--Lubbers.pdf. Catalog subjects: Netherlands. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081449. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1], NAID 428081449. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081449. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592654. Digital object: 1991-02-09--Lubbers.pdf, object ID 428081450, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-09--Lubbers.pdf. Catalog subjects: Netherlands. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081499",
@@ -7325,10 +7665,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [2], NAID 428081499. Catalog URL: https://catalog.archives.gov/id/428081499. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592655. Digital object: 1991-02-23--Ozal.pdf, object ID 428081500, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-23--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2], NAID 428081499. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2], NAID 428081499. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081499. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592655. Digital object: 1991-02-23--Ozal.pdf, object ID 428081500, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-23--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081555",
@@ -7366,10 +7708,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  February 1991 [2], NAID 428081555. Catalog URL: https://catalog.archives.gov/id/428081555. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592655. Digital object: 1991-02-28--Ozal.pdf, object ID 428081556, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-28--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2], NAID 428081555. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2], NAID 428081555. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081555. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592655. Digital object: 1991-02-28--Ozal.pdf, object ID 428081556, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-02-28--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081533",
@@ -7407,10 +7751,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 428081533. Catalog URL: https://catalog.archives.gov/id/428081533. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542549. Digital object: 1991-03-14--Mitterrand.pdf, object ID 428081534, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-14--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 428081533. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 428081533. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081533. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542549. Digital object: 1991-03-14--Mitterrand.pdf, object ID 428081534, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-14--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081545",
@@ -7448,10 +7794,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 428081545. Catalog URL: https://catalog.archives.gov/id/428081545. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542549. Digital object: 1991-03-29--Ruutel.pdf, object ID 428081546, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf. Catalog subjects: Estonia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 428081545. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991, NAID 428081545. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081545. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542549. Digital object: 1991-03-29--Ruutel.pdf, object ID 428081546, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-03-29--Ruutel.pdf. Catalog subjects: Estonia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081595",
@@ -7489,10 +7837,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  April 1991, NAID 428081595. Catalog URL: https://catalog.archives.gov/id/428081595. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592657. Digital object: 1991-04-09--Perez.pdf, object ID 428081596, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-09--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991, NAID 428081595. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991, NAID 428081595. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081595. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592657. Digital object: 1991-04-09--Perez.pdf, object ID 428081596, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-09--Perez.pdf. Catalog subjects: Venezuela. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081651",
@@ -7530,10 +7880,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]:  April 1991, NAID 428081651. Catalog URL: https://catalog.archives.gov/id/428081651. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592657. Digital object: 1991-04-20--Ozal.pdf, object ID 428081652, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-20--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991, NAID 428081651. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991, NAID 428081651. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081651. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592657. Digital object: 1991-04-20--Ozal.pdf, object ID 428081652, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-04-20--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081625",
@@ -7572,11 +7924,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991, NAID 428081625. Catalog URL: https://catalog.archives.gov/id/428081625. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542550. Digital object: 1991-04-24--Gouled-2.pdf, object ID 428081626, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-24--Gouled-2.pdf. Catalog subjects: Djibouti. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991, NAID 428081625. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages",
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991, NAID 428081625. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081625. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542550. Digital object: 1991-04-24--Gouled-2.pdf, object ID 428081626, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-04-24--Gouled-2.pdf. Catalog subjects: Djibouti. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081711",
@@ -7615,11 +7969,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  June 1991, NAID 428081711. Catalog URL: https://catalog.archives.gov/id/428081711. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-03--Andreotti.pdf, object ID 428081712, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-03--Andreotti.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081711. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081711. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081711. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-03--Andreotti.pdf, object ID 428081712, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-03--Andreotti.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081713",
@@ -7657,10 +8013,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  June 1991, NAID 428081713. Catalog URL: https://catalog.archives.gov/id/428081713. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-04--Ozal.pdf, object ID 428081714, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-04--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081713. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081713. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081713. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-04--Ozal.pdf, object ID 428081714, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-04--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081681",
@@ -7698,10 +8056,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991, NAID 428081681. Catalog URL: https://catalog.archives.gov/id/428081681. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542552. Digital object: 1991-06-05--Jugnauth-1.pdf, object ID 428081682, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-05--Jugnauth-1.pdf. Catalog subjects: Mauritius. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991, NAID 428081681. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "aviation security"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991, NAID 428081681. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081681. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542552. Digital object: 1991-06-05--Jugnauth-1.pdf, object ID 428081682, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-06-05--Jugnauth-1.pdf. Catalog subjects: Mauritius. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081719",
@@ -7739,10 +8099,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  June 1991, NAID 428081719. Catalog URL: https://catalog.archives.gov/id/428081719. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-13--Ozal.pdf, object ID 428081720, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-13--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081719. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991, NAID 428081719. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081719. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592659. Digital object: 1991-06-13--Ozal.pdf, object ID 428081720, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-06-13--Ozal.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081739",
@@ -7784,14 +8146,16 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991, NAID 428081739. Catalog URL: https://catalog.archives.gov/id/428081739. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542555. Digital object: 1991-07-15--Andreotti.pdf, object ID 428081740, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Andreotti.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991, NAID 428081739. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Pan Am 103",
       "Qadhafi",
       "Libyan terrorism",
       "Libya terrorism",
       "Abu Nidal"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991, NAID 428081739. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081739. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542555. Digital object: 1991-07-15--Andreotti.pdf, object ID 428081740, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-15--Andreotti.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081777",
@@ -7829,10 +8193,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991, NAID 428081777. Catalog URL: https://catalog.archives.gov/id/428081777. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542555. Digital object: 1991-07-18--Mitsotakis.pdf, object ID 428081778, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-18--Mitsotakis.pdf. Catalog subjects: Greece. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991, NAID 428081777. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991, NAID 428081777. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081777. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542555. Digital object: 1991-07-18--Mitsotakis.pdf, object ID 428081778, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-07-18--Mitsotakis.pdf. Catalog subjects: Greece. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081841",
@@ -7870,10 +8236,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  August 1991, NAID 428081841. Catalog URL: https://catalog.archives.gov/id/428081841. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592661. Digital object: 1991-08-21--Gorbachev.pdf, object ID 428081842, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-21--Gorbachev.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: August 1991, NAID 428081841. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: August 1991, NAID 428081841. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081841. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592661. Digital object: 1991-08-21--Gorbachev.pdf, object ID 428081842, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-08-21--Gorbachev.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081877",
@@ -7911,10 +8279,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081877. Catalog URL: https://catalog.archives.gov/id/428081877. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-13--Boutros-Ghali.pdf, object ID 428081878, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-13--Boutros-Ghali.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081877. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081877. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081877. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-13--Boutros-Ghali.pdf, object ID 428081878, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-13--Boutros-Ghali.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081893",
@@ -7952,10 +8322,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081893. Catalog URL: https://catalog.archives.gov/id/428081893. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-23--Perez-de-Cuellar.pdf, object ID 428081894, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-23--Perez-de-Cuellar.pdf. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081893. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081893. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081893. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-23--Perez-de-Cuellar.pdf, object ID 428081894, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-23--Perez-de-Cuellar.pdf. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081897",
@@ -7994,11 +8366,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081897. Catalog URL: https://catalog.archives.gov/id/428081897. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-24--Hrawi.pdf, object ID 428081898, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Hrawi.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081897. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991, NAID 428081897. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081897. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542558. Digital object: 1991-09-24--Hrawi.pdf, object ID 428081898, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-09-24--Hrawi.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081977",
@@ -8036,10 +8410,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081977. Catalog URL: https://catalog.archives.gov/id/428081977. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-15--Isa-2.pdf, object ID 428081978, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-15--Isa-2.pdf. Catalog subjects: Bahrain. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081977. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081977. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081977. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-15--Isa-2.pdf, object ID 428081978, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-15--Isa-2.pdf. Catalog subjects: Bahrain. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081983",
@@ -8077,10 +8453,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081983. Catalog URL: https://catalog.archives.gov/id/428081983. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-22--Havel.pdf, object ID 428081984, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-22--Havel.pdf. Catalog subjects: Czechoslovakia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081983. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081983. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081983. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-22--Havel.pdf, object ID 428081984, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-22--Havel.pdf. Catalog subjects: Czechoslovakia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081989",
@@ -8118,10 +8496,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081989. Catalog URL: https://catalog.archives.gov/id/428081989. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-29--Gorbachev-2.pdf, object ID 428081990, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-29--Gorbachev-2.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081989. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081989. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081989. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-29--Gorbachev-2.pdf, object ID 428081990, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-29--Gorbachev-2.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082001",
@@ -8159,10 +8539,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428082001. Catalog URL: https://catalog.archives.gov/id/428082001. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Shara.pdf, object ID 428082002, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Shara.pdf. Catalog subjects: Syria. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428082001. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428082001. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082001. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Shara.pdf, object ID 428082002, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Shara.pdf. Catalog subjects: Syria. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081999",
@@ -8201,11 +8583,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081999. Catalog URL: https://catalog.archives.gov/id/428081999. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Shamir.pdf, object ID 428082000, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081999. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081999. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081999. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Shamir.pdf, object ID 428082000, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Shamir.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081993",
@@ -8244,11 +8628,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081993. Catalog URL: https://catalog.archives.gov/id/428081993. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Bouez.pdf, object ID 428081994, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Bouez.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081993. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorist",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081993. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081993. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Bouez.pdf, object ID 428081994, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Bouez.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081997",
@@ -8286,10 +8672,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081997. Catalog URL: https://catalog.archives.gov/id/428081997. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Mousa.pdf, object ID 428081998, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Mousa.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081997. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081997. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081997. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--Mousa.pdf, object ID 428081998, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--Mousa.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428081991",
@@ -8327,10 +8715,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081991. Catalog URL: https://catalog.archives.gov/id/428081991. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--bin-Sultan.pdf, object ID 428081992, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--bin-Sultan.pdf. Catalog subjects: Saudi Arabia. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081991. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "PFLP"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991, NAID 428081991. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428081991. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325542559. Digital object: 1991-10-30--bin-Sultan.pdf, object ID 428081992, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1991-10-30--bin-Sultan.pdf. Catalog subjects: Saudi Arabia. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082043",
@@ -8368,10 +8758,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  November 1991, NAID 428082043. Catalog URL: https://catalog.archives.gov/id/428082043. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592664. Digital object: 1991-11-07--Mubarak.pdf, object ID 428082044, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-11-07--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991, NAID 428082043. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991, NAID 428082043. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082043. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592664. Digital object: 1991-11-07--Mubarak.pdf, object ID 428082044, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-11-07--Mubarak.pdf. Catalog subjects: Egypt. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082097",
@@ -8409,10 +8801,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]:  December 1991, NAID 428082097. Catalog URL: https://catalog.archives.gov/id/428082097. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592665. Digital object: 1991-12-13--Yeltsin.pdf, object ID 428082098, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-12-13--Yeltsin.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: December 1991, NAID 428082097. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "aviation security"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: December 1991, NAID 428082097. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082097. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592665. Digital object: 1991-12-13--Yeltsin.pdf, object ID 428082098, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1991-12-13--Yeltsin.pdf. Catalog subjects: Soviet Union. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082133",
@@ -8450,10 +8844,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082133. Catalog URL: https://catalog.archives.gov/id/428082133. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568085. Digital object: 1992-01-31--Vranitzky.pdf, object ID 428082134, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-01-31--Vranitzky.pdf. Catalog subjects: Austria. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082133. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082133. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082133. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568085. Digital object: 1992-01-31--Vranitzky.pdf, object ID 428082134, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-01-31--Vranitzky.pdf. Catalog subjects: Austria. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082129",
@@ -8491,10 +8887,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082129. Catalog URL: https://catalog.archives.gov/id/428082129. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568085. Digital object: 1992-01-31--Mitterrand.pdf, object ID 428082130, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-01-31--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082129. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082129. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082129. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568085. Digital object: 1992-01-31--Mitterrand.pdf, object ID 428082130, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-01-31--Mitterrand.pdf. Catalog subjects: France. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082127",
@@ -8532,10 +8930,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082127. Catalog URL: https://catalog.archives.gov/id/428082127. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568085. Digital object: 1992-01-31--Martens.pdf, object ID 428082128, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-01-31--Martens.pdf. Catalog subjects: Belgium. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082127. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992, NAID 428082127. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082127. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568085. Digital object: 1992-01-31--Martens.pdf, object ID 428082128, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-01-31--Martens.pdf. Catalog subjects: Belgium. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082161",
@@ -8573,10 +8973,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]:  March 1992, NAID 428082161. Catalog URL: https://catalog.archives.gov/id/428082161. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592761. Digital object: 1992-03-06--Major.pdf, object ID 428082162, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-03-06--Major.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: March 1992, NAID 428082161. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Pan Am 103"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: March 1992, NAID 428082161. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082161. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592761. Digital object: 1992-03-06--Major.pdf, object ID 428082162, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-03-06--Major.pdf. Catalog subjects: United Kingdom. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082139",
@@ -8615,11 +9017,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: March 1992, NAID 428082139. Catalog URL: https://catalog.archives.gov/id/428082139. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568102. Digital object: 1992-03-10--Shapiro.pdf, object ID 428082140, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-03-10--Shapiro.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: March 1992, NAID 428082139. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "hostage",
       "hostages"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: March 1992, NAID 428082139. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082139. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568102. Digital object: 1992-03-10--Shapiro.pdf, object ID 428082140, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-03-10--Shapiro.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082153",
@@ -8658,11 +9062,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: April 1992, NAID 428082153. Catalog URL: https://catalog.archives.gov/id/428082153. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568103. Digital object: 1992-04-07--Cossiga.pdf, object ID 428082154, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-04-07--Cossiga.pdf. Catalog subjects: Italy. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: April 1992, NAID 428082153. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-January 1992-June 1992]: April 1992, NAID 428082153. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082153. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325568103. Digital object: 1992-04-07--Cossiga.pdf, object ID 428082154, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-04-07--Cossiga.pdf. Catalog subjects: Italy. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082323",
@@ -8701,11 +9107,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: September 1992, NAID 428082323. Catalog URL: https://catalog.archives.gov/id/428082323. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592625. Digital object: 1992-09-21--Boutros-Ghali.pdf, object ID 428082324, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-09-21--Boutros-Ghali.pdf. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: September 1992, NAID 428082323. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Qadhafi",
       "Libya terrorism"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: September 1992, NAID 428082323. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082323. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592625. Digital object: 1992-09-21--Boutros-Ghali.pdf, object ID 428082324, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-09-21--Boutros-Ghali.pdf. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082375",
@@ -8744,11 +9152,13 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082375. Catalog URL: https://catalog.archives.gov/id/428082375. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-17--Al-Salam-Majali.pdf, object ID 428082376, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-17--Al-Salam-Majali.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082375. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Hizballah",
       "Hamas"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082375. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082375. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-17--Al-Salam-Majali.pdf, object ID 428082376, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-17--Al-Salam-Majali.pdf. Catalog subjects: Jordan. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082377",
@@ -8786,10 +9196,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082377. Catalog URL: https://catalog.archives.gov/id/428082377. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-17--Israeli-Delegation.pdf, object ID 428082378, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-17--Israeli-Delegation.pdf. Catalog subjects: Israel. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082377. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Hamas"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082377. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082377. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-17--Israeli-Delegation.pdf, object ID 428082378, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-17--Israeli-Delegation.pdf. Catalog subjects: Israel. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082419",
@@ -8827,10 +9239,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082419. Catalog URL: https://catalog.archives.gov/id/428082419. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-17--Lebanese-Delegation.pdf, object ID 428082420, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-17--Lebanese-Delegation.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082419. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Hamas"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082419. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082419. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-17--Lebanese-Delegation.pdf, object ID 428082420, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-17--Lebanese-Delegation.pdf. Catalog subjects: Lebanon. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082423",
@@ -8868,10 +9282,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Memcon Files",
       "url": "https://catalog.archives.gov/id/321498039"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082423. Catalog URL: https://catalog.archives.gov/id/428082423. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-18--Husseini.pdf, object ID 428082424, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-18--Husseini.pdf. Catalog subjects: Palestine. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082423. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "Hamas"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Memcon Files, [Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992, NAID 428082423. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082423. Series URL: https://catalog.archives.gov/id/321498039. Folder URL: https://catalog.archives.gov/id/325592628. Digital object: 1992-12-18--Husseini.pdf, object ID 428082424, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498039/1992-12-18--Husseini.pdf. Catalog subjects: Palestine. Access restriction: Unrestricted."
   },
   {
     "id": "conversation-428082437",
@@ -8910,10 +9326,12 @@ window.FRUS_RECORDS = [
       "shortName": "Presidential Telcon Files",
       "url": "https://catalog.archives.gov/id/321498139"
     },
-    "sourceNote": "Source: National Archives Catalog, Records of the National Security Council (George H. W. Bush Administration), Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - July 1992-January 1993]:  December 1992, NAID 428082437. Catalog URL: https://catalog.archives.gov/id/428082437. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592783. Digital object: 1992-12-24--Demirel.pdf, object ID 428082438, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-12-24--Demirel.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - July 1992-January 1993]: December 1992, NAID 428082437. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
     "matchedQueries": [
       "terrorism",
       "terrorist"
-    ]
+    ],
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Presidential Telcon Files, [Memorandum of Telephone Conversations (Telcons) - July 1992-January 1993]: December 1992, NAID 428082437. Declassified copy released through the National Archives Catalog. Access restriction: Unrestricted. Original classification, distribution, drafting, and place/time data require PDF verification.",
+    "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/428082437. Series URL: https://catalog.archives.gov/id/321498139. Folder URL: https://catalog.archives.gov/id/325592783. Digital object: 1992-12-24--Demirel.pdf, object ID 428082438, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1992-12-24--Demirel.pdf. Catalog subjects: Turkey. Access restriction: Unrestricted."
   }
 ];

@@ -568,11 +568,18 @@ h2 {
 }
 
 .record-source-note,
+.record-catalog-trail,
 .record-signals {
   margin: 0;
   color: var(--muted);
   font-size: 0.88rem;
   line-height: 1.55;
+}
+
+.record-catalog-trail {
+  margin-top: 8px;
+  color: #6b747c;
+  font-size: 0.8rem;
 }
 
 .record-signals {

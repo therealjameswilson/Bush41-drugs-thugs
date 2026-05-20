@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const { notesFromSiteRecord } = require("./frus-source-notes");
 
 const repoRoot = path.resolve(__dirname, "..");
 const dataPath = path.join(repoRoot, "data", "records.json");
@@ -26,12 +27,18 @@ function main() {
   const records = JSON.parse(fs.readFileSync(dataPath, "utf8"));
   const included = records
     .filter((record) => record.pdfUrl && isConversation(record))
-    .map((record) => ({
-      ...record,
-      documentType: documentType(record),
-      scoutCategory: "declassified-memcon-telcon",
-      releaseStatus: "Declassified presidential conversation; PDF available"
-    }))
+    .map((record) => {
+      const notes = notesFromSiteRecord(record);
+      return {
+        ...record,
+        documentType: documentType(record),
+        scoutCategory: "declassified-memcon-telcon",
+        releaseStatus: "Declassified presidential conversation; PDF available",
+        sourceNote: notes.sourceNote,
+        frusSourceNote: notes.sourceNote,
+        catalogTrail: notes.catalogTrail
+      };
+    })
     .sort((a, b) => a.chapter.number - b.chapter.number || a.sortDate.localeCompare(b.sortDate) || a.title.localeCompare(b.title));
 
   const includedNaids = new Set(included.map((record) => record.naid));

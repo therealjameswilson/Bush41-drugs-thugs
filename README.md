@@ -24,12 +24,18 @@ The workbench supports:
   local review state
 - chapter chronology, single chronology, match-strength, and document-type sorts
 - local "reviewed" marking in browser storage
-- copyable source-note stubs for PDF verification and editorial drafting
+- copyable FRUS-style source-note drafts for PDF verification and editorial drafting
+- a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
 - CSV export of the currently visible record set
 
 The workbench reflects FRUS production practice: it keeps chronological
 arrangement central, treats source-note metadata as something to verify in the
 PDF, and separates discovery evidence from final editorial selection.
+The source-note drafts follow the compact pattern used in FRUS 1989-1992,
+Volume XXXI: repository and collection path first, then status/classification
+information when verified. Because this site has Catalog metadata rather than
+page-level archival review, original classification, distribution, drafting,
+and meeting-place details remain explicit PDF-verification tasks.
 
 ## Source Collections
 

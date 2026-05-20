@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const { notesFromCatalogRecord } = require("./frus-source-notes");
 
 const repoRoot = path.resolve(__dirname, "..");
 const dataPath = path.join(repoRoot, "data", "records.json");
@@ -89,44 +90,6 @@ function digitalObject(record) {
   return (record.digitalObjects || []).find((object) => object.objectUrl) || null;
 }
 
-function collectionFromRecord(record) {
-  return (record.ancestors || []).find((item) => item.levelOfDescription === "collection") || null;
-}
-
-function folderFromRecord(record) {
-  return (record.ancestors || []).find((item) => item.levelOfDescription === "fileUnit") || null;
-}
-
-function variantNumbers(record, type) {
-  return (record.variantControlNumbers || [])
-    .filter((item) => item.type === type)
-    .map((item) => item.number);
-}
-
-function subjects(record) {
-  return (record.subjects || []).map((subject) => subject.heading).filter(Boolean);
-}
-
-function sourceNote(record, series, object) {
-  const collection = collectionFromRecord(record);
-  const folder = folderFromRecord(record);
-  const foiaNumbers = variantNumbers(record, "FOIA Tracking Number");
-  const otherFindingAids = variantNumbers(record, "Other Finding Aid Identifier");
-  return [
-    `Source: National Archives Catalog, ${collection?.title || "Records of the National Security Council (George H. W. Bush Administration)"}, ${series.title}, ${folder?.title || "folder pending"}, NAID ${record.naId}.`,
-    `Catalog URL: https://catalog.archives.gov/id/${record.naId}.`,
-    `Series URL: https://catalog.archives.gov/id/${series.naid}.`,
-    folder?.naId ? `Folder URL: https://catalog.archives.gov/id/${folder.naId}.` : "",
-    object ? `Digital object: ${object.objectFilename}, object ID ${object.objectId}, URL ${object.objectUrl}.` : "Digital object: none listed in Catalog.",
-    foiaNumbers.length ? `FOIA tracking: ${foiaNumbers.join(", ")}.` : "",
-    otherFindingAids.length ? `Other finding aid identifier: ${otherFindingAids.join(", ")}.` : "",
-    subjects(record).length ? `Catalog subjects: ${subjects(record).join(", ")}.` : "",
-    `Access restriction: ${record.accessRestriction?.status || "Unknown"}.`
-  ]
-    .filter(Boolean)
-    .join(" ");
-}
-
 async function fetchJson(url) {
   let lastError;
   for (let attempt = 1; attempt <= 3; attempt += 1) {
@@ -182,6 +145,7 @@ function toSiteRecord(match) {
   const chapter = chapterFor(match);
   const date = dateFor(record);
   const terms = match.queryMatches[chapter.name];
+  const notes = notesFromCatalogRecord(record, series, object);
 
   return {
     id: `conversation-${record.naId}`,
@@ -212,7 +176,9 @@ function toSiteRecord(match) {
       shortName: series.shortName,
       url: `https://catalog.archives.gov/id/${series.naid}`
     },
-    sourceNote: sourceNote(record, series, object),
+    sourceNote: notes.sourceNote,
+    frusSourceNote: notes.sourceNote,
+    catalogTrail: notes.catalogTrail,
     matchedQueries: [...new Set([...match.queryMatches.Counternarcotics, ...match.queryMatches.Counterterrorism])]
   };
 }

@@ -64,6 +64,14 @@ function getTerms(record) {
   ].filter(Boolean);
 }
 
+function frusSourceNote(record) {
+  return record.frusSourceNote || record.sourceNote || "FRUS-style source note pending.";
+}
+
+function catalogTrail(record) {
+  return record.catalogTrail || record.sourceNote || "";
+}
+
 function searchableText(record) {
   return [
     record.naid,
@@ -75,7 +83,8 @@ function searchableText(record) {
     record.localIdentifier,
     record.source?.title,
     record.source?.shortName,
-    record.sourceNote,
+    frusSourceNote(record),
+    catalogTrail(record),
     record.objectFilename,
     getTerms(record).join(" ")
   ]
@@ -289,14 +298,20 @@ function createRecordRow(record) {
 
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
-  sourceNote.textContent = record.sourceNote || "Source note pending.";
+  sourceNote.textContent = `FRUS-style source note draft: ${frusSourceNote(record)}`;
+
+  const trail = document.createElement("p");
+  trail.className = "record-catalog-trail";
+  trail.textContent = `Catalog trail: ${catalogTrail(record)}`;
 
   const terms = createTopicTerms(record);
   const signals = createSignalLine(record);
   body.append(titleLine, createMeta(record));
   if (terms) body.append(terms);
   if (signals) body.append(signals);
-  body.append(sourceNote, createRecordActions(record));
+  body.append(sourceNote);
+  if (catalogTrail(record)) body.append(trail);
+  body.append(createRecordActions(record));
 
   const links = document.createElement("div");
   links.className = "record-links";
@@ -390,7 +405,8 @@ function exportVisibleRecords() {
     "pdf_url",
     "matched_terms",
     "compiler_flags",
-    "source_note"
+    "frus_source_note_draft",
+    "catalog_trail"
   ];
 
   const rows = visibleRecords.map((record) => {
@@ -407,7 +423,8 @@ function exportVisibleRecords() {
       record.pdfUrl,
       [...new Set(getTerms(record))].join("; "),
       signalMatches(record).map((signal) => signal.label).join("; "),
-      record.sourceNote
+      frusSourceNote(record),
+      catalogTrail(record)
     ].map(csvEscape).join(",");
   });
 
@@ -433,9 +450,11 @@ function compilerStub(record) {
     `NAID: ${record.naid}`,
     `Catalog: ${record.catalogUrl || ""}`,
     `PDF: ${record.pdfUrl || ""}`,
+    `FRUS-style source note draft: ${frusSourceNote(record)}`,
+    `Catalog trail: ${catalogTrail(record)}`,
     `Matched evidence: ${terms}`,
     `Compiler flags: ${flags}`,
-    "FRUS verification: confirm Washington date/time, participants, classification, distribution/drafting data, excisions, and any cross-reference editorial notes directly in the PDF."
+    "FRUS verification: confirm exact dateline, participants, original classification, distribution/drafting data, excisions, and any meeting-place or cross-reference editorial notes directly in the PDF before publication."
   ].join("\n");
 }
 
