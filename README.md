@@ -13,6 +13,24 @@ with online PDFs. It presents two separate chronological chapters:
 1. Counternarcotics
 2. Counterterrorism
 
+## Compiler Workbench
+
+The public site is optimized for a FRUS compiler rather than general browsing.
+The workbench supports:
+
+- search across titles, NAIDs, source notes, source series, filenames, and
+  matched topical evidence
+- filters for chapter, document type, year, source series, match strength, and
+  local review state
+- chapter chronology, single chronology, match-strength, and document-type sorts
+- local "reviewed" marking in browser storage
+- copyable source-note stubs for PDF verification and editorial drafting
+- CSV export of the currently visible record set
+
+The workbench reflects FRUS production practice: it keeps chronological
+arrangement central, treats source-note metadata as something to verify in the
+PDF, and separates discovery evidence from final editorial selection.
+
 ## Source Collections
 
 The public site is built from unrestricted, item-level presidential
