@@ -6,8 +6,9 @@ Counternarcotics and Counterterrorism*.
 
 The site follows the same basic static pattern as the Bush 41 Western Europe,
 South Asia, and South America companion sites. Records live in `data/records.json`,
-with `data/records.js` as a browser-friendly mirror. The site presents two
-separate chronological chapters:
+with `data/records.js` as a browser-friendly mirror. The public chronology is
+narrowed to declassified memoranda of conversation and telephone conversations
+with online PDFs. It presents two separate chronological chapters:
 
 1. Counternarcotics
 2. Counterterrorism
@@ -40,11 +41,10 @@ FRUS-workflow filters. The local harvester reproduces that exact fan-out and
 then applies a compiler-focused review list to keep high-value records for the
 site while preserving excluded topic hits in the audit.
 
-The primary chronology emphasizes FRUS-likely document forms: memcons, telcons,
-meeting minutes, follow-up meeting files, directives/reviews, substantive
-memoranda or reports, and anchoring event files such as the San Antonio
-Narcotics Summit. Broader topical folders remain in the audit reports rather
-than the main chronology.
+The current public chronology emphasizes only declassified memcons and telcons.
+Broader topical folders, meeting minutes, directive/review files, policy
+folders, and anchoring event files remain in the audit reports rather than the
+main chronology.
 
 Refresh the reviewed NARA Scout index with:
 
@@ -150,6 +150,18 @@ node scripts/harvest-all-textual-collections.js
 The report records all searched collections, reviewed hits, direct-title
 matches, already-selected records, page-count basis, and files excluded after
 PDF page review.
+
+## Memcon/Telcon-Only Refinement
+
+After running any broad harvest, narrow the public site back to declassified
+memoranda of conversation and telephone conversations with online PDFs:
+
+```bash
+node scripts/refine-memcon-telcon-only.js
+```
+
+This rewrites `data/records.json` and `data/records.js` and writes
+`reports/memcon-telcon-refinement.json`.
 
 ## Local Preview
 

@@ -30,9 +30,9 @@
           <p class="kicker">FRUS 1989-1992, Volume XXVIII</p>
           <h1 id="hero-title">Counternarcotics and Counterterrorism Files</h1>
           <p class="lede">
-            A chapter-first research archive for memcons, minutes, memoranda, directives, reviews,
-            and transition files relevant to the compiler of the FRUS volume on counternarcotics and
-            counterterrorism.
+            A chapter-first research archive narrowed to declassified memoranda of conversation and
+            telephone conversations relevant to the compiler of the FRUS volume on counternarcotics
+            and counterterrorism.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
             <a class="button primary" href="#records">Browse Records</a>
@@ -66,7 +66,7 @@
       <section class="stats" aria-label="Archive summary">
         <div>
           <span id="total-records">0</span>
-          <p>records found</p>
+          <p>declassified conversations</p>
         </div>
         <div>
           <span>2</span>
@@ -88,14 +88,14 @@
             <p class="chapter-number">Chapter 1</p>
             <h3>Counternarcotics</h3>
             <p class="chapter-count"><span data-chapter-count="Counternarcotics">0</span> records</p>
-            <p>Drug interdiction, Andean strategy, Colombia, Peru, Bolivia, certification, shipboarding, and related NSC/DC decision files.</p>
+            <p>Declassified presidential conversations on drug control, Andean strategy, Colombia, Peru, and counternarcotics diplomacy.</p>
             <span class="chapter-action">View chronological files</span>
           </a>
           <a class="chapter-card" href="#chapter-counterterrorism" aria-label="View Counterterrorism records">
             <p class="chapter-number">Chapter 2</p>
             <h3>Counterterrorism</h3>
             <p class="chapter-count"><span data-chapter-count="Counterterrorism">0</span> records</p>
-            <p>Terrorism policy, hostages, aviation security, Libya, Lockerbie, extradition, state sponsors, and crisis-response memoranda.</p>
+            <p>Declassified presidential conversations on terrorism policy, hostages, aviation security, Libya, Lockerbie, and extradition when available.</p>
             <span class="chapter-action">View chronological files</span>
           </a>
         </div>
@@ -104,7 +104,7 @@
       <section class="section" id="records" aria-labelledby="records-title">
         <div class="section-heading">
           <p class="kicker">Chronological Records</p>
-          <h2 id="records-title">Found Source Files</h2>
+          <h2 id="records-title">Declassified Memcons and Telcons</h2>
         </div>
         <div id="records-root" class="records-root" aria-live="polite"></div>
       </section>
@@ -141,7 +141,9 @@
           <code>node scripts/harvest-whorm.js</code> to refresh the WHORM case-file layer, and
           <code>node scripts/harvest-chief-of-staff.js</code> to refresh Chief of Staff files. Use
           <code>node scripts/harvest-all-textual-collections.js</code> to refresh the full Bush
-          Library textual-collections sweep.
+          Library textual-collections sweep. Use <code>node scripts/refine-memcon-telcon-only.js</code>
+          after any broad harvest to narrow the public chronology back to declassified memcons and
+          telcons only.
         </p>
       </section>
     </main>
