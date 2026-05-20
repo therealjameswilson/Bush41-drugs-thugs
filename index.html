@@ -57,7 +57,7 @@
             </div>
             <div>
               <dt>Source Base</dt>
-              <dd>Scowcroft Papers; NSC H-Files; Institutional Files; WHORM; Chief of Staff; Bush textual collections</dd>
+              <dd>Presidential Memcon Files; Presidential Telcon Files</dd>
             </div>
           </dl>
         </aside>
@@ -115,16 +115,8 @@
           <h2 id="sources-title">Collections Searched</h2>
         </div>
         <div class="source-grid">
-          <a href="https://catalog.archives.gov/id/4522156">Brent Scowcroft Papers</a>
-          <a href="https://catalog.archives.gov/id/312293887">NSC Meeting Files</a>
-          <a href="https://catalog.archives.gov/id/312294079">NSC/DC Meetings</a>
-          <a href="https://catalog.archives.gov/id/312294094">NSC/DC Meetings Follow-Up</a>
-          <a href="https://catalog.archives.gov/id/313189297">NSR Files</a>
-          <a href="https://catalog.archives.gov/id/313189290">NSD Files</a>
-          <a href="https://catalog.archives.gov/id/348937136">Institutional Files - Transition Files</a>
-          <a href="https://catalog.archives.gov/id/564645">White House Office of Records Management</a>
-          <a href="https://catalog.archives.gov/id/580456">White House Office of the Chief of Staff</a>
-          <a href="https://www.bush41library.gov/digital-research-room/about-textual-collections/all-textual-collections">Bush Library All Textual Collections</a>
+          <a href="https://catalog.archives.gov/id/321498039">Presidential Memcon Files</a>
+          <a href="https://catalog.archives.gov/id/321498139">Presidential Telcon Files</a>
         </div>
       </section>
 
@@ -134,16 +126,10 @@
           <h2 id="ingest-title">Refresh Command</h2>
         </div>
         <p>
-          Run <code>node scripts/harvest-nara-scout-search.js</code> to refresh
-          <code>data/records.json</code> and <code>reports/nara-scout-volume28-candidates.json</code>.
-          Use <code>node scripts/harvest-topic-records.js</code> for the deeper focused pass through
-          the named Scowcroft, NSC/DC, NSR, NSD, and transition collections. Use
-          <code>node scripts/harvest-whorm.js</code> to refresh the WHORM case-file layer, and
-          <code>node scripts/harvest-chief-of-staff.js</code> to refresh Chief of Staff files. Use
-          <code>node scripts/harvest-all-textual-collections.js</code> to refresh the full Bush
-          Library textual-collections sweep. Use <code>node scripts/refine-memcon-telcon-only.js</code>
-          after any broad harvest to narrow the public chronology back to declassified memcons and
-          telcons only.
+          Run <code>node scripts/harvest-presidential-conversations.js</code> to refresh the public
+          chronology from the Presidential Memcon and Telcon Files. The broader harvest scripts and
+          reports remain in the repository for source discovery, but the public site publishes only
+          unrestricted declassified conversations with online PDFs.
         </p>
       </section>
     </main>

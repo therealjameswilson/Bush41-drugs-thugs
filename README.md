@@ -15,8 +15,27 @@ with online PDFs. It presents two separate chronological chapters:
 
 ## Source Collections
 
-The first harvester searches the National Archives Catalog for file-unit records
-inside these source NAIDs:
+The public site is built from unrestricted, item-level presidential
+conversation records with online PDFs inside these source series:
+
+- Presidential Memcon Files, NAID 321498039: <https://catalog.archives.gov/id/321498039>
+- Presidential Telcon Files, NAID 321498139: <https://catalog.archives.gov/id/321498139>
+
+Refresh the public chronology with:
+
+```bash
+node scripts/harvest-presidential-conversations.js
+```
+
+This writes:
+
+- `data/records.json`
+- `data/records.js`
+- `reports/presidential-conversation-harvest.json`
+
+The broader discovery harvesters search the National Archives Catalog for
+file-unit records inside these source NAIDs and preserve their results as audit
+reports:
 
 - Brent Scowcroft Papers, NAID 4522156: <https://catalog.archives.gov/id/4522156>
 - H-Files - National Security Council (NSC) Meeting Files, NAID 312293887: <https://catalog.archives.gov/id/312293887>
