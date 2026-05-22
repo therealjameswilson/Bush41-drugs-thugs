@@ -13,6 +13,11 @@ with online PDFs. It presents two separate chronological chapters:
 1. Counternarcotics
 2. Counterterrorism
 
+The site also includes a separate Public Papers reference section for Bush's
+public statements on the same subjects. Those references are drawn from GovInfo,
+kept separate from the archival chronology, and cited as compact Public Papers
+source notes.
+
 ## Compiler Workbench
 
 The public site is optimized for a FRUS compiler rather than general browsing.
@@ -27,6 +32,8 @@ The workbench supports:
 - copyable FRUS-style source-note drafts for PDF verification and editorial drafting
 - a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
 - CSV export of the currently visible record set
+- a separate GovInfo Public Papers reference layer with Public Papers citations,
+  PDF page links, public-voice filters, and CSV export
 
 The workbench reflects FRUS production practice: it keeps chronological
 arrangement central, treats source-note metadata as something to verify in the
@@ -56,6 +63,25 @@ This writes:
 - `data/records.json`
 - `data/records.js`
 - `reports/presidential-conversation-harvest.json`
+
+Refresh the public-statements reference layer with:
+
+```bash
+node scripts/harvest-public-statements.js
+```
+
+This downloads cached GovInfo Public Papers PDFs into `.cache/public-papers`,
+extracts official PDF text, promotes entries with title or substantive body
+signals, and writes:
+
+- `data/public-statements.json`
+- `data/public-statements.js`
+- `reports/public-statements-harvest.json`
+
+Public Papers source notes follow the compact form used in FRUS source notes,
+for example: `Public Papers: Bush, 1992-93, vol. I, pp. 320-321.` The audit
+report retains passing keyword mentions that were reviewed but not promoted to
+the public reference list.
 
 The broader discovery harvesters search the National Archives Catalog for
 file-unit records inside these source NAIDs and preserve their results as audit
@@ -220,3 +246,5 @@ Then open <http://127.0.0.1:4182/>.
 
 - FRUS 1989-1992, Volume XXVIII: <https://history.state.gov/historicaldocuments/frus1989-92v28>
 - National Archives Catalog: <https://catalog.archives.gov/>
+- GovInfo Public Papers, George H. W. Bush:
+  <https://www.govinfo.gov/app/collection/ppp/president-41_Bush%2C%20George%20H.%20W.>

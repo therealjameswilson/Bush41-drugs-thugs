@@ -20,6 +20,7 @@
         <a href="#workbench">Workbench</a>
         <a href="#chapters">Chapters</a>
         <a href="#records">Records</a>
+        <a href="#references">References</a>
         <a href="#sources">Sources</a>
         <a href="#ingest">Ingest</a>
       </nav>
@@ -80,6 +81,10 @@
         <div>
           <span id="total-reviewed">0</span>
           <p>reviewed locally</p>
+        </div>
+        <div>
+          <span id="total-public-statements">0</span>
+          <p>public statements</p>
         </div>
       </section>
 
@@ -219,6 +224,81 @@
         <div id="records-root" class="records-root" aria-live="polite"></div>
       </section>
 
+      <section class="section" id="references" aria-labelledby="references-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Public Reference</p>
+            <h2 id="references-title">Bush Public Statements</h2>
+          </div>
+          <p class="section-note">
+            Official Public Papers entries from GovInfo, arranged into the same two chapter chronologies
+            and cited in compact FRUS source-note form.
+          </p>
+        </div>
+
+        <div class="workbench reference-workbench">
+          <div class="control-grid" role="search" aria-label="Filter public statements">
+            <label>
+              Search references
+              <input id="reference-search" type="search" placeholder="Try Cartagena, Libya, hostages, Drug Control Strategy..." />
+            </label>
+            <label>
+              Chapter
+              <select id="reference-chapter">
+                <option value="">All chapters</option>
+                <option value="Counternarcotics">Counternarcotics</option>
+                <option value="Counterterrorism">Counterterrorism</option>
+              </select>
+            </label>
+            <label>
+              Year
+              <select id="reference-year">
+                <option value="">All years</option>
+              </select>
+            </label>
+            <label>
+              Type
+              <select id="reference-type">
+                <option value="">All types</option>
+              </select>
+            </label>
+            <label>
+              Public voice
+              <select id="reference-voice">
+                <option value="">All public entries</option>
+              </select>
+            </label>
+            <label>
+              Match basis
+              <select id="reference-relevance">
+                <option value="">All matches</option>
+                <option value="Title anchor">Title anchor</option>
+                <option value="Substantive body">Substantive body</option>
+              </select>
+            </label>
+            <label>
+              Sort
+              <select id="sort-references">
+                <option value="chapter-date">Chapter chronology</option>
+                <option value="date">Single chronology</option>
+                <option value="type">Document type</option>
+                <option value="source">Public Papers volume</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="workbench-actions">
+            <p id="reference-count">Showing 0 of 0 public statements.</p>
+            <div>
+              <button id="reset-references" type="button">Reset</button>
+              <button id="export-references-csv" type="button">Export references CSV</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="public-statements-root" class="records-root" aria-live="polite"></div>
+      </section>
+
       <section class="section" id="sources" aria-labelledby="sources-title">
         <div class="section-heading">
           <p class="kicker">Catalog Sources</p>
@@ -227,6 +307,7 @@
         <div class="source-grid">
           <a href="https://catalog.archives.gov/id/321498039">Presidential Memcon Files</a>
           <a href="https://catalog.archives.gov/id/321498139">Presidential Telcon Files</a>
+          <a href="https://www.govinfo.gov/app/collection/ppp/president-41_Bush%2C%20George%20H.%20W.">GovInfo Public Papers</a>
           <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries">FRUS Production Guidance</a>
         </div>
       </section>
@@ -240,7 +321,9 @@
           Run <code>node scripts/harvest-presidential-conversations.js</code> to refresh the public
           chronology from the Presidential Memcon and Telcon Files. The broader harvest scripts and
           reports remain in the repository for source discovery, but the public site publishes only
-          unrestricted declassified conversations with online PDFs.
+          unrestricted declassified conversations with online PDFs. Run
+          <code>node scripts/harvest-public-statements.js</code> to refresh the GovInfo Public Papers
+          reference section.
         </p>
       </section>
     </main>
@@ -252,6 +335,7 @@
       </p>
     </footer>
     <script src="data/records.js"></script>
+    <script src="data/public-statements.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
