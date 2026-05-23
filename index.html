@@ -8,6 +8,7 @@
       name="description"
       content="A working research archive for records relevant to Foreign Relations of the United States, 1989-1992, Volume XXVIII, Counternarcotics and Counterterrorism."
     />
+    <link rel="icon" href="data:," />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -19,8 +20,11 @@
       <nav aria-label="Primary navigation">
         <a href="#workbench">Workbench</a>
         <a href="#chapters">Chapters</a>
+        <a href="#events">Events</a>
         <a href="#records">Records</a>
+        <a href="#gaps">Gaps</a>
         <a href="#references">References</a>
+        <a href="#review-queue">Review</a>
         <a href="#sources">Sources</a>
         <a href="#ingest">Ingest</a>
       </nav>
@@ -85,6 +89,14 @@
         <div>
           <span id="total-public-statements">0</span>
           <p>public statements</p>
+        </div>
+        <div>
+          <span id="total-event-dossiers">0</span>
+          <p>event dossiers</p>
+        </div>
+        <div>
+          <span id="total-compiler-gaps">0</span>
+          <p>compiler gaps</p>
         </div>
       </section>
 
@@ -216,12 +228,96 @@
         </div>
       </section>
 
+      <section class="section" id="events" aria-labelledby="events-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Anchoring Events</p>
+            <h2 id="events-title">Compiler Dossiers</h2>
+          </div>
+          <p class="section-note">
+            Event bundles tie declassified conversations to missing policy files, NSC/DC files,
+            WHORM case files, and public statements.
+          </p>
+        </div>
+        <div id="event-dossiers-root" class="dossier-grid" aria-live="polite"></div>
+      </section>
+
       <section class="section" id="records" aria-labelledby="records-title">
         <div class="section-heading">
           <p class="kicker">Chronological Records</p>
           <h2 id="records-title">Declassified Memcons and Telcons</h2>
         </div>
         <div id="records-root" class="records-root" aria-live="polite"></div>
+      </section>
+
+      <section class="section" id="gaps" aria-labelledby="gaps-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Compiler Risk</p>
+            <h2 id="gaps-title">Gaps to Pull or Explain</h2>
+          </div>
+          <p class="section-note">
+            Listed NSC/DC, Chief of Staff, WHORM, and policy files that are not part of the
+            declassified memcon/telcon chronology but may be necessary for a defensible FRUS selection.
+          </p>
+        </div>
+
+        <div class="workbench gap-workbench">
+          <div class="control-grid" role="search" aria-label="Filter compiler gaps">
+            <label>
+              Search gaps
+              <input id="gap-search" type="search" placeholder="Try San Antonio, Pan Am 103, Strategy II, hostage..." />
+            </label>
+            <label>
+              Chapter
+              <select id="gap-chapter">
+                <option value="">All chapters</option>
+                <option value="Counternarcotics">Counternarcotics</option>
+                <option value="Counterterrorism">Counterterrorism</option>
+              </select>
+            </label>
+            <label>
+              Category
+              <select id="gap-category">
+                <option value="">All categories</option>
+              </select>
+            </label>
+            <label>
+              Priority
+              <select id="gap-priority">
+                <option value="">All priorities</option>
+                <option value="High">High</option>
+                <option value="Medium">Medium</option>
+                <option value="Review">Review</option>
+              </select>
+            </label>
+            <label>
+              Source confidence
+              <select id="gap-confidence">
+                <option value="">All source states</option>
+              </select>
+            </label>
+            <label>
+              Sort
+              <select id="sort-gaps">
+                <option value="priority">Priority</option>
+                <option value="chapter-date">Chapter chronology</option>
+                <option value="date">Single chronology</option>
+                <option value="category">Category</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="workbench-actions">
+            <p id="gap-count">Showing 0 of 0 compiler gaps.</p>
+            <div>
+              <button id="reset-gaps" type="button">Reset</button>
+              <button id="export-gaps-csv" type="button">Export gaps CSV</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="compiler-gaps-root" class="records-root" aria-live="polite"></div>
       </section>
 
       <section class="section" id="references" aria-labelledby="references-title">
@@ -299,6 +395,66 @@
         <div id="public-statements-root" class="records-root" aria-live="polite"></div>
       </section>
 
+      <section class="section" id="review-queue" aria-labelledby="review-queue-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Reference Review</p>
+            <h2 id="review-queue-title">Public Papers Passing Mentions</h2>
+          </div>
+          <p class="section-note">
+            Lower-priority GovInfo keyword hits kept out of the promoted reference list, retained
+            here for checking chronology gaps and public-positioning context.
+          </p>
+        </div>
+
+        <div class="workbench mention-workbench">
+          <div class="control-grid" role="search" aria-label="Filter Public Papers review mentions">
+            <label>
+              Search mentions
+              <input id="mention-search" type="search" placeholder="Try cocaine, Libya, extradition, hostages..." />
+            </label>
+            <label>
+              Chapter
+              <select id="mention-chapter">
+                <option value="">All chapters</option>
+                <option value="Counternarcotics">Counternarcotics</option>
+                <option value="Counterterrorism">Counterterrorism</option>
+              </select>
+            </label>
+            <label>
+              Year
+              <select id="mention-year">
+                <option value="">All years</option>
+              </select>
+            </label>
+            <label>
+              Public Papers volume
+              <select id="mention-package">
+                <option value="">All volumes</option>
+              </select>
+            </label>
+            <label>
+              Sort
+              <select id="sort-mentions">
+                <option value="chapter-date">Chapter chronology</option>
+                <option value="date">Single chronology</option>
+                <option value="source">Public Papers volume</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="workbench-actions">
+            <p id="mention-count">Showing 0 of 0 passing mentions.</p>
+            <div>
+              <button id="reset-mentions" type="button">Reset</button>
+              <button id="export-mentions-csv" type="button">Export mentions CSV</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="public-mentions-root" class="records-root" aria-live="polite"></div>
+      </section>
+
       <section class="section" id="sources" aria-labelledby="sources-title">
         <div class="section-heading">
           <p class="kicker">Catalog Sources</p>
@@ -307,6 +463,9 @@
         <div class="source-grid">
           <a href="https://catalog.archives.gov/id/321498039">Presidential Memcon Files</a>
           <a href="https://catalog.archives.gov/id/321498139">Presidential Telcon Files</a>
+          <a href="https://catalog.archives.gov/id/312294079">NSC/DC Meetings</a>
+          <a href="https://catalog.archives.gov/id/580456">Chief of Staff Files</a>
+          <a href="https://catalog.archives.gov/id/564645">WHORM Files</a>
           <a href="https://www.govinfo.gov/app/collection/ppp/president-41_Bush%2C%20George%20H.%20W.">GovInfo Public Papers</a>
           <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries">FRUS Production Guidance</a>
         </div>
@@ -319,11 +478,14 @@
         </div>
         <p>
           Run <code>node scripts/harvest-presidential-conversations.js</code> to refresh the public
-          chronology from the Presidential Memcon and Telcon Files. The broader harvest scripts and
-          reports remain in the repository for source discovery, but the public site publishes only
-          unrestricted declassified conversations with online PDFs. Run
+          chronology from the Presidential Memcon and Telcon Files, then run
+          <code>node scripts/enrich-conversation-pdfs.js</code> to measure pages and extract first-page
+          verification metadata. The broader harvest scripts and reports remain in the repository for
+          source discovery, while this site publishes declassified conversations plus explicit gap queues
+          for compiler risk. Run
           <code>node scripts/harvest-public-statements.js</code> to refresh the GovInfo Public Papers
-          reference section.
+          reference section, then run <code>node scripts/build-compiler-risk-data.js</code> to rebuild
+          event dossiers, gap lists, and the Public Papers review queue.
         </p>
       </section>
     </main>
@@ -336,6 +498,9 @@
     </footer>
     <script src="data/records.js"></script>
     <script src="data/public-statements.js"></script>
+    <script src="data/event-dossiers.js"></script>
+    <script src="data/compiler-gaps.js"></script>
+    <script src="data/public-statement-review.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

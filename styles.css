@@ -259,6 +259,7 @@ dd {
 
 .stats div,
 .chapter-card,
+.dossier-card,
 .source-grid a,
 .record-row,
 .ingest,
@@ -462,9 +463,125 @@ h2 {
 }
 
 .records-root,
-.record-list {
+.record-list,
+.dossier-grid {
   display: grid;
   gap: 14px;
+}
+
+.dossier-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.dossier-card {
+  display: grid;
+  align-content: start;
+  gap: 14px;
+  padding: 22px;
+}
+
+.dossier-card h3 {
+  margin: 0;
+  color: var(--blue);
+  font-size: 1.35rem;
+}
+
+.dossier-meta,
+.dossier-summary,
+.dossier-action,
+.dossier-empty {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.dossier-meta {
+  font-size: 0.8rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.dossier-summary,
+.dossier-action {
+  font-size: 0.92rem;
+}
+
+.dossier-action {
+  padding-left: 12px;
+  color: #31424a;
+  font-weight: 750;
+  border-left: 4px solid var(--gold);
+}
+
+.dossier-counts {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.dossier-counts div {
+  padding: 10px;
+  background: rgba(22, 76, 99, 0.06);
+  border: 1px solid rgba(22, 76, 99, 0.12);
+  border-radius: 6px;
+}
+
+.dossier-counts strong,
+.dossier-counts span {
+  display: block;
+}
+
+.dossier-counts strong {
+  color: var(--blue);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.dossier-counts span {
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 850;
+}
+
+.dossier-list {
+  padding-top: 12px;
+  border-top: 1px solid rgba(207, 216, 210, 0.85);
+}
+
+.dossier-list h4 {
+  margin: 0 0 8px;
+  font-size: 0.9rem;
+}
+
+.dossier-list ul {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.dossier-list li {
+  display: grid;
+  gap: 3px;
+}
+
+.dossier-list a {
+  color: var(--ink);
+  font-size: 0.9rem;
+  font-weight: 800;
+  line-height: 1.35;
+  text-decoration-color: rgba(156, 62, 53, 0.35);
+}
+
+.dossier-list span,
+.dossier-empty {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 750;
 }
 
 .record-chapter {
@@ -569,11 +686,18 @@ h2 {
 
 .record-source-note,
 .record-catalog-trail,
+.record-pdf-check,
 .record-signals {
   margin: 0;
   color: var(--muted);
   font-size: 0.88rem;
   line-height: 1.55;
+}
+
+.record-pdf-check {
+  margin-bottom: 8px;
+  color: #31424a;
+  font-weight: 750;
 }
 
 .record-catalog-trail {
@@ -663,6 +787,7 @@ footer {
 
   .hero,
   .chapter-grid,
+  .dossier-grid,
   .stats,
   .source-grid,
   .compiler-guidance,

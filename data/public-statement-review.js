@@ -1,0 +1,14202 @@
+window.BUSH_PUBLIC_STATEMENT_REVIEW = [
+  {
+    "id": "public-review-PPP-1989-book1-1-inaugural-address",
+    "title": "Inaugural Address",
+    "date": "1989-01-20",
+    "sortDate": "1989-01-20",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 1,
+    "printedPageEnd": 4,
+    "pageRange": "pp. 1-4",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 1-4.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 1-4.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-13-interview-with-gerald-boyd-of-the-new-york-times-and-katherine-lewis-of-the-houston-post",
+    "title": "Interview With Gerald Boyd of the New York Times and Katherine Lewis of the Houston Post",
+    "date": "1989-01-25",
+    "sortDate": "1989-01-25",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 13,
+    "printedPageEnd": 15,
+    "pageRange": "pp. 13-15",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 13-15.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 13-15.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-33-remarks-at-the-swearing-in-ceremony-for-elizabeth-h-dole-as-secretary-of-labor",
+    "title": "Remarks at the Swearing-in Ceremony for Elizabeth H. Dole as Secretary of Labor",
+    "date": "1989-01-30",
+    "sortDate": "1989-01-30",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 33,
+    "printedPageEnd": 37,
+    "pageRange": "pp. 33-37",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 33-37.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 33-37.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-57-remarks-at-the-swearing-in-ceremony-for-samuel-k-skinner-as-secretary-of-transportation",
+    "title": "Remarks at the Swearing-in Ceremony for Samuel K. Skinner as Secretary of Transportation",
+    "date": "1989-02-06",
+    "sortDate": "1989-02-06",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 57,
+    "printedPageEnd": 60,
+    "pageRange": "pp. 57-60",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 57-60.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 57-60.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-84-remarks-to-members-of-the-business-and-industry-association-of-new-hampshire-in-manchester",
+    "title": "Remarks to Members of the Business and Industry Association of New Hampshire in Manchester",
+    "date": "1989-02-13",
+    "sortDate": "1989-02-13",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 84,
+    "printedPageEnd": 87,
+    "pageRange": "pp. 84-87",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 84-87.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 84-87.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-112-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-02-21",
+    "sortDate": "1989-02-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 112,
+    "printedPageEnd": 117,
+    "pageRange": "pp. 112-117",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 112-117.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 112-117.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-166-remarks-at-a-reception-for-participants-in-the-national-endowment-for-the-humanities-teach",
+    "title": "Remarks at a Reception for Participants in the National Endowment for the Humanities Teacher-Scholar Program",
+    "date": "1989-03-02",
+    "sortDate": "1989-03-02",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 166,
+    "printedPageEnd": 169,
+    "pageRange": "pp. 166-169",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 166-169.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 166-169.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-207-remarks-at-the-swearing-in-ceremony-for-louis-w-sullivan-as-secretary-of-health-and-human-",
+    "title": "Remarks at the Swearing-in Ceremony for Louis W. Sullivan as Secretary of Health and Human Services",
+    "date": "1989-03-10",
+    "sortDate": "1989-03-10",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 207,
+    "printedPageEnd": 210,
+    "pageRange": "pp. 207-210",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 207-210.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 207-210.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-233-remarks-to-the-national-legislative-conference-of-the-independent-insurance-agents-of-amer",
+    "title": "Remarks to the National Legislative Conference of the Independent Insurance Agents of America",
+    "date": "1989-03-14",
+    "sortDate": "1989-03-14",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 233,
+    "printedPageEnd": 237,
+    "pageRange": "pp. 233-237",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 233-237.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 233-237.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-246-remarks-at-a-luncheon-hosted-by-the-forum-club-in-houston-texas",
+    "title": "Remarks at a Luncheon Hosted by the Forum Club in Houston, Texas",
+    "date": "1989-03-16",
+    "sortDate": "1989-03-16",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 246,
+    "printedPageEnd": 252,
+    "pageRange": "pp. 246-252",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 246-252.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 246-252.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-265-nomination-of-melvin-floyd-sembler-to-be-united-states-ambassador-to-australia",
+    "title": "Nomination of Melvin Floyd Sembler To Be United States Ambassador to Australia",
+    "date": "1989-03-17",
+    "sortDate": "1989-03-17",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 265,
+    "printedPageEnd": 265,
+    "pageRange": "p. 265",
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 265.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 265.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-270-remarks-and-a-question-and-answer-session-with-the-state-legislators-working-group",
+    "title": "Remarks and a Question-and-Answer Session With the State Legislators Working Group",
+    "date": "1989-03-20",
+    "sortDate": "1989-03-20",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 270,
+    "printedPageEnd": 274,
+    "pageRange": "pp. 270-274",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 270-274.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 270-274.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-285-remarks-at-a-meeting-with-amish-and-mennonite-leaders-in-lancaster-pennsylvania",
+    "title": "Remarks at a Meeting With Amish and Mennonite Leaders in Lancaster, Pennsylvania",
+    "date": "1989-03-22",
+    "sortDate": "1989-03-22",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 285,
+    "printedPageEnd": 291,
+    "pageRange": "pp. 285-291",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 285-291.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 285-291.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-328-remarks-and-a-question-and-answer-session-with-high-school-students-from-the-close-up-foun",
+    "title": "Remarks and a Question-and-Answer Session With High School Students From the Close Up Foundation",
+    "date": "1989-03-29",
+    "sortDate": "1989-03-29",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 328,
+    "printedPageEnd": 334,
+    "pageRange": "pp. 328-334",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 328-334.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 328-334.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-364-message-to-the-congress-transmitting-proposed-legislation-on-educational-excellence",
+    "title": "Message to the Congress Transmitting Proposed Legislation on Educational Excellence",
+    "date": "1989-04-05",
+    "sortDate": "1989-04-05",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 364,
+    "printedPageEnd": 366,
+    "pageRange": "pp. 364-366",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 364-366.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 364-366.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-362-remarks-at-the-presentation-ceremony-for-the-national-teacher-of-the-year-award",
+    "title": "Remarks at the Presentation Ceremony for the National Teacher of the Year Award",
+    "date": "1989-04-05",
+    "sortDate": "1989-04-05",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 362,
+    "printedPageEnd": 364,
+    "pageRange": "pp. 362-364",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 362-364.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 362-364.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-393-remarks-at-the-presentation-ceremony-for-the-president-s-volunteer-action-awards",
+    "title": "Remarks at the Presentation Ceremony for the President's Volunteer Action Awards",
+    "date": "1989-04-11",
+    "sortDate": "1989-04-11",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 393,
+    "printedPageEnd": 397,
+    "pageRange": "pp. 393-397",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 393-397.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 393-397.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-449-interview-with-members-of-the-white-house-press-corps",
+    "title": "Interview With Members of the White House Press Corps",
+    "date": "1989-04-20",
+    "sortDate": "1989-04-20",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 449,
+    "printedPageEnd": 454,
+    "pageRange": "pp. 449-454",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 449-454.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 449-454.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-488-remarks-at-the-drug-command-coordination-control-and-intelligence-center-dedication-ceremo",
+    "title": "Remarks at the Drug Command Coordination Control and Intelligence Center Dedication Ceremony in Miami, Florida",
+    "date": "1989-04-27",
+    "sortDate": "1989-04-27",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 488,
+    "printedPageEnd": 490,
+    "pageRange": "pp. 488-490",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 488-490.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 488-490.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-504-remarks-to-the-council-of-the-americas",
+    "title": "Remarks to the Council of the Americas",
+    "date": "1989-05-02",
+    "sortDate": "1989-05-02",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 504,
+    "printedPageEnd": 507,
+    "pageRange": "pp. 504-507",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 504-507.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 504-507.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-551-remarks-at-the-mississippi-state-university-commencement-ceremony-in-starkville",
+    "title": "Remarks at the Mississippi State University Commencement Ceremony in Starkville",
+    "date": "1989-05-13",
+    "sortDate": "1989-05-13",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 551,
+    "printedPageEnd": 554,
+    "pageRange": "pp. 551-554",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 551-554.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 551-554.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-557-remarks-at-the-national-peace-officers-memorial-day-ceremony",
+    "title": "Remarks at the National Peace Officers' Memorial Day Ceremony",
+    "date": "1989-05-15",
+    "sortDate": "1989-05-15",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 557,
+    "printedPageEnd": 560,
+    "pageRange": "pp. 557-560",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 557-560.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 557-560.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-560-white-house-fact-sheet-on-combating-violent-crime",
+    "title": "White House Fact Sheet on Combating Violent Crime",
+    "date": "1989-05-15",
+    "sortDate": "1989-05-15",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 560,
+    "printedPageEnd": 565,
+    "pageRange": "pp. 560-565",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 560-565.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 560-565.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-579-remarks-to-supporters-of-the-brainpower-coalition-in-rochester-new-york",
+    "title": "Remarks to Supporters of the Brainpower Coalition in Rochester, New York",
+    "date": "1989-05-18",
+    "sortDate": "1989-05-18",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 579,
+    "printedPageEnd": 582,
+    "pageRange": "pp. 579-582",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 579-582.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 579-582.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-600-remarks-at-the-united-states-coast-guard-academy-commencement-ceremony-in-new-london-conne",
+    "title": "Remarks at the United States Coast Guard Academy Commencement Ceremony in New London, Connecticut",
+    "date": "1989-05-24",
+    "sortDate": "1989-05-24",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 600,
+    "printedPageEnd": 604,
+    "pageRange": "pp. 600-604",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 600-604.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 600-604.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-606-remarks-upon-departure-for-europe",
+    "title": "Remarks Upon Departure for Europe",
+    "date": "1989-05-26",
+    "sortDate": "1989-05-26",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 606,
+    "printedPageEnd": 607,
+    "pageRange": "pp. 606-607",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 606-607.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 606-607.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-609-remarks-following-an-audience-with-pope-john-paul-ii-in-vatican-city",
+    "title": "Remarks Following an Audience With Pope John Paul II in Vatican City",
+    "date": "1989-05-27",
+    "sortDate": "1989-05-27",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 609,
+    "printedPageEnd": 611,
+    "pageRange": "pp. 609-611",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 609-611.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 609-611.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-613-white-house-fact-sheet-on-the-nonimmigrant-visa-waiver-pilot-program",
+    "title": "White House Fact Sheet on the Nonimmigrant Visa Waiver Pilot Program",
+    "date": "1989-05-27",
+    "sortDate": "1989-05-27",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 613,
+    "printedPageEnd": 613,
+    "pageRange": "p. 613",
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 613.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 613.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-683-remarks-following-discussions-with-prime-minister-benazir-bhutto-of-pakistan",
+    "title": "Remarks Following Discussions With Prime Minister Benazir Bhutto of Pakistan",
+    "date": "1989-06-06",
+    "sortDate": "1989-06-06",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 683,
+    "printedPageEnd": 686,
+    "pageRange": "pp. 683-686",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 683-686.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 683-686.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-688-toasts-at-the-state-dinner-for-prime-minister-benazir-bhutto-of-pakistan",
+    "title": "Toasts at the State Dinner for Prime Minister Benazir Bhutto of Pakistan",
+    "date": "1989-06-06",
+    "sortDate": "1989-06-06",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 688,
+    "printedPageEnd": 690,
+    "pageRange": "pp. 688-690",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 688-690.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 688-690.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-716-remarks-to-students-at-the-teton-science-school-in-grand-teton-national-park-wyoming",
+    "title": "Remarks to Students at the Teton Science School in Grand Teton National Park, Wyoming",
+    "date": "1989-06-13",
+    "sortDate": "1989-06-13",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 716,
+    "printedPageEnd": 720,
+    "pageRange": "pp. 716-720",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 716-720.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 716-720.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-734-remarks-at-the-annual-republican-congressional-fundraising-dinner",
+    "title": "Remarks at the Annual Republican Congressional Fundraising Dinner",
+    "date": "1989-06-14",
+    "sortDate": "1989-06-14",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 734,
+    "printedPageEnd": 737,
+    "pageRange": "pp. 734-737",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 734-737.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 734-737.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-738-message-to-the-congress-transmitting-proposed-legislation-to-combat-violent-crime",
+    "title": "Message to the Congress Transmitting Proposed Legislation To Combat Violent Crime",
+    "date": "1989-06-15",
+    "sortDate": "1989-06-15",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 738,
+    "printedPageEnd": 741,
+    "pageRange": "pp. 738-741",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 738-741.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 738-741.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-756-remarks-at-the-cheltenham-high-school-commencement-ceremony-in-wyncote-pennsylvania",
+    "title": "Remarks at the Cheltenham High School Commencement Ceremony in Wyncote, Pennsylvania",
+    "date": "1989-06-19",
+    "sortDate": "1989-06-19",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 756,
+    "printedPageEnd": 760,
+    "pageRange": "pp. 756-760",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 756-760.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 756-760.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-778-informal-exchange-with-residents-of-covenant-house-in-new-york-new-york",
+    "title": "Informal Exchange With Residents of Covenant House in New York, New York",
+    "date": "1989-06-22",
+    "sortDate": "1989-06-22",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 778,
+    "printedPageEnd": 785,
+    "pageRange": "pp. 778-785",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 778-785.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 778-785.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-785-remarks-at-a-luncheon-hosted-by-the-new-york-partnership-and-the-association-for-a-better-",
+    "title": "Remarks at a Luncheon Hosted by the New York Partnership and the Association for a Better New York in New York, New York",
+    "date": "1989-06-22",
+    "sortDate": "1989-06-22",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 785,
+    "printedPageEnd": 788,
+    "pageRange": "pp. 785-788",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 785-788.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 785-788.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-797-remarks-at-the-annual-meeting-of-the-american-association-of-university-women",
+    "title": "Remarks at the Annual Meeting of the American Association of University Women",
+    "date": "1989-06-26",
+    "sortDate": "1989-06-26",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 797,
+    "printedPageEnd": 800,
+    "pageRange": "pp. 797-800",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 797-800.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 797-800.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-929-letter-to-congressional-leaders-transmitting-the-report-on-the-defense-management-review",
+    "title": "Letter to Congressional Leaders Transmitting the Report on the Defense Management Review",
+    "date": "1989-07-10",
+    "sortDate": "1989-07-10",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 929,
+    "printedPageEnd": 930,
+    "pageRange": "pp. 929-930",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 929-930.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 929-930.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "DEA",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1095-statement-on-the-assassination-of-luis-carlos-galan-and-colombia-united-states-relations",
+    "title": "Statement on the Assassination of Luis Carlos Galan and Colombia- United States Relations",
+    "date": "1989-08-19",
+    "sortDate": "1989-08-19",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1095,
+    "printedPageEnd": 1096,
+    "pageRange": "pp. 1095-1096",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1095-1096.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1095-1096.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1131-statement-on-panama-united-states-relations",
+    "title": "Statement on Panama-United States Relations",
+    "date": "1989-09-01",
+    "sortDate": "1989-09-01",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1131,
+    "printedPageEnd": 1131,
+    "pageRange": "p. 1131",
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1131.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1131.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 2
+      },
+      {
+        "label": "Noriega drug prosecution",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1135-statement-on-the-death-of-baseball-commissioner-a-bartlett-giamatti",
+    "title": "Statement on the Death of Baseball Commissioner A. Bartlett Giamatti",
+    "date": "1989-09-01",
+    "sortDate": "1989-09-01",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1135,
+    "printedPageEnd": 1136,
+    "pageRange": "pp. 1135-1136",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1135-1136.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1135-1136.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "National Drug Control Strategy",
+        "count": 1
+      },
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1168-remarks-to-the-national-baptist-convention-in-new-orleans-louisiana",
+    "title": "Remarks to the National Baptist Convention in New Orleans, Louisiana",
+    "date": "1989-09-08",
+    "sortDate": "1989-09-08",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1168,
+    "printedPageEnd": 1173,
+    "pageRange": "pp. 1168-1173",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1168-1173.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1168-1173.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1175-remarks-at-the-ceremony-commemorating-the-200th-anniversary-of-the-department-of-the-treas",
+    "title": "Remarks at the Ceremony Commemorating the 200th Anniversary of the Department of the Treasury",
+    "date": "1989-09-11",
+    "sortDate": "1989-09-11",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1175,
+    "printedPageEnd": 1177,
+    "pageRange": "pp. 1175-1177",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1175-1177.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1175-1177.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1215-remarks-to-the-five-state-legislators-conference-in-helena-montana",
+    "title": "Remarks to the Five-State Legislators Conference in Helena, Montana",
+    "date": "1989-09-18",
+    "sortDate": "1989-09-18",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1215,
+    "printedPageEnd": 1218,
+    "pageRange": "pp. 1215-1218",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1215-1218.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1215-1218.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1232-remarks-at-the-presentation-ceremony-for-the-young-american-medals-for-bravery-and-service",
+    "title": "Remarks at the Presentation Ceremony for the Young American Medals for Bravery and Service",
+    "date": "1989-09-21",
+    "sortDate": "1989-09-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1232,
+    "printedPageEnd": 1234,
+    "pageRange": "pp. 1232-1234",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1232-1234.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1232-1234.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1240-informal-exchange-with-reporters-in-wells-maine",
+    "title": "Informal Exchange With Reporters in Wells, Maine",
+    "date": "1989-09-22",
+    "sortDate": "1989-09-22",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1240,
+    "printedPageEnd": 1241,
+    "pageRange": "pp. 1240-1241",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1240-1241.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1240-1241.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "DEA",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1236-remarks-at-a-republican-fundraising-luncheon-in-east-brunswick-new-jersey",
+    "title": "Remarks at a Republican Fundraising Luncheon in East Brunswick, New Jersey",
+    "date": "1989-09-22",
+    "sortDate": "1989-09-22",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1236,
+    "printedPageEnd": 1240,
+    "pageRange": "pp. 1236-1240",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1236-1240.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1236-1240.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 2
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1260-remarks-on-the-education-summit-and-a-question-and-answer-session-with-reporters",
+    "title": "Remarks on the Education Summit and a Question-and-Answer Session With Reporters",
+    "date": "1989-09-27",
+    "sortDate": "1989-09-27",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1260,
+    "printedPageEnd": 1265,
+    "pageRange": "pp. 1260-1265",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1260-1265.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1260-1265.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1279-joint-statement-on-the-education-summit-with-the-nation-s-governors-in-charlottesville-vir",
+    "title": "Joint Statement on the Education Summit With the Nation's Governors in Charlottesville, Virginia",
+    "date": "1989-09-28",
+    "sortDate": "1989-09-28",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1279,
+    "printedPageEnd": 1282,
+    "pageRange": "pp. 1279-1282",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1279-1282.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1279-1282.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1277-remarks-at-the-education-summit-farewell-ceremony-at-the-university-of-virginia-in-charlot",
+    "title": "Remarks at the Education Summit Farewell Ceremony at the University of Virginia in Charlottesville",
+    "date": "1989-09-28",
+    "sortDate": "1989-09-28",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1277,
+    "printedPageEnd": 1279,
+    "pageRange": "pp. 1277-1279",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1277-1279.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1277-1279.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1284-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-virgilio",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Meeting With President Virgilio Barco Vargas of Colombia",
+    "date": "1989-09-28",
+    "sortDate": "1989-09-28",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1284,
+    "printedPageEnd": 1285,
+    "pageRange": "pp. 1284-1285",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1284-1285.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1284-1285.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 2
+      },
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1296-remarks-at-the-welcoming-ceremony-for-president-carlos-salinas-de-gortari-of-mexico",
+    "title": "Remarks at the Welcoming Ceremony for President Carlos Salinas de Gortari of Mexico",
+    "date": "1989-10-03",
+    "sortDate": "1989-10-03",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1296,
+    "printedPageEnd": 1298,
+    "pageRange": "pp. 1296-1298",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1296-1298.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1296-1298.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1302-toasts-at-the-state-dinner-for-president-carlos-salinas-de-gortari-of-mexico",
+    "title": "Toasts at the State Dinner for President Carlos Salinas de Gortari of Mexico",
+    "date": "1989-10-03",
+    "sortDate": "1989-10-03",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1302,
+    "printedPageEnd": 1305,
+    "pageRange": "pp. 1302-1305",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1302-1305.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1302-1305.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1307-remarks-at-the-presentation-ceremony-for-the-minority-enterprise-development-week-awards",
+    "title": "Remarks at the Presentation Ceremony for the Minority Enterprise Development Week Awards",
+    "date": "1989-10-04",
+    "sortDate": "1989-10-04",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1307,
+    "printedPageEnd": 1309,
+    "pageRange": "pp. 1307-1309",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1307-1309.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1307-1309.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1322-remarks-at-the-welcoming-ceremony-for-president-francesco-cossiga-of-italy",
+    "title": "Remarks at the Welcoming Ceremony for President Francesco Cossiga of Italy",
+    "date": "1989-10-11",
+    "sortDate": "1989-10-11",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1322,
+    "printedPageEnd": 1324,
+    "pageRange": "pp. 1322-1324",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1322-1324.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1322-1324.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1332-remarks-at-a-fundraising-dinner-for-mayoral-candidate-rudolph-w-giuliani-in-new-york-new-y",
+    "title": "Remarks at a Fundraising Dinner for Mayoral Candidate Rudolph W. Giuliani in New York, New York",
+    "date": "1989-10-12",
+    "sortDate": "1989-10-12",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1332,
+    "printedPageEnd": 1335,
+    "pageRange": "pp. 1332-1335",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1332-1335.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1332-1335.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1364-message-to-the-congress-reporting-on-the-economic-sanctions-against-panama",
+    "title": "Message to the Congress Reporting on the Economic Sanctions Against Panama",
+    "date": "1989-10-19",
+    "sortDate": "1989-10-19",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1364,
+    "printedPageEnd": 1367,
+    "pageRange": "pp. 1364-1367",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1364-1367.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1364-1367.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Noriega drug prosecution",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1360-remarks-to-members-of-the-natural-gas-supply-association",
+    "title": "Remarks to Members of the Natural Gas Supply Association",
+    "date": "1989-10-19",
+    "sortDate": "1989-10-19",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1360,
+    "printedPageEnd": 1362,
+    "pageRange": "pp. 1360-1362",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1360-1362.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1360-1362.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1415-letter-to-elementary-school-students-on-halloween",
+    "title": "Letter to Elementary School Students on Halloween",
+    "date": "1989-10-24",
+    "sortDate": "1989-10-24",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1415,
+    "printedPageEnd": 1416,
+    "pageRange": "pp. 1415-1416",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1415-1416.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1415-1416.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1384-remarks-to-participants-in-the-prime-time-to-end-hunger-campaign",
+    "title": "Remarks to Participants in the Prime Time To End Hunger Campaign",
+    "date": "1989-10-25",
+    "sortDate": "1989-10-25",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1384,
+    "printedPageEnd": 1385,
+    "pageRange": "pp. 1384-1385",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1384-1385.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1384-1385.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1432-remarks-to-schoolchildren-at-the-white-house-halloween-party",
+    "title": "Remarks to Schoolchildren at the White House Halloween Party",
+    "date": "1989-10-31",
+    "sortDate": "1989-10-31",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1432,
+    "printedPageEnd": 1433,
+    "pageRange": "pp. 1432-1433",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1432-1433.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1432-1433.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1438-statement-on-trade-initiatives-for-the-andean-region",
+    "title": "Statement on Trade Initiatives for the Andean Region",
+    "date": "1989-11-01",
+    "sortDate": "1989-11-01",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1438,
+    "printedPageEnd": 1439,
+    "pageRange": "pp. 1438-1439",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1438-1439.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1438-1439.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1450-remarks-at-a-campaign-rally-for-gubernatorial-candidate-j-marshall-coleman-in-richmond-vir",
+    "title": "Remarks at a Campaign Rally for Gubernatorial Candidate J. Marshall Coleman in Richmond, Virginia",
+    "date": "1989-11-03",
+    "sortDate": "1989-11-03",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1450,
+    "printedPageEnd": 1452,
+    "pageRange": "pp. 1450-1452",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1450-1452.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1450-1452.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1486-statement-on-signing-the-departments-of-veterans-affairs-and-housing-and-urban-development",
+    "title": "Statement on Signing the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1990",
+    "date": "1989-11-09",
+    "sortDate": "1989-11-09",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1486,
+    "printedPageEnd": 1487,
+    "pageRange": "pp. 1486-1487",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1486-1487.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1486-1487.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1499-remarks-at-a-republican-fundraising-dinner-honoring-governor-bill-clements-in-dallas-texas",
+    "title": "Remarks at a Republican Fundraising Dinner Honoring Governor Bill Clements in Dallas, Texas",
+    "date": "1989-11-10",
+    "sortDate": "1989-11-10",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1499,
+    "printedPageEnd": 1501,
+    "pageRange": "pp. 1499-1501",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1499-1501.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1499-1501.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Narcotics control",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1506-appointment-of-the-chairman-and-members-of-the-president-s-drug-advisory-council",
+    "title": "Appointment of the Chairman and Members of the President's Drug Advisory Council",
+    "date": "1989-11-13",
+    "sortDate": "1989-11-13",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1506,
+    "printedPageEnd": 1507,
+    "pageRange": "pp. 1506-1507",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1506-1507.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1506-1507.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1549-remarks-and-a-question-and-answer-session-with-students-at-pickard-elementary-school-in-ch",
+    "title": "Remarks and a Question-and-Answer Session With Students at Pickard Elementary School in Chicago, Rlinois",
+    "date": "1989-11-20",
+    "sortDate": "1989-11-20",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1549,
+    "printedPageEnd": 1553,
+    "pageRange": "pp. 1549-1553",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1549-1553.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1549-1553.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1560-remarks-at-a-fundraising-reception-for-senatorial-candidate-claudine-schneider-in-warwick-",
+    "title": "Remarks at a Fundraising Reception for Senatorial Candidate Claudine Schneider in Warwick, Rhode Island",
+    "date": "1989-11-20",
+    "sortDate": "1989-11-20",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1560,
+    "printedPageEnd": 1563,
+    "pageRange": "pp. 1560-1563",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1560-1563.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1560-1563.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1564-remarks-to-the-national-association-of-state-universities-and-land-grant-colleges",
+    "title": "Remarks to the National Association of State Universities and Land- Grant Colleges",
+    "date": "1989-11-21",
+    "sortDate": "1989-11-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1564,
+    "printedPageEnd": 1567,
+    "pageRange": "pp. 1564-1567",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1564-1567.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1564-1567.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1571-statement-on-signing-the-department-of-transportation-and-related-agencies-appropriations-",
+    "title": "Statement on Signing the Department of Transportation and Related Agencies Appropriations Act, 1990",
+    "date": "1989-11-21",
+    "sortDate": "1989-11-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1571,
+    "printedPageEnd": 1572,
+    "pageRange": "pp. 1571-1572",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1571-1572.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1571-1572.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1570-statement-on-signing-the-departments-of-commerce-justice-and-state-the-judiciary-and-relat",
+    "title": "Statement on Signing the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1990",
+    "date": "1989-11-21",
+    "sortDate": "1989-11-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1570,
+    "printedPageEnd": 1571,
+    "pageRange": "pp. 1570-1571",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1570-1571.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1570-1571.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1573-statement-on-signing-the-foreign-operations-export-financing-and-related-programs-appropri",
+    "title": "Statement on Signing the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990",
+    "date": "1989-11-21",
+    "sortDate": "1989-11-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1573,
+    "printedPageEnd": 1574,
+    "pageRange": "pp. 1573-1574",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1573-1574.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1573-1574.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1578-remarks-at-the-commercial-appeal-s-thanksgiving-celebration-in-memphis-tennessee",
+    "title": "Remarks at the Commercial Appeal's Thanksgiving Celebration in Memphis, Tennessee",
+    "date": "1989-11-22",
+    "sortDate": "1989-11-22",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1578,
+    "printedPageEnd": 1580,
+    "pageRange": "pp. 1578-1580",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1578-1580.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1578-1580.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1616-joint-statement-of-the-united-states-and-malta-on-the-president-s-meeting-with-prime-minis",
+    "title": "Joint Statement of the United States and Malta on the President's Meeting With Prime Minister Eddie Fenech Adami in Valletta",
+    "date": "1989-12-01",
+    "sortDate": "1989-12-01",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1616,
+    "printedPageEnd": 1617,
+    "pageRange": "pp. 1616-1617",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1616-1617.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1616-1617.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1664-remarks-at-a-fundraising-dinner-for-senator-phil-gramm-in-houston-texas",
+    "title": "Remarks at a Fundraising Dinner for Senator Phil Gramm in Houston, Texas",
+    "date": "1989-12-07",
+    "sortDate": "1989-12-07",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1664,
+    "printedPageEnd": 1667,
+    "pageRange": "pp. 1664-1667",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1664-1667.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1664-1667.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      },
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1677-advance-text-of-remarks-at-a-fundraising-dinner-for-senatorial-candidate-thomas-j-tauke-in",
+    "title": "Advance Text of Remarks at a Fundraising Dinner for Senatorial Candidate Thomas J. Tauke in Des Moines, Iowa",
+    "date": "1989-12-08",
+    "sortDate": "1989-12-08",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1677,
+    "printedPageEnd": 1679,
+    "pageRange": "pp. 1677-1679",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1677-1679.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1677-1679.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1668-remarks-at-a-fundraising-luncheon-for-senatorial-candidate-hank-brown-in-denver-colorado",
+    "title": "Remarks at a Fundraising Luncheon for Senatorial Candidate Hank Brown in Denver, Colorado",
+    "date": "1989-12-08",
+    "sortDate": "1989-12-08",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1668,
+    "printedPageEnd": 1670,
+    "pageRange": "pp. 1668-1670",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1668-1670.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1668-1670.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1682-remarks-and-a-question-and-answer-session-with-newspaper-editors",
+    "title": "Remarks and a Question-and-Answer Session With Newspaper Editors",
+    "date": "1989-12-11",
+    "sortDate": "1989-12-11",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1682,
+    "printedPageEnd": 1690,
+    "pageRange": "pp. 1682-1690",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1682-1690.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1682-1690.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1691-statement-on-signing-the-bill-authorizing-the-compact-of-free-association-between-the-unit",
+    "title": "Statement on Signing the Bill Authorizing the Compact of Free Association Between the United States and Palau",
+    "date": "1989-12-12",
+    "sortDate": "1989-12-12",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1691,
+    "printedPageEnd": 1691,
+    "pageRange": "p. 1691",
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1691.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1691.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1722-address-to-the-nation-announcing-united-states-military-action-in-panama",
+    "title": "Address to the Nation Announcing United States Military Action in Panama",
+    "date": "1989-12-20",
+    "sortDate": "1989-12-20",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1722,
+    "printedPageEnd": 1724,
+    "pageRange": "pp. 1722-1724",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1722-1724.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1722-1724.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 2
+      },
+      {
+        "label": "Noriega drug prosecution",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1726-memorandum-on-the-arrest-of-general-manuel-noriega-in-panama",
+    "title": "Memorandum on the Arrest of General Manuel Noriega in Panama",
+    "date": "1989-12-20",
+    "sortDate": "1989-12-20",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1726,
+    "printedPageEnd": 1726,
+    "pageRange": "p. 1726",
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1726.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1726.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Noriega drug prosecution",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1734-letter-to-the-speaker-of-the-house-of-representatives-and-the-president-pro-tempore-of-the",
+    "title": "Letter to the Speaker of the House of Representatives and the President Pro Tempore of the Senate on United States Military Action in Panama",
+    "date": "1989-12-21",
+    "sortDate": "1989-12-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1734,
+    "printedPageEnd": 1735,
+    "pageRange": "pp. 1734-1735",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1734-1735.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1734-1735.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Noriega drug prosecution",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1728-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-12-21",
+    "sortDate": "1989-12-21",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1728,
+    "printedPageEnd": 1734,
+    "pageRange": "pp. 1728-1734",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1728-1734.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1728-1734.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Noriega drug prosecution",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1746-message-on-the-observance-of-new-year-s-day",
+    "title": "Message on the Observance of New Year's Day",
+    "date": "1989-12-27",
+    "sortDate": "1989-12-27",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1746,
+    "printedPageEnd": 1747,
+    "pageRange": "pp. 1746-1747",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1746-1747.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1746-1747.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1739-remarks-and-a-question-and-answer-session-with-reporters-in-corpus-christi-texas",
+    "title": "Remarks and a Question-and-Answer Session With Reporters in Corpus Christi, Texas",
+    "date": "1989-12-27",
+    "sortDate": "1989-12-27",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1739,
+    "printedPageEnd": 1742,
+    "pageRange": "pp. 1739-1742",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1739-1742.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1739-1742.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-11-statement-on-receiving-the-report-of-the-president-s-advisory-committee-on-the-points-of-l",
+    "title": "Statement on Receiving the Report of the President's Advisory Committee on the Points of Light Initiative Foundation",
+    "date": "1990-01-04",
+    "sortDate": "1990-01-04",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 11,
+    "printedPageEnd": 13,
+    "pageRange": "pp. 11-13",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 11-13.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 11-13.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-22-remarks-to-the-american-farm-bureau-federation-in-orlando-florida",
+    "title": "Remarks to the American Farm Bureau Federation in Orlando, Florida",
+    "date": "1990-01-08",
+    "sortDate": "1990-01-08",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 22,
+    "printedPageEnd": 25,
+    "pageRange": "pp. 22-25",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 22-25.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 22-25.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-29-statement-by-deputy-press-secretary-popadiuk-on-president-bush-s-telephone-conversation-wi",
+    "title": "Statement by Deputy Press Secretary Popadiuk on President Bush's Telephone Conversation With President Virgilio Barco Vargas of Colombia",
+    "date": "1990-01-10",
+    "sortDate": "1990-01-10",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 29,
+    "printedPageEnd": 30,
+    "pageRange": "pp. 29-30",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 29-30.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 29-30.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-34-question-and-answer-session-with-the-youth-collaborative-mentor-group-in-cincinnati-ohio",
+    "title": "Question-and-Answer Session With the Youth Collaborative Mentor Group in Cincinnati, Ohio",
+    "date": "1990-01-12",
+    "sortDate": "1990-01-12",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 34,
+    "printedPageEnd": 40,
+    "pageRange": "pp. 34-40",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 34-40.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 34-40.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-42-remarks-to-the-chamber-of-commerce-in-cincinnati-ohio",
+    "title": "Remarks to the Chamber of Commerce in Cincinnati, Ohio",
+    "date": "1990-01-12",
+    "sortDate": "1990-01-12",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 42,
+    "printedPageEnd": 46,
+    "pageRange": "pp. 42-46",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 42-46.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 42-46.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-48-remarks-on-the-united-states-military-action-in-panama-and-an-exchange-with-reporters",
+    "title": "Remarks on the United States Military Action in Panama and an Exchange With Reporters",
+    "date": "1990-01-17",
+    "sortDate": "1990-01-17",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 48,
+    "printedPageEnd": 49,
+    "pageRange": "pp. 48-49",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 48-49.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 48-49.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-64-remarks-at-a-fundraising-dinner-for-governor-bob-martinez-in-miami-florida",
+    "title": "Remarks at a Fundraising Dinner for Governor Bob Martinez in Miami, Florida",
+    "date": "1990-01-19",
+    "sortDate": "1990-01-19",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 64,
+    "printedPageEnd": 67,
+    "pageRange": "pp. 64-67",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 64-67.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 64-67.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-70-remarks-at-the-american-spectator-annual-dinner",
+    "title": "Remarks at the American Spectator Annual Dinner",
+    "date": "1990-01-22",
+    "sortDate": "1990-01-22",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 70,
+    "printedPageEnd": 73,
+    "pageRange": "pp. 70-73",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 70-73.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 70-73.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-73-remarks-to-the-law-enforcement-community-in-kansas-city-missouri",
+    "title": "Remarks to the Law Enforcement Community in Kansas City, Missouri",
+    "date": "1990-01-23",
+    "sortDate": "1990-01-23",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 73,
+    "printedPageEnd": 76,
+    "pageRange": "pp. 73-76",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 73-76.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 73-76.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-77-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-01-24",
+    "sortDate": "1990-01-24",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 77,
+    "printedPageEnd": 84,
+    "pageRange": "pp. 77-84",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 77-84.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 77-84.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-104-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-01-25",
+    "sortDate": "1990-01-25",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 104,
+    "printedPageEnd": 111,
+    "pageRange": "pp. 104-111",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 104-111.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 104-111.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-112-white-house-fact-sheet-on-the-partnership-with-panama-action-plan-to-foster-economic-recov",
+    "title": "White House Fact Sheet on the Partnership With Panama: Action Plan To Foster Economic Recovery",
+    "date": "1990-01-25",
+    "sortDate": "1990-01-25",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 112,
+    "printedPageEnd": 113,
+    "pageRange": "pp. 112-113",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 112-113.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 112-113.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-129-address-before-a-joint-session-of-the-congress-on-the-state-of-the-union",
+    "title": "Address Before a Joint Session of the Congress on the State of the Union",
+    "date": "1990-01-31",
+    "sortDate": "1990-01-31",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 129,
+    "printedPageEnd": 135,
+    "pageRange": "pp. 129-135",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 129-135.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 129-135.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-150-remarks-to-students-and-faculty-of-the-university-of-tennessee-at-knoxville",
+    "title": "Remarks to Students and Faculty of the University of Tennessee at Knoxville",
+    "date": "1990-02-02",
+    "sortDate": "1990-02-02",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 150,
+    "printedPageEnd": 153,
+    "pageRange": "pp. 150-153",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 150-153.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 150-153.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-160-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-elect-lu",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Meeting With President-Elect Luis Alberto Lacalle of Uruguay",
+    "date": "1990-02-05",
+    "sortDate": "1990-02-05",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 160,
+    "printedPageEnd": 160,
+    "pageRange": "p. 160",
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 160.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 160.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-184-remarks-at-a-fundraising-breakfast-for-governor-kay-orr-in-omaha-nebraska",
+    "title": "Remarks at a Fundraising Breakfast for Governor Kay Orr in Omaha, Nebraska",
+    "date": "1990-02-08",
+    "sortDate": "1990-02-08",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 184,
+    "printedPageEnd": 187,
+    "pageRange": "pp. 184-187",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 184-187.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 184-187.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "National Drug Control Strategy",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-198-remarks-to-members-of-the-national-conference-of-state-legislatures",
+    "title": "Remarks to Members of the National Conference of State Legislatures",
+    "date": "1990-02-09",
+    "sortDate": "1990-02-09",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 198,
+    "printedPageEnd": 200,
+    "pageRange": "pp. 198-200",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 198-200.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 198-200.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-206-remarks-upon-receiving-the-boy-scouts-of-america-report-to-the-nation",
+    "title": "Remarks Upon Receiving the Boy Scouts of America Report to the Nation",
+    "date": "1990-02-12",
+    "sortDate": "1990-02-12",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 206,
+    "printedPageEnd": 207,
+    "pageRange": "pp. 206-207",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 206-207.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 206-207.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-229-white-house-fact-sheet-on-the-bolivia-and-peru-united-states-public-awareness-measures-mem",
+    "title": "White House Fact Sheet on the Bolivia- and Peru-United States Public Awareness Measures Memorandums of Understanding",
+    "date": "1990-02-15",
+    "sortDate": "1990-02-15",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 229,
+    "printedPageEnd": 230,
+    "pageRange": "pp. 229-230",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 229-230.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 229-230.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 2
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-230-white-house-fact-sheet-on-the-bolivia-united-states-weapons-export-control-memorandum-of-u",
+    "title": "White House Fact Sheet on the Bolivia-United States Weapons Export Control Memorandum of Understanding",
+    "date": "1990-02-15",
+    "sortDate": "1990-02-15",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 230,
+    "printedPageEnd": 231,
+    "pageRange": "pp. 230-231",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 230-231.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 230-231.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-230-white-house-fact-sheet-on-the-peru-united-states-tax-information-exchange-agreement",
+    "title": "White House Fact Sheet on the Peru-United States Tax Information Exchange Agreement",
+    "date": "1990-02-15",
+    "sortDate": "1990-02-15",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 230,
+    "printedPageEnd": 230,
+    "pageRange": "p. 230",
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 230.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 230.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      },
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-248-remarks-and-a-question-and-answer-session-at-the-annual-dinner-of-the-business-council",
+    "title": "Remarks and a Question-and-Answer Session at the Annual Dinner of the Business Council",
+    "date": "1990-02-21",
+    "sortDate": "1990-02-21",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 248,
+    "printedPageEnd": 254,
+    "pageRange": "pp. 248-254",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 248-254.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 248-254.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-281-joint-statement-by-president-bush-and-president-charles-haughey-of-the-european-council",
+    "title": "Joint Statement by President Bush and President Charles Haughey of the European Council",
+    "date": "1990-02-27",
+    "sortDate": "1990-02-27",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 281,
+    "printedPageEnd": 282,
+    "pageRange": "pp. 281-282",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 281-282.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 281-282.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-279-remarks-following-discussions-with-charles-haughey-prime-minister-of-ireland-and-president",
+    "title": "Remarks Following Discussions With Charles Haughey, Prime Minister of Ireland and President of the European Council",
+    "date": "1990-02-27",
+    "sortDate": "1990-02-27",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 279,
+    "printedPageEnd": 281,
+    "pageRange": "pp. 279-281",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 279-281.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 279-281.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-298-remarks-at-the-california-chamber-of-commerce-centennial-dinner-in-los-angeles",
+    "title": "Remarks at the California Chamber of Commerce Centennial Dinner in Los Angeles",
+    "date": "1990-03-01",
+    "sortDate": "1990-03-01",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 298,
+    "printedPageEnd": 301,
+    "pageRange": "pp. 298-301",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 298-301.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 298-301.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-308-remarks-following-discussions-with-prime-minister-toshiki-kaifu-of-japan-in-palm-springs-c",
+    "title": "Remarks Following Discussions With Prime Minister Toshiki Kaifu of Japan in Palm Springs, California",
+    "date": "1990-03-03",
+    "sortDate": "1990-03-03",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 308,
+    "printedPageEnd": 311,
+    "pageRange": "pp. 308-311",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 308-311.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 308-311.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-329-toasts-at-the-state-dinner-for-prime-minister-giulio-andreotti-of-italy",
+    "title": "Toasts at the State Dinner for Prime Minister Giulio Andreotti of Italy",
+    "date": "1990-03-06",
+    "sortDate": "1990-03-06",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 329,
+    "printedPageEnd": 331,
+    "pageRange": "pp. 329-331",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 329-331.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 329-331.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-341-remarks-at-a-fundraising-dinner-for-senator-john-warner-in-tysons-corner-virginia",
+    "title": "Remarks at a Fundraising Dinner for Senator John Warner in Tysons Corner, Virginia",
+    "date": "1990-03-08",
+    "sortDate": "1990-03-08",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 341,
+    "printedPageEnd": 344,
+    "pageRange": "pp. 341-344",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 341-344.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 341-344.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-338-white-house-fact-sheet-on-the-national-transportation-policy",
+    "title": "White House Fact Sheet on the National Transportation Policy",
+    "date": "1990-03-08",
+    "sortDate": "1990-03-08",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 338,
+    "printedPageEnd": 341,
+    "pageRange": "pp. 338-341",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 338-341.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 338-341.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-344-remarks-at-the-swearing-in-ceremony-for-antonia-novello-as-surgeon-general",
+    "title": "Remarks at the Swearing-In Ceremony for Antonia Novello as Surgeon General",
+    "date": "1990-03-09",
+    "sortDate": "1990-03-09",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 344,
+    "printedPageEnd": 345,
+    "pageRange": "pp. 344-345",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 344-345.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 344-345.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-368-remarks-to-the-national-association-of-manufacturers",
+    "title": "Remarks to the National Association of Manufacturers",
+    "date": "1990-03-15",
+    "sortDate": "1990-03-15",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 368,
+    "printedPageEnd": 371,
+    "pageRange": "pp. 368-371",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 368-371.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 368-371.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-389-white-house-fact-sheet-on-the-national-security-strategy-report",
+    "title": "White House Fact Sheet on the National Security Strategy Report",
+    "date": "1990-03-20",
+    "sortDate": "1990-03-20",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 389,
+    "printedPageEnd": 391,
+    "pageRange": "pp. 389-391",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 389-391.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 389-391.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-414-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-03-23",
+    "sortDate": "1990-03-23",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 414,
+    "printedPageEnd": 421,
+    "pageRange": "pp. 414-421",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 414-421.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 414-421.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-431-remarks-to-the-national-leadership-coalition-on-aids",
+    "title": "Remarks to the National Leadership Coalition on AIDS",
+    "date": "1990-03-29",
+    "sortDate": "1990-03-29",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 431,
+    "printedPageEnd": 434,
+    "pageRange": "pp. 431-434",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 431-434.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 431-434.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-436-nomination-of-rear-admiral-william-j-kime-to-be-commandant-of-the-united-states-coast-guar",
+    "title": "Nomination of Rear Admiral William J. Kime To Be Commandant of the United States Coast Guard",
+    "date": "1990-03-30",
+    "sortDate": "1990-03-30",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 436,
+    "printedPageEnd": 437,
+    "pageRange": "pp. 436-437",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 436-437.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 436-437.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-434-remarks-and-an-exchange-with-reporters-prior-to-a-luncheon-with-the-founding-directors-of-",
+    "title": "Remarks and an Exchange With Reporters Prior to a Luncheon With the Founding Directors of the Points of Light Initiative Foundation",
+    "date": "1990-03-30",
+    "sortDate": "1990-03-30",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 434,
+    "printedPageEnd": 435,
+    "pageRange": "pp. 434-435",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 434-435.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 434-435.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-441-remarks-at-a-fundraising-dinner-for-gubernatorial-candidate-george-voinovich-in-cincinnati",
+    "title": "Remarks at a Fundraising Dinner for Gubernatorial Candidate George Voinovich in Cincinnati, Ohio",
+    "date": "1990-04-02",
+    "sortDate": "1990-04-02",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 441,
+    "printedPageEnd": 445,
+    "pageRange": "pp. 441-445",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 441-445.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 441-445.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-452-remarks-at-a-republican-party-fundraising-dinner-in-detroit-michigan",
+    "title": "Remarks at a Republican Party Fundraising Dinner in Detroit, Michigan",
+    "date": "1990-04-03",
+    "sortDate": "1990-04-03",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 452,
+    "printedPageEnd": 455,
+    "pageRange": "pp. 452-455",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 452-455.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 452-455.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "National Drug Control Strategy",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-513-remarks-following-discussions-with-president-rafael-callejas-of-honduras",
+    "title": "Remarks Following Discussions With President Rafael Callejas of Honduras",
+    "date": "1990-04-17",
+    "sortDate": "1990-04-17",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 513,
+    "printedPageEnd": 514,
+    "pageRange": "pp. 513-514",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 513-514.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 513-514.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-534-remarks-at-a-republican-party-fundraising-dinner-in-orlando-florida",
+    "title": "Remarks at a Republican Party Fundraising Dinner in Orlando, Florida",
+    "date": "1990-04-20",
+    "sortDate": "1990-04-20",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 534,
+    "printedPageEnd": 537,
+    "pageRange": "pp. 534-537",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 534-537.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 534-537.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-555-remarks-at-a-white-house-briefing-for-the-associated-general-contractors-of-america",
+    "title": "Remarks at a White House Briefing for the Associated General Contractors of America",
+    "date": "1990-04-24",
+    "sortDate": "1990-04-24",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 555,
+    "printedPageEnd": 558,
+    "pageRange": "pp. 555-558",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 555-558.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 555-558.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-578-remarks-at-a-white-house-briefing-for-the-american-legislative-exchange-council",
+    "title": "Remarks at a White House Briefing for the American Legislative Exchange Council",
+    "date": "1990-04-27",
+    "sortDate": "1990-04-27",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 578,
+    "printedPageEnd": 580,
+    "pageRange": "pp. 578-580",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 578-580.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 578-580.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-617-remarks-following-discussions-with-prime-minister-michael-manley-of-jamaica",
+    "title": "Remarks Following Discussions With Prime Minister Michael Manley of Jamaica",
+    "date": "1990-05-03",
+    "sortDate": "1990-05-03",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 617,
+    "printedPageEnd": 619,
+    "pageRange": "pp. 617-619",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 617-619.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 617-619.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-629-remarks-at-the-oklahoma-foundation-for-excellence-dinner-in-tulsa",
+    "title": "Remarks at the Oklahoma Foundation for Excellence Dinner in Tulsa",
+    "date": "1990-05-04",
+    "sortDate": "1990-05-04",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 629,
+    "printedPageEnd": 632,
+    "pageRange": "pp. 629-632",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 629-632.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 629-632.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-648-remarks-at-a-fundraising-reception-for-governor-carroll-a-campbell-jr-in-columbia-south-ca",
+    "title": "Remarks at a Fundraising Reception for Governor Carroll A. Campbell, Jr., in Columbia, South Carolina",
+    "date": "1990-05-11",
+    "sortDate": "1990-05-11",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 648,
+    "printedPageEnd": 651,
+    "pageRange": "pp. 648-651",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 648-651.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 648-651.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-689-remarks-at-the-dedication-ceremony-for-the-police-memorial-in-portland-oregon",
+    "title": "Remarks at the Dedication Ceremony for the Police Memorial in Portland, Oregon",
+    "date": "1990-05-20",
+    "sortDate": "1990-05-20",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 689,
+    "printedPageEnd": 690,
+    "pageRange": "pp. 689-690",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 689-690.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 689-690.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-693-remarks-at-a-fundraising-breakfast-for-gubernatorial-candidate-david-frohnmayer-in-portlan",
+    "title": "Remarks at a Fundraising Breakfast for Gubernatorial Candidate David Frohnmayer in Portland, Oregon",
+    "date": "1990-05-21",
+    "sortDate": "1990-05-21",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 693,
+    "printedPageEnd": 696,
+    "pageRange": "pp. 693-696",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 693-696.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 693-696.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-697-remarks-to-oakwood-community-members-in-los-angeles-california",
+    "title": "Remarks to Oakwood Community Members in Los Angeles, California",
+    "date": "1990-05-21",
+    "sortDate": "1990-05-21",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 697,
+    "printedPageEnd": 698,
+    "pageRange": "pp. 697-698",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 697-698.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 697-698.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-698-remarks-to-the-council-of-the-americas",
+    "title": "Remarks to the Council of the Americas",
+    "date": "1990-05-22",
+    "sortDate": "1990-05-22",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 698,
+    "printedPageEnd": 702,
+    "pageRange": "pp. 698-702",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 698-702.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 698-702.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-707-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-05-24",
+    "sortDate": "1990-05-24",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 707,
+    "printedPageEnd": 713,
+    "pageRange": "pp. 707-713",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 707-713.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 707-713.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Alvarez-Machain",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-747-soviet-united-states-joint-statement-on-the-establishment-of-a-soviet-united-states-intern",
+    "title": "Soviet-United States Joint Statement on the Establishment of a Soviet-United States International Park in the Region of the Bering Strait",
+    "date": "1990-06-01",
+    "sortDate": "1990-06-01",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 747,
+    "printedPageEnd": 767,
+    "pageRange": "pp. 747-767",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 747-767.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 747-767.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-785-remarks-at-a-fundraising-luncheon-for-governor-tommy-thompson-in-milwaukee-wisconsin",
+    "title": "Remarks at a Fundraising Luncheon for Governor Tommy Thompson in Milwaukee, Wisconsin",
+    "date": "1990-06-07",
+    "sortDate": "1990-06-07",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 785,
+    "printedPageEnd": 795,
+    "pageRange": "pp. 785-795",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 785-795.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 785-795.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-826-remarks-following-discussions-with-prime-minister-chatchai-chunhawan-of-thailand",
+    "title": "Remarks Following Discussions With Prime Minister Chatchai Chunhawan of Thailand",
+    "date": "1990-06-14",
+    "sortDate": "1990-06-14",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 826,
+    "printedPageEnd": 828,
+    "pageRange": "pp. 826-828",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 826-828.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 826-828.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-853-nomination-of-bert-w-corneby-to-be-superintendent-of-the-united-states-mint-at-west-point",
+    "title": "Nomination of Bert W. Corneby To Be Superintendent of the United States Mint at West Point",
+    "date": "1990-06-20",
+    "sortDate": "1990-06-20",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 853,
+    "printedPageEnd": 860,
+    "pageRange": "pp. 853-860",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 853-860.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 853-860.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-861-remarks-to-united-states-attorneys",
+    "title": "Remarks to United States Attorneys",
+    "date": "1990-06-22",
+    "sortDate": "1990-06-22",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 861,
+    "printedPageEnd": 866,
+    "pageRange": "pp. 861-866",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 861-866.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 861-866.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-872-remarks-at-a-white-house-barbecue-for-members-of-congress",
+    "title": "Remarks at a White House Barbecue for Members of Congress",
+    "date": "1990-06-26",
+    "sortDate": "1990-06-26",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 872,
+    "printedPageEnd": 880,
+    "pageRange": "pp. 872-880",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 872-880.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 872-880.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1012-statement-on-the-federal-budget-deficit",
+    "title": "Statement on the Federal Budget Deficit",
+    "date": "1990-07-16",
+    "sortDate": "1990-07-16",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1012,
+    "printedPageEnd": 1013,
+    "pageRange": "pp. 1012-1013",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1012-1013.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1012-1013.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1102-remarks-at-the-presentation-ceremony-for-the-all-american-cities-awards",
+    "title": "Remarks at the Presentation Ceremony for the All-American Cities Awards",
+    "date": "1990-08-06",
+    "sortDate": "1990-08-06",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1102,
+    "printedPageEnd": 1104,
+    "pageRange": "pp. 1102-1104",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1102-1104.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1102-1104.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1115-appointment-of-frances-mcmurtray-norris-as-special-assistant-to-the-president-for-legislat",
+    "title": "Appointment of Frances McMurtray Norris as Special Assistant to the President for Legislative Affairs",
+    "date": "1990-08-08",
+    "sortDate": "1990-08-08",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1115,
+    "printedPageEnd": 1116,
+    "pageRange": "pp. 1115-1116",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1115-1116.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1115-1116.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1115-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-the-united-states-m",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With the United States-Mexican Binational Commission",
+    "date": "1990-08-08",
+    "sortDate": "1990-08-08",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1115,
+    "printedPageEnd": 1115,
+    "pageRange": "p. 1115",
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1115.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1115.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1152-remarks-at-a-republican-party-fundraising-luncheon-in-north-kingstown-rhode-island",
+    "title": "Remarks at a Republican Party Fundraising Luncheon in North Kingstown, Rhode Island",
+    "date": "1990-08-20",
+    "sortDate": "1990-08-20",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1152,
+    "printedPageEnd": 1156,
+    "pageRange": "pp. 1152-1156",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1152-1156.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1152-1156.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1194-remarks-at-a-fundraising-barbecue-for-representative-bill-grant-in-tallahassee-florida",
+    "title": "Remarks at a Fundraising Barbecue for Representative Bill Grant in Tallahassee, Florida",
+    "date": "1990-09-06",
+    "sortDate": "1990-09-06",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1194,
+    "printedPageEnd": 1197,
+    "pageRange": "pp. 1194-1197",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1194-1197.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1194-1197.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1240-remarks-and-a-question-and-answer-session-with-members-of-the-regional-news-media",
+    "title": "Remarks and a Question-and-Answer Session With Members of the Regional News Media",
+    "date": "1990-09-17",
+    "sortDate": "1990-09-17",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1240,
+    "printedPageEnd": 1248,
+    "pageRange": "pp. 1240-1248",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1240-1248.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1240-1248.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1248-remarks-to-participants-in-the-elementary-school-recognition-program",
+    "title": "Remarks to Participants in the Elementary School Recognition Program",
+    "date": "1990-09-17",
+    "sortDate": "1990-09-17",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1248,
+    "printedPageEnd": 1250,
+    "pageRange": "pp. 1248-1250",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1248-1250.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1248-1250.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1251-remarks-at-a-republican-party-fundraising-luncheon-in-denver-colorado",
+    "title": "Remarks at a Republican Party Fundraising Luncheon in Denver, Colorado",
+    "date": "1990-09-18",
+    "sortDate": "1990-09-18",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1251,
+    "printedPageEnd": 1254,
+    "pageRange": "pp. 1251-1254",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1251-1254.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1251-1254.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1305-remarks-at-a-fundraising-breakfast-for-gubernatorial-candidate-jon-grunseth-in-minneapolis",
+    "title": "Remarks at a Fundraising Breakfast for Gubernatorial Candidate Jon Grunseth in Minneapolis, Minnesota",
+    "date": "1990-09-27",
+    "sortDate": "1990-09-27",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1305,
+    "printedPageEnd": 1309,
+    "pageRange": "pp. 1305-1309",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1305-1309.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1305-1309.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1323-remarks-at-the-opening-ceremony-of-the-united-nations-world-summit-for-children-in-new-yor",
+    "title": "Remarks at the Opening Ceremony of the United Nations World Summit for Children in New York City",
+    "date": "1990-09-30",
+    "sortDate": "1990-09-30",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1323,
+    "printedPageEnd": 1325,
+    "pageRange": "pp. 1323-1325",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1323-1325.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1323-1325.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1363-message-to-the-congress-transmitting-proposed-legislation-on-trade-preference-for-andean-c",
+    "title": "Message to the Congress Transmitting Proposed Legislation on Trade Preference for Andean Countries",
+    "date": "1990-10-05",
+    "sortDate": "1990-10-05",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1363,
+    "printedPageEnd": 1364,
+    "pageRange": "pp. 1363-1364",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1363-1364.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1363-1364.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      },
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1362-remarks-on-transmitting-to-the-congress-proposed-legislation-on-trade-preference-for-andea",
+    "title": "Remarks on Transmitting to the Congress Proposed Legislation on Trade Preference for Andean Countries",
+    "date": "1990-10-05",
+    "sortDate": "1990-10-05",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1362,
+    "printedPageEnd": 1363,
+    "pageRange": "pp. 1362-1363",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1362-1363.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1362-1363.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1386-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-prime-minister-a-n-",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Prime Minister A.N.R. Robinson of Trinidad and Tobago",
+    "date": "1990-10-09",
+    "sortDate": "1990-10-09",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1386,
+    "printedPageEnd": 1387,
+    "pageRange": "pp. 1386-1387",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1386-1387.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1386-1387.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1387-remarks-at-a-fundraising-breakfast-for-senator-jesse-helms-in-raleigh-north-carolina",
+    "title": "Remarks at a Fundraising Breakfast for Senator Jesse Helms in Raleigh, North Carolina",
+    "date": "1990-10-10",
+    "sortDate": "1990-10-10",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1387,
+    "printedPageEnd": 1391,
+    "pageRange": "pp. 1387-1391",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1387-1391.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1387-1391.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1394-remarks-at-a-fundraising-reception-for-gubernatorial-candidate-johnny-isakson-in-atlanta-g",
+    "title": "Remarks at a Fundraising Reception for Gubernatorial Candidate Johnny Isakson in Atlanta, Georgia",
+    "date": "1990-10-10",
+    "sortDate": "1990-10-10",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1394,
+    "printedPageEnd": 1398,
+    "pageRange": "pp. 1394-1398",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1394-1398.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1394-1398.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1408-remarks-at-a-fundraising-luncheon-for-gubernatorial-candidate-clayton-williams-in-dallas-t",
+    "title": "Remarks at a Fundraising Luncheon for Gubernatorial Candidate Clayton Williams in Dallas, Texas",
+    "date": "1990-10-15",
+    "sortDate": "1990-10-15",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1408,
+    "printedPageEnd": 1411,
+    "pageRange": "pp. 1408-1411",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1408-1411.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1408-1411.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1452-remarks-at-a-fundraising-dinner-for-gubernatorial-candidate-john-rowland-in-stamford-conne",
+    "title": "Remarks at a Fundraising Dinner for Gubernatorial Candidate John Rowland in Stamford, Connecticut",
+    "date": "1990-10-23",
+    "sortDate": "1990-10-23",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1452,
+    "printedPageEnd": 1456,
+    "pageRange": "pp. 1452-1456",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1452-1456.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1452-1456.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      },
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1465-remarks-at-a-campaign-rally-for-gubernatorial-candidate-pete-wilson-in-los-angeles-califor",
+    "title": "Remarks at a Campaign Rally for Gubernatorial Candidate Pete Wilson in Los Angeles, California",
+    "date": "1990-10-26",
+    "sortDate": "1990-10-26",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1465,
+    "printedPageEnd": 1468,
+    "pageRange": "pp. 1465-1468",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1465-1468.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1465-1468.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1521-remarks-at-a-reception-for-governor-bob-martinez-in-orlando-florida",
+    "title": "Remarks at a Reception for Governor Bob Martinez in Orlando, Florida",
+    "date": "1990-11-01",
+    "sortDate": "1990-11-01",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1521,
+    "printedPageEnd": 1524,
+    "pageRange": "pp. 1521-1524",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1521-1524.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1521-1524.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1531-remarks-at-a-republican-reception-in-sioux-city-iowa",
+    "title": "Remarks at a Republican Reception in Sioux City, Iowa",
+    "date": "1990-11-02",
+    "sortDate": "1990-11-02",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1531,
+    "printedPageEnd": 1534,
+    "pageRange": "pp. 1531-1534",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1531-1534.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1531-1534.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1563-remarks-at-a-republican-campaign-rally-in-houston-texas",
+    "title": "Remarks at a Republican Campaign Rally in Houston, Texas",
+    "date": "1990-11-05",
+    "sortDate": "1990-11-05",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1563,
+    "printedPageEnd": 1566,
+    "pageRange": "pp. 1563-1566",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1563-1566.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1563-1566.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1547-remarks-at-a-republican-campaign-rally-in-tyler-texas",
+    "title": "Remarks at a Republican Campaign Rally in Tyler, Texas",
+    "date": "1990-11-05",
+    "sortDate": "1990-11-05",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1547,
+    "printedPageEnd": 1550,
+    "pageRange": "pp. 1547-1550",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1547-1550.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1547-1550.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1556-statement-on-signing-the-national-defense-authorization-act-for-fiscal-year-1991",
+    "title": "Statement on Signing the National Defense Authorization Act for Fiscal Year 1991",
+    "date": "1990-11-05",
+    "sortDate": "1990-11-05",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1556,
+    "printedPageEnd": 1558,
+    "pageRange": "pp. 1556-1558",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1556-1558.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1556-1558.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1606-statement-on-signing-the-excellence-in-mathematics-science-and-engineering-education-act-o",
+    "title": "Statement on Signing the Excellence in Mathematics, Science and Engineering Education Act of 1990",
+    "date": "1990-11-16",
+    "sortDate": "1990-11-16",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1606,
+    "printedPageEnd": 1607,
+    "pageRange": "pp. 1606-1607",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1606-1607.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1606-1607.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1632-exchange-with-reporters-aboard-air-force-one",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "date": "1990-11-18",
+    "sortDate": "1990-11-18",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1632,
+    "printedPageEnd": 1634,
+    "pageRange": "pp. 1632-1634",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1632-1634.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1632-1634.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1685-statement-by-press-secretary-fitzwater-on-president-bush-s-discussions-with-president-carl",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Discussions With President Carlos Salinas de Gortari in Agualeguas, Mexico",
+    "date": "1990-11-26",
+    "sortDate": "1990-11-26",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1685,
+    "printedPageEnd": 1685,
+    "pageRange": "p. 1685",
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1685.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1685.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1688-remarks-at-a-meeting-with-mexican-and-american-business-leaders-in-monterrey-mexico",
+    "title": "Remarks at a Meeting With Mexican and American Business Leaders in Monterrey, Mexico",
+    "date": "1990-11-27",
+    "sortDate": "1990-11-27",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1688,
+    "printedPageEnd": 1691,
+    "pageRange": "pp. 1688-1691",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1688-1691.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1688-1691.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1685-remarks-to-community-members-in-monterrey-mexico",
+    "title": "Remarks to Community Members in Monterrey, Mexico",
+    "date": "1990-11-27",
+    "sortDate": "1990-11-27",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1685,
+    "printedPageEnd": 1688,
+    "pageRange": "pp. 1685-1688",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1685-1688.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1685-1688.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1697-remarks-on-signing-the-cranston-gonzalez-national-affordable-housing-act",
+    "title": "Remarks on Signing the Cranston Gonzalez National Affordable Housing Act",
+    "date": "1990-11-28",
+    "sortDate": "1990-11-28",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1697,
+    "printedPageEnd": 1699,
+    "pageRange": "pp. 1697-1699",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1697-1699.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1697-1699.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1714-remarks-at-a-reception-for-participants-in-students-taking-action-and-responsibility-in-se",
+    "title": "Remarks at a Reception for Participants in Students Taking Action and Responsibility in Service",
+    "date": "1990-11-29",
+    "sortDate": "1990-11-29",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1714,
+    "printedPageEnd": 1715,
+    "pageRange": "pp. 1714-1715",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1714-1715.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1714-1715.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1716-remarks-on-signing-the-immigration-act-of-1990",
+    "title": "Remarks on Signing the Immigration Act of 1990",
+    "date": "1990-11-29",
+    "sortDate": "1990-11-29",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1716,
+    "printedPageEnd": 1717,
+    "pageRange": "pp. 1716-1717",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1716-1717.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1716-1717.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1717-statement-on-signing-the-immigration-act-of-1990",
+    "title": "Statement on Signing the Immigration Act of 1990",
+    "date": "1990-11-29",
+    "sortDate": "1990-11-29",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1717,
+    "printedPageEnd": 1718,
+    "pageRange": "pp. 1717-1718",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1717-1718.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1717-1718.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1710-statement-on-signing-the-stewart-b-mckinney-homeless-assistance-amendments-act-of-1990",
+    "title": "Statement on Signing the Stewart B. McKinney Homeless Assistance Amendments Act of 1990",
+    "date": "1990-11-29",
+    "sortDate": "1990-11-29",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1710,
+    "printedPageEnd": 1710,
+    "pageRange": "p. 1710",
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1710.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1710.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1731-written-responses-to-questions-submitted-by-the-south-american-press",
+    "title": "Written Responses to Questions Submitted by the South American Press",
+    "date": "1990-11-30",
+    "sortDate": "1990-11-30",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1731,
+    "printedPageEnd": 1737,
+    "pageRange": "pp. 1731-1737",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1731-1737.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1731-1737.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1748-remarks-to-a-joint-session-of-the-congress-in-montevideo-uruguay",
+    "title": "Remarks to a Joint Session of the Congress in Montevideo, Uruguay",
+    "date": "1990-12-04",
+    "sortDate": "1990-12-04",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1748,
+    "printedPageEnd": 1752,
+    "pageRange": "pp. 1748-1752",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1748-1752.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1748-1752.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1774-remarks-at-a-luncheon-hosted-by-the-venezuelan-american-chambers-of-commerce-in-caracas-ve",
+    "title": "Remarks at a Luncheon Hosted by the Venezuelan-American Chambers of Commerce in Caracas, Venezuela",
+    "date": "1990-12-08",
+    "sortDate": "1990-12-08",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1774,
+    "printedPageEnd": 1777,
+    "pageRange": "pp. 1774-1777",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1774-1777.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1774-1777.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Cocaine/crack",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-28-exchange-with-reporters-on-the-telephone-conversation-with-soviet-president-mikhail-gorbac",
+    "title": "Exchange With Reporters on the Telephone Conversation with Soviet President Mikhail Gorbachev",
+    "date": "1991-01-11",
+    "sortDate": "1991-01-11",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 28,
+    "printedPageEnd": 30,
+    "pageRange": "pp. 28-30",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 28-30.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 28-30.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-74-address-before-a-joint-session-of-the-congress-on-the-state-of-the-union",
+    "title": "Address Before a Joint Session of the Congress on the State of the Union",
+    "date": "1991-01-29",
+    "sortDate": "1991-01-29",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 74,
+    "printedPageEnd": 80,
+    "pageRange": "pp. 74-80",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 74-80.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 74-80.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-97-message-to-the-congress-transmitting-the-fiscal-year-1992-budget",
+    "title": "Message to the Congress Transmitting the Fiscal Year 1992 Budget",
+    "date": "1991-02-04",
+    "sortDate": "1991-02-04",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 97,
+    "printedPageEnd": 99,
+    "pageRange": "pp. 97-99",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 97-99.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 97-99.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-101-remarks-to-representatives-of-the-boy-scouts-of-america",
+    "title": "Remarks to Representatives of the Boy Scouts of America",
+    "date": "1991-02-04",
+    "sortDate": "1991-02-04",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 101,
+    "printedPageEnd": 101,
+    "pageRange": "p. 101",
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 101.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 101.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-129-message-on-the-observance-of-national-afro-american-black-history-month",
+    "title": "Message on the Observance of National Afro-American (Black) History Month",
+    "date": "1991-02-11",
+    "sortDate": "1991-02-11",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 129,
+    "printedPageEnd": 129,
+    "pageRange": "p. 129",
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 129.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 129.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-184-remarks-at-a-meeting-of-the-american-society-of-association-executives",
+    "title": "Remarks at a Meeting of the American Society of Association Executives",
+    "date": "1991-02-27",
+    "sortDate": "1991-02-27",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 184,
+    "printedPageEnd": 187,
+    "pageRange": "pp. 184-187",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 184-187.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 184-187.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-195-remarks-to-the-american-legislative-exchange-council",
+    "title": "Remarks to the American Legislative Exchange Council",
+    "date": "1991-03-01",
+    "sortDate": "1991-03-01",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 195,
+    "printedPageEnd": 197,
+    "pageRange": "pp. 195-197",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 195-197.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 195-197.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-215-remarks-at-the-attorney-general-s-crime-summit",
+    "title": "Remarks at the Attorney General's Crime Summit",
+    "date": "1991-03-05",
+    "sortDate": "1991-03-05",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 215,
+    "printedPageEnd": 218,
+    "pageRange": "pp. 215-218",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 215-218.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 215-218.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Cocaine/crack",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-244-remarks-announcing-proposed-crime-control-legislation",
+    "title": "Remarks Announcing Proposed Crime Control Legislation",
+    "date": "1991-03-11",
+    "sortDate": "1991-03-11",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 244,
+    "printedPageEnd": 246,
+    "pageRange": "pp. 244-246",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 244-246.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 244-246.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "DEA",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-249-remarks-at-the-swearing-in-ceremony-for-edward-r-madigan-as-secretary-of-agriculture",
+    "title": "Remarks at the Swearing-In Ceremony for Edward R. Madigan as Secretary of Agriculture",
+    "date": "1991-03-12",
+    "sortDate": "1991-03-12",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 249,
+    "printedPageEnd": 251,
+    "pageRange": "pp. 249-251",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 249-251.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 249-251.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "DEA",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-288-remarks-to-the-points-of-light-foundation",
+    "title": "Remarks to the Points of Light Foundation",
+    "date": "1991-03-19",
+    "sortDate": "1991-03-19",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 288,
+    "printedPageEnd": 289,
+    "pageRange": "pp. 288-289",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 288-289.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 288-289.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-295-remarks-on-police-brutality-and-an-exchange-with-reporters",
+    "title": "Remarks on Police Brutality and an Exchange With Reporters",
+    "date": "1991-03-21",
+    "sortDate": "1991-03-21",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 295,
+    "printedPageEnd": 297,
+    "pageRange": "pp. 295-297",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 295-297.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 295-297.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-372-remarks-to-the-national-association-of-broadcasters-convention",
+    "title": "Remarks to the National Association of Broadcasters Convention",
+    "date": "1991-04-15",
+    "sortDate": "1991-04-15",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 372,
+    "printedPageEnd": 374,
+    "pageRange": "pp. 372-374",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 372-374.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 372-374.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-395-address-to-the-nation-on-the-national-education-strategy",
+    "title": "Address to the Nation on the National Education Strategy",
+    "date": "1991-04-18",
+    "sortDate": "1991-04-18",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 395,
+    "printedPageEnd": 399,
+    "pageRange": "pp. 395-399",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 395-399.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 395-399.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-451-remarks-and-a-question-and-answer-session-at-a-meeting-of-the-society-of-business-editors-",
+    "title": "Remarks and a Question-and-Answer Session at a Meeting of the Society of Business Editors and Writers",
+    "date": "1991-05-01",
+    "sortDate": "1991-05-01",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 451,
+    "printedPageEnd": 456,
+    "pageRange": "pp. 451-456",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 451-456.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 451-456.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-533-special-assignment-of-reggie-b-walton-to-the-white-house-media-affairs-office",
+    "title": "Special Assignment of Reggie B. Walton to the White House Media Affairs Office",
+    "date": "1991-05-21",
+    "sortDate": "1991-05-21",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 533,
+    "printedPageEnd": 533,
+    "pageRange": "p. 533",
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 533.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 533.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-581-remarks-at-the-federal-bureau-of-investigation-academy-commencement-ceremony-in-quantico-v",
+    "title": "Remarks at the Federal Bureau of Investigation Academy Commencement Ceremony in Quantico, Virginia",
+    "date": "1991-05-30",
+    "sortDate": "1991-05-30",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 581,
+    "printedPageEnd": 584,
+    "pageRange": "pp. 581-584",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 581-584.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 581-584.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      },
+      {
+        "label": "DEA",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-599-remarks-to-the-national-education-goals-panel",
+    "title": "Remarks to the National Education Goals Panel",
+    "date": "1991-06-03",
+    "sortDate": "1991-06-03",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 599,
+    "printedPageEnd": 601,
+    "pageRange": "pp. 599-601",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 599-601.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 599-601.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-630-remarks-in-a-teleconference-with-the-national-advertising-conference-of-the-american-adver",
+    "title": "Remarks in a Teleconference With the National Advertising Conference of the American Advertising Federation in Nashville, Tennessee",
+    "date": "1991-06-11",
+    "sortDate": "1991-06-11",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 630,
+    "printedPageEnd": 633,
+    "pageRange": "pp. 630-633",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 630-633.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 630-633.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-644-remarks-on-the-administration-s-domestic-policy",
+    "title": "Remarks on the Administration's Domestic Policy",
+    "date": "1991-06-12",
+    "sortDate": "1991-06-12",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 644,
+    "printedPageEnd": 648,
+    "pageRange": "pp. 644-648",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 644-648.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 644-648.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Cocaine/crack",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-659-remarks-at-the-california-institute-of-technology-commencement-ceremony-in-pasadena-califo",
+    "title": "Remarks at the California Institute of Technology Commencement Ceremony in Pasadena, California",
+    "date": "1991-06-14",
+    "sortDate": "1991-06-14",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 659,
+    "printedPageEnd": 662,
+    "pageRange": "pp. 659-662",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 659-662.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 659-662.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-690-remarks-at-a-white-house-briefing-for-law-enforcement-officials-on-crime-legislation",
+    "title": "Remarks at a White House Briefing for Law Enforcement Officials on Crime Legislation",
+    "date": "1991-06-18",
+    "sortDate": "1991-06-18",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 690,
+    "printedPageEnd": 692,
+    "pageRange": "pp. 690-692",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 690-692.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 690-692.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-704-remarks-to-the-american-association-of-state-highway-and-transportation-officials",
+    "title": "Remarks to the American Association of State Highway and Transportation Officials",
+    "date": "1991-06-21",
+    "sortDate": "1991-06-21",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 704,
+    "printedPageEnd": 706,
+    "pageRange": "pp. 704-706",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 704-706.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 704-706.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1025-remarks-at-the-presentation-ceremony-for-the-all-american-cities-awards",
+    "title": "Remarks at the Presentation Ceremony for the All-American Cities Awards",
+    "date": "1991-08-06",
+    "sortDate": "1991-08-06",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1025,
+    "printedPageEnd": 1026,
+    "pageRange": "pp. 1025-1026",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1025-1026.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1025-1026.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1031-letter-on-the-resignation-of-attorney-general-dick-thornburgh",
+    "title": "Letter on the Resignation of Attorney General Dick Thornburgh",
+    "date": "1991-08-09",
+    "sortDate": "1991-08-09",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1031,
+    "printedPageEnd": 1032,
+    "pageRange": "pp. 1031-1032",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1031-1032.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1031-1032.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1107-remarks-to-students-and-faculty-of-the-lewiston-comprehensive-high-school-in-lewiston-main",
+    "title": "Remarks to Students and Faculty of the Lewiston Comprehensive High School in Lewiston, Maine",
+    "date": "1991-09-03",
+    "sortDate": "1991-09-03",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1107,
+    "printedPageEnd": 1112,
+    "pageRange": "pp. 1107-1112",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1107-1112.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1107-1112.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1112-remarks-during-the-america-2000-conference-call",
+    "title": "Remarks During the America 2000 Conference Call",
+    "date": "1991-09-04",
+    "sortDate": "1991-09-04",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1112,
+    "printedPageEnd": 1114,
+    "pageRange": "pp. 1112-1114",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1112-1114.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1112-1114.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1148-remarks-at-a-fundraising-dinner-for-senatorial-candidate-dick-thornburgh-in-philadelphia-p",
+    "title": "Remarks at a Fundraising Dinner for Senatorial Candidate Dick Thornburgh in Philadelphia, Pennsylvania",
+    "date": "1991-09-12",
+    "sortDate": "1991-09-12",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1148,
+    "printedPageEnd": 1151,
+    "pageRange": "pp. 1148-1151",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1148-1151.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1148-1151.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1167-teleconference-remarks-to-schoolchildren-during-the-annual-national-space-science-symposiu",
+    "title": "Teleconference Remarks to Schoolchildren During the Annual National Space Science Symposium",
+    "date": "1991-09-17",
+    "sortDate": "1991-09-17",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1167,
+    "printedPageEnd": 1172,
+    "pageRange": "pp. 1167-1172",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1167-1172.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1167-1172.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1198-statement-by-press-secretary-fitzwater-on-peru-s-drug-interdiction-efforts",
+    "title": "Statement by Press Secretary Fitzwater on Peru's Drug Interdiction Efforts",
+    "date": "1991-09-20",
+    "sortDate": "1991-09-20",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1198,
+    "printedPageEnd": 1199,
+    "pageRange": "pp. 1198-1199",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1198-1199.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1198-1199.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1207-remarks-at-a-republican-party-fundraising-dinner-in-east-brunswick-new-jersey",
+    "title": "Remarks at a Republican Party Fundraising Dinner in East Brunswick, New Jersey",
+    "date": "1991-09-24",
+    "sortDate": "1991-09-24",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1207,
+    "printedPageEnd": 1210,
+    "pageRange": "pp. 1207-1210",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1207-1210.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1207-1210.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1226-remarks-at-the-points-of-light-celebration-in-orlando-florida",
+    "title": "Remarks at the Points of Light Celebration in Orlando, Florida",
+    "date": "1991-09-30",
+    "sortDate": "1991-09-30",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1226,
+    "printedPageEnd": 1228,
+    "pageRange": "pp. 1226-1228",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1226-1228.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1226-1228.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1242-remarks-congratulating-the-1991-national-basketball-association-champion-chicago-bulls",
+    "title": "Remarks Congratulating the 1991 National Basketball Association Champion Chicago Bulls",
+    "date": "1991-10-01",
+    "sortDate": "1991-10-01",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1242,
+    "printedPageEnd": 1244,
+    "pageRange": "pp. 1242-1244",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1242-1244.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1242-1244.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1239-remarks-to-students-and-faculty-at-alice-deal-junior-high-school",
+    "title": "Remarks to Students and Faculty at Alice Deal Junior High School",
+    "date": "1991-10-01",
+    "sortDate": "1991-10-01",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1239,
+    "printedPageEnd": 1242,
+    "pageRange": "pp. 1239-1242",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1239-1242.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1239-1242.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1248-remarks-at-the-twelfth-annual-crime-stoppers-international-conference-in-louisville-kentuc",
+    "title": "Remarks at the Twelfth Annual Crime Stoppers International Conference in Louisville, Kentucky",
+    "date": "1991-10-02",
+    "sortDate": "1991-10-02",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1248,
+    "printedPageEnd": 1250,
+    "pageRange": "pp. 1248-1250",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1248-1250.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1248-1250.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1254-remarks-to-the-annual-convention-of-the-national-fraternal-congress-of-america",
+    "title": "Remarks to the Annual Convention of the National Fraternal Congress of America",
+    "date": "1991-10-03",
+    "sortDate": "1991-10-03",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1254,
+    "printedPageEnd": 1257,
+    "pageRange": "pp. 1254-1257",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1254-1257.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1254-1257.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1278-remarks-following-discussions-with-president-rafael-calderon-of-costa-rica",
+    "title": "Remarks Following Discussions With President Rafael Calderon of Costa Rica",
+    "date": "1991-10-10",
+    "sortDate": "1991-10-10",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1278,
+    "printedPageEnd": 1280,
+    "pageRange": "pp. 1278-1280",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1278-1280.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1278-1280.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1325-message-to-the-senate-transmitting-the-panama-united-states-legal-assistance-treaty",
+    "title": "Message to the Senate Transmitting the Panama-United States Legal Assistance Treaty",
+    "date": "1991-10-24",
+    "sortDate": "1991-10-24",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1325,
+    "printedPageEnd": 1326,
+    "pageRange": "pp. 1325-1326",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1325-1326.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1325-1326.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1336-message-to-the-senate-transmitting-the-jamaica-united-states-legal-assistance-treaty",
+    "title": "Message to the Senate Transmitting the Jamaica-United States Legal Assistance Treaty",
+    "date": "1991-10-25",
+    "sortDate": "1991-10-25",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1336,
+    "printedPageEnd": 1337,
+    "pageRange": "pp. 1336-1337",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1336-1337.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1336-1337.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1350-statement-on-signing-the-department-of-transportation-and-related-agencies-appropriations-",
+    "title": "Statement on Signing the Department of Transportation and Related Agencies Appropriations Act, 1992",
+    "date": "1991-10-28",
+    "sortDate": "1991-10-28",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1350,
+    "printedPageEnd": 1351,
+    "pageRange": "pp. 1350-1351",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1350-1351.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1350-1351.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1348-statement-on-signing-the-departments-of-commerce-justice-and-state-the-judiciary-and-relat",
+    "title": "Statement on Signing the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1992",
+    "date": "1991-10-28",
+    "sortDate": "1991-10-28",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1348,
+    "printedPageEnd": 1349,
+    "pageRange": "pp. 1348-1349",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1348-1349.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1348-1349.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1349-statement-on-signing-the-treasury-postal-service-and-general-government-appropriations-act",
+    "title": "Statement on Signing the Treasury, Postal Service and General Government Appropriations Act, 1992",
+    "date": "1991-10-28",
+    "sortDate": "1991-10-28",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1349,
+    "printedPageEnd": 1350,
+    "pageRange": "pp. 1349-1350",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1349-1350.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1349-1350.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1365-message-to-the-senate-transmitting-the-argentina-united-states-legal-assistance-treaty",
+    "title": "Message to the Senate Transmitting the Argentina-United States Legal Assistance Treaty",
+    "date": "1991-10-31",
+    "sortDate": "1991-10-31",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1365,
+    "printedPageEnd": 1366,
+    "pageRange": "pp. 1365-1366",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1365-1366.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1365-1366.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1373-remarks-at-the-bush-quayle-fundraising-dinner-in-houston-texas",
+    "title": "Remarks at the Bush-Quayle Fundraising Dinner in Houston, Texas",
+    "date": "1991-10-31",
+    "sortDate": "1991-10-31",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1373,
+    "printedPageEnd": 1379,
+    "pageRange": "pp. 1373-1379",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1373-1379.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1373-1379.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1384-interview-with-dave-ward-of-ktrk-tv-in-houston-texas",
+    "title": "Interview With Dave Ward of KTRK-TV in Houston, Texas",
+    "date": "1991-11-01",
+    "sortDate": "1991-11-01",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1384,
+    "printedPageEnd": 1387,
+    "pageRange": "pp. 1384-1387",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1384-1387.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1384-1387.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1440-remarks-at-a-bush-quayle-fundraising-luncheon-in-new-york-city",
+    "title": "Remarks at a Bush-Quayle Fundraising Luncheon in New York City",
+    "date": "1991-11-12",
+    "sortDate": "1991-11-12",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1440,
+    "printedPageEnd": 1445,
+    "pageRange": "pp. 1440-1445",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1440-1445.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1440-1445.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 2
+      },
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1437-remarks-at-the-swearing-in-ceremony-for-robert-gates-as-director-of-central-intelligence",
+    "title": "Remarks at the Swearing-In Ceremony for Robert Gates as Director of Central Intelligence",
+    "date": "1991-11-12",
+    "sortDate": "1991-11-12",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1437,
+    "printedPageEnd": 1438,
+    "pageRange": "pp. 1437-1438",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1437-1438.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1437-1438.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1449-message-to-the-senate-transmitting-the-uruguay-united-states-legal-assistance-treaty",
+    "title": "Message to the Senate Transmitting the Uruguay-United States Legal Assistance Treaty",
+    "date": "1991-11-13",
+    "sortDate": "1991-11-13",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1449,
+    "printedPageEnd": 1450,
+    "pageRange": "pp. 1449-1450",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1449-1450.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1449-1450.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1463-remarks-at-a-fundraising-dinner-for-senator-christopher-s-bond-in-st-louis-missouri",
+    "title": "Remarks at a Fundraising Dinner for Senator Christopher S. Bond in St. Louis, Missouri",
+    "date": "1991-11-13",
+    "sortDate": "1991-11-13",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1463,
+    "printedPageEnd": 1467,
+    "pageRange": "pp. 1463-1467",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1463-1467.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1463-1467.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      },
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1511-interview-with-bob-orr-of-wbns-tv-in-columbus-ohio",
+    "title": "Interview With Bob Orr of WBNS-TV in Columbus, Ohio",
+    "date": "1991-11-25",
+    "sortDate": "1991-11-25",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1511,
+    "printedPageEnd": 1514,
+    "pageRange": "pp. 1511-1514",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1511-1514.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1511-1514.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1508-remarks-to-the-ohio-education-community-in-columbus",
+    "title": "Remarks to the Ohio Education Community in Columbus",
+    "date": "1991-11-25",
+    "sortDate": "1991-11-25",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1508,
+    "printedPageEnd": 1511,
+    "pageRange": "pp. 1508-1511",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1508-1511.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1508-1511.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1584-remarks-to-the-illinois-farm-bureau-in-chicago-illinois",
+    "title": "Remarks to the Illinois Farm Bureau in Chicago, Illinois",
+    "date": "1991-12-10",
+    "sortDate": "1991-12-10",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1584,
+    "printedPageEnd": 1586,
+    "pageRange": "pp. 1584-1586",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1584-1586.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1584-1586.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1605-exchange-with-reporters",
+    "title": "Exchange with Reporters",
+    "date": "1991-12-13",
+    "sortDate": "1991-12-13",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1605,
+    "printedPageEnd": 1606,
+    "pageRange": "pp. 1605-1606",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1605-1606.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1605-1606.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1631-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-prime-minister-anan",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Prime Minister Anan Panyarachun of Thailand",
+    "date": "1991-12-17",
+    "sortDate": "1991-12-17",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1631,
+    "printedPageEnd": 1631,
+    "pageRange": "p. 1631",
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1631.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1631.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-79-remarks-to-the-america-2000-community-leadership-conference",
+    "title": "Remarks to the America 2000 Community Leadership Conference",
+    "date": "1992-01-14",
+    "sortDate": "1992-01-14",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 79,
+    "printedPageEnd": 82,
+    "pageRange": "pp. 79-82",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 79-82.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 79-82.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-105-remarks-to-cabletron-systems-employees-in-rochester-new-hampshire",
+    "title": "Remarks to Cabletron Systems Employees in Rochester, New Hampshire",
+    "date": "1992-01-15",
+    "sortDate": "1992-01-15",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 105,
+    "printedPageEnd": 109,
+    "pageRange": "pp. 105-109",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 105-109.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 105-109.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-102-remarks-to-liberty-mutual-insurance-employees-in-dover",
+    "title": "Remarks to Liberty Mutual Insurance Employees in Dover",
+    "date": "1992-01-15",
+    "sortDate": "1992-01-15",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 102,
+    "printedPageEnd": 105,
+    "pageRange": "pp. 102-105",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 102-105.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 102-105.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-133-message-to-the-senate-transmitting-the-spain-united-states-legal-assistance-treaty",
+    "title": "Message to the Senate Transmitting the Spain-United States Legal Assistance Treaty",
+    "date": "1992-01-22",
+    "sortDate": "1992-01-22",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 133,
+    "printedPageEnd": 134,
+    "pageRange": "pp. 133-134",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 133-134.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 133-134.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-194-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-president-ronald-ve",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With President Ronald Venetiaan of Suriname",
+    "date": "1992-02-03",
+    "sortDate": "1992-02-03",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 194,
+    "printedPageEnd": 194,
+    "pageRange": "p. 194",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 194.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 194.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Counternarcotics",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-216-remarks-on-receiving-the-boy-scouts-of-america-report-to-the-nation",
+    "title": "Remarks on Receiving the Boy Scouts of America Report to the Nation",
+    "date": "1992-02-10",
+    "sortDate": "1992-02-10",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 216,
+    "printedPageEnd": 216,
+    "pageRange": "p. 216",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 216.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 216.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-238-remarks-to-law-enforcement-officers-and-firefighters-in-concord",
+    "title": "Remarks to Law Enforcement Officers and Firefighters in Concord",
+    "date": "1992-02-12",
+    "sortDate": "1992-02-12",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 238,
+    "printedPageEnd": 240,
+    "pageRange": "pp. 238-240",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 238-240.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 238-240.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "DEA",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-297-remarks-to-the-united-states-chamber-of-commerce-national-action-rally",
+    "title": "Remarks to the United States Chamber of Commerce National Action Rally",
+    "date": "1992-02-24",
+    "sortDate": "1992-02-24",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 297,
+    "printedPageEnd": 300,
+    "pageRange": "pp. 297-300",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 297-300.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 297-300.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-314-remarks-at-a-bush-quayle-fundraising-dinner-in-los-angeles-california",
+    "title": "Remarks at a Bush-Quayle Fundraising Dinner in Los Angeles, California",
+    "date": "1992-02-25",
+    "sortDate": "1992-02-25",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 314,
+    "printedPageEnd": 318,
+    "pageRange": "pp. 314-318",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 314-318.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 314-318.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-308-remarks-at-a-bush-quayle-fundraising-luncheon-in-san-francisco-california",
+    "title": "Remarks at a Bush-Quayle Fundraising Luncheon in San Francisco, California",
+    "date": "1992-02-25",
+    "sortDate": "1992-02-25",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 308,
+    "printedPageEnd": 312,
+    "pageRange": "pp. 308-312",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 308-312.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 308-312.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-319-exchange-with-reporters-prior-to-discussions-with-president-ce-sar-gaviria-of-colombia-in-",
+    "title": "Exchange With Reporters Prior to Discussions With President César Gaviria of Colombia in San Antonio",
+    "date": "1992-02-26",
+    "sortDate": "1992-02-26",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 319,
+    "printedPageEnd": 319,
+    "pageRange": "p. 319",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 319.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 319.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-333-exchange-with-reporters-following-the-news-conference-in-san-antonio",
+    "title": "Exchange With Reporters Following the News Conference in San Antonio",
+    "date": "1992-02-27",
+    "sortDate": "1992-02-27",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 333,
+    "printedPageEnd": 334,
+    "pageRange": "pp. 333-334",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 333-334.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 333-334.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      },
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-350-exchange-with-reporters-in-houston",
+    "title": "Exchange With Reporters in Houston",
+    "date": "1992-02-28",
+    "sortDate": "1992-02-28",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 350,
+    "printedPageEnd": 351,
+    "pageRange": "pp. 350-351",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 350-351.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 350-351.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-351-presidential-determination-no-92-18-memorandum-on-certification-for-major-narcotics-produc",
+    "title": "Presidential Determination No. 92-18-Memorandum on Certification for Major Narcotics Producing and Transit Countries",
+    "date": "1992-02-28",
+    "sortDate": "1992-02-28",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 351,
+    "printedPageEnd": 352,
+    "pageRange": "pp. 351-352",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 351-352.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 351-352.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Narcotics control",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-400-message-to-the-congress-transmitting-the-report-of-the-white-house-conference-on-library-a",
+    "title": "Message to the Congress Transmitting the Report of the White House Conference on Library and Information Services",
+    "date": "1992-03-06",
+    "sortDate": "1992-03-06",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 400,
+    "printedPageEnd": 403,
+    "pageRange": "pp. 400-403",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 400-403.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 400-403.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-406-remarks-to-the-national-league-of-cities",
+    "title": "Remarks to the National League of Cities",
+    "date": "1992-03-09",
+    "sortDate": "1992-03-09",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 406,
+    "printedPageEnd": 410,
+    "pageRange": "pp. 406-410",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 406-410.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 406-410.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-450-remarks-to-steeltech-employees-in-milwaukee-wisconsin",
+    "title": "Remarks to Steeltech Employees in Milwaukee, Wisconsin",
+    "date": "1992-03-16",
+    "sortDate": "1992-03-16",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 450,
+    "printedPageEnd": 452,
+    "pageRange": "pp. 450-452",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 450-452.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 450-452.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-514-remarks-to-state-attorneys-general",
+    "title": "Remarks to State Attorneys General",
+    "date": "1992-03-30",
+    "sortDate": "1992-03-30",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 514,
+    "printedPageEnd": 516,
+    "pageRange": "pp. 514-516",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 514-516.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 514-516.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-527-message-to-the-senate-transmitting-the-nigeria-united-states-legal-assistance-treaty",
+    "title": "Message to the Senate Transmitting the Nigeria-United States Legal Assistance Treaty",
+    "date": "1992-04-01",
+    "sortDate": "1992-04-01",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 527,
+    "printedPageEnd": 527,
+    "pageRange": "p. 527",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 527.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 527.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cartels/Escobar",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-532-remarks-to-the-federalist-society-of-philadelphia-in-philadelphia-pennsylvania",
+    "title": "Remarks to the Federalist Society of Philadelphia in Philadelphia, Pennsylvania",
+    "date": "1992-04-03",
+    "sortDate": "1992-04-03",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 532,
+    "printedPageEnd": 537,
+    "pageRange": "pp. 532-537",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 532-537.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 532-537.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-543-remarks-at-the-presentation-ceremony-for-the-national-teacher-of-the-year-award",
+    "title": "Remarks at the Presentation Ceremony for the National Teacher of the Year Award",
+    "date": "1992-04-07",
+    "sortDate": "1992-04-07",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 543,
+    "printedPageEnd": 546,
+    "pageRange": "pp. 543-546",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 543-546.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 543-546.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-559-remarks-congratulating-united-states-olympic-athletes",
+    "title": "Remarks Congratulating United States Olympic Athletes",
+    "date": "1992-04-08",
+    "sortDate": "1992-04-08",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 559,
+    "printedPageEnd": 561,
+    "pageRange": "pp. 559-561",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 559-561.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 559-561.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-573-exchange-with-reporters-prior-to-discussions-with-president-violeta-chamorro-of-nicaragua",
+    "title": "Exchange With Reporters Prior to Discussions With President Violeta Chamorro of Nicaragua",
+    "date": "1992-04-09",
+    "sortDate": "1992-04-09",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 573,
+    "printedPageEnd": 574,
+    "pageRange": "pp. 573-574",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 573-574.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 573-574.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Noriega drug prosecution",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-579-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1992-04-10",
+    "sortDate": "1992-04-10",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 579,
+    "printedPageEnd": 591,
+    "pageRange": "pp. 579-591",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 579-591.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 579-591.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      },
+      {
+        "label": "Noriega drug prosecution",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-604-remarks-congratulating-the-national-collegiate-athletic-association-men-s-and-women-s-bask",
+    "title": "Remarks Congratulating the National Collegiate Athletic Association Men's and Women's Basketball Champions",
+    "date": "1992-04-15",
+    "sortDate": "1992-04-15",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 604,
+    "printedPageEnd": 606,
+    "pageRange": "pp. 604-606",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 604-606.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 604-606.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-619-remarks-to-the-young-presidents-organization",
+    "title": "Remarks to the Young Presidents' Organization",
+    "date": "1992-04-21",
+    "sortDate": "1992-04-21",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 619,
+    "printedPageEnd": 624,
+    "pageRange": "pp. 619-624",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 619-624.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 619-624.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-628-remarks-to-the-united-states-academic-decathlon-winners",
+    "title": "Remarks to the United States Academic Decathlon Winners",
+    "date": "1992-04-23",
+    "sortDate": "1992-04-23",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 628,
+    "printedPageEnd": 630,
+    "pageRange": "pp. 628-630",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 628-630.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 628-630.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-681-remarks-at-the-points-of-light-awards-ceremony",
+    "title": "Remarks at the Points of Light Awards Ceremony",
+    "date": "1992-05-01",
+    "sortDate": "1992-05-01",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 681,
+    "printedPageEnd": 683,
+    "pageRange": "pp. 681-683",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 681-683.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 681-683.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-704-teleconference-remarks-to-the-american-newspaper-publishers-association",
+    "title": "Teleconference Remarks to the American Newspaper Publishers Association",
+    "date": "1992-05-06",
+    "sortDate": "1992-05-06",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 704,
+    "printedPageEnd": 709,
+    "pageRange": "pp. 704-709",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 704-709.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 704-709.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-729-remarks-to-community-leaders-in-los-angeles",
+    "title": "Remarks to Community Leaders in Los Angeles",
+    "date": "1992-05-08",
+    "sortDate": "1992-05-08",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 729,
+    "printedPageEnd": 734,
+    "pageRange": "pp. 729-734",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 729-734.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 729-734.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Weed and Seed",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-744-remarks-at-a-bush-quayle-fundraising-dinner-in-philadelphia",
+    "title": "Remarks at a Bush-Quayle Fundraising Dinner in Philadelphia",
+    "date": "1992-05-11",
+    "sortDate": "1992-05-11",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 744,
+    "printedPageEnd": 748,
+    "pageRange": "pp. 744-748",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 744-748.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 744-748.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-738-remarks-on-maternal-and-infant-health-care",
+    "title": "Remarks on Maternal and Infant Health Care",
+    "date": "1992-05-11",
+    "sortDate": "1992-05-11",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 738,
+    "printedPageEnd": 740,
+    "pageRange": "pp. 738-740",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 738-740.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 738-740.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-749-remarks-on-urban-aid-initiatives-and-an-exchange-with-reporters",
+    "title": "Remarks on Urban Aid Initiatives and an Exchange With Reporters",
+    "date": "1992-05-12",
+    "sortDate": "1992-05-12",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 749,
+    "printedPageEnd": 752,
+    "pageRange": "pp. 749-752",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 749-752.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 749-752.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-757-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-prime-minister-patr",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Prime Minister Patrick Manning of Trinidad and Tobago",
+    "date": "1992-05-12",
+    "sortDate": "1992-05-12",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 757,
+    "printedPageEnd": 757,
+    "pageRange": "p. 757",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 757.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 757.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Counternarcotics",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-748-statement-on-urban-aid-initiatives",
+    "title": "Statement on Urban Aid Initiatives",
+    "date": "1992-05-12",
+    "sortDate": "1992-05-12",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 748,
+    "printedPageEnd": 749,
+    "pageRange": "pp. 748-749",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 748-749.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 748-749.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-759-remarks-to-the-health-care-and-business-community-in-baltimore-maryland",
+    "title": "Remarks to the Health Care and Business Community in Baltimore, Maryland",
+    "date": "1992-05-13",
+    "sortDate": "1992-05-13",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 759,
+    "printedPageEnd": 763,
+    "pageRange": "pp. 759-763",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 759-763.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 759-763.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-767-remarks-to-the-take-pride-in-america-volunteers",
+    "title": "Remarks to the Take Pride in America Volunteers",
+    "date": "1992-05-14",
+    "sortDate": "1992-05-14",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 767,
+    "printedPageEnd": 769,
+    "pageRange": "pp. 767-769",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 767-769.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 767-769.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-776-remarks-at-a-bush-quayle-fundraising-luncheon-in-pittsburgh-pennsylvania",
+    "title": "Remarks at a Bush-Quayle Fundraising Luncheon in Pittsburgh, Pennsylvania",
+    "date": "1992-05-15",
+    "sortDate": "1992-05-15",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 776,
+    "printedPageEnd": 780,
+    "pageRange": "pp. 776-780",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 776-780.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 776-780.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-781-remarks-at-the-southern-methodist-university-commencement-ceremony-in-dallas-texas",
+    "title": "Remarks at the Southern Methodist University Commencement Ceremony in Dallas, Texas",
+    "date": "1992-05-16",
+    "sortDate": "1992-05-16",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 781,
+    "printedPageEnd": 785,
+    "pageRange": "pp. 781-785",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 781-785.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 781-785.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-789-remarks-to-the-national-association-of-home-builders",
+    "title": "Remarks to the National Association of Home Builders",
+    "date": "1992-05-18",
+    "sortDate": "1992-05-18",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 789,
+    "printedPageEnd": 791,
+    "pageRange": "pp. 789-791",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 789-791.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 789-791.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-799-the-president-s-news-conference-with-prime-minister-brian-mulroney-of-canada",
+    "title": "The President's News Conference With Prime Minister Brian Mulroney of Canada",
+    "date": "1992-05-20",
+    "sortDate": "1992-05-20",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 799,
+    "printedPageEnd": 805,
+    "pageRange": "pp. 799-805",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 799-805.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 799-805.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-808-remarks-at-a-bush-quayle-fundraising-luncheon-in-cleveland-ohio",
+    "title": "Remarks at a Bush-Quayle Fundraising Luncheon in Cleveland, Ohio",
+    "date": "1992-05-21",
+    "sortDate": "1992-05-21",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 808,
+    "printedPageEnd": 812,
+    "pageRange": "pp. 808-812",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 808-812.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 808-812.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-814-remarks-at-a-bush-quayle-fundraising-picnic-in-westchester-new-york",
+    "title": "Remarks at a Bush-Quayle Fundraising Picnic in Westchester, New York",
+    "date": "1992-05-21",
+    "sortDate": "1992-05-21",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 814,
+    "printedPageEnd": 817,
+    "pageRange": "pp. 814-817",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 814-817.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 814-817.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-834-remarks-at-a-bush-quayle-fundraising-dinner-in-atlanta-georgia",
+    "title": "Remarks at a Bush-Quayle Fundraising Dinner in Atlanta, Georgia",
+    "date": "1992-05-27",
+    "sortDate": "1992-05-27",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 834,
+    "printedPageEnd": 838,
+    "pageRange": "pp. 834-838",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 834-838.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 834-838.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-852-remarks-and-a-question-and-answer-session-with-the-sheriff-s-youth-athletic-league-in-los-",
+    "title": "Remarks and a Question-and-Answer Session With the Sheriff's Youth Athletic League in Los Angeles",
+    "date": "1992-05-29",
+    "sortDate": "1992-05-29",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 852,
+    "printedPageEnd": 857,
+    "pageRange": "pp. 852-857",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 852-857.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 852-857.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-868-remarks-at-a-texas-victory-92-fundraising-dinner-in-dallas-texas",
+    "title": "Remarks at a Texas Victory '92 Fundraising Dinner in Dallas, Texas",
+    "date": "1992-05-30",
+    "sortDate": "1992-05-30",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 868,
+    "printedPageEnd": 873,
+    "pageRange": "pp. 868-873",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 868-873.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 868-873.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-927-the-president-s-news-conference-in-rio-de-janeiro",
+    "title": "The President's News Conference in Rio de Janeiro",
+    "date": "1992-06-13",
+    "sortDate": "1992-06-13",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 927,
+    "printedPageEnd": 934,
+    "pageRange": "pp. 927-934",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 927-934.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 927-934.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Noriega drug prosecution",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-997-remarks-on-signing-emergency-supplemental-appropriations-legislation",
+    "title": "Remarks on Signing Emergency Supplemental Appropriations Legislation",
+    "date": "1992-06-22",
+    "sortDate": "1992-06-22",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 997,
+    "printedPageEnd": 998,
+    "pageRange": "pp. 997-998",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 997-998.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 997-998.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1078-statement-by-press-secretary-fitzwater-on-the-andean-trade-preference-act",
+    "title": "Statement by Press Secretary Fitzwater on the Andean Trade Preference Act",
+    "date": "1992-07-03",
+    "sortDate": "1992-07-03",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1078,
+    "printedPageEnd": 1079,
+    "pageRange": "pp. 1078-1079",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1078-1079.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1078-1079.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug summit",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1115-the-president-s-news-conference-with-president-carlos-salinas-of-mexico-in-san-diego-calif",
+    "title": "The President's News Conference With President Carlos Salinas of Mexico in San Diego, California",
+    "date": "1992-07-14",
+    "sortDate": "1992-07-14",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1115,
+    "printedPageEnd": 1117,
+    "pageRange": "pp. 1115-1117",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1115-1117.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1115-1117.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Alvarez-Machain",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1138-remarks-and-a-question-and-answer-session-with-the-american-legion-boys-nation",
+    "title": "Remarks and a Question-and-Answer Session With the American Legion Boys Nation",
+    "date": "1992-07-20",
+    "sortDate": "1992-07-20",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1138,
+    "printedPageEnd": 1144,
+    "pageRange": "pp. 1138-1144",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1138-1144.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1138-1144.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1174-remarks-in-a-roundtable-discussion-on-families-in-columbia-missouri",
+    "title": "Remarks in a Roundtable Discussion on Families in Columbia, Missouri",
+    "date": "1992-07-24",
+    "sortDate": "1992-07-24",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1174,
+    "printedPageEnd": 1178,
+    "pageRange": "pp. 1174-1178",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1174-1178.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1174-1178.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1189-remarks-to-outlook-graphics-employees-in-neenah-wisconsin",
+    "title": "Remarks to Outlook Graphics Employees in Neenah, Wisconsin",
+    "date": "1992-07-27",
+    "sortDate": "1992-07-27",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1189,
+    "printedPageEnd": 1193,
+    "pageRange": "pp. 1189-1193",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1189-1193.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1189-1193.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1356-white-house-fact-sheet-the-president-s-welfare-reform-legislation",
+    "title": "White House Fact Sheet: The President's Welfare Reform Legislation",
+    "date": "1992-08-14",
+    "sortDate": "1992-08-14",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1356,
+    "printedPageEnd": 1358,
+    "pageRange": "pp. 1356-1358",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1356-1358.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1356-1358.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1380-remarks-accepting-the-presidential-nomination-at-the-republican-national-convention-in-hou",
+    "title": "Remarks Accepting the Presidential Nomination at the Republican National Convention in Houston",
+    "date": "1992-08-20",
+    "sortDate": "1992-08-20",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1380,
+    "printedPageEnd": 1387,
+    "pageRange": "pp. 1380-1387",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1380-1387.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1380-1387.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1400-remarks-at-the-national-affairs-briefing-in-dallas-texas",
+    "title": "Remarks at the National Affairs Briefing in Dallas, Texas",
+    "date": "1992-08-22",
+    "sortDate": "1992-08-22",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1400,
+    "printedPageEnd": 1403,
+    "pageRange": "pp. 1400-1403",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1400-1403.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1400-1403.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1409-remarks-to-the-chamber-of-commerce-in-ansonia-connecticut",
+    "title": "Remarks to the Chamber of Commerce in Ansonia, Connecticut",
+    "date": "1992-08-24",
+    "sortDate": "1992-08-24",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1409,
+    "printedPageEnd": 1412,
+    "pageRange": "pp. 1409-1412",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1409-1412.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1409-1412.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1455-remarks-and-an-exchange-with-reporters-on-disaster-relief-efforts-in-homestead-florida",
+    "title": "Remarks and an Exchange With Reporters on Disaster Relief Efforts in Homestead, Florida",
+    "date": "1992-09-01",
+    "sortDate": "1992-09-01",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1455,
+    "printedPageEnd": 1457,
+    "pageRange": "pp. 1455-1457",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1455-1457.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1455-1457.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1498-statement-on-signing-the-job-training-reform-amendments-of-1992",
+    "title": "Statement on Signing the Job Training Reform Amendments of 1992",
+    "date": "1992-09-07",
+    "sortDate": "1992-09-07",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1498,
+    "printedPageEnd": 1499,
+    "pageRange": "pp. 1498-1499",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1498-1499.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1498-1499.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1723-message-to-the-congress-transmitting-proposed-legislation-on-violent-crime",
+    "title": "Message to the Congress Transmitting Proposed Legislation on Violent Crime",
+    "date": "1992-09-30",
+    "sortDate": "1992-09-30",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1723,
+    "printedPageEnd": 1724,
+    "pageRange": "pp. 1723-1724",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1723-1724.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1723-1724.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1708-remarks-at-the-national-salute-to-the-president-and-his-black-appointees",
+    "title": "Remarks at the National Salute to the President and His Black Appointees",
+    "date": "1992-09-30",
+    "sortDate": "1992-09-30",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1708,
+    "printedPageEnd": 1712,
+    "pageRange": "pp. 1708-1712",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1708-1712.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1708-1712.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1766-statement-on-signing-the-treasury-postal-service-and-general-government-appropriations-act",
+    "title": "Statement on Signing the Treasury, Postal Service, and General Government Appropriations Act, 1993",
+    "date": "1992-10-06",
+    "sortDate": "1992-10-06",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1766,
+    "printedPageEnd": 1767,
+    "pageRange": "pp. 1766-1767",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1766-1767.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1766-1767.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Office of National Drug Control Policy",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1786-presidential-debate-in-st-louis",
+    "title": "Presidential Debate in St. Louis",
+    "date": "1992-10-11",
+    "sortDate": "1992-10-11",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1786,
+    "printedPageEnd": 1808,
+    "pageRange": "pp. 1786-1808",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1786-1808.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1786-1808.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      },
+      {
+        "label": "DEA",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1821-presidential-debate-in-richmond-virginia",
+    "title": "Presidential Debate in Richmond, Virginia",
+    "date": "1992-10-15",
+    "sortDate": "1992-10-15",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1821,
+    "printedPageEnd": 1844,
+    "pageRange": "pp. 1821-1844",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1821-1844.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1821-1844.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1852-presidential-debate-in-east-lansing-michigan",
+    "title": "Presidential Debate in East Lansing, Michigan",
+    "date": "1992-10-19",
+    "sortDate": "1992-10-19",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1852,
+    "printedPageEnd": 1876,
+    "pageRange": "pp. 1852-1876",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1852-1876.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1852-1876.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1921-question-and-answer-session-in-secaucus-new-jersey",
+    "title": "Question-and-Answer Session in Secaucus, New Jersey",
+    "date": "1992-10-22",
+    "sortDate": "1992-10-22",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1921,
+    "printedPageEnd": 1933,
+    "pageRange": "pp. 1921-1933",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1921-1933.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1921-1933.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      },
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1942-question-and-answer-session-in-miami",
+    "title": "Question-and-Answer Session in Miami",
+    "date": "1992-10-23",
+    "sortDate": "1992-10-23",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1942,
+    "printedPageEnd": 1955,
+    "pageRange": "pp. 1942-1955",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1942-1955.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1942-1955.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1934-remarks-at-a-laurel-county-rally-in-london-kentucky",
+    "title": "Remarks at a Laurel County Rally in London, Kentucky",
+    "date": "1992-10-23",
+    "sortDate": "1992-10-23",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1934,
+    "printedPageEnd": 1938,
+    "pageRange": "pp. 1934-1938",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1934-1938.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1934-1938.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1964-remarks-and-a-question-and-answer-session-in-lafayette-louisiana",
+    "title": "Remarks and a Question-and-Answer Session in Lafayette, Louisiana",
+    "date": "1992-10-24",
+    "sortDate": "1992-10-24",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1964,
+    "printedPageEnd": 1971,
+    "pageRange": "pp. 1964-1971",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1964-1971.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1964-1971.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1974-remarks-to-the-international-association-of-chiefs-of-police-in-detroit-michigan",
+    "title": "Remarks to the International Association of Chiefs of Police in Detroit, Michigan",
+    "date": "1992-10-25",
+    "sortDate": "1992-10-25",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1974,
+    "printedPageEnd": 1978,
+    "pageRange": "pp. 1974-1978",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1974-1978.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1974-1978.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Cocaine/crack",
+        "count": 1
+      },
+      {
+        "label": "Weed and Seed",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2044-question-and-answer-session-in-columbus",
+    "title": "Question-and-Answer Session in Columbus",
+    "date": "1992-10-28",
+    "sortDate": "1992-10-28",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2044,
+    "printedPageEnd": 2056,
+    "pageRange": "pp. 2044-2056",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2044-2056.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2044-2056.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2040-remarks-to-the-community-in-columbus-ohio",
+    "title": "Remarks to the Community in Columbus, Ohio",
+    "date": "1992-10-28",
+    "sortDate": "1992-10-28",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2040,
+    "printedPageEnd": 2044,
+    "pageRange": "pp. 2040-2044",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2040-2044.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2040-2044.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Weed and Seed",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2060-statement-on-signing-the-housing-and-community-development-act-of-1992",
+    "title": "Statement on Signing the Housing and Community Development Act of 1992",
+    "date": "1992-10-28",
+    "sortDate": "1992-10-28",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2060,
+    "printedPageEnd": 2062,
+    "pageRange": "pp. 2060-2062",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2060-2062.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2060-2062.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Illicit drugs",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2074-statement-on-signing-the-indian-health-amendments-of-1992",
+    "title": "Statement on Signing the Indian Health Amendments of 1992",
+    "date": "1992-10-29",
+    "sortDate": "1992-10-29",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2074,
+    "printedPageEnd": 2074,
+    "pageRange": "p. 2074",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 2074.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 2074.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug abuse",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2239-remarks-to-central-intelligence-agency-employees-in-langley-virginia",
+    "title": "Remarks to Central Intelligence Agency Employees in Langley, Virginia",
+    "date": "1993-01-08",
+    "sortDate": "1993-01-08",
+    "year": "1993",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2239,
+    "printedPageEnd": 2240,
+    "pageRange": "pp. 2239-2240",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2239-2240.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2239-2240.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Drug trafficking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-32-remarks-at-the-swearing-in-ceremony-for-james-a-baker-iii-as-secretary-of-state",
+    "title": "Remarks at the Swearing-in Ceremony for James A. Baker III as Secretary of State",
+    "date": "1989-01-27",
+    "sortDate": "1989-01-27",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 32,
+    "printedPageEnd": 33,
+    "pageRange": "pp. 32-33",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 32-33.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 32-33.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-127-written-responses-to-questions-submitted-by-xinhua-news-agency-of-china",
+    "title": "Written Responses to Questions Submitted by Xinhua News Agency of China",
+    "date": "1989-02-16",
+    "sortDate": "1989-02-16",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 127,
+    "printedPageEnd": 131,
+    "pageRange": "pp. 127-131",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 127-131.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 127-131.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-178-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-03-07",
+    "sortDate": "1989-03-07",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 178,
+    "printedPageEnd": 186,
+    "pageRange": "pp. 178-186",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 178-186.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 178-186.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-268-remarks-at-the-swearing-in-ceremony-for-thomas-r-pickering-as-united-states-representative",
+    "title": "Remarks at the Swearing-in Ceremony for Thomas R. Pickering as United States Representative to the United Nations",
+    "date": "1989-03-20",
+    "sortDate": "1989-03-20",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 268,
+    "printedPageEnd": 270,
+    "pageRange": "pp. 268-270",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 268-270.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 268-270.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-374-remarks-following-discussions-with-prime-minister-yitzhak-shamir-of-israel",
+    "title": "Remarks Following Discussions With Prime Minister Yitzhak Shamir of Israel",
+    "date": "1989-04-06",
+    "sortDate": "1989-04-06",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 374,
+    "printedPageEnd": 376,
+    "pageRange": "pp. 374-376",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 374-376.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 374-376.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-379-toasts-at-a-dinner-honoring-prime-minister-yitzhak-shamir-of-israel",
+    "title": "Toasts at a Dinner Honoring Prime Minister Yitzhak Shamir of Israel",
+    "date": "1989-04-06",
+    "sortDate": "1989-04-06",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 379,
+    "printedPageEnd": 381,
+    "pageRange": "pp. 379-381",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 379-381.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 379-381.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-536-remarks-and-a-question-and-answer-session-with-reporters-on-the-situation-in-panama",
+    "title": "Remarks and a Question-and-Answer Session With Reporters on the Situation in Panama",
+    "date": "1989-05-11",
+    "sortDate": "1989-05-11",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 536,
+    "printedPageEnd": 538,
+    "pageRange": "pp. 536-538",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 536-538.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 536-538.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-540-remarks-at-the-texas-a-m-university-commencement-ceremony-in-college-station",
+    "title": "Remarks at the Texas A&M University Commencement Ceremony in College Station",
+    "date": "1989-05-12",
+    "sortDate": "1989-05-12",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 540,
+    "printedPageEnd": 543,
+    "pageRange": "pp. 540-543",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 540-543.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 540-543.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-596-message-to-the-congress-reporting-on-the-national-emergency-with-respect-to-iran",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Iran",
+    "date": "1989-05-23",
+    "sortDate": "1989-05-23",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 596,
+    "printedPageEnd": 598,
+    "pageRange": "pp. 596-598",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 596-598.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 596-598.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-611-toast-at-a-dinner-hosted-by-prime-minister-ciriaco-de-mita-in-rome",
+    "title": "Toast at a Dinner Hosted by Prime Minister Ciriaco De Mita in Rome",
+    "date": "1989-05-27",
+    "sortDate": "1989-05-27",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 611,
+    "printedPageEnd": 613,
+    "pageRange": "pp. 611-613",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 611-613.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 611-613.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-621-declaration-of-the-heads-of-state-and-government-participating-in-the-meeting-of-the-north",
+    "title": "Declaration of the Heads of State and Government Participating in the Meeting of the North Atlantic Council in Brussels",
+    "date": "1989-05-30",
+    "sortDate": "1989-05-30",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 621,
+    "printedPageEnd": 627,
+    "pageRange": "pp. 621-627",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 621-627.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 621-627.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-654-remarks-to-military-personnel-and-their-families-in-frankfurt-federal-republic-of-germany",
+    "title": "Remarks to Military Personnel and Their Families in Frankfurt, Federal Republic of Germany",
+    "date": "1989-05-31",
+    "sortDate": "1989-05-31",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 654,
+    "printedPageEnd": 656,
+    "pageRange": "pp. 654-656",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 654-656.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 654-656.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-669-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-06-05",
+    "sortDate": "1989-06-05",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 669,
+    "printedPageEnd": 675,
+    "pageRange": "pp. 669-675",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 669-675.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 669-675.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-705-statement-by-press-secretary-fitzwater-on-the-murder-of-jose-antonio-rodriguez-porth-of-el",
+    "title": "Statement by Press Secretary Fitzwater on the Murder of Jose Antonio Rodriguez Porth of El Salvador",
+    "date": "1989-06-09",
+    "sortDate": "1989-06-09",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 705,
+    "printedPageEnd": 706,
+    "pageRange": "pp. 705-706",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 705-706.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 705-706.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-741-remarks-to-law-enforcement-officers-at-the-federal-training-center-in-glynco-georgia",
+    "title": "Remarks to Law Enforcement Officers at the Federal Training Center in Glynco, Georgia",
+    "date": "1989-06-15",
+    "sortDate": "1989-06-15",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 741,
+    "printedPageEnd": 744,
+    "pageRange": "pp. 741-744",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 741-744.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 741-744.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book1-746-remarks-at-a-briefing-on-law-enforcement-for-united-states-attorneys",
+    "title": "Remarks at a Briefing on Law Enforcement for United States Attorneys",
+    "date": "1989-06-16",
+    "sortDate": "1989-06-16",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book1",
+    "packageLabel": "Public Papers: Bush, 1989, vol. I",
+    "volumeDateSpan": "January 20-June 30, 1989",
+    "printedPageStart": 746,
+    "printedPageEnd": 749,
+    "pageRange": "pp. 746-749",
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 746-749.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 746-749.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Libya/Pan Am sanctions",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1042-remarks-and-a-question-and-answer-session-with-reporters-on-the-murder-of-lieutenant-colon",
+    "title": "Remarks and a Question-and-Answer Session With Reporters on the Murder of Lieutenant Colonel William R. Higgins",
+    "date": "1989-07-31",
+    "sortDate": "1989-07-31",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1042,
+    "printedPageEnd": 1042,
+    "pageRange": "p. 1042",
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1042.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1042.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1035-remarks-to-the-national-governors-association-in-chicago-illinois",
+    "title": "Remarks to the National Governors' Association in Chicago, Illinois",
+    "date": "1989-07-31",
+    "sortDate": "1989-07-31",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1035,
+    "printedPageEnd": 1041,
+    "pageRange": "pp. 1035-1041",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1035-1041.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1035-1041.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1063-remarks-at-a-ceremony-commemorating-the-200th-anniversary-of-the-department-of-war",
+    "title": "Remarks at a Ceremony Commemorating the 200th Anniversary of the Department of War",
+    "date": "1989-08-07",
+    "sortDate": "1989-08-07",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1063,
+    "printedPageEnd": 1065,
+    "pageRange": "pp. 1063-1065",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1063-1065.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1063-1065.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1154-remarks-at-the-american-legion-annual-convention-in-baltimore-maryland",
+    "title": "Remarks at the American Legion Annual Convention in Baltimore, Maryland",
+    "date": "1989-09-07",
+    "sortDate": "1989-09-07",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1154,
+    "printedPageEnd": 1157,
+    "pageRange": "pp. 1154-1157",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1154-1157.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1154-1157.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1206-nomination-of-alvin-p-adams-jr-to-be-united-states-ambassador-to-haiti",
+    "title": "Nomination of Alvin P. Adams, Jr., To Be United States Ambassador to Haiti",
+    "date": "1989-09-15",
+    "sortDate": "1989-09-15",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1206,
+    "printedPageEnd": 1206,
+    "pageRange": "p. 1206",
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1206.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1206.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1327-toasts-at-the-state-dinner-for-president-francesco-cossiga-of-italy",
+    "title": "Toasts at the State Dinner for President Francesco Cossiga of Italy",
+    "date": "1989-10-11",
+    "sortDate": "1989-10-11",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1327,
+    "printedPageEnd": 1329,
+    "pageRange": "pp. 1327-1329",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1327-1329.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1327-1329.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1346-remarks-following-discussions-with-president-roh-tae-woo-of-the-republic-of-korea",
+    "title": "Remarks Following Discussions With President Roh Tae Woo of the Republic of Korea",
+    "date": "1989-10-17",
+    "sortDate": "1989-10-17",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1346,
+    "printedPageEnd": 1348,
+    "pageRange": "pp. 1346-1348",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1346-1348.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1346-1348.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1362-remarks-following-discussions-with-prime-minister-felipe-gonzalez-marquez-of-spain",
+    "title": "Remarks Following Discussions With Prime Minister Felipe Gonzalez Marquez of Spain",
+    "date": "1989-10-19",
+    "sortDate": "1989-10-19",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1362,
+    "printedPageEnd": 1364,
+    "pageRange": "pp. 1362-1364",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1362-1364.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1362-1364.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1419-remarks-at-the-groundbreaking-ceremony-for-the-national-law-enforcement-officers-memorial",
+    "title": "Remarks at the Groundbreaking Ceremony for the National Law Enforcement Officers' Memorial",
+    "date": "1989-10-30",
+    "sortDate": "1989-10-30",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1419,
+    "printedPageEnd": 1421,
+    "pageRange": "pp. 1419-1421",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1419-1421.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1419-1421.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1450-nomination-of-anthony-cecil-eden-quainton-to-be-united-states-ambassador-to-peru",
+    "title": "Nomination of Anthony Cecil Eden Quainton To Be United States Ambassador to Peru",
+    "date": "1989-11-03",
+    "sortDate": "1989-11-03",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1450,
+    "printedPageEnd": 1450,
+    "pageRange": "p. 1450",
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1450.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1450.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1517-message-to-the-congress-reporting-on-the-national-emergency-with-respect-to-iran",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Iran",
+    "date": "1989-11-14",
+    "sortDate": "1989-11-14",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1517,
+    "printedPageEnd": 1519,
+    "pageRange": "pp. 1517-1519",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1517-1519.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1517-1519.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1554-remarks-at-a-fundraising-luncheon-for-senatorial-candidate-lynn-martin-in-chicago-illinois",
+    "title": "Remarks at a Fundraising Luncheon for Senatorial Candidate Lynn Martin in Chicago, Illinois",
+    "date": "1989-11-20",
+    "sortDate": "1989-11-20",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1554,
+    "printedPageEnd": 1558,
+    "pageRange": "pp. 1554-1558",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1554-1558.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1554-1558.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1635-question-and-answer-session-with-reporters-in-malta",
+    "title": "Question-and-Answer Session With Reporters in Malta",
+    "date": "1989-12-03",
+    "sortDate": "1989-12-03",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1635,
+    "printedPageEnd": 1640,
+    "pageRange": "pp. 1635-1640",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1635-1640.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1635-1640.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1989-book2-1695-remarks-at-the-catholic-university-of-america-anniversary-dinner",
+    "title": "Remarks at the Catholic University of America Anniversary Dinner",
+    "date": "1989-12-12",
+    "sortDate": "1989-12-12",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1989-book2",
+    "packageLabel": "Public Papers: Bush, 1989, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1989",
+    "printedPageStart": 1695,
+    "printedPageEnd": 1698,
+    "pageRange": "pp. 1695-1698",
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1695-1698.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1695-1698.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-31-remarks-following-discussions-with-prime-minister-anibal-cavaco-silva-of-portugal",
+    "title": "Remarks Following Discussions With Prime Minister Anibal Cavaco Silva of Portugal",
+    "date": "1990-01-11",
+    "sortDate": "1990-01-11",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 31,
+    "printedPageEnd": 33,
+    "pageRange": "pp. 31-33",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 31-33.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 31-33.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-239-statement-on-signing-the-foreign-relations-authorization-act-fiscal-years-1990-and-1991",
+    "title": "Statement on Signing the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991",
+    "date": "1990-02-16",
+    "sortDate": "1990-02-16",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 239,
+    "printedPageEnd": 241,
+    "pageRange": "pp. 239-241",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 239-241.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 239-241.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-297-exchange-with-reporters-at-a-meeting-with-ronald-reagan-in-los-angeles-california",
+    "title": "Exchange With Reporters at a Meeting With Ronald Reagan in Los Angeles, California",
+    "date": "1990-03-01",
+    "sortDate": "1990-03-01",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 297,
+    "printedPageEnd": 298,
+    "pageRange": "pp. 297-298",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 297-298.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 297-298.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-426-statement-by-press-secretary-fitzwater-on-the-emigration-of-soviet-jews",
+    "title": "Statement by Press Secretary Fitzwater on the Emigration of Soviet Jews",
+    "date": "1990-03-27",
+    "sortDate": "1990-03-27",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 426,
+    "printedPageEnd": 427,
+    "pageRange": "pp. 426-427",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 426-427.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 426-427.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-558-message-to-the-senate-transmitting-a-protocol-to-the-canada-united-states-extradition-trea",
+    "title": "Message to the Senate Transmitting a Protocol to the Canada- United States Extradition Treaty",
+    "date": "1990-04-24",
+    "sortDate": "1990-04-24",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 558,
+    "printedPageEnd": 559,
+    "pageRange": "pp. 558-559",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 558-559.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 558-559.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-658-message-to-the-congress-reporting-on-the-national-emergency-with-respect-to-iran",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Iran",
+    "date": "1990-05-14",
+    "sortDate": "1990-05-14",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 658,
+    "printedPageEnd": 660,
+    "pageRange": "pp. 658-660",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 658-660.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 658-660.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-663-toasts-at-the-state-dinner-for-president-zine-el-abidine-ben-ali-of-tunisia",
+    "title": "Toasts at the State Dinner for President Zine El Abidine Ben Ali of Tunisia",
+    "date": "1990-05-15",
+    "sortDate": "1990-05-15",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 663,
+    "printedPageEnd": 672,
+    "pageRange": "pp. 663-672",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 663-672.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 663-672.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-740-remarks-on-signing-soviet-united-states-bilateral-agreements",
+    "title": "Remarks on Signing Soviet-United States Bilateral Agreements",
+    "date": "1990-06-01",
+    "sortDate": "1990-06-01",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 740,
+    "printedPageEnd": 745,
+    "pageRange": "pp. 740-745",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 740-745.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 740-745.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book1-795-exchange-with-reporters-aboard-air-force-one",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "date": "1990-06-08",
+    "sortDate": "1990-06-08",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book1",
+    "packageLabel": "Public Papers: Bush, 1990, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1990",
+    "printedPageStart": 795,
+    "printedPageEnd": 803,
+    "pageRange": "pp. 795-803",
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 795-803.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 795-803.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-967-the-president-s-news-conference-following-the-north-atlantic-treaty-organization-summit-in",
+    "title": "The President's News Conference Following the North Atlantic Treaty Organization Summit in London, United Kingdom",
+    "date": "1990-07-06",
+    "sortDate": "1990-07-06",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 967,
+    "printedPageEnd": 975,
+    "pageRange": "pp. 967-975",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 967-975.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 967-975.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1032-remarks-at-a-fundraising-breakfast-for-senatorial-candidate-allen-kolstad-in-billings-mont",
+    "title": "Remarks at a Fundraising Breakfast for Senatorial Candidate Allen Kolstad in Billings, Montana",
+    "date": "1990-07-20",
+    "sortDate": "1990-07-20",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1032,
+    "printedPageEnd": 1036,
+    "pageRange": "pp. 1032-1036",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1032-1036.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1032-1036.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1083-remarks-and-an-exchange-with-reporters-on-the-iraqi-invasion-of-kuwait",
+    "title": "Remarks and an Exchange With Reporters on the Iraqi Invasion of Kuwait",
+    "date": "1990-08-02",
+    "sortDate": "1990-08-02",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1083,
+    "printedPageEnd": 1085,
+    "pageRange": "pp. 1083-1085",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1083-1085.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1083-1085.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1089-remarks-at-the-aspen-institute-symposium-in-aspen-colorado",
+    "title": "Remarks at the Aspen Institute Symposium in Aspen, Colorado",
+    "date": "1990-08-02",
+    "sortDate": "1990-08-02",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1089,
+    "printedPageEnd": 1094,
+    "pageRange": "pp. 1089-1094",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1089-1094.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1089-1094.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1109-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-08-08",
+    "sortDate": "1990-08-08",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1109,
+    "printedPageEnd": 1115,
+    "pageRange": "pp. 1109-1115",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1109-1115.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1109-1115.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1124-remarks-and-an-exchange-with-reporters-on-the-persian-gulf-crisis",
+    "title": "Remarks and an Exchange With Reporters on the Persian Gulf Crisis",
+    "date": "1990-08-11",
+    "sortDate": "1990-08-11",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1124,
+    "printedPageEnd": 1128,
+    "pageRange": "pp. 1124-1128",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1124-1128.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1124-1128.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1130-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-08-14",
+    "sortDate": "1990-08-14",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1130,
+    "printedPageEnd": 1137,
+    "pageRange": "pp. 1130-1137",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1130-1137.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1130-1137.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1151-exchange-with-reporters-aboard-air-force-one",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "date": "1990-08-20",
+    "sortDate": "1990-08-20",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1151,
+    "printedPageEnd": 1152,
+    "pageRange": "pp. 1151-1152",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1151-1152.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1151-1152.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1147-remarks-at-the-annual-conference-of-the-veterans-of-foreign-wars-in-baltimore-maryland",
+    "title": "Remarks at the Annual Conference of the Veterans of Foreign Wars in Baltimore, Maryland",
+    "date": "1990-08-20",
+    "sortDate": "1990-08-20",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1147,
+    "printedPageEnd": 1151,
+    "pageRange": "pp. 1147-1151",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1147-1151.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1147-1151.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1166-remarks-and-a-question-and-answer-session-with-reporters-in-kennebunkport-maine-following-",
+    "title": "Remarks and a Question-and-Answer Session With Reporters in Kennebunkport, Maine, Following a Meeting With Prime Minister Brian Mulroney of Canada",
+    "date": "1990-08-27",
+    "sortDate": "1990-08-27",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1166,
+    "printedPageEnd": 1172,
+    "pageRange": "pp. 1166-1172",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1166-1172.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1166-1172.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1172-remarks-at-a-white-house-briefing-for-members-of-congress-on-the-persian-gulf-crisis",
+    "title": "Remarks at a White House Briefing for Members of Congress on the Persian Gulf Crisis",
+    "date": "1990-08-28",
+    "sortDate": "1990-08-28",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1172,
+    "printedPageEnd": 1174,
+    "pageRange": "pp. 1172-1174",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1172-1174.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1172-1174.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1177-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "date": "1990-08-30",
+    "sortDate": "1990-08-30",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1177,
+    "printedPageEnd": 1183,
+    "pageRange": "pp. 1177-1183",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1177-1183.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1177-1183.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1203-soviet-union-united-states-joint-statement-on-the-persian-gulf-crisis",
+    "title": "Soviet Union-United States Joint Statement on the Persian Gulf Crisis",
+    "date": "1990-09-09",
+    "sortDate": "1990-09-09",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1203,
+    "printedPageEnd": 1204,
+    "pageRange": "pp. 1203-1204",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1203-1204.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1203-1204.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1235-remarks-on-the-persian-gulf-crisis-and-an-exchange-with-reporters",
+    "title": "Remarks on the Persian Gulf Crisis and an Exchange With Reporters",
+    "date": "1990-09-14",
+    "sortDate": "1990-09-14",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1235,
+    "printedPageEnd": 1239,
+    "pageRange": "pp. 1235-1239",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1235-1239.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1235-1239.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1239-address-to-the-people-of-iraq-on-the-persian-gulf-crisis",
+    "title": "Address to the People of Iraq on the Persian Gulf Crisis",
+    "date": "1990-09-16",
+    "sortDate": "1990-09-16",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1239,
+    "printedPageEnd": 1240,
+    "pageRange": "pp. 1239-1240",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1239-1240.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1239-1240.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1258-remarks-at-a-fundraising-luncheon-for-gubernatorial-candidate-pete-wilson-in-san-francisco",
+    "title": "Remarks at a Fundraising Luncheon for Gubernatorial Candidate Pete Wilson in San Francisco, California",
+    "date": "1990-09-19",
+    "sortDate": "1990-09-19",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1258,
+    "printedPageEnd": 1261,
+    "pageRange": "pp. 1258-1261",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1258-1261.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1258-1261.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1263-nomination-of-roscoe-burton-starek-iii-to-be-a-member-of-the-federal-trade-commission",
+    "title": "Nomination of Roscoe Burton Starek III To Be a Member of the Federal Trade Commission",
+    "date": "1990-09-21",
+    "sortDate": "1990-09-21",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1263,
+    "printedPageEnd": 1263,
+    "pageRange": "p. 1263",
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1263.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1263.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1294-remarks-at-a-fundraising-luncheon-for-gubernatorial-candidate-george-voinovich-in-akron-oh",
+    "title": "Remarks at a Fundraising Luncheon for Gubernatorial Candidate George Voinovich in Akron, Ohio",
+    "date": "1990-09-26",
+    "sortDate": "1990-09-26",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1294,
+    "printedPageEnd": 1299,
+    "pageRange": "pp. 1294-1299",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1294-1299.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1294-1299.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1319-remarks-at-the-washington-national-cathedral-dedication-ceremony",
+    "title": "Remarks at the Washington National Cathedral Dedication Ceremony",
+    "date": "1990-09-29",
+    "sortDate": "1990-09-29",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1319,
+    "printedPageEnd": 1322,
+    "pageRange": "pp. 1319-1322",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1319-1322.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1319-1322.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1322-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-in-new-york-city-with-p",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Meeting in New York City With President Cesar Gaviria of Colombia",
+    "date": "1990-09-29",
+    "sortDate": "1990-09-29",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1322,
+    "printedPageEnd": 1322,
+    "pageRange": "p. 1322",
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1322.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1322.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1322-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-in-new-york-city-with-pr",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting in New York City With Prime Minister Salim al-Huss of Lebanon",
+    "date": "1990-09-29",
+    "sortDate": "1990-09-29",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1322,
+    "printedPageEnd": 1323,
+    "pageRange": "pp. 1322-1323",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1322-1323.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1322-1323.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1330-address-before-the-45th-session-of-the-united-nations-general-assembly-in-new-york-new-yor",
+    "title": "Address Before the 45th Session of the United Nations General Assembly in New York, New York",
+    "date": "1990-10-01",
+    "sortDate": "1990-10-01",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1330,
+    "printedPageEnd": 1334,
+    "pageRange": "pp. 1330-1334",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1330-1334.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1330-1334.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1334-statement-by-press-secretary-fitzwater-on-the-release-of-shiite-moslem-prisoners-in-lebano",
+    "title": "Statement by Press Secretary Fitzwater on the Release of Shiite Moslem Prisoners in Lebanon",
+    "date": "1990-10-01",
+    "sortDate": "1990-10-01",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1334,
+    "printedPageEnd": 1335,
+    "pageRange": "pp. 1334-1335",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1334-1335.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1334-1335.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1350-remarks-and-a-question-and-answer-session-with-regional-newspaper-editors",
+    "title": "Remarks and a Question-and-Answer Session With Regional Newspaper Editors",
+    "date": "1990-10-03",
+    "sortDate": "1990-10-03",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1350,
+    "printedPageEnd": 1357,
+    "pageRange": "pp. 1350-1357",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1350-1357.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1350-1357.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1399-remarks-at-a-white-house-briefing-for-representatives-of-veterans-organizations",
+    "title": "Remarks at a White House Briefing for Representatives of Veterans Organizations",
+    "date": "1990-10-11",
+    "sortDate": "1990-10-11",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1399,
+    "printedPageEnd": 1401,
+    "pageRange": "pp. 1399-1401",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1399-1401.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1399-1401.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1450-exchange-with-reporters-following-a-fundraising-reception-for-congressional-candidate-gary",
+    "title": "Exchange With Reporters Following a Fundraising Reception for Congressional Candidate Gary Franks in Waterbury, Connecticut",
+    "date": "1990-10-23",
+    "sortDate": "1990-10-23",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1450,
+    "printedPageEnd": 1452,
+    "pageRange": "pp. 1450-1452",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1450-1452.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1450-1452.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1446-remarks-at-a-republican-campaign-rally-in-manchester-new-hampshire",
+    "title": "Remarks at a Republican Campaign Rally in Manchester, New Hampshire",
+    "date": "1990-10-23",
+    "sortDate": "1990-10-23",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1446,
+    "printedPageEnd": 1450,
+    "pageRange": "pp. 1446-1450",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1446-1450.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1446-1450.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1443-remarks-at-a-republican-fundraising-breakfast-in-burlington-vermont",
+    "title": "Remarks at a Republican Fundraising Breakfast in Burlington, Vermont",
+    "date": "1990-10-23",
+    "sortDate": "1990-10-23",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1443,
+    "printedPageEnd": 1446,
+    "pageRange": "pp. 1443-1446",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1443-1446.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1443-1446.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1482-remarks-to-officers-and-troops-at-hickam-air-force-base-in-pearl-harbor-hawaii",
+    "title": "Remarks to Officers and Troops at Hickam Air Force Base in Pearl Harbor, Hawaii",
+    "date": "1990-10-28",
+    "sortDate": "1990-10-28",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1482,
+    "printedPageEnd": 1484,
+    "pageRange": "pp. 1482-1484",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1482-1484.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1482-1484.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1484-exchange-with-reporters-in-san-francisco-california",
+    "title": "Exchange With Reporters in San Francisco, California",
+    "date": "1990-10-29",
+    "sortDate": "1990-10-29",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1484,
+    "printedPageEnd": 1488,
+    "pageRange": "pp. 1484-1488",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1484-1488.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1484-1488.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1506-remarks-at-a-republican-party-fundraising-breakfast-in-burlington-massachusetts",
+    "title": "Remarks at a Republican Party Fundraising Breakfast in Burlington, Massachusetts",
+    "date": "1990-11-01",
+    "sortDate": "1990-11-01",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1506,
+    "printedPageEnd": 1510,
+    "pageRange": "pp. 1506-1510",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1506-1510.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1506-1510.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1529-remarks-at-a-republican-party-reception-in-rochester-minnesota",
+    "title": "Remarks at a Republican Party Reception in Rochester, Minnesota",
+    "date": "1990-11-02",
+    "sortDate": "1990-11-02",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1529,
+    "printedPageEnd": 1531,
+    "pageRange": "pp. 1529-1531",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1529-1531.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1529-1531.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1524-remarks-at-a-republican-reception-in-cincinnati-ohio",
+    "title": "Remarks at a Republican Reception in Cincinnati, Ohio",
+    "date": "1990-11-02",
+    "sortDate": "1990-11-02",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1524,
+    "printedPageEnd": 1528,
+    "pageRange": "pp. 1524-1528",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1524-1528.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1524-1528.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1535-remarks-at-a-reception-for-gubernatorial-candidate-pete-wilson-in-thousand-oaks-california",
+    "title": "Remarks at a Reception for Gubernatorial Candidate Pete Wilson in Thousand Oaks, California",
+    "date": "1990-11-03",
+    "sortDate": "1990-11-03",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1535,
+    "printedPageEnd": 1539,
+    "pageRange": "pp. 1535-1539",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1535-1539.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1535-1539.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1539-remarks-at-a-republican-campaign-rally-in-albuquerque-new-mexico",
+    "title": "Remarks at a Republican Campaign Rally in Albuquerque, New Mexico",
+    "date": "1990-11-03",
+    "sortDate": "1990-11-03",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1539,
+    "printedPageEnd": 1542,
+    "pageRange": "pp. 1539-1542",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1539-1542.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1539-1542.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1580-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "date": "1990-11-08",
+    "sortDate": "1990-11-08",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1580,
+    "printedPageEnd": 1585,
+    "pageRange": "pp. 1580-1585",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1580-1585.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1580-1585.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1592-remarks-following-discussions-with-giulio-andreotti-prime-minister-of-italy-and-president-",
+    "title": "Remarks Following Discussions With Giulio Andreotti, Prime Minister of Italy and President of the European Council",
+    "date": "1990-11-13",
+    "sortDate": "1990-11-13",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1592,
+    "printedPageEnd": 1593,
+    "pageRange": "pp. 1592-1593",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1592-1593.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1592-1593.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1617-letter-to-congressional-leaders-on-the-deployment-of-additional-united-states-armed-forces",
+    "title": "Letter to Congressional Leaders on the Deployment of Additional United States Armed Forces to the Persian Gulf",
+    "date": "1990-11-16",
+    "sortDate": "1990-11-16",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1617,
+    "printedPageEnd": 1618,
+    "pageRange": "pp. 1617-1618",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1617-1618.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1617-1618.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1626-question-and-answer-session-with-reporters-following-discussions-with-president-vaclav-hav",
+    "title": "Question-and-Answer Session With Reporters Following Discussions With President Vaclav Havel in Prague, Czechoslovakia",
+    "date": "1990-11-17",
+    "sortDate": "1990-11-17",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1626,
+    "printedPageEnd": 1628,
+    "pageRange": "pp. 1626-1628",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1626-1628.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1626-1628.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1635-remarks-and-a-question-and-answer-session-with-reporters-following-a-luncheon-with-chancel",
+    "title": "Remarks and a Question-and-Answer Session With Reporters Following a Luncheon With Chancellor Helmut Kohl in Ludwigshafen, Germany",
+    "date": "1990-11-18",
+    "sortDate": "1990-11-18",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1635,
+    "printedPageEnd": 1636,
+    "pageRange": "pp. 1635-1636",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1635-1636.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1635-1636.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1647-exchange-with-reporters-prior-to-a-meeting-with-prime-minister-constantine-mitsotakis-of-g",
+    "title": "Exchange With Reporters Prior to a Meeting With Prime Minister Constantine Mitsotakis of Greece in Paris, France",
+    "date": "1990-11-21",
+    "sortDate": "1990-11-21",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1647,
+    "printedPageEnd": 1648,
+    "pageRange": "pp. 1647-1648",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1647-1648.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1647-1648.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1648-remarks-and-a-question-and-answer-session-with-reporters-in-paris-france",
+    "title": "Remarks and a Question-and-Answer Session With Reporters in Paris, France",
+    "date": "1990-11-21",
+    "sortDate": "1990-11-21",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1648,
+    "printedPageEnd": 1652,
+    "pageRange": "pp. 1648-1652",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1648-1652.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1648-1652.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1652-text-of-the-charter-of-paris-for-a-new-europe",
+    "title": "Text of the Charter of Paris for a New Europe",
+    "date": "1990-11-21",
+    "sortDate": "1990-11-21",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1652,
+    "printedPageEnd": 1660,
+    "pageRange": "pp. 1652-1660",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1652-1660.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1652-1660.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1660-thanksgiving-day-message-to-american-troops",
+    "title": "Thanksgiving Day Message to American Troops",
+    "date": "1990-11-21",
+    "sortDate": "1990-11-21",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1660,
+    "printedPageEnd": 1661,
+    "pageRange": "pp. 1660-1661",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1660-1661.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1660-1661.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1666-remarks-to-the-military-airlift-command-in-dhahran-saudi-arabia",
+    "title": "Remarks to the Military Airlift Command in Dhahran, Saudi Arabia",
+    "date": "1990-11-22",
+    "sortDate": "1990-11-22",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1666,
+    "printedPageEnd": 1668,
+    "pageRange": "pp. 1666-1668",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1666-1668.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1666-1668.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1668-remarks-to-united-states-army-troops-near-dhahran-saudi-arabia",
+    "title": "Remarks to United States Army Troops Near Dhahran, Saudi Arabia",
+    "date": "1990-11-22",
+    "sortDate": "1990-11-22",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1668,
+    "printedPageEnd": 1670,
+    "pageRange": "pp. 1668-1670",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1668-1670.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1668-1670.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1676-remarks-and-a-question-and-answer-session-with-reporters-following-discussions-with-presid",
+    "title": "Remarks and a Question-and-Answer Session With Reporters Following Discussions With President Mohammed Hosni Mubarak in Cairo, Egypt",
+    "date": "1990-11-23",
+    "sortDate": "1990-11-23",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1676,
+    "printedPageEnd": 1683,
+    "pageRange": "pp. 1676-1683",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1676-1683.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1676-1683.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1683-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-president-hafiz-al",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Meeting With President Hafiz al-Assad of Syria",
+    "date": "1990-11-23",
+    "sortDate": "1990-11-23",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1683,
+    "printedPageEnd": 1684,
+    "pageRange": "pp. 1683-1684",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1683-1684.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1683-1684.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1705-letter-to-congressional-leaders-reporting-on-the-national-emergency-with-respect-to-iran",
+    "title": "Letter to Congressional Leaders Reporting on the National Emergency With Respect to Iran",
+    "date": "1990-11-29",
+    "sortDate": "1990-11-29",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1705,
+    "printedPageEnd": 1708,
+    "pageRange": "pp. 1705-1708",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1705-1708.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1705-1708.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1715-statement-on-signing-the-crime-control-act-of-1990",
+    "title": "Statement on Signing the Crime Control Act of 1990",
+    "date": "1990-11-29",
+    "sortDate": "1990-11-29",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1715,
+    "printedPageEnd": 1716,
+    "pageRange": "pp. 1715-1716",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1715-1716.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1715-1716.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1729-statement-by-press-secretary-fitzwater-on-president-bush-s-telephone-conversations-with-fo",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Telephone Conversations With Foreign Leaders",
+    "date": "1990-11-30",
+    "sortDate": "1990-11-30",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1729,
+    "printedPageEnd": 1729,
+    "pageRange": "p. 1729",
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1729.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1729.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1719-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-11-30",
+    "sortDate": "1990-11-30",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1719,
+    "printedPageEnd": 1727,
+    "pageRange": "pp. 1719-1727",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1719-1727.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1719-1727.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1793-remarks-on-lighting-the-national-christmas-tree",
+    "title": "Remarks on Lighting the National Christmas Tree",
+    "date": "1990-12-13",
+    "sortDate": "1990-12-13",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1793,
+    "printedPageEnd": 1794,
+    "pageRange": "pp. 1793-1794",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1793-1794.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1793-1794.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1990-book2-1795-remarks-on-the-nomination-of-the-secretary-of-labor-and-the-persian-gulf-crisis-and-a-ques",
+    "title": "Remarks on the Nomination of the Secretary of Labor and the Persian Gulf Crisis and a Question-and-Answer Session With Reporters",
+    "date": "1990-12-14",
+    "sortDate": "1990-12-14",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1990-book2",
+    "packageLabel": "Public Papers: Bush, 1990, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1990",
+    "printedPageStart": 1795,
+    "printedPageEnd": 1798,
+    "pageRange": "pp. 1795-1798",
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1795-1798.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1795-1798.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-12-message-to-allied-nations-on-the-persian-gulf-crisis",
+    "title": "Message to Allied Nations on the Persian Gulf Crisis",
+    "date": "1991-01-08",
+    "sortDate": "1991-01-08",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 12,
+    "printedPageEnd": 13,
+    "pageRange": "pp. 12-13",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 12-13.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 12-13.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-25-open-letter-to-college-students-on-the-persian-gulf-crisis",
+    "title": "Open Letter to College Students on the Persian Gulf Crisis",
+    "date": "1991-01-09",
+    "sortDate": "1991-01-09",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 25,
+    "printedPageEnd": 26,
+    "pageRange": "pp. 25-26",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 25-26.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 25-26.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-30-message-to-the-congress-reporting-on-the-economic-sanctions-against-libya",
+    "title": "Message to the Congress Reporting on the Economic Sanctions Against Libya",
+    "date": "1991-01-11",
+    "sortDate": "1991-01-11",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 30,
+    "printedPageEnd": 31,
+    "pageRange": "pp. 30-31",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 30-31.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 30-31.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Libya/Pan Am sanctions",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-36-statement-by-press-secretary-fitzwater-on-president-bush-s-letter-to-president-saddam-huss",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Letter to President Saddam Hussein of Iraq",
+    "date": "1991-01-12",
+    "sortDate": "1991-01-12",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 36,
+    "printedPageEnd": 37,
+    "pageRange": "pp. 36-37",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 36-37.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 36-37.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-31-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-01-12",
+    "sortDate": "1991-01-12",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 31,
+    "printedPageEnd": 36,
+    "pageRange": "pp. 31-36",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 31-36.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 31-36.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-47-the-president-s-news-conference-on-the-persian-gulf-conflict",
+    "title": "The President's News Conference on the Persian Gulf Conflict",
+    "date": "1991-01-18",
+    "sortDate": "1991-01-18",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 47,
+    "printedPageEnd": 52,
+    "pageRange": "pp. 47-52",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 47-52.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 47-52.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-54-remarks-on-the-persian-gulf-conflict-and-the-baltic-states-and-an-exchange-with-reporters",
+    "title": "Remarks on the Persian Gulf Conflict and the Baltic States and an Exchange With Reporters",
+    "date": "1991-01-21",
+    "sortDate": "1991-01-21",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 54,
+    "printedPageEnd": 55,
+    "pageRange": "pp. 54-55",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 54-55.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 54-55.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-60-remarks-to-the-reserve-officers-association",
+    "title": "Remarks to the Reserve Officers Association",
+    "date": "1991-01-23",
+    "sortDate": "1991-01-23",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 60,
+    "printedPageEnd": 62,
+    "pageRange": "pp. 60-62",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 60-62.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 60-62.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-65-remarks-on-the-nomination-of-edward-r-madigan-to-be-secretary-of-agriculture-and-a-questio",
+    "title": "Remarks on the Nomination of Edward R. Madigan To Be Secretary of Agriculture and a Question-and-Answer Session With Reporters",
+    "date": "1991-01-25",
+    "sortDate": "1991-01-25",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 65,
+    "printedPageEnd": 70,
+    "pageRange": "pp. 65-70",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 65-70.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 65-70.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-84-nomination-of-katherine-shirley-to-be-united-states-ambassador-to-senegal",
+    "title": "Nomination of Katherine Shirley To Be United States Ambassador to Senegal",
+    "date": "1991-01-30",
+    "sortDate": "1991-01-30",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 84,
+    "printedPageEnd": 84,
+    "pageRange": "p. 84",
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 84.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 84.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-85-remarks-at-the-national-prayer-breakfast",
+    "title": "Remarks at the National Prayer Breakfast",
+    "date": "1991-01-31",
+    "sortDate": "1991-01-31",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 85,
+    "printedPageEnd": 86,
+    "pageRange": "pp. 85-86",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 85-86.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 85-86.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-103-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-02-05",
+    "sortDate": "1991-02-05",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 103,
+    "printedPageEnd": 111,
+    "pageRange": "pp. 103-111",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 103-111.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 103-111.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-139-exchange-with-reporters-on-the-persian-gulf-conflict-prior-to-discussions-with-defense-min",
+    "title": "Exchange With Reporters on the Persian Gulf Conflict Prior to Discussions With Defense Minister Thomas King of the United Kingdom",
+    "date": "1991-02-12",
+    "sortDate": "1991-02-12",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 139,
+    "printedPageEnd": 140,
+    "pageRange": "pp. 139-140",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 139-140.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 139-140.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-142-statement-by-press-secretary-fitzwater-on-allied-bombing-in-baghdad",
+    "title": "Statement by Press Secretary Fitzwater on Allied Bombing in Baghdad",
+    "date": "1991-02-13",
+    "sortDate": "1991-02-13",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 142,
+    "printedPageEnd": 143,
+    "pageRange": "pp. 142-143",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 142-143.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 142-143.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-197-the-president-s-news-conference-on-the-persian-gulf-conflict",
+    "title": "The President's News Conference on the Persian Gulf Conflict",
+    "date": "1991-03-01",
+    "sortDate": "1991-03-01",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 197,
+    "printedPageEnd": 205,
+    "pageRange": "pp. 197-205",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 197-205.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 197-205.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-218-address-before-a-joint-session-of-the-congress-on-the-cessation-of-the-persian-gulf-confli",
+    "title": "Address Before a Joint Session of the Congress on the Cessation of the Persian Gulf Conflict",
+    "date": "1991-03-06",
+    "sortDate": "1991-03-06",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 218,
+    "printedPageEnd": 223,
+    "pageRange": "pp. 218-223",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 218-223.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 218-223.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-225-remarks-upon-presenting-the-presidential-medal-of-freedom-to-margaret-thatcher",
+    "title": "Remarks Upon Presenting the Presidential Medal of Freedom to Margaret Thatcher",
+    "date": "1991-03-07",
+    "sortDate": "1991-03-07",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 225,
+    "printedPageEnd": 228,
+    "pageRange": "pp. 225-228",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 225-228.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 225-228.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Libya/Pan Am sanctions",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-246-message-to-the-congress-transmitting-proposed-crime-control-legislation",
+    "title": "Message to the Congress Transmitting Proposed Crime Control Legislation",
+    "date": "1991-03-11",
+    "sortDate": "1991-03-11",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 246,
+    "printedPageEnd": 247,
+    "pageRange": "pp. 246-247",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 246-247.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 246-247.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-281-remarks-at-the-presentation-ceremony-for-the-elie-wiesel-foundation-humanitarian-award-and",
+    "title": "Remarks at the Presentation Ceremony for the Elie Wiesel Foundation Humanitarian Award and an Exchange With Reporters",
+    "date": "1991-03-18",
+    "sortDate": "1991-03-18",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 281,
+    "printedPageEnd": 284,
+    "pageRange": "pp. 281-284",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 281-284.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 281-284.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-303-the-president-s-news-conference-with-president-turgut-ozal-of-turkey",
+    "title": "¨ The President's News Conference With President Turgut Ozal of Turkey",
+    "date": "1991-03-23",
+    "sortDate": "1991-03-23",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 303,
+    "printedPageEnd": 307,
+    "pageRange": "pp. 303-307",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 303-307.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 303-307.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-378-remarks-on-assistance-for-iraqi-refugees-and-a-news-conference",
+    "title": "Remarks on Assistance for Iraqi Refugees and a News Conference",
+    "date": "1991-04-16",
+    "sortDate": "1991-04-16",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 378,
+    "printedPageEnd": 385,
+    "pageRange": "pp. 378-385",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 378-385.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 378-385.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-415-message-to-the-congress-on-the-continuation-of-the-national-emergency-with-respect-to-expo",
+    "title": "Message to the Congress on the Continuation of the National Emergency With Respect to Export Controls",
+    "date": "1991-04-23",
+    "sortDate": "1991-04-23",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 415,
+    "printedPageEnd": 417,
+    "pageRange": "pp. 415-417",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 415-417.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 415-417.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-484-remarks-announcing-the-resignation-of-william-h-webster-as-director-of-the-central-intelli",
+    "title": "Remarks Announcing the Resignation of William H. Webster as Director of the Central Intelligence Agency and a News Conference",
+    "date": "1991-05-08",
+    "sortDate": "1991-05-08",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 484,
+    "printedPageEnd": 489,
+    "pageRange": "pp. 484-489",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 484-489.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 484-489.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-491-remarks-following-discussions-with-secretary-general-javier-perez-de-cuellar-de-la-guerra-",
+    "title": "Remarks Following Discussions With Secretary-General Javier Perez de Cuellar de la Guerra of the United Nations",
+    "date": "1991-05-09",
+    "sortDate": "1991-05-09",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 491,
+    "printedPageEnd": 494,
+    "pageRange": "pp. 491-494",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 491-494.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 491-494.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-517-nomination-of-morris-d-busby-to-be-united-states-ambassador-to-colombia",
+    "title": "Nomination of Morris D. Busby To Be United States Ambassador to Colombia",
+    "date": "1991-05-15",
+    "sortDate": "1991-05-15",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 517,
+    "printedPageEnd": 517,
+    "pageRange": "p. 517",
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 517.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 517.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-521-letter-to-congressional-leaders-on-the-situation-in-the-persian-gulf",
+    "title": "Letter to Congressional Leaders on the Situation in the Persian Gulf",
+    "date": "1991-05-17",
+    "sortDate": "1991-05-17",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 521,
+    "printedPageEnd": 523,
+    "pageRange": "pp. 521-523",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 521-523.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 521-523.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-526-the-president-s-news-conference-with-chancellor-helmut-kohl-of-germany",
+    "title": "The President's News Conference With Chancellor Helmut Kohl of Germany",
+    "date": "1991-05-20",
+    "sortDate": "1991-05-20",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 526,
+    "printedPageEnd": 530,
+    "pageRange": "pp. 526-530",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 526-530.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 526-530.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-536-question-and-answer-session-with-students-at-the-saturn-school-of-tomorrow-in-st-paul-minn",
+    "title": "Question-and-Answer Session With Students at the Saturn School of Tomorrow in St. Paul, Minnesota",
+    "date": "1991-05-22",
+    "sortDate": "1991-05-22",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 536,
+    "printedPageEnd": 538,
+    "pageRange": "pp. 536-538",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 536-538.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 536-538.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-549-remarks-to-the-national-retail-federation",
+    "title": "Remarks to the National Retail Federation",
+    "date": "1991-05-23",
+    "sortDate": "1991-05-23",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 549,
+    "printedPageEnd": 552,
+    "pageRange": "pp. 549-552",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 549-552.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 549-552.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-555-exchange-with-reporters-on-the-assassination-of-former-prime-minister-rajiv-gandhi-of-indi",
+    "title": "Exchange With Reporters on the Assassination of Former Prime Minister Rajiv Gandhi of India",
+    "date": "1991-05-24",
+    "sortDate": "1991-05-24",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 555,
+    "printedPageEnd": 556,
+    "pageRange": "pp. 555-556",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 555-556.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 555-556.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book1-604-message-to-the-congress-transmitting-the-annual-report-on-aeronautics-and-space",
+    "title": "Message to the Congress Transmitting the Annual Report on Aeronautics and Space",
+    "date": "1991-06-04",
+    "sortDate": "1991-06-04",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book1",
+    "packageLabel": "Public Papers: Bush, 1991, vol. I",
+    "volumeDateSpan": "January 1-June 30, 1991",
+    "printedPageStart": 604,
+    "printedPageEnd": 605,
+    "pageRange": "pp. 604-605",
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 604-605.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 604-605.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Aviation security",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-839-remarks-at-a-meeting-of-the-american-defense-preparedness-association",
+    "title": "Remarks at a Meeting of the American Defense Preparedness Association",
+    "date": "1991-07-09",
+    "sortDate": "1991-07-09",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 839,
+    "printedPageEnd": 842,
+    "pageRange": "pp. 839-842",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 839-842.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 839-842.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-875-exchange-with-reporters-in-kennebunkport-maine",
+    "title": "Exchange With Reporters in Kennebunkport, Maine",
+    "date": "1991-07-12",
+    "sortDate": "1991-07-12",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 875,
+    "printedPageEnd": 880,
+    "pageRange": "pp. 875-880",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 875-880.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 875-880.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-907-the-president-s-news-conference-in-london-united-kingdom",
+    "title": "The President's News Conference in London, United Kingdom",
+    "date": "1991-07-17",
+    "sortDate": "1991-07-17",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 907,
+    "printedPageEnd": 915,
+    "pageRange": "pp. 907-915",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 907-915.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 907-915.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-925-remarks-at-the-greek-american-chamber-of-commerce-breakfast-in-athens-greece",
+    "title": "Remarks at the Greek-American Chamber of Commerce Breakfast in Athens, Greece",
+    "date": "1991-07-19",
+    "sortDate": "1991-07-19",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 925,
+    "printedPageEnd": 929,
+    "pageRange": "pp. 925-929",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 925-929.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 925-929.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-940-exchange-with-reporters-aboard-air-force-one",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "date": "1991-07-21",
+    "sortDate": "1991-07-21",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 940,
+    "printedPageEnd": 942,
+    "pageRange": "pp. 940-942",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 940-942.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 940-942.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1057-remarks-on-the-attempted-coup-in-the-soviet-union-and-an-exchange-with-reporters-in-kenneb",
+    "title": "Remarks on the Attempted Coup in the Soviet Union and an Exchange With Reporters in Kennebunkport, Maine",
+    "date": "1991-08-19",
+    "sortDate": "1991-08-19",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1057,
+    "printedPageEnd": 1062,
+    "pageRange": "pp. 1057-1062",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1057-1062.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1057-1062.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1181-remarks-at-a-republican-party-fundraising-dinner-in-salt-lake-city-utah",
+    "title": "Remarks at a Republican Party Fundraising Dinner in Salt Lake City, Utah",
+    "date": "1991-09-18",
+    "sortDate": "1991-09-18",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1181,
+    "printedPageEnd": 1185,
+    "pageRange": "pp. 1181-1185",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1181-1185.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1181-1185.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1199-address-to-the-46th-session-of-the-united-nations-general-assembly-in-new-york-new-york",
+    "title": "Address to the 46th Session of the United Nations General Assembly in New York, New York",
+    "date": "1991-09-23",
+    "sortDate": "1991-09-23",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1199,
+    "printedPageEnd": 1203,
+    "pageRange": "pp. 1199-1203",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1199-1203.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1199-1203.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1216-appointment-of-thomas-e-mcnamara-as-special-assistant-to-the-president-for-national-securi",
+    "title": "Appointment of Thomas E. McNamara as Special Assistant to the President for National Security Affairs and Senior Director for International Programs and African Affairs",
+    "date": "1991-09-25",
+    "sortDate": "1991-09-25",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1216,
+    "printedPageEnd": 1216,
+    "pageRange": "p. 1216",
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1216.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1216.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1263-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-10-04",
+    "sortDate": "1991-10-04",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1263,
+    "printedPageEnd": 1270,
+    "pageRange": "pp. 1263-1270",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1263-1270.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1263-1270.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1304-message-to-the-congress-reporting-on-the-national-emergency-with-respect-to-export-control",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Export Controls",
+    "date": "1991-10-17",
+    "sortDate": "1991-10-17",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1304,
+    "printedPageEnd": 1306,
+    "pageRange": "pp. 1304-1306",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1304-1306.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1304-1306.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1300-teleconference-remarks-to-associated-press-managing-editors",
+    "title": "Teleconference Remarks to Associated Press Managing Editors",
+    "date": "1991-10-17",
+    "sortDate": "1991-10-17",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1300,
+    "printedPageEnd": 1304,
+    "pageRange": "pp. 1300-1304",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1300-1304.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1300-1304.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1317-remarks-at-the-veterans-of-the-office-of-strategic-services-dinner",
+    "title": "Remarks at the Veterans of the Office of Strategic Services Dinner",
+    "date": "1991-10-23",
+    "sortDate": "1991-10-23",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1317,
+    "printedPageEnd": 1320,
+    "pageRange": "pp. 1317-1320",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1317-1320.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1317-1320.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1358-the-president-s-news-conference-with-prime-minister-felipe-gonzalez-of-spain-in-madrid",
+    "title": "The President's News Conference With Prime Minister Felipe Gonzalez of Spain in Madrid",
+    "date": "1991-10-29",
+    "sortDate": "1991-10-29",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1358,
+    "printedPageEnd": 1361,
+    "pageRange": "pp. 1358-1361",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1358-1361.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1358-1361.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1409-statement-by-press-secretary-fitzwater-on-the-extinguishing-of-kuwait-s-burning-oil-wells",
+    "title": "Statement by Press Secretary Fitzwater on the Extinguishing of Kuwait's Burning Oil Wells",
+    "date": "1991-11-06",
+    "sortDate": "1991-11-06",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1409,
+    "printedPageEnd": 1410,
+    "pageRange": "pp. 1409-1410",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1409-1410.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1409-1410.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1412-declaration-on-peace-and-cooperation-by-the-heads-of-state-and-government-participating-in",
+    "title": "Declaration on Peace and Cooperation by the Heads of State and Government Participating in the Meeting of the North Atlantic Council in Rome",
+    "date": "1991-11-08",
+    "sortDate": "1991-11-08",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1412,
+    "printedPageEnd": 1417,
+    "pageRange": "pp. 1412-1417",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1412-1417.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1412-1417.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1417-the-president-s-news-conference-in-rome-italy",
+    "title": "The President's News Conference in Rome, Italy",
+    "date": "1991-11-08",
+    "sortDate": "1991-11-08",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1417,
+    "printedPageEnd": 1425,
+    "pageRange": "pp. 1417-1425",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1417-1425.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1417-1425.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1491-interviews-with-nbc-owned-and-operated-television-stations",
+    "title": "Interviews With NBC Owned and Operated Television Stations",
+    "date": "1991-11-20",
+    "sortDate": "1991-11-20",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1491,
+    "printedPageEnd": 1500,
+    "pageRange": "pp. 1491-1500",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1491-1500.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1491-1500.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Pan Am 103 / Lockerbie",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1524-remarks-at-the-swearing-in-ceremony-for-william-barr-as-attorney-general",
+    "title": "Remarks at the Swearing-In Ceremony for William Barr as Attorney General",
+    "date": "1991-11-26",
+    "sortDate": "1991-11-26",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1524,
+    "printedPageEnd": 1526,
+    "pageRange": "pp. 1524-1526",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1524-1526.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1524-1526.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1611-letter-accepting-the-resignation-of-samuel-k-skinner-as-secretary-of-transportation",
+    "title": "Letter Accepting the Resignation of Samuel K. Skinner as Secretary of Transportation",
+    "date": "1991-12-13",
+    "sortDate": "1991-12-13",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1611,
+    "printedPageEnd": 1612,
+    "pageRange": "pp. 1611-1612",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1611-1612.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1611-1612.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Pan Am 103 / Lockerbie",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1639-the-president-s-news-conference-with-foreign-correspondents",
+    "title": "The President's News Conference With Foreign Correspondents",
+    "date": "1991-12-19",
+    "sortDate": "1991-12-19",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1639,
+    "printedPageEnd": 1648,
+    "pageRange": "pp. 1639-1648",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1639-1648.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1639-1648.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1991-book2-1652-christmas-address-to-the-nation",
+    "title": "Christmas Address to the Nation",
+    "date": "1991-12-23",
+    "sortDate": "1991-12-23",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1991-book2",
+    "packageLabel": "Public Papers: Bush, 1991, vol. II",
+    "volumeDateSpan": "July 1-December 31, 1991",
+    "printedPageStart": 1652,
+    "printedPageEnd": 1653,
+    "pageRange": "pp. 1652-1653",
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1652-1653.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1652-1653.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-116-statement-on-the-anniversary-of-operation-desert-storm",
+    "title": "Statement on the Anniversary of Operation Desert Storm",
+    "date": "1992-01-16",
+    "sortDate": "1992-01-16",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 116,
+    "printedPageEnd": 116,
+    "pageRange": "p. 116",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 116.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 116.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-127-remarks-at-the-international-conference-on-humanitarian-assistance-to-the-former-u-s-s-r",
+    "title": "Remarks at the International Conference on Humanitarian Assistance to the Former U.S.S.R.",
+    "date": "1992-01-22",
+    "sortDate": "1992-01-22",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 127,
+    "printedPageEnd": 129,
+    "pageRange": "pp. 127-129",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 127-129.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 127-129.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-168-remarks-at-the-national-prayer-breakfast",
+    "title": "Remarks at the National Prayer Breakfast",
+    "date": "1992-01-30",
+    "sortDate": "1992-01-30",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 168,
+    "printedPageEnd": 170,
+    "pageRange": "pp. 168-170",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 168-170.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 168-170.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-175-remarks-to-the-united-nations-security-council-in-new-york-city",
+    "title": "Remarks to the United Nations Security Council in New York City",
+    "date": "1992-01-31",
+    "sortDate": "1992-01-31",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 175,
+    "printedPageEnd": 177,
+    "pageRange": "pp. 175-177",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 175-177.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 175-177.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-177-the-president-s-news-conference-with-president-boris-yeltsin-of-russia",
+    "title": "The President's News Conference With President Boris Yeltsin of Russia",
+    "date": "1992-02-01",
+    "sortDate": "1992-02-01",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 177,
+    "printedPageEnd": 182,
+    "pageRange": "pp. 177-182",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 177-182.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 177-182.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-225-remarks-at-the-departure-ceremony-for-prime-minister-suleyman-demirel-of-turkey",
+    "title": "Remarks at the Departure Ceremony for Prime Minister Suleyman Demirel of Turkey",
+    "date": "1992-02-11",
+    "sortDate": "1992-02-11",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 225,
+    "printedPageEnd": 226,
+    "pageRange": "pp. 225-226",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 225-226.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 225-226.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-285-remarks-at-the-departure-ceremony-for-prime-minister-carl-bildt-of-sweden",
+    "title": "Remarks at the Departure Ceremony for Prime Minister Carl Bildt of Sweden",
+    "date": "1992-02-20",
+    "sortDate": "1992-02-20",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 285,
+    "printedPageEnd": 286,
+    "pageRange": "pp. 285-286",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 285-286.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 285-286.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-369-message-to-the-senate-transmitting-the-spain-united-states-second-supplementary-treaty-on-",
+    "title": "Message to the Senate Transmitting the Spain-United States Second Supplementary Treaty on Extradition",
+    "date": "1992-03-03",
+    "sortDate": "1992-03-03",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 369,
+    "printedPageEnd": 370,
+    "pageRange": "pp. 369-370",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 369-370.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 369-370.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-428-remarks-at-the-richard-nixon-library-dinner",
+    "title": "Remarks at the Richard Nixon Library Dinner",
+    "date": "1992-03-11",
+    "sortDate": "1992-03-11",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 428,
+    "printedPageEnd": 432,
+    "pageRange": "pp. 428-432",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 428-432.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 428-432.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-437-statement-on-signing-the-torture-victim-protection-act-of-1991",
+    "title": "Statement on Signing the Torture Victim Protection Act of 1991",
+    "date": "1992-03-12",
+    "sortDate": "1992-03-12",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 437,
+    "printedPageEnd": 438,
+    "pageRange": "pp. 437-438",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 437-438.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 437-438.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-461-letter-to-congressional-leaders-on-iraq-s-compliance-with-united-nations-security-council-",
+    "title": "Letter to Congressional Leaders on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1992-03-16",
+    "sortDate": "1992-03-16",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 461,
+    "printedPageEnd": 463,
+    "pageRange": "pp. 461-463",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 461-463.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 461-463.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-477-remarks-to-republican-members-of-congress-and-presidential-appointees",
+    "title": "Remarks to Republican Members of Congress and Presidential Appointees",
+    "date": "1992-03-20",
+    "sortDate": "1992-03-20",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 477,
+    "printedPageEnd": 481,
+    "pageRange": "pp. 477-481",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 477-481.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 477-481.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-498-message-to-the-congress-on-environmental-goals",
+    "title": "Message to the Congress on Environmental Goals",
+    "date": "1992-03-24",
+    "sortDate": "1992-03-24",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 498,
+    "printedPageEnd": 502,
+    "pageRange": "pp. 498-502",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 498-502.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 498-502.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-518-message-to-the-congress-reporting-on-the-national-emergency-with-respect-to-export-control",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Export Controls",
+    "date": "1992-03-31",
+    "sortDate": "1992-03-31",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 518,
+    "printedPageEnd": 520,
+    "pageRange": "pp. 518-520",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 518-520.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 518-520.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-564-remarks-to-the-american-society-of-newspaper-editors",
+    "title": "Remarks to the American Society of Newspaper Editors",
+    "date": "1992-04-09",
+    "sortDate": "1992-04-09",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 564,
+    "printedPageEnd": 573,
+    "pageRange": "pp. 564-573",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 564-573.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 564-573.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-607-statement-by-press-secretary-fitzwater-on-restrictions-on-air-traffic-to-or-from-libya",
+    "title": "Statement by Press Secretary Fitzwater on Restrictions on Air Traffic To or From Libya",
+    "date": "1992-04-15",
+    "sortDate": "1992-04-15",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 607,
+    "printedPageEnd": 608,
+    "pageRange": "pp. 607-608",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 607-608.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 607-608.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Libya/Pan Am sanctions",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-637-remarks-at-the-presentation-ceremony-for-the-national-crime-victims-rights-awards",
+    "title": "Remarks at the Presentation Ceremony for the National Crime Victims' Rights Awards",
+    "date": "1992-04-24",
+    "sortDate": "1992-04-24",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 637,
+    "printedPageEnd": 639,
+    "pageRange": "pp. 637-639",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 637-639.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 637-639.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-769-message-to-the-congress-reporting-on-the-national-emergency-with-respect-to-iran",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Iran",
+    "date": "1992-05-14",
+    "sortDate": "1992-05-14",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 769,
+    "printedPageEnd": 771,
+    "pageRange": "pp. 769-771",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 769-771.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 769-771.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-839-nomination-of-anthony-cecil-eden-quainton-to-be-an-assistant-secretary-of-state",
+    "title": "Nomination of Anthony Cecil Eden Quainton To Be an Assistant Secretary of State",
+    "date": "1992-05-28",
+    "sortDate": "1992-05-28",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 839,
+    "printedPageEnd": 840,
+    "pageRange": "pp. 839-840",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 839-840.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 839-840.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1057-statement-by-press-secretary-fitzwater-on-congressional-findings-on-the-president-s-involv",
+    "title": "Statement by Press Secretary Fitzwater on Congressional Findings on the President's Involvement in the Alleged Paris Meetings",
+    "date": "1992-07-01",
+    "sortDate": "1992-07-01",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1057,
+    "printedPageEnd": 1057,
+    "pageRange": "p. 1057",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 1057.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 1057.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1129-remarks-and-a-question-and-answer-session-with-outdoor-groups-in-salt-lake-city-utah",
+    "title": "Remarks and a Question-and-Answer Session With Outdoor Groups in Salt Lake City, Utah",
+    "date": "1992-07-18",
+    "sortDate": "1992-07-18",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1129,
+    "printedPageEnd": 1135,
+    "pageRange": "pp. 1129-1135",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1129-1135.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1129-1135.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1172-remarks-at-a-community-picnic-in-brookville-ohio",
+    "title": "Remarks at a Community Picnic in Brookville, Ohio",
+    "date": "1992-07-24",
+    "sortDate": "1992-07-24",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1172,
+    "printedPageEnd": 1174,
+    "pageRange": "pp. 1172-1174",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1172-1174.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1172-1174.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1184-remarks-to-holland-american-wafer-employees-in-wyoming-michigan",
+    "title": "Remarks to Holland American Wafer Employees in Wyoming, Michigan",
+    "date": "1992-07-27",
+    "sortDate": "1992-07-27",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1184,
+    "printedPageEnd": 1188,
+    "pageRange": "pp. 1184-1188",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1184-1188.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1184-1188.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1196-remarks-to-hispanic-business-leaders",
+    "title": "Remarks to Hispanic Business Leaders",
+    "date": "1992-07-28",
+    "sortDate": "1992-07-28",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1196,
+    "printedPageEnd": 1198,
+    "pageRange": "pp. 1196-1198",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1196-1198.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1196-1198.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book1-1203-remarks-to-odetics-inc-associates-in-anaheim-california",
+    "title": "Remarks to Odetics, Inc., Associates in Anaheim, California",
+    "date": "1992-07-30",
+    "sortDate": "1992-07-30",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book1",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. I",
+    "volumeDateSpan": "January 1-July 31, 1992",
+    "printedPageStart": 1203,
+    "printedPageEnd": 1206,
+    "pageRange": "pp. 1203-1206",
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1203-1206.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1203-1206.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1307-remarks-to-the-disabled-american-veterans-national-convention-in-reno-nevada",
+    "title": "Remarks to the Disabled American Veterans National Convention in Reno, Nevada",
+    "date": "1992-08-05",
+    "sortDate": "1992-08-05",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1307,
+    "printedPageEnd": 1311,
+    "pageRange": "pp. 1307-1311",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1307-1311.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1307-1311.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1311-remarks-to-the-american-legislative-exchange-council-in-colorado-springs-colorado",
+    "title": "Remarks to the American Legislative Exchange Council in Colorado Springs, Colorado",
+    "date": "1992-08-06",
+    "sortDate": "1992-08-06",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1311,
+    "printedPageEnd": 1315,
+    "pageRange": "pp. 1311-1315",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1311-1315.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1311-1315.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1338-remarks-congratulating-the-united-states-olympic-team",
+    "title": "Remarks Congratulating the United States Olympic Team",
+    "date": "1992-08-11",
+    "sortDate": "1992-08-11",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1338,
+    "printedPageEnd": 1339,
+    "pageRange": "pp. 1338-1339",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1338-1339.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1338-1339.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1377-remarks-at-a-prayer-breakfast-in-houston",
+    "title": "Remarks at a Prayer Breakfast in Houston",
+    "date": "1992-08-20",
+    "sortDate": "1992-08-20",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1377,
+    "printedPageEnd": 1379,
+    "pageRange": "pp. 1377-1379",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1377-1379.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1377-1379.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1419-remarks-to-the-american-legion-national-convention-in-chicago-illinois",
+    "title": "Remarks to the American Legion National Convention in Chicago, Illinois",
+    "date": "1992-08-25",
+    "sortDate": "1992-08-25",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1419,
+    "printedPageEnd": 1424,
+    "pageRange": "pp. 1419-1424",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1419-1424.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1419-1424.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      },
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1449-nomination-of-alvin-p-adams-jr-to-be-united-states-ambassador-to-peru",
+    "title": "Nomination of Alvin P. Adams, Jr., To Be United States Ambassador to Peru",
+    "date": "1992-08-28",
+    "sortDate": "1992-08-28",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1449,
+    "printedPageEnd": 1449,
+    "pageRange": "p. 1449",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 1449.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 1449.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1501-remarks-and-a-question-and-answer-session-at-the-b-nai-b-rith-international-convention",
+    "title": "Remarks and a Question-and-Answer Session at the B'nai B'rith International Convention",
+    "date": "1992-09-08",
+    "sortDate": "1992-09-08",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1501,
+    "printedPageEnd": 1508,
+    "pageRange": "pp. 1501-1508",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1501-1508.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1501-1508.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1561-remarks-to-the-national-guard-association-in-salt-lake-city-utah",
+    "title": "Remarks to the National Guard Association in Salt Lake City, Utah",
+    "date": "1992-09-15",
+    "sortDate": "1992-09-15",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1561,
+    "printedPageEnd": 1565,
+    "pageRange": "pp. 1561-1565",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1561-1565.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1561-1565.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1587-remarks-at-olympic-flag-jam-92-in-atlanta-georgia",
+    "title": "Remarks at Olympic Flag Jam '92 in Atlanta, Georgia",
+    "date": "1992-09-17",
+    "sortDate": "1992-09-17",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1587,
+    "printedPageEnd": 1588,
+    "pageRange": "pp. 1587-1588",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1587-1588.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1587-1588.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1633-remarks-at-pennsylvania-state-university-in-state-college-pennsylvania",
+    "title": "Remarks at Pennsylvania State University in State College, Pennsylvania",
+    "date": "1992-09-23",
+    "sortDate": "1992-09-23",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1633,
+    "printedPageEnd": 1636,
+    "pageRange": "pp. 1633-1636",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1633-1636.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1633-1636.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1915-remarks-on-arrival-in-trenton-new-jersey",
+    "title": "Remarks on Arrival in Trenton, New Jersey",
+    "date": "1992-10-22",
+    "sortDate": "1992-10-22",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1915,
+    "printedPageEnd": 1918,
+    "pageRange": "pp. 1915-1918",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1915-1918.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1915-1918.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 3
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-1939-remarks-on-signing-the-cuban-democracy-act-of-1992-in-miami-florida",
+    "title": "Remarks on Signing the Cuban Democracy Act of 1992 in Miami, Florida",
+    "date": "1992-10-23",
+    "sortDate": "1992-10-23",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 1939,
+    "printedPageEnd": 1941,
+    "pageRange": "pp. 1939-1941",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1939-1941.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1939-1941.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2033-remarks-at-a-rally-in-toledo-ohio",
+    "title": "Remarks at a Rally in Toledo, Ohio",
+    "date": "1992-10-28",
+    "sortDate": "1992-10-28",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2033,
+    "printedPageEnd": 2037,
+    "pageRange": "pp. 2033-2037",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2033-2037.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2033-2037.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hostages",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2037-remarks-to-the-community-in-strongsville-ohio",
+    "title": "Remarks to the Community in Strongsville, Ohio",
+    "date": "1992-10-28",
+    "sortDate": "1992-10-28",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2037,
+    "printedPageEnd": 2040,
+    "pageRange": "pp. 2037-2040",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2037-2040.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2037-2040.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2090-statement-on-signing-the-federal-courts-administration-act-of-1992",
+    "title": "Statement on Signing the Federal Courts Administration Act of 1992",
+    "date": "1992-10-29",
+    "sortDate": "1992-10-29",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2090,
+    "printedPageEnd": 2091,
+    "pageRange": "pp. 2090-2091",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2090-2091.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2090-2091.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 2
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2103-remarks-on-beginning-a-whistlestop-tour-in-burlington-wisconsin",
+    "title": "Remarks on Beginning a Whistlestop Tour in Burlington, Wisconsin",
+    "date": "1992-10-31",
+    "sortDate": "1992-10-31",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2103,
+    "printedPageEnd": 2107,
+    "pageRange": "pp. 2103-2107",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2103-2107.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2103-2107.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2110-remarks-to-the-community-in-oshkosh-wisconsin",
+    "title": "Remarks to the Community in Oshkosh, Wisconsin",
+    "date": "1992-10-31",
+    "sortDate": "1992-10-31",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2110,
+    "printedPageEnd": 2114,
+    "pageRange": "pp. 2110-2114",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2110-2114.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2110-2114.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2174-address-to-the-nation-on-the-situation-in-somalia",
+    "title": "Address to the Nation on the Situation in Somalia",
+    "date": "1992-12-04",
+    "sortDate": "1992-12-04",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2174,
+    "printedPageEnd": 2176,
+    "pageRange": "pp. 2174-2176",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2174-2176.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2174-2176.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Hijacking",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  },
+  {
+    "id": "public-review-PPP-1992-book2-2228-remarks-at-the-united-states-military-academy-in-west-point-new-york",
+    "title": "Remarks at the United States Military Academy in West Point, New York",
+    "date": "1993-01-05",
+    "sortDate": "1993-01-05",
+    "year": "1993",
+    "chapter": {
+      "number": 2,
+      "name": "Counterterrorism"
+    },
+    "packageId": "PPP-1992-book2",
+    "packageLabel": "Public Papers: Bush, 1992-93, vol. II",
+    "volumeDateSpan": "August 1, 1992-January 20, 1993",
+    "printedPageStart": 2228,
+    "printedPageEnd": 2233,
+    "pageRange": "pp. 2228-2233",
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2228-2233.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2228-2233.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "matchedTerms": [
+      {
+        "label": "Terrorism",
+        "count": 1
+      }
+    ],
+    "compilerUse": "Passing keyword mention excluded from promoted reference list; review only if it fills a chronology gap or documents public positioning for a major event."
+  }
+];

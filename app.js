@@ -6,6 +6,8 @@ const totalRecords = document.querySelector("#total-records");
 const totalPdfs = document.querySelector("#total-pdfs");
 const totalReviewed = document.querySelector("#total-reviewed");
 const totalPublicStatements = document.querySelector("#total-public-statements");
+const totalEventDossiers = document.querySelector("#total-event-dossiers");
+const totalCompilerGaps = document.querySelector("#total-compiler-gaps");
 const filteredCount = document.querySelector("#filtered-count");
 const searchInput = document.querySelector("#filter-search");
 const chapterFilter = document.querySelector("#filter-chapter");
@@ -28,6 +30,26 @@ const referenceRelevanceFilter = document.querySelector("#reference-relevance");
 const referenceSortSelect = document.querySelector("#sort-references");
 const referenceResetButton = document.querySelector("#reset-references");
 const referenceExportButton = document.querySelector("#export-references-csv");
+const eventDossiersRoot = document.querySelector("#event-dossiers-root");
+const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
+const gapCount = document.querySelector("#gap-count");
+const gapSearchInput = document.querySelector("#gap-search");
+const gapChapterFilter = document.querySelector("#gap-chapter");
+const gapCategoryFilter = document.querySelector("#gap-category");
+const gapPriorityFilter = document.querySelector("#gap-priority");
+const gapConfidenceFilter = document.querySelector("#gap-confidence");
+const gapSortSelect = document.querySelector("#sort-gaps");
+const gapResetButton = document.querySelector("#reset-gaps");
+const gapExportButton = document.querySelector("#export-gaps-csv");
+const publicMentionsRoot = document.querySelector("#public-mentions-root");
+const mentionCount = document.querySelector("#mention-count");
+const mentionSearchInput = document.querySelector("#mention-search");
+const mentionChapterFilter = document.querySelector("#mention-chapter");
+const mentionYearFilter = document.querySelector("#mention-year");
+const mentionPackageFilter = document.querySelector("#mention-package");
+const mentionSortSelect = document.querySelector("#sort-mentions");
+const mentionResetButton = document.querySelector("#reset-mentions");
+const mentionExportButton = document.querySelector("#export-mentions-csv");
 
 const TOPIC_SIGNALS = [
   { label: "Drug summit", pattern: /\b(drug summit|cartagena|san antonio summit)\b/i, weight: 4 },
@@ -43,6 +65,11 @@ let allRecords = [];
 let visibleRecords = [];
 let allPublicStatements = [];
 let visiblePublicStatements = [];
+let allEventDossiers = [];
+let allCompilerGaps = [];
+let visibleCompilerGaps = [];
+let allPublicReviewMentions = [];
+let visiblePublicReviewMentions = [];
 let reviewedRecords = new Set(readReviewedRecords());
 
 function chapterId(chapterName) {
@@ -100,11 +127,21 @@ function searchableText(record) {
     frusSourceNote(record),
     catalogTrail(record),
     record.objectFilename,
-    getTerms(record).join(" ")
+    getTerms(record).join(" "),
+    record.pdfExtract?.subject,
+    record.pdfExtract?.participants,
+    record.pdfExtract?.dateTimePlace,
+    record.pdfExtract?.classificationMarking,
+    record.sourceConfidence?.level,
+    record.sourceConfidence?.basis
   ]
     .filter(Boolean)
     .join(" ")
     .toLowerCase();
+}
+
+function eventTitle(eventId) {
+  return allEventDossiers.find((event) => event.id === eventId)?.title || eventId.replaceAll("-", " ");
 }
 
 function statementTerms(statement, chapterName = statement.chapter?.name) {
@@ -207,6 +244,16 @@ function setReferenceOptions(statements) {
   setOptions(referenceVoiceFilter, uniqueValues(statements, (statement) => statement.publicVoice), "All public entries");
 }
 
+function setGapOptions(records) {
+  setOptions(gapCategoryFilter, uniqueValues(records, (record) => record.category), "All categories");
+  setOptions(gapConfidenceFilter, uniqueValues(records, (record) => record.sourceConfidence?.level), "All source states");
+}
+
+function setMentionOptions(mentions) {
+  setOptions(mentionYearFilter, uniqueValues(mentions, (mention) => mention.year), "All years");
+  setOptions(mentionPackageFilter, uniqueValues(mentions, (mention) => mention.packageId), "All volumes");
+}
+
 function setChapterCounts(records) {
   totalRecords.textContent = records.length.toString();
   totalPdfs.textContent = records.filter((record) => record.pdfUrl).length.toString();
@@ -221,6 +268,14 @@ function setChapterCounts(records) {
 
 function setPublicStatementCount(statements) {
   if (totalPublicStatements) totalPublicStatements.textContent = statements.length.toString();
+}
+
+function setEventDossierCount(dossiers) {
+  if (totalEventDossiers) totalEventDossiers.textContent = dossiers.length.toString();
+}
+
+function setCompilerGapCount(records) {
+  if (totalCompilerGaps) totalCompilerGaps.textContent = records.length.toString();
 }
 
 function selectedFilters() {
@@ -268,6 +323,91 @@ function statementMatchesFilters(statement, filters) {
   return true;
 }
 
+function gapSearchableText(record) {
+  return [
+    record.naid,
+    record.title,
+    record.documentType,
+    record.category,
+    record.priority,
+    record.why,
+    record.sourceName,
+    record.sourceNote,
+    record.frusSourceNote,
+    record.localIdentifier,
+    record.containerId,
+    record.accessRestrictionStatus,
+    record.releaseStatus,
+    record.sourceConfidence?.level,
+    record.sourceConfidence?.basis,
+    ...(record.eventTags || []).map(eventTitle),
+    ...(record.matchedQueries || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function selectedGapFilters() {
+  return {
+    query: gapSearchInput?.value.trim().toLowerCase() || "",
+    chapter: gapChapterFilter?.value || "",
+    category: gapCategoryFilter?.value || "",
+    priority: gapPriorityFilter?.value || "",
+    confidence: gapConfidenceFilter?.value || ""
+  };
+}
+
+function gapMatchesFilters(record, filters) {
+  if (filters.query && !gapSearchableText(record).includes(filters.query)) return false;
+  if (filters.chapter && record.chapter?.name !== filters.chapter) return false;
+  if (filters.category && record.category !== filters.category) return false;
+  if (filters.priority && record.priority !== filters.priority) return false;
+  if (filters.confidence && record.sourceConfidence?.level !== filters.confidence) return false;
+  return true;
+}
+
+function mentionTerms(mention) {
+  return (mention.matchedTerms || []).map((term) => {
+    if (!term?.label) return "";
+    return term.count > 1 ? `${term.label} (${term.count})` : term.label;
+  }).filter(Boolean);
+}
+
+function mentionSearchableText(mention) {
+  return [
+    mention.title,
+    mention.date,
+    mention.chapter?.name,
+    mention.packageId,
+    mention.packageLabel,
+    mention.volumeDateSpan,
+    mention.citation,
+    mention.compilerUse,
+    mentionTerms(mention).join(" ")
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function selectedMentionFilters() {
+  return {
+    query: mentionSearchInput?.value.trim().toLowerCase() || "",
+    chapter: mentionChapterFilter?.value || "",
+    year: mentionYearFilter?.value || "",
+    packageId: mentionPackageFilter?.value || ""
+  };
+}
+
+function mentionMatchesFilters(mention, filters) {
+  if (filters.query && !mentionSearchableText(mention).includes(filters.query)) return false;
+  if (filters.chapter && mention.chapter?.name !== filters.chapter) return false;
+  if (filters.year && mention.year !== filters.year) return false;
+  if (filters.packageId && mention.packageId !== filters.packageId) return false;
+  return true;
+}
+
 function byStatementChapterThenDate(a, b) {
   return a.chapter.number - b.chapter.number || a.date.localeCompare(b.date) || a.title.localeCompare(b.title);
 }
@@ -291,6 +431,28 @@ function sortStatements(statements) {
   return sorted.sort(byStatementChapterThenDate);
 }
 
+function sortGaps(records) {
+  const sorted = [...records];
+  const sortMode = gapSortSelect?.value || "priority";
+  const priorityOrder = { High: 0, Medium: 1, Review: 2 };
+  const byGapChapterThenDate = (a, b) => a.chapter.number - b.chapter.number || a.sortDate.localeCompare(b.sortDate) || a.title.localeCompare(b.title);
+
+  if (sortMode === "date") return sorted.sort((a, b) => a.sortDate.localeCompare(b.sortDate) || a.title.localeCompare(b.title));
+  if (sortMode === "chapter-date") return sorted.sort(byGapChapterThenDate);
+  if (sortMode === "category") return sorted.sort((a, b) => a.category.localeCompare(b.category) || byGapChapterThenDate(a, b));
+  return sorted.sort((a, b) => (priorityOrder[a.priority] ?? 9) - (priorityOrder[b.priority] ?? 9) || byGapChapterThenDate(a, b));
+}
+
+function sortMentions(mentions) {
+  const sorted = [...mentions];
+  const sortMode = mentionSortSelect?.value || "chapter-date";
+  const byMentionChapterThenDate = (a, b) => a.chapter.number - b.chapter.number || a.date.localeCompare(b.date) || a.title.localeCompare(b.title);
+
+  if (sortMode === "date") return sorted.sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.title));
+  if (sortMode === "source") return sorted.sort((a, b) => a.packageId.localeCompare(b.packageId) || a.date.localeCompare(b.date));
+  return sorted.sort(byMentionChapterThenDate);
+}
+
 function applyFilters() {
   const filters = selectedFilters();
   visibleRecords = sortRecords(allRecords.filter((record) => recordMatchesFilters(record, filters)));
@@ -307,6 +469,22 @@ function applyReferenceFilters() {
   setReferenceCount(visiblePublicStatements, allPublicStatements);
 }
 
+function applyGapFilters() {
+  if (!compilerGapsRoot) return;
+  const filters = selectedGapFilters();
+  visibleCompilerGaps = sortGaps(allCompilerGaps.filter((record) => gapMatchesFilters(record, filters)));
+  renderCompilerGaps(visibleCompilerGaps);
+  setGapCount(visibleCompilerGaps, allCompilerGaps);
+}
+
+function applyMentionFilters() {
+  if (!publicMentionsRoot) return;
+  const filters = selectedMentionFilters();
+  visiblePublicReviewMentions = sortMentions(allPublicReviewMentions.filter((mention) => mentionMatchesFilters(mention, filters)));
+  renderPublicReviewMentions(visiblePublicReviewMentions);
+  setMentionCount(visiblePublicReviewMentions, allPublicReviewMentions);
+}
+
 function setFilteredCount(records, all) {
   if (!filteredCount) return;
   const reviewedCount = records.filter((record) => reviewedRecords.has(record.id)).length;
@@ -319,6 +497,17 @@ function setReferenceCount(statements, all) {
   referenceCount.textContent = `Showing ${statements.length} of ${all.length} public statements; ${presidential} presidential entries visible.`;
 }
 
+function setGapCount(records, all) {
+  if (!gapCount) return;
+  const offline = records.filter((record) => !record.pdfUrl).length;
+  gapCount.textContent = `Showing ${records.length} of ${all.length} compiler gaps; ${offline} visible records lack online PDFs.`;
+}
+
+function setMentionCount(mentions, all) {
+  if (!mentionCount) return;
+  mentionCount.textContent = `Showing ${mentions.length} of ${all.length} passing mentions.`;
+}
+
 function createMeta(record) {
   const meta = document.createElement("div");
   meta.className = "record-meta";
@@ -328,7 +517,8 @@ function createMeta(record) {
     record.source?.shortName,
     record.localIdentifier,
     record.pdfUrl ? "Online PDF" : "Catalog only",
-    record.pageCount ? `~${record.pageCount} pages` : "pages unmeasured",
+    record.pageCount ? `${record.pageCount} pages` : "pages unmeasured",
+    record.sourceConfidence?.level,
     `NAID ${record.naid}`,
     record.releaseStatus
   ]) {
@@ -347,6 +537,20 @@ function createTopicTerms(record) {
   const line = document.createElement("p");
   line.className = "record-terms";
   line.textContent = `Matched evidence: ${terms.join(", ")}`;
+  return line;
+}
+
+function createPdfExtractLine(record) {
+  if (!record.pdfExtract && !record.sourceConfidence) return null;
+  const details = [
+    record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
+    record.pdfExtract?.dateTimePlace ? `date/time/place: ${record.pdfExtract.dateTimePlace}` : "",
+    record.pdfExtract?.participants ? "participants parsed" : "participants not isolated",
+    record.pdfExtract?.subject ? `subject: ${record.pdfExtract.subject}` : ""
+  ].filter(Boolean);
+  const line = document.createElement("p");
+  line.className = "record-pdf-check";
+  line.textContent = `PDF first-page check: ${details.join("; ") || record.sourceConfidence?.basis || "metadata pending"}`;
   return line;
 }
 
@@ -416,9 +620,11 @@ function createRecordRow(record) {
 
   const terms = createTopicTerms(record);
   const signals = createSignalLine(record);
+  const pdfCheck = createPdfExtractLine(record);
   body.append(titleLine, createMeta(record));
   if (terms) body.append(terms);
   if (signals) body.append(signals);
+  if (pdfCheck) body.append(pdfCheck);
   body.append(sourceNote);
   if (catalogTrail(record)) body.append(trail);
   body.append(createRecordActions(record));
@@ -545,6 +751,259 @@ function createStatementRow(statement) {
   return row;
 }
 
+function createCompactList(title, records, emptyText) {
+  const section = document.createElement("div");
+  section.className = "dossier-list";
+  const heading = document.createElement("h4");
+  heading.textContent = title;
+  section.append(heading);
+
+  if (!records.length) {
+    const empty = document.createElement("p");
+    empty.className = "dossier-empty";
+    empty.textContent = emptyText;
+    section.append(empty);
+    return section;
+  }
+
+  const list = document.createElement("ul");
+  for (const record of records.slice(0, 4)) {
+    const item = document.createElement("li");
+    const link = document.createElement("a");
+    link.href = record.catalogUrl || record.govinfoUrl || record.pdfUrl || "#";
+    link.rel = "noreferrer";
+    link.textContent = record.title;
+    item.append(link);
+    const meta = document.createElement("span");
+    meta.textContent = [record.date, record.documentType, record.pageCount ? `${record.pageCount} pages` : ""].filter(Boolean).join(" | ");
+    item.append(meta);
+    list.append(item);
+  }
+  section.append(list);
+  return section;
+}
+
+function createDossierCard(event) {
+  const card = document.createElement("article");
+  card.className = "dossier-card";
+
+  const title = document.createElement("h3");
+  title.textContent = event.title;
+
+  const meta = document.createElement("p");
+  meta.className = "dossier-meta";
+  meta.textContent = `${event.chapter.name} | ${event.dateRange}`;
+
+  const summary = document.createElement("p");
+  summary.className = "dossier-summary";
+  summary.textContent = event.summary;
+
+  const counts = document.createElement("div");
+  counts.className = "dossier-counts";
+  for (const [label, value] of [
+    ["Conversations", event.counts?.declassifiedConversations || 0],
+    ["Gaps", event.counts?.compilerGaps || 0],
+    ["Public refs", event.counts?.publicStatements || 0],
+    ["Review hits", event.counts?.publicReviewMentions || 0]
+  ]) {
+    const item = document.createElement("div");
+    const number = document.createElement("strong");
+    number.textContent = value.toString();
+    const text = document.createElement("span");
+    text.textContent = label;
+    item.append(number, text);
+    counts.append(item);
+  }
+
+  const action = document.createElement("p");
+  action.className = "dossier-action";
+  action.textContent = `Next check: ${event.nextAction}`;
+
+  card.append(
+    title,
+    meta,
+    summary,
+    counts,
+    action,
+    createCompactList("Conversation leads", event.privateRecords || [], "No declassified memcon/telcon leads in this bundle."),
+    createCompactList("Gap targets", event.gapRecords || [], "No separate gap targets in this bundle."),
+    createCompactList("Public anchors", event.publicStatements || [], "No promoted Public Papers anchors in this bundle.")
+  );
+  return card;
+}
+
+function createGapMeta(record) {
+  const meta = document.createElement("div");
+  meta.className = "record-meta";
+  for (const value of [
+    record.category,
+    record.sourceName,
+    record.pdfUrl ? "Online PDF" : "No online PDF",
+    record.pageCount ? `${record.pageCount} pages` : "",
+    record.sourceConfidence?.level,
+    `NAID ${record.naid}`,
+    record.accessRestrictionStatus
+  ]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+  return meta;
+}
+
+function createGapRow(record) {
+  const row = document.createElement("article");
+  row.className = "record-row gap-row";
+
+  const date = document.createElement("time");
+  date.className = "record-date";
+  date.dateTime = record.date;
+  date.textContent = record.date ? shortDate(record.date) : "No date";
+
+  const body = document.createElement("div");
+  const titleLine = document.createElement("div");
+  titleLine.className = "record-title-line";
+
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = record.catalogUrl || record.pdfUrl;
+  title.rel = "noreferrer";
+  title.textContent = record.title;
+
+  const badge = document.createElement("span");
+  badge.className = `confidence-badge ${record.priority === "High" ? "strong" : record.priority === "Medium" ? "solid" : "review"}`;
+  badge.textContent = `${record.priority} priority`;
+
+  titleLine.append(title, badge);
+
+  const why = document.createElement("p");
+  why.className = "record-signals";
+  why.textContent = `Compiler risk: ${record.why}`;
+
+  const events = document.createElement("p");
+  events.className = "record-terms";
+  events.textContent = `Event tags: ${(record.eventTags || []).map(eventTitle).join("; ") || "none assigned"}`;
+
+  const sourceNote = document.createElement("p");
+  sourceNote.className = "record-source-note";
+  sourceNote.textContent = `Source note: ${record.frusSourceNote || record.sourceNote || "Source note pending."}`;
+
+  const confidenceLine = document.createElement("p");
+  confidenceLine.className = "record-catalog-trail";
+  confidenceLine.textContent = `Source state: ${record.sourceConfidence?.basis || "No source-state note recorded."}`;
+
+  body.append(titleLine, createGapMeta(record), why, events, sourceNote, confidenceLine, createGapActions(record));
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  if (record.catalogUrl) {
+    const catalog = document.createElement("a");
+    catalog.href = record.catalogUrl;
+    catalog.rel = "noreferrer";
+    catalog.textContent = "Catalog";
+    links.append(catalog);
+  }
+  if (record.pdfUrl) {
+    const pdf = document.createElement("a");
+    pdf.href = record.pdfUrl;
+    pdf.rel = "noreferrer";
+    pdf.textContent = "Open PDF";
+    links.append(pdf);
+  }
+
+  row.append(date, body, links);
+  return row;
+}
+
+function createGapActions(record) {
+  const actions = document.createElement("div");
+  actions.className = "record-actions";
+  const copyButton = document.createElement("button");
+  copyButton.type = "button";
+  copyButton.dataset.action = "copy-gap";
+  copyButton.dataset.gapId = record.id;
+  copyButton.textContent = "Copy gap stub";
+  actions.append(copyButton);
+  return actions;
+}
+
+function createMentionRow(mention) {
+  const row = document.createElement("article");
+  row.className = "record-row mention-row";
+
+  const date = document.createElement("time");
+  date.className = "record-date";
+  date.dateTime = mention.date;
+  date.textContent = shortDate(mention.date);
+
+  const body = document.createElement("div");
+  const titleLine = document.createElement("div");
+  titleLine.className = "record-title-line";
+
+  const title = document.createElement("a");
+  title.className = "record-title";
+  title.href = mention.govinfoUrl || mention.pdfUrl;
+  title.rel = "noreferrer";
+  title.textContent = mention.title;
+
+  const badge = document.createElement("span");
+  badge.className = "confidence-badge review";
+  badge.textContent = "Review mention";
+  titleLine.append(title, badge);
+
+  const meta = document.createElement("div");
+  meta.className = "record-meta";
+  for (const value of [mention.packageId, mention.pageRange, mention.chapter?.name]) {
+    if (!value) continue;
+    const item = document.createElement("span");
+    item.textContent = value;
+    meta.append(item);
+  }
+
+  const terms = document.createElement("p");
+  terms.className = "record-signals";
+  terms.textContent = `Passing signals: ${mentionTerms(mention).join("; ") || "keyword hit"}`;
+
+  const sourceNote = document.createElement("p");
+  sourceNote.className = "record-source-note";
+  sourceNote.textContent = `Source note: ${mention.sourceNote || mention.citation}`;
+
+  body.append(titleLine, meta, terms, sourceNote, createMentionActions(mention));
+
+  const links = document.createElement("div");
+  links.className = "record-links";
+  if (mention.govinfoUrl) {
+    const govinfo = document.createElement("a");
+    govinfo.href = mention.govinfoUrl;
+    govinfo.rel = "noreferrer";
+    govinfo.textContent = "GovInfo";
+    links.append(govinfo);
+  }
+  if (mention.pdfUrl) {
+    const pdf = document.createElement("a");
+    pdf.href = mention.pdfUrl;
+    pdf.rel = "noreferrer";
+    pdf.textContent = "PDF";
+    links.append(pdf);
+  }
+
+  row.append(date, body, links);
+  return row;
+}
+
+function createMentionActions(mention) {
+  const actions = document.createElement("div");
+  actions.className = "record-actions";
+  const copyButton = document.createElement("button");
+  copyButton.type = "button";
+  copyButton.dataset.action = "copy-mention";
+  copyButton.dataset.mentionId = mention.id;
+  copyButton.textContent = "Copy citation";
+  actions.append(copyButton);
+  return actions;
+}
+
 function createEmptyState() {
   const empty = document.createElement("div");
   empty.className = "empty-state";
@@ -556,6 +1015,20 @@ function createReferenceEmptyState() {
   const empty = document.createElement("div");
   empty.className = "empty-state";
   empty.textContent = "No public statements match the current filters.";
+  return empty;
+}
+
+function createGapEmptyState() {
+  const empty = document.createElement("div");
+  empty.className = "empty-state";
+  empty.textContent = "No compiler gaps match the current filters.";
+  return empty;
+}
+
+function createMentionEmptyState() {
+  const empty = document.createElement("div");
+  empty.className = "empty-state";
+  empty.textContent = "No Public Papers passing mentions match the current filters.";
   return empty;
 }
 
@@ -631,6 +1104,87 @@ function renderPublicStatements(statements) {
   }
 }
 
+function renderEventDossiers(dossiers) {
+  if (!eventDossiersRoot) return;
+  eventDossiersRoot.replaceChildren();
+  if (!dossiers.length) {
+    const empty = document.createElement("div");
+    empty.className = "empty-state";
+    empty.textContent = "No event dossiers are available.";
+    eventDossiersRoot.append(empty);
+    return;
+  }
+  for (const event of dossiers) eventDossiersRoot.append(createDossierCard(event));
+}
+
+function renderCompilerGaps(records) {
+  if (!compilerGapsRoot) return;
+  compilerGapsRoot.replaceChildren();
+
+  if (!records.length) {
+    compilerGapsRoot.append(createGapEmptyState());
+    return;
+  }
+
+  for (const chapterName of CHAPTER_ORDER) {
+    const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
+    if (!chapterRecords.length) continue;
+
+    const section = document.createElement("section");
+    section.className = "record-chapter gap-chapter";
+
+    const header = document.createElement("div");
+    header.className = "record-chapter-header";
+    const heading = document.createElement("h3");
+    heading.textContent = `Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`;
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${chapterRecords.length} gap candidates`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list gap-list";
+    for (const record of chapterRecords) list.append(createGapRow(record));
+
+    section.append(header, list);
+    compilerGapsRoot.append(section);
+  }
+}
+
+function renderPublicReviewMentions(mentions) {
+  if (!publicMentionsRoot) return;
+  publicMentionsRoot.replaceChildren();
+
+  if (!mentions.length) {
+    publicMentionsRoot.append(createMentionEmptyState());
+    return;
+  }
+
+  for (const chapterName of CHAPTER_ORDER) {
+    const chapterMentions = mentions.filter((mention) => mention.chapter.name === chapterName);
+    if (!chapterMentions.length) continue;
+
+    const section = document.createElement("section");
+    section.className = "record-chapter mention-chapter";
+
+    const header = document.createElement("div");
+    header.className = "record-chapter-header";
+    const heading = document.createElement("h3");
+    heading.textContent = `Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`;
+    const count = document.createElement("p");
+    count.className = "record-count";
+    count.textContent = `${chapterMentions.length} passing mentions`;
+    header.append(heading, count);
+
+    const list = document.createElement("div");
+    list.className = "record-list mention-list";
+    for (const mention of chapterMentions) list.append(createMentionRow(mention));
+
+    section.append(header, list);
+    publicMentionsRoot.append(section);
+  }
+}
+
 function resetFilters() {
   for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter]) {
     if (control) control.value = "";
@@ -654,6 +1208,22 @@ function resetReferenceFilters() {
   applyReferenceFilters();
 }
 
+function resetGapFilters() {
+  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter]) {
+    if (control) control.value = "";
+  }
+  if (gapSortSelect) gapSortSelect.value = "priority";
+  applyGapFilters();
+}
+
+function resetMentionFilters() {
+  for (const control of [mentionSearchInput, mentionChapterFilter, mentionYearFilter, mentionPackageFilter]) {
+    if (control) control.value = "";
+  }
+  if (mentionSortSelect) mentionSortSelect.value = "chapter-date";
+  applyMentionFilters();
+}
+
 function csvEscape(value) {
   const text = value == null ? "" : String(value);
   return `"${text.replaceAll('"', '""')}"`;
@@ -668,6 +1238,12 @@ function exportVisibleRecords() {
     "reviewed",
     "title",
     "naid",
+    "page_count",
+    "source_confidence",
+    "pdf_subject",
+    "pdf_participants",
+    "pdf_date_time_place",
+    "classification",
     "catalog_url",
     "pdf_url",
     "matched_terms",
@@ -686,6 +1262,12 @@ function exportVisibleRecords() {
       reviewedRecords.has(record.id) ? "yes" : "no",
       record.documentTitle || record.title,
       record.naid,
+      record.pageCount || "",
+      record.sourceConfidence?.level || "",
+      record.pdfExtract?.subject || "",
+      record.pdfExtract?.participants || "",
+      record.pdfExtract?.dateTimePlace || "",
+      record.pdfExtract?.classificationMarking || "",
       record.catalogUrl,
       record.pdfUrl,
       [...new Set(getTerms(record))].join("; "),
@@ -701,6 +1283,53 @@ function exportVisibleRecords() {
   const link = document.createElement("a");
   link.href = url;
   link.download = "frus-v28-visible-memcons-telcons.csv";
+  link.click();
+  URL.revokeObjectURL(url);
+}
+
+function exportVisibleGaps() {
+  const headers = [
+    "chapter",
+    "date",
+    "priority",
+    "category",
+    "title",
+    "naid",
+    "page_count",
+    "page_count_basis",
+    "source_confidence",
+    "access_status",
+    "why",
+    "event_tags",
+    "catalog_url",
+    "pdf_url",
+    "source_note"
+  ];
+
+  const rows = visibleCompilerGaps.map((record) => [
+    record.chapter.name,
+    record.date,
+    record.priority,
+    record.category,
+    record.title,
+    record.naid,
+    record.pageCount || "",
+    record.pageCountBasis || "",
+    record.sourceConfidence?.level || "",
+    record.accessRestrictionStatus || "",
+    record.why || "",
+    (record.eventTags || []).map(eventTitle).join("; "),
+    record.catalogUrl,
+    record.pdfUrl,
+    record.frusSourceNote || record.sourceNote
+  ].map(csvEscape).join(","));
+
+  const csv = [headers.join(","), ...rows].join("\n");
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "frus-v28-compiler-gaps.csv";
   link.click();
   URL.revokeObjectURL(url);
 }
@@ -742,6 +1371,41 @@ function exportVisibleReferences() {
   URL.revokeObjectURL(url);
 }
 
+function exportVisibleMentions() {
+  const headers = [
+    "chapter",
+    "date",
+    "title",
+    "package_id",
+    "page_range",
+    "citation",
+    "govinfo_url",
+    "pdf_url",
+    "matched_terms"
+  ];
+
+  const rows = visiblePublicReviewMentions.map((mention) => [
+    mention.chapter.name,
+    mention.date,
+    mention.title,
+    mention.packageId,
+    mention.pageRange,
+    mention.citation,
+    mention.govinfoUrl,
+    mention.pdfUrl,
+    mentionTerms(mention).join("; ")
+  ].map(csvEscape).join(","));
+
+  const csv = [headers.join(","), ...rows].join("\n");
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "frus-v28-public-papers-review-mentions.csv";
+  link.click();
+  URL.revokeObjectURL(url);
+}
+
 function compilerStub(record) {
   const flags = signalMatches(record).map((signal) => signal.label).join("; ") || "none detected";
   const terms = [...new Set(getTerms(record))].join(", ") || "none";
@@ -752,10 +1416,16 @@ function compilerStub(record) {
     `Document type: ${record.documentType}`,
     `Source series: ${record.source?.title || record.source?.shortName || "Presidential conversation files"}`,
     `NAID: ${record.naid}`,
+    `Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+    `Source confidence: ${record.sourceConfidence?.level || "pending"}${record.sourceConfidence?.basis ? ` - ${record.sourceConfidence.basis}` : ""}`,
     `Catalog: ${record.catalogUrl || ""}`,
     `PDF: ${record.pdfUrl || ""}`,
     `FRUS-style source note draft: ${frusSourceNote(record)}`,
     `Catalog trail: ${catalogTrail(record)}`,
+    `PDF subject: ${record.pdfExtract?.subject || "not isolated"}`,
+    `PDF participants: ${record.pdfExtract?.participants || "not isolated"}`,
+    `PDF date/time/place: ${record.pdfExtract?.dateTimePlace || "not isolated"}`,
+    `PDF classification marking: ${record.pdfExtract?.classificationMarking || "not isolated"}`,
     `Matched evidence: ${terms}`,
     `Compiler flags: ${flags}`,
     "FRUS verification: confirm exact dateline, participants, original classification, distribution/drafting data, excisions, and any meeting-place or cross-reference editorial notes directly in the PDF before publication."
@@ -772,6 +1442,34 @@ function referenceStub(statement) {
     `GovInfo: ${statement.govinfoUrl || ""}`,
     `PDF page: ${statement.pdfPageUrl || statement.pdfUrl || ""}`,
     `Matched public-paper signals: ${statementTerms(statement).join(", ") || "none"}`
+  ].join("\n");
+}
+
+function gapStub(record) {
+  return [
+    `${record.date ? shortDate(record.date) : "No date"} - ${record.title}`,
+    `Chapter: ${record.chapter.name}`,
+    `Priority: ${record.priority}`,
+    `Category: ${record.category}`,
+    `Why it matters: ${record.why}`,
+    `Source state: ${record.sourceConfidence?.level || "pending"} - ${record.sourceConfidence?.basis || ""}`,
+    `Pages: ${record.pageCount || "unknown"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+    `NAID: ${record.naid}`,
+    `Catalog: ${record.catalogUrl || ""}`,
+    `PDF: ${record.pdfUrl || ""}`,
+    `Event tags: ${(record.eventTags || []).map(eventTitle).join(", ") || "none assigned"}`,
+    `Source note: ${record.frusSourceNote || record.sourceNote || "pending"}`
+  ].join("\n");
+}
+
+function mentionStub(mention) {
+  return [
+    `${shortDate(mention.date)} - ${mention.title}`,
+    `Chapter: ${mention.chapter.name}`,
+    `Source note: ${mention.sourceNote || mention.citation}`,
+    `GovInfo: ${mention.govinfoUrl || ""}`,
+    `PDF: ${mention.pdfUrl || ""}`,
+    `Matched terms: ${mentionTerms(mention).join(", ") || "keyword hit"}`
   ].join("\n");
 }
 
@@ -841,6 +1539,34 @@ function handleReferenceAction(event) {
   }
 }
 
+function handleGapAction(event) {
+  const button = event.target.closest("button[data-action]");
+  if (!button) return;
+
+  const record = allCompilerGaps.find((item) => item.id === button.dataset.gapId);
+  if (!record) return;
+
+  if (button.dataset.action === "copy-gap") {
+    copyText(gapStub(record))
+      .then((copied) => flashButton(button, copied ? "Copied" : "Copy failed"))
+      .catch(() => flashButton(button, "Copy failed"));
+  }
+}
+
+function handleMentionAction(event) {
+  const button = event.target.closest("button[data-action]");
+  if (!button) return;
+
+  const mention = allPublicReviewMentions.find((item) => item.id === button.dataset.mentionId);
+  if (!mention) return;
+
+  if (button.dataset.action === "copy-mention") {
+    copyText(mentionStub(mention))
+      .then((copied) => flashButton(button, copied ? "Copied" : "Copy failed"))
+      .catch(() => flashButton(button, "Copy failed"));
+  }
+}
+
 function enableChapterCards() {
   for (const card of document.querySelectorAll(".chapter-card")) {
     card.addEventListener("click", (event) => {
@@ -885,6 +1611,28 @@ function bindReferenceWorkbench() {
   publicStatementsRoot?.addEventListener("click", handleReferenceAction);
 }
 
+function bindGapWorkbench() {
+  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapSortSelect]) {
+    control?.addEventListener("input", applyGapFilters);
+    control?.addEventListener("change", applyGapFilters);
+  }
+
+  gapResetButton?.addEventListener("click", resetGapFilters);
+  gapExportButton?.addEventListener("click", exportVisibleGaps);
+  compilerGapsRoot?.addEventListener("click", handleGapAction);
+}
+
+function bindMentionWorkbench() {
+  for (const control of [mentionSearchInput, mentionChapterFilter, mentionYearFilter, mentionPackageFilter, mentionSortSelect]) {
+    control?.addEventListener("input", applyMentionFilters);
+    control?.addEventListener("change", applyMentionFilters);
+  }
+
+  mentionResetButton?.addEventListener("click", resetMentionFilters);
+  mentionExportButton?.addEventListener("click", exportVisibleMentions);
+  publicMentionsRoot?.addEventListener("click", handleMentionAction);
+}
+
 async function loadRecords() {
   const response = await fetch("data/records.json");
   if (!response.ok) throw new Error(`Could not load records: ${response.status}`);
@@ -898,26 +1646,68 @@ async function loadPublicStatements() {
   return response.json();
 }
 
+async function loadEventDossiers() {
+  if (window.FRUS_EVENT_DOSSIERS) return window.FRUS_EVENT_DOSSIERS;
+  const response = await fetch("data/event-dossiers.json");
+  if (!response.ok) throw new Error(`Could not load event dossiers: ${response.status}`);
+  return response.json();
+}
+
+async function loadCompilerGaps() {
+  if (window.FRUS_COMPILER_GAPS) return window.FRUS_COMPILER_GAPS;
+  const response = await fetch("data/compiler-gaps.json");
+  if (!response.ok) throw new Error(`Could not load compiler gaps: ${response.status}`);
+  return response.json();
+}
+
+async function loadPublicReviewMentions() {
+  if (window.BUSH_PUBLIC_STATEMENT_REVIEW) return window.BUSH_PUBLIC_STATEMENT_REVIEW;
+  const response = await fetch("data/public-statement-review.json");
+  if (!response.ok) throw new Error(`Could not load public statement review mentions: ${response.status}`);
+  return response.json();
+}
+
 async function init() {
   try {
     const publicStatementPromise = publicStatementsRoot ? loadPublicStatements() : Promise.resolve([]);
-    [allRecords, allPublicStatements] = await Promise.all([
+    const eventDossierPromise = eventDossiersRoot ? loadEventDossiers() : Promise.resolve([]);
+    const compilerGapPromise = compilerGapsRoot ? loadCompilerGaps() : Promise.resolve([]);
+    const publicReviewPromise = publicMentionsRoot ? loadPublicReviewMentions() : Promise.resolve([]);
+    [allRecords, allPublicStatements, allEventDossiers, allCompilerGaps, allPublicReviewMentions] = await Promise.all([
       window.FRUS_RECORDS || loadRecords(),
-      publicStatementPromise
+      publicStatementPromise,
+      eventDossierPromise,
+      compilerGapPromise,
+      publicReviewPromise
     ]);
     setWorkbenchOptions(allRecords);
     setReferenceOptions(allPublicStatements);
+    setGapOptions(allCompilerGaps);
+    setMentionOptions(allPublicReviewMentions);
     setPublicStatementCount(allPublicStatements);
+    setEventDossierCount(allEventDossiers);
+    setCompilerGapCount(allCompilerGaps);
     bindWorkbench();
     bindReferenceWorkbench();
+    bindGapWorkbench();
+    bindMentionWorkbench();
+    renderEventDossiers(allEventDossiers);
     applyFilters();
     applyReferenceFilters();
+    applyGapFilters();
+    applyMentionFilters();
     enableChapterCards();
     if (window.location.hash) document.querySelector(window.location.hash)?.scrollIntoView();
   } catch (error) {
     recordsRoot.innerHTML = '<p class="error">The records could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
     if (publicStatementsRoot) {
       publicStatementsRoot.innerHTML = '<p class="error">The public statement references could not be loaded.</p>';
+    }
+    if (compilerGapsRoot) {
+      compilerGapsRoot.innerHTML = '<p class="error">The compiler gap data could not be loaded.</p>';
+    }
+    if (publicMentionsRoot) {
+      publicMentionsRoot.innerHTML = '<p class="error">The Public Papers review queue could not be loaded.</p>';
     }
   }
 }

@@ -29,11 +29,17 @@ The workbench supports:
   local review state
 - chapter chronology, single chronology, match-strength, and document-type sorts
 - local "reviewed" marking in browser storage
+- measured PDF page counts and first-page extraction checks for subject,
+  participants, date/time/place, and classification markings
 - copyable FRUS-style source-note drafts for PDF verification and editorial drafting
 - a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
 - CSV export of the currently visible record set
+- event dossiers for major chronology anchors such as Cartagena, San Antonio,
+  Pan Am 103, hostages, and the National Drug Control Strategy
+- a compiler-risk queue for NSC/DC, Chief of Staff, WHORM, and policy files
+  that may need pulling, explaining, or excluding
 - a separate GovInfo Public Papers reference layer with Public Papers citations,
-  PDF page links, public-voice filters, and CSV export
+  PDF page links, public-voice filters, passing-mention review, and CSV export
 
 The workbench reflects FRUS production practice: it keeps chronological
 arrangement central, treats source-note metadata as something to verify in the
@@ -56,6 +62,7 @@ Refresh the public chronology with:
 
 ```bash
 node scripts/harvest-presidential-conversations.js
+node scripts/enrich-conversation-pdfs.js
 ```
 
 This writes:
@@ -63,6 +70,11 @@ This writes:
 - `data/records.json`
 - `data/records.js`
 - `reports/presidential-conversation-harvest.json`
+- `reports/conversation-pdf-enrichment.json`
+
+The enrichment step downloads the online conversation PDFs into `.cache`,
+measures page counts with `pdfinfo`, extracts first-page text with `pdftotext`,
+and stores the resulting verification metadata in each record.
 
 Refresh the public-statements reference layer with:
 
@@ -97,6 +109,35 @@ reports:
 - White House Office of Records Management, NAID 564645: <https://catalog.archives.gov/id/564645>
 - White House Office of the Chief of Staff, NAID 580456: <https://catalog.archives.gov/id/580456>
 - Bush Library All Textual Collections index: <https://www.bush41library.gov/digital-research-room/about-textual-collections/all-textual-collections>
+
+## Compiler Risk Layer
+
+After running the broad harvesters, rebuild the site-level risk data with:
+
+```bash
+node scripts/build-compiler-risk-data.js
+```
+
+This writes:
+
+- `data/compiler-gaps.json`
+- `data/compiler-gaps.js`
+- `data/event-dossiers.json`
+- `data/event-dossiers.js`
+- `data/public-statement-review.json`
+- `data/public-statement-review.js`
+- `reports/compiler-risk-data.json`
+
+The gap builder deduplicates against the published memcon/telcon chronology and
+keeps non-conversation candidates visible as explicit compiler risks. It
+includes listed-but-offline files, measured online PDFs with restricted-possible
+Catalog status, approximate page counts where only a folder listing exists,
+event tags, source-confidence notes, and compact source-note drafts.
+
+The event dossiers are not final editorial selections. They are working bundles
+for chronology control: each dossier links declassified conversations, missing
+or restricted policy files, promoted Public Papers references, and lower-priority
+Public Papers passing mentions for the same anchoring event.
 
 ## NARA Scout Review
 

@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-23T13:40:49.150Z",
+  "recordsReviewed": 209,
+  "recordsEnriched": 209,
+  "failures": [],
+  "pageCountTotal": 1132,
+  "extractionCoverage": {
+    "subject": 173,
+    "participants": 171,
+    "dateTimePlace": 167,
+    "classificationMarking": 106
+  }
+}

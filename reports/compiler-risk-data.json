@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-05-23T13:43:45.711Z",
+  "publishedConversationRecords": 209,
+  "compilerGaps": 243,
+  "publicReviewMentions": 497,
+  "eventDossiers": 8,
+  "gapCountsByCategory": {
+    "Policy folder": 118,
+    "Chief of Staff policy file": 13,
+    "NSC/DC decision file": 40,
+    "WHORM case file": 59,
+    "Anchoring event file": 7,
+    "NSC/DC follow-up file": 5,
+    "Meeting minutes": 1
+  },
+  "gapCountsByPriority": {
+    "High": 155,
+    "Medium": 30,
+    "Review": 58
+  },
+  "gapCountsByConfidence": {
+    "Listed/no online PDF": 136,
+    "Measured online PDF": 107
+  },
+  "eventCounts": {
+    "national-drug-control-strategy": {
+      "declassifiedConversations": 0,
+      "compilerGaps": 85,
+      "publicStatements": 19,
+      "publicReviewMentions": 3
+    },
+    "cartagena-andean-drug-summit": {
+      "declassifiedConversations": 24,
+      "compilerGaps": 40,
+      "publicStatements": 6,
+      "publicReviewMentions": 8
+    },
+    "san-antonio-drug-summit": {
+      "declassifiedConversations": 0,
+      "compilerGaps": 10,
+      "publicStatements": 8,
+      "publicReviewMentions": 2
+    },
+    "pan-am-103-lockerbie": {
+      "declassifiedConversations": 27,
+      "compilerGaps": 27,
+      "publicStatements": 28,
+      "publicReviewMentions": 7
+    },
+    "middle-east-hostages": {
+      "declassifiedConversations": 56,
+      "compilerGaps": 24,
+      "publicStatements": 79,
+      "publicReviewMentions": 98
+    },
+    "noriega-panama-drug-prosecution": {
+      "declassifiedConversations": 3,
+      "compilerGaps": 1,
+      "publicStatements": 6,
+      "publicReviewMentions": 13
+    },
+    "escobar-cartel-colombia": {
+      "declassifiedConversations": 20,
+      "compilerGaps": 36,
+      "publicStatements": 25,
+      "publicReviewMentions": 13
+    },
+    "alvarez-machain": {
+      "declassifiedConversations": 5,
+      "compilerGaps": 18,
+      "publicStatements": 4,
+      "publicReviewMentions": 10
+    }
+  }
+}
