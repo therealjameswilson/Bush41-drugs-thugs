@@ -260,6 +260,7 @@ dd {
 .stats div,
 .chapter-card,
 .dossier-card,
+.persons-list,
 .source-grid a,
 .record-row,
 .ingest,
@@ -469,6 +470,40 @@ h2 {
   gap: 14px;
 }
 
+.persons-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 18px 22px 18px 38px;
+}
+
+.person-item {
+  padding: 8px 0 8px 2px;
+  color: var(--ink);
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+
+.person-item + .person-item {
+  border-top: 1px solid rgba(207, 216, 210, 0.72);
+}
+
+.person-item::marker {
+  color: var(--blue);
+}
+
+.person-actions {
+  display: inline-flex;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.person-actions button {
+  min-height: 26px;
+  padding: 0 8px;
+  font-size: 0.72rem;
+}
+
 .dossier-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -632,6 +667,7 @@ h2 {
   font-size: 1.08rem;
   font-weight: 850;
   line-height: 1.35;
+  overflow-wrap: anywhere;
   text-decoration-color: rgba(156, 62, 53, 0.4);
 }
 
@@ -679,6 +715,7 @@ h2 {
   color: #2b3a42;
   font-size: 0.78rem;
   font-weight: 800;
+  overflow-wrap: anywhere;
   background: rgba(22, 76, 99, 0.08);
   border: 1px solid rgba(22, 76, 99, 0.14);
   border-radius: 6px;
@@ -692,6 +729,7 @@ h2 {
   color: var(--muted);
   font-size: 0.88rem;
   line-height: 1.55;
+  overflow-wrap: anywhere;
 }
 
 .record-pdf-check {
@@ -802,6 +840,10 @@ footer {
 
   .record-row {
     grid-template-columns: 1fr;
+  }
+
+  .dossier-counts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .record-links {

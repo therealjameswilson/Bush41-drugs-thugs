@@ -6,6 +6,7 @@ const totalRecords = document.querySelector("#total-records");
 const totalPdfs = document.querySelector("#total-pdfs");
 const totalReviewed = document.querySelector("#total-reviewed");
 const totalPublicStatements = document.querySelector("#total-public-statements");
+const totalPersons = document.querySelector("#total-persons");
 const totalEventDossiers = document.querySelector("#total-event-dossiers");
 const totalCompilerGaps = document.querySelector("#total-compiler-gaps");
 const filteredCount = document.querySelector("#filtered-count");
@@ -30,6 +31,14 @@ const referenceRelevanceFilter = document.querySelector("#reference-relevance");
 const referenceSortSelect = document.querySelector("#sort-references");
 const referenceResetButton = document.querySelector("#reset-references");
 const referenceExportButton = document.querySelector("#export-references-csv");
+const personsRoot = document.querySelector("#persons-root");
+const personCount = document.querySelector("#person-count");
+const personSearchInput = document.querySelector("#person-search");
+const personChapterFilter = document.querySelector("#person-chapter");
+const personSourceFilter = document.querySelector("#person-source");
+const personSortSelect = document.querySelector("#sort-persons");
+const personResetButton = document.querySelector("#reset-persons");
+const personExportButton = document.querySelector("#export-persons-csv");
 const eventDossiersRoot = document.querySelector("#event-dossiers-root");
 const compilerGapsRoot = document.querySelector("#compiler-gaps-root");
 const gapCount = document.querySelector("#gap-count");
@@ -65,6 +74,8 @@ let allRecords = [];
 let visibleRecords = [];
 let allPublicStatements = [];
 let visiblePublicStatements = [];
+let allPersons = [];
+let visiblePersons = [];
 let allEventDossiers = [];
 let allCompilerGaps = [];
 let visibleCompilerGaps = [];
@@ -244,6 +255,10 @@ function setReferenceOptions(statements) {
   setOptions(referenceVoiceFilter, uniqueValues(statements, (statement) => statement.publicVoice), "All public entries");
 }
 
+function setPersonOptions(persons) {
+  setOptions(personSourceFilter, [...new Set(persons.flatMap((person) => person.sourceTypes || []))].sort(), "All source bases");
+}
+
 function setGapOptions(records) {
   setOptions(gapCategoryFilter, uniqueValues(records, (record) => record.category), "All categories");
   setOptions(gapConfidenceFilter, uniqueValues(records, (record) => record.sourceConfidence?.level), "All source states");
@@ -268,6 +283,10 @@ function setChapterCounts(records) {
 
 function setPublicStatementCount(statements) {
   if (totalPublicStatements) totalPublicStatements.textContent = statements.length.toString();
+}
+
+function setPersonsCount(persons) {
+  if (totalPersons) totalPersons.textContent = persons.length.toString();
 }
 
 function setEventDossierCount(dossiers) {
@@ -320,6 +339,35 @@ function statementMatchesFilters(statement, filters) {
   if (filters.type && statement.documentType !== filters.type) return false;
   if (filters.voice && statement.publicVoice !== filters.voice) return false;
   if (filters.relevance && statement.relevance !== filters.relevance) return false;
+  return true;
+}
+
+function personSearchableText(person) {
+  return [
+    person.entry,
+    person.displayName,
+    person.sortName,
+    ...(person.aliases || []),
+    ...(person.sourceTypes || []),
+    ...(person.chapters || []).map((chapter) => chapter.name)
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
+function selectedPersonFilters() {
+  return {
+    query: personSearchInput?.value.trim().toLowerCase() || "",
+    chapter: personChapterFilter?.value || "",
+    source: personSourceFilter?.value || ""
+  };
+}
+
+function personMatchesFilters(person, filters) {
+  if (filters.query && !personSearchableText(person).includes(filters.query)) return false;
+  if (filters.chapter && !(person.chapters || []).some((chapter) => chapter.name === filters.chapter)) return false;
+  if (filters.source && !(person.sourceTypes || []).includes(filters.source)) return false;
   return true;
 }
 
@@ -431,6 +479,15 @@ function sortStatements(statements) {
   return sorted.sort(byStatementChapterThenDate);
 }
 
+function sortPersons(persons) {
+  const sorted = [...persons];
+  const sortMode = personSortSelect?.value || "alpha";
+  if (sortMode === "references") {
+    return sorted.sort((a, b) => b.referenceCount - a.referenceCount || a.sortName.localeCompare(b.sortName));
+  }
+  return sorted.sort((a, b) => a.sortName.localeCompare(b.sortName) || a.displayName.localeCompare(b.displayName));
+}
+
 function sortGaps(records) {
   const sorted = [...records];
   const sortMode = gapSortSelect?.value || "priority";
@@ -469,6 +526,14 @@ function applyReferenceFilters() {
   setReferenceCount(visiblePublicStatements, allPublicStatements);
 }
 
+function applyPersonFilters() {
+  if (!personsRoot) return;
+  const filters = selectedPersonFilters();
+  visiblePersons = sortPersons(allPersons.filter((person) => personMatchesFilters(person, filters)));
+  renderPersons(visiblePersons);
+  setPersonCount(visiblePersons, allPersons);
+}
+
 function applyGapFilters() {
   if (!compilerGapsRoot) return;
   const filters = selectedGapFilters();
@@ -495,6 +560,11 @@ function setReferenceCount(statements, all) {
   if (!referenceCount) return;
   const presidential = statements.filter((statement) => statement.publicVoice === "Presidential statement").length;
   referenceCount.textContent = `Showing ${statements.length} of ${all.length} public statements; ${presidential} presidential entries visible.`;
+}
+
+function setPersonCount(persons, all) {
+  if (!personCount) return;
+  personCount.textContent = `Showing ${persons.length} of ${all.length} persons.`;
 }
 
 function setGapCount(records, all) {
@@ -749,6 +819,28 @@ function createStatementRow(statement) {
 
   row.append(date, body, links);
   return row;
+}
+
+function createPersonItem(person) {
+  const item = document.createElement("li");
+  item.className = "person-item";
+
+  const text = document.createElement("span");
+  text.textContent = person.entry;
+  item.append(text);
+
+  const actions = document.createElement("span");
+  actions.className = "person-actions";
+
+  const copyButton = document.createElement("button");
+  copyButton.type = "button";
+  copyButton.dataset.action = "copy-person";
+  copyButton.dataset.personId = person.id;
+  copyButton.textContent = "Copy";
+  actions.append(copyButton);
+
+  item.append(actions);
+  return item;
 }
 
 function createCompactList(title, records, emptyText) {
@@ -1032,6 +1124,13 @@ function createMentionEmptyState() {
   return empty;
 }
 
+function createPersonEmptyState() {
+  const empty = document.createElement("li");
+  empty.className = "empty-state";
+  empty.textContent = "No persons match the current filters.";
+  return empty;
+}
+
 function renderRecords(records) {
   recordsRoot.replaceChildren();
 
@@ -1102,6 +1201,16 @@ function renderPublicStatements(statements) {
     section.append(header, list);
     publicStatementsRoot.append(section);
   }
+}
+
+function renderPersons(persons) {
+  if (!personsRoot) return;
+  personsRoot.replaceChildren();
+  if (!persons.length) {
+    personsRoot.append(createPersonEmptyState());
+    return;
+  }
+  for (const person of persons) personsRoot.append(createPersonItem(person));
 }
 
 function renderEventDossiers(dossiers) {
@@ -1206,6 +1315,14 @@ function resetReferenceFilters() {
   }
   if (referenceSortSelect) referenceSortSelect.value = "chapter-date";
   applyReferenceFilters();
+}
+
+function resetPersonFilters() {
+  for (const control of [personSearchInput, personChapterFilter, personSourceFilter]) {
+    if (control) control.value = "";
+  }
+  if (personSortSelect) personSortSelect.value = "alpha";
+  applyPersonFilters();
 }
 
 function resetGapFilters() {
@@ -1371,6 +1488,37 @@ function exportVisibleReferences() {
   URL.revokeObjectURL(url);
 }
 
+function exportVisiblePersons() {
+  const headers = [
+    "sort_name",
+    "display_name",
+    "entry",
+    "chapters",
+    "source_types",
+    "reference_count",
+    "references"
+  ];
+
+  const rows = visiblePersons.map((person) => [
+    person.sortName,
+    person.displayName,
+    person.entry,
+    (person.chapters || []).map((chapter) => chapter.name).join("; "),
+    (person.sourceTypes || []).join("; "),
+    person.referenceCount,
+    (person.references || []).map((reference) => `${reference.date || ""} ${reference.title}`).join("; ")
+  ].map(csvEscape).join(","));
+
+  const csv = [headers.join(","), ...rows].join("\n");
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "frus-v28-persons.csv";
+  link.click();
+  URL.revokeObjectURL(url);
+}
+
 function exportVisibleMentions() {
   const headers = [
     "chapter",
@@ -1442,6 +1590,16 @@ function referenceStub(statement) {
     `GovInfo: ${statement.govinfoUrl || ""}`,
     `PDF page: ${statement.pdfPageUrl || statement.pdfUrl || ""}`,
     `Matched public-paper signals: ${statementTerms(statement).join(", ") || "none"}`
+  ].join("\n");
+}
+
+function personStub(person) {
+  return [
+    person.entry,
+    `Chapters: ${(person.chapters || []).map((chapter) => chapter.name).join(", ") || "none matched"}`,
+    `Source basis: ${(person.sourceTypes || []).join(", ") || "none matched"}`,
+    `Matched references: ${person.referenceCount}`,
+    ...(person.references || []).slice(0, 8).map((reference) => `- ${reference.date || ""} ${reference.title}`.trim())
   ].join("\n");
 }
 
@@ -1539,6 +1697,20 @@ function handleReferenceAction(event) {
   }
 }
 
+function handlePersonAction(event) {
+  const button = event.target.closest("button[data-action]");
+  if (!button) return;
+
+  const person = allPersons.find((item) => item.id === button.dataset.personId);
+  if (!person) return;
+
+  if (button.dataset.action === "copy-person") {
+    copyText(personStub(person))
+      .then((copied) => flashButton(button, copied ? "Copied" : "Copy failed"))
+      .catch(() => flashButton(button, "Copy failed"));
+  }
+}
+
 function handleGapAction(event) {
   const button = event.target.closest("button[data-action]");
   if (!button) return;
@@ -1611,6 +1783,17 @@ function bindReferenceWorkbench() {
   publicStatementsRoot?.addEventListener("click", handleReferenceAction);
 }
 
+function bindPersonWorkbench() {
+  for (const control of [personSearchInput, personChapterFilter, personSourceFilter, personSortSelect]) {
+    control?.addEventListener("input", applyPersonFilters);
+    control?.addEventListener("change", applyPersonFilters);
+  }
+
+  personResetButton?.addEventListener("click", resetPersonFilters);
+  personExportButton?.addEventListener("click", exportVisiblePersons);
+  personsRoot?.addEventListener("click", handlePersonAction);
+}
+
 function bindGapWorkbench() {
   for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapSortSelect]) {
     control?.addEventListener("input", applyGapFilters);
@@ -1646,6 +1829,13 @@ async function loadPublicStatements() {
   return response.json();
 }
 
+async function loadPersons() {
+  if (window.FRUS_PERSONS) return window.FRUS_PERSONS;
+  const response = await fetch("data/persons.json");
+  if (!response.ok) throw new Error(`Could not load persons: ${response.status}`);
+  return response.json();
+}
+
 async function loadEventDossiers() {
   if (window.FRUS_EVENT_DOSSIERS) return window.FRUS_EVENT_DOSSIERS;
   const response = await fetch("data/event-dossiers.json");
@@ -1670,30 +1860,36 @@ async function loadPublicReviewMentions() {
 async function init() {
   try {
     const publicStatementPromise = publicStatementsRoot ? loadPublicStatements() : Promise.resolve([]);
+    const personsPromise = personsRoot ? loadPersons() : Promise.resolve([]);
     const eventDossierPromise = eventDossiersRoot ? loadEventDossiers() : Promise.resolve([]);
     const compilerGapPromise = compilerGapsRoot ? loadCompilerGaps() : Promise.resolve([]);
     const publicReviewPromise = publicMentionsRoot ? loadPublicReviewMentions() : Promise.resolve([]);
-    [allRecords, allPublicStatements, allEventDossiers, allCompilerGaps, allPublicReviewMentions] = await Promise.all([
+    [allRecords, allPublicStatements, allPersons, allEventDossiers, allCompilerGaps, allPublicReviewMentions] = await Promise.all([
       window.FRUS_RECORDS || loadRecords(),
       publicStatementPromise,
+      personsPromise,
       eventDossierPromise,
       compilerGapPromise,
       publicReviewPromise
     ]);
     setWorkbenchOptions(allRecords);
     setReferenceOptions(allPublicStatements);
+    setPersonOptions(allPersons);
     setGapOptions(allCompilerGaps);
     setMentionOptions(allPublicReviewMentions);
     setPublicStatementCount(allPublicStatements);
+    setPersonsCount(allPersons);
     setEventDossierCount(allEventDossiers);
     setCompilerGapCount(allCompilerGaps);
     bindWorkbench();
     bindReferenceWorkbench();
+    bindPersonWorkbench();
     bindGapWorkbench();
     bindMentionWorkbench();
     renderEventDossiers(allEventDossiers);
     applyFilters();
     applyReferenceFilters();
+    applyPersonFilters();
     applyGapFilters();
     applyMentionFilters();
     enableChapterCards();
@@ -1702,6 +1898,9 @@ async function init() {
     recordsRoot.innerHTML = '<p class="error">The records could not be loaded. Try opening this site through a local server or GitHub Pages.</p>';
     if (publicStatementsRoot) {
       publicStatementsRoot.innerHTML = '<p class="error">The public statement references could not be loaded.</p>';
+    }
+    if (personsRoot) {
+      personsRoot.innerHTML = '<li class="error">The persons list could not be loaded.</li>';
     }
     if (compilerGapsRoot) {
       compilerGapsRoot.innerHTML = '<p class="error">The compiler gap data could not be loaded.</p>';

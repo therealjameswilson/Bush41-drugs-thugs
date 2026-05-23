@@ -20,6 +20,7 @@
       <nav aria-label="Primary navigation">
         <a href="#workbench">Workbench</a>
         <a href="#chapters">Chapters</a>
+        <a href="#persons">Persons</a>
         <a href="#events">Events</a>
         <a href="#records">Records</a>
         <a href="#gaps">Gaps</a>
@@ -89,6 +90,10 @@
         <div>
           <span id="total-public-statements">0</span>
           <p>public statements</p>
+        </div>
+        <div>
+          <span id="total-persons">0</span>
+          <p>persons</p>
         </div>
         <div>
           <span id="total-event-dossiers">0</span>
@@ -226,6 +231,59 @@
             <span class="chapter-action">View chronological files</span>
           </a>
         </div>
+      </section>
+
+      <section class="section" id="persons" aria-labelledby="persons-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Editorial Front Matter</p>
+            <h2 id="persons-title">Persons</h2>
+          </div>
+          <p class="section-note">
+            A draft FRUS-style persons list generated from the Bush comprehensive names list and
+            matched against the Volume XXVIII conversation and gap corpus.
+          </p>
+        </div>
+
+        <div class="workbench persons-workbench">
+          <div class="control-grid" role="search" aria-label="Filter persons">
+            <label>
+              Search persons
+              <input id="person-search" type="search" placeholder="Try Baker, Barco, Scowcroft, Secretary of State..." />
+            </label>
+            <label>
+              Chapter
+              <select id="person-chapter">
+                <option value="">All chapters</option>
+                <option value="Counternarcotics">Counternarcotics</option>
+                <option value="Counterterrorism">Counterterrorism</option>
+              </select>
+            </label>
+            <label>
+              Source basis
+              <select id="person-source">
+                <option value="">All source bases</option>
+              </select>
+            </label>
+            <label>
+              Sort
+              <select id="sort-persons">
+                <option value="alpha">Alphabetical</option>
+                <option value="references">Most referenced</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="workbench-actions">
+            <p id="person-count">Showing 0 of 0 persons.</p>
+            <div>
+              <button id="reset-persons" type="button">Reset</button>
+              <button id="export-persons-csv" type="button">Export persons CSV</button>
+            </div>
+          </div>
+        </div>
+
+        <ul id="persons-root" class="persons-list" aria-live="polite"></ul>
       </section>
 
       <section class="section" id="events" aria-labelledby="events-title">
@@ -498,6 +556,7 @@
     </footer>
     <script src="data/records.js"></script>
     <script src="data/public-statements.js"></script>
+    <script src="data/persons.js"></script>
     <script src="data/event-dossiers.js"></script>
     <script src="data/compiler-gaps.js"></script>
     <script src="data/public-statement-review.js"></script>

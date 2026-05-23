@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-05-23T16:07:42.786Z",
+  "source": "/tmp/codex-remote-attachments/019e3f98-afcf-7433-89b9-e6e6f00f8e55/5EF4C47A-276F-404E-92A3-7B8D01DE3A84/1-Bush-Comprehensive-Names-List.docx",
+  "masterEntries": 4597,
+  "matchedPersons": 170,
+  "corpusRecords": 209,
+  "corpusCompilerGaps": 243,
+  "personsByChapter": {
+    "Counterterrorism": 114,
+    "Counternarcotics": 100
+  },
+  "personsBySourceType": {
+    "Declassified memcon/telcon": 169,
+    "Compiler gap": 3
+  },
+  "highReferencePersons": [
+    {
+      "displayName": "Aronson, Bernard W.",
+      "referenceCount": 25
+    },
+    {
+      "displayName": "Baker, James Addison, III",
+      "referenceCount": 9
+    },
+    {
+      "displayName": "Barco Vargas, Virgilio",
+      "referenceCount": 11
+    },
+    {
+      "displayName": "Bush, George Herbert Walker",
+      "referenceCount": 11
+    },
+    {
+      "displayName": "Charles, Sandra",
+      "referenceCount": 13
+    },
+    {
+      "displayName": "Eagleburger, Lawrence Sidney",
+      "referenceCount": 15
+    },
+    {
+      "displayName": "Fitzwater, M. Marlin",
+      "referenceCount": 13
+    },
+    {
+      "displayName": "Gates, Robert M.",
+      "referenceCount": 31
+    },
+    {
+      "displayName": "Haass, Richard N.",
+      "referenceCount": 15
+    },
+    {
+      "displayName": "Hutchings, Robert L.",
+      "referenceCount": 14
+    },
+    {
+      "displayName": "Kohl, Helmut, Chancellor of the Federal Republic of Germany until 1990; thereafter Chancellor of Germany",
+      "referenceCount": 10
+    },
+    {
+      "displayName": "Mitterrand, Francois",
+      "referenceCount": 9
+    },
+    {
+      "displayName": "Mubarak, Mohammed Hosni",
+      "referenceCount": 12
+    },
+    {
+      "displayName": "Pacelli, David",
+      "referenceCount": 11
+    },
+    {
+      "displayName": "Perez, Carlos Andres",
+      "referenceCount": 8
+    },
+    {
+      "displayName": "Pryce, William T.",
+      "referenceCount": 28
+    },
+    {
+      "displayName": "Salinas de Gortari, Carlos",
+      "referenceCount": 8
+    },
+    {
+      "displayName": "Scowcroft, Gen. Brent, USAF (Ret.)",
+      "referenceCount": 94
+    },
+    {
+      "displayName": "Seitz, Raymond G. H.",
+      "referenceCount": 8
+    },
+    {
+      "displayName": "Sununu, John H.",
+      "referenceCount": 47
+    },
+    {
+      "displayName": "Welch, C. David",
+      "referenceCount": 10
+    }
+  ]
+}

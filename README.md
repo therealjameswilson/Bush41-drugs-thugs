@@ -38,6 +38,8 @@ The workbench supports:
   Pan Am 103, hostages, and the National Drug Control Strategy
 - a compiler-risk queue for NSC/DC, Chief of Staff, WHORM, and policy files
   that may need pulling, explaining, or excluding
+- a FRUS-style Persons list generated from the Bush comprehensive names list
+  and matched against the Volume XXVIII conversation/gap corpus
 - a separate GovInfo Public Papers reference layer with Public Papers citations,
   PDF page links, public-voice filters, passing-mention review, and CSV export
 
@@ -138,6 +140,28 @@ The event dossiers are not final editorial selections. They are working bundles
 for chronology control: each dossier links declassified conversations, missing
 or restricted policy files, promoted Public Papers references, and lower-priority
 Public Papers passing mentions for the same anchoring event.
+
+## Persons List
+
+Build the front-matter Persons list from the Bush comprehensive names DOCX with:
+
+```bash
+node scripts/build-persons-list.js /path/to/Bush-Comprehensive-Names-List.docx
+```
+
+This writes:
+
+- `data/persons.json`
+- `data/persons.js`
+- `reports/persons-list-build.json`
+- `reports/persons-source-master.json` as a local ignored cache of the full DOCX extraction
+
+The formatter follows the published FRUS persons-page pattern: an alphabetized
+bullet list of `Surname, Given Names, office/title` entries, with date ranges
+rendered as prose rather than bracketed year tags. The matching pass uses the
+attached comprehensive names list as the authority for descriptions and matches
+entries against declassified conversation titles, first-page participant fields,
+and compiler-gap titles.
 
 ## NARA Scout Review
 

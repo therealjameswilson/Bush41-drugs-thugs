@@ -1,0 +1,11302 @@
+window.FRUS_PERSONS = [
+  {
+    "id": "person-andreotti-giulio",
+    "sortName": "Andreotti",
+    "displayName": "Andreotti, Giulio",
+    "entry": "Andreotti, Giulio, Italian Foreign Minister until July 22, 1989; thereafter Prime Minister of Italy",
+    "sourceLine": "Andreotti, Giulio, Italian Foreign Minister until July 22, 1989; thereafter Prime Minister of Italy",
+    "aliases": [
+      "giulio andreotti"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 7,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082475",
+        "title": "Meeting with Francesco Cossiga, Presidentof Italy, May 27, 1989",
+        "date": "1989-05-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080577",
+        "title": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+        "date": "1990-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081161",
+        "title": "Telcon with Prime Minister Giulio Andreotti of Italy, October 26, 1990",
+        "date": "1990-10-26",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081133",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081711",
+        "title": "Telcon with Giulio Andreotti, President of Italy on June 3, 1991",
+        "date": "1991-06-03",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081739",
+        "title": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
+        "date": "1991-07-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-arens-moshe",
+    "sortName": "Arens",
+    "displayName": "Arens, Moshe",
+    "entry": "Arens, Moshe, Israeli Foreign Minister until June 1990; Minister of Defense from June 1990 until 1992",
+    "sourceLine": "Arens, Moshe, Israeli Foreign Minister until June 1990; Minister of Defense from June 1990 until 1992",
+    "aliases": [
+      "moshe arens"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-arias-sanchez-oscar",
+    "sortName": "Arias Sanchez",
+    "displayName": "Arias Sanchez, Oscar",
+    "entry": "Arias Sanchez, Oscar, President of Costa Rica until May 8, 1990",
+    "sourceLine": "Arias Sanchez, Oscar, President of Costa Rica until May 8, 1990",
+    "aliases": [
+      "oscar arias sanchez",
+      "oscar arias"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 5,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079941",
+        "title": "Meeting Between the President and Costa Rican President Arias, April 4, 1989",
+        "date": "1989-04-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079983",
+        "title": "Telephone Conversation with President Arias of Costa Rica, April 28, 1989",
+        "date": "1989-04-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080139",
+        "title": "Telephone Conversation with President Arias of Costa Rica, July 20, 1989",
+        "date": "1989-07-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081227",
+        "title": "Meeting with Ricardo Arias-Calderon of the Republic of Panama, November 28, 1990",
+        "date": "1990-11-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080005",
+        "title": "Phone Call from President Bush to President Arias of Costa Rica re Panama, May 11, 1989",
+        "date": "1989-05-11",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-aristide-jean-bertrand",
+    "sortName": "Aristide",
+    "displayName": "Aristide, Jean-Bertrand",
+    "entry": "Aristide, Jean-Bertrand, President of Haiti from February 7 until September 30, 1991",
+    "sourceLine": "Aristide, Jean-Bertrand, President of Haiti from February 7 until September 30, 1991",
+    "aliases": [
+      "jean bertrand aristide",
+      "jean aristide"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081935",
+        "title": "Meeting with Jean-Bertrand Aristide, President of Haiti, October 4, 1991",
+        "date": "1991-10-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-aronson-bernard-w",
+    "sortName": "Aronson",
+    "displayName": "Aronson, Bernard W.",
+    "entry": "Aronson, Bernard W., Assistant Secretary of State for Inter-American Affairs from June 16, 1989",
+    "sourceLine": "Aronson, Bernard W., Assistant Secretary of State for Inter-American Affairs from June 16, 1989",
+    "aliases": [
+      "bernard w aronson",
+      "bernard aronson"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 25,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079941",
+        "title": "Meeting Between the President and Costa Rican President Arias, April 4, 1989",
+        "date": "1989-04-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079971",
+        "title": "The President's Meeting with Prime Minister Esquivel of Belize, April 20, 1989",
+        "date": "1989-04-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081077",
+        "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081105",
+        "title": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081103",
+        "title": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081227",
+        "title": "Meeting with Ricardo Arias-Calderon of the Republic of Panama, November 28, 1990",
+        "date": "1990-11-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082499",
+        "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+        "date": "1991-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081627",
+        "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+        "date": "1991-05-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081689",
+        "title": "Luncheon Meeting with Alfredo Cristiani, President of the Republic of EI Salvador, June 12, 1991 (2 of 2)",
+        "date": "1991-06-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081905",
+        "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081935",
+        "title": "Meeting with Jean-Bertrand Aristide, President of Haiti, October 4, 1991",
+        "date": "1991-10-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081091",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081095",
+        "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-aspe-pedro",
+    "sortName": "Aspe",
+    "displayName": "Aspe, Pedro",
+    "entry": "Aspe, Pedro, Secretary of Finance and Public Credit of Mexico",
+    "sourceLine": "Aspe, Pedro, Secretary of Finance and Public Credit of Mexico",
+    "aliases": [
+      "pedro aspe"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082079",
+        "title": "Meeting with President Carlos Salinas of Mexico, December 14, 1991",
+        "date": "1991-12-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-assad-lt-gen-hafiz-al",
+    "sortName": "Assad",
+    "displayName": "Assad, Lt. Gen. Hafiz al-",
+    "entry": "Assad, Lt. Gen. Hafiz al-, President of Syria",
+    "sourceLine": "Assad, Lt. Gen. Hafiz al-, President of Syria",
+    "aliases": [
+      "hafiz al assad",
+      "hafiz assad"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080159",
+        "title": "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082001",
+        "title": "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-atwood-donald-j-jr",
+    "sortName": "Atwood",
+    "displayName": "Atwood, Donald J., Jr.",
+    "entry": "Atwood, Donald J., Jr., Deputy Secretary of Defense from April 24, 1989, until January 20, 1993",
+    "sourceLine": "Atwood, Donald J., Jr., Deputy Secretary of Defense from April 24, 1989, until January 20, 1993",
+    "aliases": [
+      "donald j atwood",
+      "donald atwood"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081977",
+        "title": "Meeting with the Amir of Bahrain, October 15, 1991 (2 of 2)",
+        "date": "1991-10-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-baker-james-addison-iii",
+    "sortName": "Baker",
+    "displayName": "Baker, James Addison, III",
+    "entry": "Baker, James Addison, III, Secretary of State from January 25, 1989, until August 23, 1992; White House Chief of Staff from August 24, 1992, until January 20, 1993",
+    "sourceLine": "Baker, James Addison, III, Secretary of State from January 25, 1989, until August 23, 1992; White House Chief of Staff from August 24, 1992, until January 20, 1993",
+    "aliases": [
+      "james addison baker",
+      "james baker"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 9,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079859",
+        "title": "President's Meeting with Prime Minister Benazir Bhutto of Pakistan, February 24, 1989",
+        "date": "1989-02-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079869",
+        "title": "Meeting with President Ibrahim Babangida of Nigeria, February 25, 1989",
+        "date": "1989-02-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079941",
+        "title": "Meeting Between the President and Costa Rican President Arias, April 4, 1989",
+        "date": "1989-04-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079971",
+        "title": "The President's Meeting with Prime Minister Esquivel of Belize, April 20, 1989",
+        "date": "1989-04-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080487",
+        "title": "Cartagena Drug Summit, February 15, 1990",
+        "date": "1990-02-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082001",
+        "title": "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081997",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-barco-vargas-virgilio",
+    "sortName": "Barco Vargas",
+    "displayName": "Barco Vargas, Virgilio",
+    "entry": "Barco Vargas, Virgilio, President of Colombia until August 7, 1990",
+    "sourceLine": "Barco Vargas, Virgilio, President of Colombia until August 7, 1990",
+    "aliases": [
+      "virgilio barco vargas",
+      "virgilio barco"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 11,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079963",
+        "title": "The President's Telephone Conversation with President Barco of Colombia, April 14, 1989",
+        "date": "1989-04-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080207",
+        "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+        "date": "1989-08-21",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080215",
+        "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+        "date": "1989-08-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080265",
+        "title": "Telephone Conversation with President Virgilio Barco of Colombia, September 26, 1989",
+        "date": "1989-09-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080241",
+        "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+        "date": "1989-09-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080315",
+        "title": "Telephone Conversation with President Barco of Colombia, October 30, 1989",
+        "date": "1989-10-30",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080509",
+        "title": "Telephone Conversation with President Barco of Colombia, January 28, 1990",
+        "date": "1990-01-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080487",
+        "title": "Cartagena Drug Summit, February 15, 1990",
+        "date": "1990-02-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080673",
+        "title": "Telephone Conversation with President Virgilio Barco of Colombia, April 27, 1990",
+        "date": "1990-04-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080733",
+        "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+        "date": "1990-06-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-barr-william-p",
+    "sortName": "Barr",
+    "displayName": "Barr, William P.",
+    "entry": "Barr, William P., Assistant Attorney General, Office of Legal Counsel, Department of Justice from 1989 until 1991; acting Attorney General from June 4, 1991; Attorney General from November 1991",
+    "sourceLine": "Barr, William P., Assistant Attorney General, Office of Legal Counsel, Department of Justice from 1989 until 1991; acting Attorney General from June 4, 1991; Attorney General from November 1991",
+    "aliases": [
+      "william p barr",
+      "william barr"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-barrett-robert-s-iv",
+    "sortName": "Barrett",
+    "displayName": "Barrett, Robert S., IV",
+    "entry": "Barrett, Robert S., IV, U.S. Ambassador to Djibouti until April 18, 1991",
+    "sourceLine": "Barrett, Robert S., IV, U.S. Ambassador to Djibouti until April 18, 1991",
+    "aliases": [
+      "robert s barrett",
+      "robert barrett"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081625",
+        "title": "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+        "date": "1991-04-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-basora-adrian-a",
+    "sortName": "Basora",
+    "displayName": "Basora, Adrian A.",
+    "entry": "Basora, Adrian A., Deputy Chief of Mission, Charge d'Affaires, U.S. Embassy in Madrid until 1989; Director for European and Soviet Affairs, National Security Council Staff, from 1989 until 1990; Senior Research Associate, Center for the Study of Foreign Affairs, Foreign Service Institute, Department of State, from 1991 until 1992; U.S. Ambassador to Czechoslovakia (Czech Republic from December 31, 1992) from June 15, 1992",
+    "sourceLine": "Basora, Adrian A., Deputy Chief of Mission, Charge d’Affaires, U.S. Embassy in Madrid until 1989; Director for European and Soviet Affairs, National Security Council Staff, from 1989 until 1990; Senior Research Associate, Center for the Study of Foreign Affairs, Foreign Service Institute, Department of State, from 1991 until 1992; U.S. Ambassador to Czechoslovakia (Czech Republic from December 31, 1992) from June 15, 1992",
+    "aliases": [
+      "adrian a basora",
+      "adrian basora"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080213",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, August 26, 1989",
+        "date": "1989-08-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080957",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, August 20, 1990",
+        "date": "1990-08-20",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081019",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, September 6, 1990",
+        "date": "1990-09-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-bendjedid-col-chadli",
+    "sortName": "Bendjedid",
+    "displayName": "Bendjedid, Col. Chadli",
+    "entry": "Bendjedid, Col. Chadli, President of Algeria until January 11, 1992",
+    "sourceLine": "Bendjedid, Col. Chadli, President of Algeria until January 11, 1992",
+    "aliases": [
+      "chadli bendjedid"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080159",
+        "title": "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080155",
+        "title": "Telephone Conversation with President Bendjedid of Algeria, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080987",
+        "title": "Telephone Conversation with President Bendjedid of Algeria, August 29, 1990",
+        "date": "1990-08-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-bennett-william-j",
+    "sortName": "Bennett",
+    "displayName": "Bennett, William J.",
+    "entry": "Bennett, William J., Director, Office of National Drug Control Policy from March 13, 1989, until November 1990",
+    "sourceLine": "Bennett, William J., Director, Office of National Drug Control Policy from March 13, 1989, until November 1990",
+    "aliases": [
+      "william j bennett",
+      "william bennett"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 6,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080241",
+        "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+        "date": "1989-09-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-bessmertnykh-alexander",
+    "sortName": "Bessmertnykh",
+    "displayName": "Bessmertnykh, Alexander",
+    "entry": "Bessmertnykh, Alexander, Soviet Ambassador to the United States from May 1990 until January 15, 1991; Soviet Foreign Minister from January 15, 1991, until August 23, 1991",
+    "sourceLine": "Bessmertnykh, Alexander, Soviet Ambassador to the United States from May 1990 until January 15, 1991; Soviet Foreign Minister from January 15, 1991, until August 23, 1991",
+    "aliases": [
+      "alexander bessmertnykh"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-bhutto-benazir",
+    "sortName": "Bhutto",
+    "displayName": "Bhutto, Benazir",
+    "entry": "Bhutto, Benazir, Prime Minister of Pakistan and leader of Pakistan People's Party",
+    "sourceLine": "Bhutto, Benazir, Prime Minister of Pakistan and leader of Pakistan People’s Party",
+    "aliases": [
+      "benazir bhutto"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079859",
+        "title": "President's Meeting with Prime Minister Benazir Bhutto of Pakistan, February 24, 1989",
+        "date": "1989-02-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080059",
+        "title": "Telephone Conversation with President Mohammad Hosni Mubarak of Egypt, June 9, 1989",
+        "date": "1989-06-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080169",
+        "title": "Phone Call to the President from the Pakistani Prime Minister, August 5, 1989",
+        "date": "1989-08-05",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-black-shirley-temple",
+    "sortName": "Black",
+    "displayName": "Black, Shirley Temple",
+    "entry": "Black, Shirley Temple, U.S. Ambassador to Czechoslovakia from August 23, 1989, until July 12, 1992",
+    "sourceLine": "Black, Shirley Temple, U.S. Ambassador to Czechoslovakia from August 23, 1989, until July 12, 1992",
+    "aliases": [
+      "shirley temple black",
+      "shirley black"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-blanco-mendoza-herminio-alonzo",
+    "sortName": "Blanco Mendoza",
+    "displayName": "Blanco Mendoza, Herminio Alonzo",
+    "entry": "Blanco Mendoza, Herminio Alonzo, Mexican Vice-Minister for International Trade, Ministry of Trade and Industry until 1990; Mexican Chief Negotiator of the North American Free Trade Agreement from 1990",
+    "sourceLine": "Blanco Mendoza, Herminio Alonzo, Mexican Vice-Minister for International Trade, Ministry of Trade and Industry until 1990; Mexican Chief Negotiator of the North American Free Trade Agreement from 1990",
+    "aliases": [
+      "herminio alonzo blanco mendoza",
+      "herminio blanco mendoza",
+      "herminio blanco"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082079",
+        "title": "Meeting with President Carlos Salinas of Mexico, December 14, 1991",
+        "date": "1991-12-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-bolton-john-robert",
+    "sortName": "Bolton",
+    "displayName": "Bolton, John Robert",
+    "entry": "Bolton, John Robert, Assistant Attorney General, Civil Division, Department of Justice, until 1989; Assistant Secretary of State for International Organization Affairs from May 22, 1989",
+    "sourceLine": "Bolton, John Robert, Assistant Attorney General, Civil Division, Department of Justice, until 1989; Assistant Secretary of State for International Organization Affairs from May 22, 1989",
+    "aliases": [
+      "john robert bolton",
+      "john bolton"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081111",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-borja-cevallos-rodrigo",
+    "sortName": "Borja Cevallos",
+    "displayName": "Borja Cevallos, Rodrigo",
+    "entry": "Borja Cevallos, Rodrigo, President of Ecuador until August 10, 1992",
+    "sourceLine": "Borja Cevallos, Rodrigo, President of Ecuador until August 10, 1992",
+    "aliases": [
+      "rodrigo borja cevallos",
+      "rodrigo borja"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-boutros-ghali-boutros",
+    "sortName": "Boutros-Ghali",
+    "displayName": "Boutros-Ghali, Boutros",
+    "entry": "Boutros-Ghali, Boutros, United Nations Secretary General",
+    "sourceLine": "Boutros-Ghali, Boutros, United Nations Secretary General",
+    "aliases": [
+      "boutros boutros ghali",
+      "boutros boutros"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082323",
+        "title": "Meeting with UN Secretary General Boutros Boutros-Ghali, September 21, 1992",
+        "date": "1992-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-brady-nicholas-frederick",
+    "sortName": "Brady",
+    "displayName": "Brady, Nicholas Frederick",
+    "entry": "Brady, Nicholas Frederick, Secretary of the Treasury until January 17, 1993",
+    "sourceLine": "Brady, Nicholas Frederick, Secretary of the Treasury until January 17, 1993",
+    "aliases": [
+      "nicholas frederick brady",
+      "nicholas brady"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080577",
+        "title": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+        "date": "1990-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081739",
+        "title": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
+        "date": "1991-07-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-briggs-everett-e",
+    "sortName": "Briggs",
+    "displayName": "Briggs, Everett E.",
+    "entry": "Briggs, Everett E., U.S. Ambassador to Honduras until June 15, 1989; Special Assistant to the President for National Security Affairs and Senior Director for Latin American and the Caribbean, National Security Council staff, from June 5 until November 8, 1989; U.S. Ambassador to Portugal from May 25, 1990",
+    "sourceLine": "Briggs, Everett E., U.S. Ambassador to Honduras until June 15, 1989; Special Assistant to the President for National Security Affairs and Senior Director for Latin American and the Caribbean, National Security Council staff, from June 5 until November 8, 1989; U.S. Ambassador to Portugal from May 25, 1990",
+    "aliases": [
+      "everett e briggs",
+      "everett briggs"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080265",
+        "title": "Telephone Conversation with President Virgilio Barco of Colombia, September 26, 1989",
+        "date": "1989-09-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-bromley-d-allan-professor-of-physics-yale-university-assistant-to-the-president-for-scienc",
+    "sortName": "Bromley",
+    "displayName": "Bromley, D. Allan, Professor of Physics, Yale University; Assistant to the President for Science and Technology and Director of the Office of Science and Technology Policy from August 4, 1989",
+    "entry": "Bromley, D. Allan, Professor of Physics, Yale University; Assistant to the President for Science and Technology and Director of the Office of Science and Technology Policy from August 4, 1989",
+    "sourceLine": "Bromley, D. Allan, Professor of Physics, Yale University; Assistant to the President for Science and Technology and Director of the Office of Science and Technology Policy from August 4, 1989",
+    "aliases": [
+      "d allan professor of physics yale university assistant to the president for science and technology and director of the office of science and technology policy from august 4 1989 bromley",
+      "allan bromley"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-brown-william-a",
+    "sortName": "Brown",
+    "displayName": "Brown, William A.",
+    "entry": "Brown, William A., U.S. Ambassador to Israel until January 7, 1992",
+    "sourceLine": "Brown, William A., U.S. Ambassador to Israel until January 7, 1992",
+    "aliases": [
+      "william a brown",
+      "william brown"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-burns-r-nicholas",
+    "sortName": "Burns",
+    "displayName": "Burns, R. Nicholas",
+    "entry": "Burns, R. Nicholas, Special Assistant to the Counselor of the Department of State in 1989; Director for European and Soviet Affairs, National Security Council staff in 1990 Director for European and Eurasian Affairs, National Security Council staff in 1992",
+    "sourceLine": "Burns, R. Nicholas, Special Assistant to the Counselor of the Department of State [1989]; Director for European and Soviet Affairs, National Security Council staff (1990) Director for European and Eurasian Affairs, National Security Council staff (1992)",
+    "aliases": [
+      "r nicholas burns",
+      "nicholas burns"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 7,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080735",
+        "title": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081499",
+        "title": "Telephone Conversation with President Turgut Ozal of Turkey: February 23, 1991",
+        "date": "1991-02-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081555",
+        "title": "Telephone Conversation with President Turgut Ozal of Turkey, February 28, 1991",
+        "date": "1991-02-28",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081713",
+        "title": "Telcon with Turgut Ozal, President of Turkey on June 4, 1991",
+        "date": "1991-06-04",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081719",
+        "title": "Telcon with Turgut Ozal, President of Turkey on June 13, 1991",
+        "date": "1991-06-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082097",
+        "title": "Telephone Conversation with President Boris Yeltsin of Russia, December 13,- 1991",
+        "date": "1991-12-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-bush-george-herbert-walker",
+    "sortName": "Bush",
+    "displayName": "Bush, George Herbert Walker",
+    "entry": "Bush, George Herbert Walker, President of the United States from January 20, 1989, until January 20, 1993",
+    "sourceLine": "Bush, George Herbert Walker, President of the United States from January 20, 1989, until January 20, 1993",
+    "aliases": [
+      "george herbert walker bush",
+      "george bush"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 11,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080487",
+        "title": "Cartagena Drug Summit, February 15, 1990",
+        "date": "1990-02-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080829",
+        "title": "Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2)",
+        "date": "1990-07-09",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079913",
+        "title": "Plenary Meeting between President Bush and President Roh Tae Woo of Korea, and Lunch (2 of 2)",
+        "date": "1989-02-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080005",
+        "title": "Phone Call from President Bush to President Arias of Costa Rica re Panama, May 11, 1989",
+        "date": "1989-05-11",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080159",
+        "title": "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082001",
+        "title": "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081999",
+        "title": "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081993",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081997",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-calderon-fournier-rafael-angel",
+    "sortName": "Calderon Fournier",
+    "displayName": "Calderon Fournier, Rafael Angel",
+    "entry": "Calderon Fournier, Rafael Angel, President of Costa Rica from May 8, 1990",
+    "sourceLine": "Calderon Fournier, Rafael Angel, President of Costa Rica from May 8, 1990",
+    "aliases": [
+      "rafael angel calderon fournier",
+      "rafael calderon fournier",
+      "rafael calderon"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-card-andrew-h-jr",
+    "sortName": "Card",
+    "displayName": "Card, Andrew H., Jr.",
+    "entry": "Card, Andrew H., Jr., Assistant to the President and Deputy to the Chief of Staff from January 21, 1989, until March 3, 1991; Assistant to the President and Deputy Chief of Staff from March 3, 1991, until February 24, 1992; Secretary of Transportation from March 11, 1992",
+    "sourceLine": "Card, Andrew H., Jr., Assistant to the President and Deputy to the Chief of Staff from January 21, 1989, until March 3, 1991; Assistant to the President and Deputy Chief of Staff from March 3, 1991, until February 24, 1992; Secretary of Transportation from March 11, 1992",
+    "aliases": [
+      "andrew h card",
+      "andrew card"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 6,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081905",
+        "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080851",
+        "title": "Luncheon Meeting with President Gnassingbe Eyadema of Togo, July 31, 1990 (3 of 3)",
+        "date": "1990-07-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081087",
+        "title": "Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081113",
+        "title": "Meeting with Foreign Minister Shevardnadze of the Soviet Union, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081893",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+        "date": "1991-09-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-chamorro-violeta-barrios-de",
+    "sortName": "Chamorro",
+    "displayName": "Chamorro, Violeta Barrios de",
+    "entry": "Chamorro, Violeta Barrios de, President and Minister of Defense of Nicaragua from April 25, 1990",
+    "sourceLine": "Chamorro, Violeta Barrios de, President and Minister of Defense of Nicaragua from April 25, 1990",
+    "aliases": [
+      "violeta barrios de chamorro",
+      "violeta chamorro"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-charles-sandra",
+    "sortName": "Charles",
+    "displayName": "Charles, Sandra",
+    "entry": "Charles, Sandra, Director for Near East and South Asian Affairs, National Security Council staff from 1989 until 1990",
+    "sourceLine": "Charles, Sandra, Director for Near East and South Asian Affairs, National Security Council staff (1989, 1990)",
+    "aliases": [
+      "sandra charles"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 13,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080467",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, December 26, 1989",
+        "date": "1989-12-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080151",
+        "title": "Telephone Conversation with the Pope, August 1, 1989",
+        "date": "1989-08-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080131",
+        "title": "Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080157",
+        "title": "Telephone Conversation with King Fahd of Saudi Arabia, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080155",
+        "title": "Telephone Conversation with President Bendjedid of Algeria, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080165",
+        "title": "Telephone Conversation with Sultan Qaboos of Oman, August 3, 1989",
+        "date": "1989-08-03",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080167",
+        "title": "Telephone Conversation with Mr. Cornelio Somrnaruga, International Commission - Red Cross",
+        "date": "1989-08-04",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080169",
+        "title": "Phone Call to the President from the Pakistani Prime Minister, August 5, 1989",
+        "date": "1989-08-05",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080513",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990",
+        "date": "1990-02-05",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081011",
+        "title": "President's Telephone Call from the President of Yemen, September 1, 1990",
+        "date": "1990-09-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081405",
+        "title": "President's Call to the King of Saudi Arabia, February 2, 1991",
+        "date": "1991-02-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081441",
+        "title": "President's Call to the UN Secretary General, February 8, 1991",
+        "date": "1991-02-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081443",
+        "title": "Telcon with Prime Minister Shankar of India on February 8, 1991",
+        "date": "1991-02-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-cheney-richard-bruce",
+    "sortName": "Cheney",
+    "displayName": "Cheney, Richard Bruce",
+    "entry": "Cheney, Richard Bruce, member, U.S. House of Representatives (R-Wyoming); Secretary of Defense from March 21, 1989",
+    "sourceLine": "Cheney, Richard Bruce, member, U.S. House of Representatives (R-Wyoming); Secretary of Defense from March 21, 1989",
+    "aliases": [
+      "richard bruce cheney",
+      "richard cheney"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 5,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080735",
+        "title": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081117",
+        "title": "Meeting with General Mikhail Moiseyev of the USSR, October 2, 1990",
+        "date": "1990-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-chunhawan-chatichai",
+    "sortName": "Chunhawan",
+    "displayName": "Chunhawan, Chatichai",
+    "entry": "Chunhawan, Chatichai, Prime Minister of Thailand",
+    "sourceLine": "Chunhawan, Chatichai, Prime Minister of Thailand",
+    "aliases": [
+      "chatichai chunhawan"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080775",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (1 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-collor-de-mello-fernando",
+    "sortName": "Collor de Mello",
+    "displayName": "Collor de Mello, Fernando",
+    "entry": "Collor de Mello, Fernando, President of Brazil from March 15, 1990",
+    "sourceLine": "Collor de Mello, Fernando, President of Brazil from March 15, 1990",
+    "aliases": [
+      "fernando collor de mello",
+      "fernando collor"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081095",
+        "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-cordovez-diego",
+    "sortName": "Cordovez",
+    "displayName": "Cordovez, Diego",
+    "entry": "Cordovez, Diego, Ecuadorian Foreign Minister and Personal Representative of the Secretary General of the United Nations for Afghan Negotiations",
+    "sourceLine": "Cordovez, Diego, Ecuadorian Foreign Minister and Personal Representative of the Secretary General of the United Nations for Afghan Negotiations",
+    "aliases": [
+      "diego cordovez"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-cossiga-francesco",
+    "sortName": "Cossiga",
+    "displayName": "Cossiga, Francesco",
+    "entry": "Cossiga, Francesco, President of Italy",
+    "sourceLine": "Cossiga, Francesco, President of Italy",
+    "aliases": [
+      "francesco cossiga"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082475",
+        "title": "Meeting with Francesco Cossiga, Presidentof Italy, May 27, 1989",
+        "date": "1989-05-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082153",
+        "title": "Meeting with President Francesco Cossiga of Italy, April 7, 1992",
+        "date": "1992-04-07",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-cristiani-buckard-alfredo",
+    "sortName": "Cristiani Buckard",
+    "displayName": "Cristiani Buckard, Alfredo",
+    "entry": "Cristiani Buckard, Alfredo, President of El Salvador from June 1, 1989",
+    "sourceLine": "Cristiani Buckard, Alfredo, President of El Salvador from June 1, 1989",
+    "aliases": [
+      "alfredo cristiani buckard",
+      "alfredo cristiani"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081689",
+        "title": "Luncheon Meeting with Alfredo Cristiani, President of the Republic of EI Salvador, June 12, 1991 (2 of 2)",
+        "date": "1991-06-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079935",
+        "title": "The President's Telephone Call to Salvadoran President-Elect Cristiani, March 22, 1989",
+        "date": "1989-03-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-crocker-ryan-c",
+    "sortName": "Crocker",
+    "displayName": "Crocker, Ryan C.",
+    "entry": "Crocker, Ryan C., Political Counselor, U.S. Embassy in Cairo from 1989 until 1990; U.S. Ambassador to Lebanon from November 29, 1990",
+    "sourceLine": "Crocker, Ryan C., Political Counselor, U.S. Embassy in Cairo [1989, 1990]; U.S. Ambassador to Lebanon from November 29, 1990",
+    "aliases": [
+      "ryan c crocker",
+      "ryan crocker"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081897",
+        "title": "Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-darman-richard-g",
+    "sortName": "Darman",
+    "displayName": "Darman, Richard G.",
+    "entry": "Darman, Richard G., Director, Office of Management and Budget, from January 27, 1989",
+    "sourceLine": "Darman, Richard G., Director, Office of Management and Budget, from January 27, 1989",
+    "aliases": [
+      "richard g darman",
+      "richard darman"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Compiler gap"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "compiler gap",
+        "id": "gap-492070600",
+        "title": "[Meeting of] CBG [C. Boyden Gray]/[Richard] Darman/[Brent] Scowcroft]/[Nelson] Lund/Raul/[Nicholas] Rostow re: H.R. 91 Anti-Terrorism Amendments, 11:00-11:45",
+        "date": "1989-01-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-delors-jacques",
+    "sortName": "Delors",
+    "displayName": "Delors, Jacques",
+    "entry": "Delors, Jacques, President of the European Communities Commission",
+    "sourceLine": "Delors, Jacques, President of the European Communities Commission",
+    "aliases": [
+      "jacques delors"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080829",
+        "title": "Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2)",
+        "date": "1990-07-09",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-dobbins-james-f-jr",
+    "sortName": "Dobbins",
+    "displayName": "Dobbins, James F., Jr.",
+    "entry": "Dobbins, James F., Jr., Deputy Chief of Mission, U.S. Embassy in Bonn, until 1989; Principal Deputy Assistant Secretary of State for European and Canadian Affairs from 1989 until 1991; acting Assistant Secretary of State for European and Canadian Affairs during 1991; U.S. Representative to the European Communities from October 9, 1991",
+    "sourceLine": "Dobbins, James F., Jr., Deputy Chief of Mission, U.S. Embassy in Bonn, until 1989; Principal Deputy Assistant Secretary of State for European and Canadian Affairs from 1989 until 1991; acting Assistant Secretary of State for European and Canadian Affairs during 1991; U.S. Representative to the European Communities from October 9, 1991",
+    "aliases": [
+      "james f dobbins",
+      "james dobbins"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080735",
+        "title": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081545",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "date": "1991-03-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-duarte-jose-napoleon",
+    "sortName": "Duarte",
+    "displayName": "Duarte, Jose Napoleon",
+    "entry": "Duarte, Jose Napoleon, President of El Salvador until June 1, 1989",
+    "sourceLine": "Duarte, Jose Napoleon, President of El Salvador until June 1, 1989",
+    "aliases": [
+      "jose napoleon duarte",
+      "jose duarte"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079979",
+        "title": "The President's Telephone Call to Salvadoran President Jose Napoleon Duarte, April 22, 1989",
+        "date": "1989-04-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-dumas-roland",
+    "sortName": "Dumas",
+    "displayName": "Dumas, Roland",
+    "entry": "Dumas, Roland, French Foreign Minister",
+    "sourceLine": "Dumas, Roland, French Foreign Minister",
+    "aliases": [
+      "roland dumas"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079947",
+        "title": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
+        "date": "1989-04-11",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-duran-ballen-sixto",
+    "sortName": "Duran Ballen",
+    "displayName": "Duran Ballen, Sixto",
+    "entry": "Duran Ballen, Sixto, President of Ecuador from August 10, 1992",
+    "sourceLine": "Duran Ballen, Sixto, President of Ecuador from August 10, 1992",
+    "aliases": [
+      "sixto duran ballen",
+      "sixto duran"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082307",
+        "title": "Meeting with Sixto Duran Ballen, PresidentElect of Ecuador, Julyu 28, 1992",
+        "date": "1992-07-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-dyke-nancy-bearg",
+    "sortName": "Dyke",
+    "displayName": "Dyke, Nancy Bearg",
+    "entry": "Dyke, Nancy Bearg, Director for International Programs, National Security Council staff",
+    "sourceLine": "Dyke, Nancy Bearg, Director for International Programs, National Security Council staff",
+    "aliases": [
+      "nancy bearg dyke",
+      "nancy dyke"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081111",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081893",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+        "date": "1991-09-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-eagleburger-lawrence-sidney",
+    "sortName": "Eagleburger",
+    "displayName": "Eagleburger, Lawrence Sidney",
+    "entry": "Eagleburger, Lawrence Sidney, Secretary of State from December 8, 1992, until January 20, 1993; Acting Secretary of State from August 23, 1992, until December 8, 1992; Deputy Secretary of State from March 20, 1989, until December 8, 1992",
+    "sourceLine": "Eagleburger, Lawrence Sidney, Secretary of State from December 8, 1992, until January 20, 1993; Acting Secretary of State from August 23, 1992, until December 8, 1992; Deputy Secretary of State from March 20, 1989, until December 8, 1992",
+    "aliases": [
+      "lawrence sidney eagleburger",
+      "lawrence eagleburger"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 15,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080181",
+        "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+        "date": "1989-09-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080241",
+        "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+        "date": "1989-09-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081117",
+        "title": "Meeting with General Mikhail Moiseyev of the USSR, October 2, 1990",
+        "date": "1990-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081625",
+        "title": "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+        "date": "1991-04-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081977",
+        "title": "Meeting with the Amir of Bahrain, October 15, 1991 (2 of 2)",
+        "date": "1991-10-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-endara-guillermo",
+    "sortName": "Endara",
+    "displayName": "Endara, Guillermo",
+    "entry": "Endara, Guillermo, President of Panama",
+    "sourceLine": "Endara, Guillermo, President of Panama",
+    "aliases": [
+      "guillermo endara"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080605",
+        "title": "Telephone Conversation with President Endara of Panama, March 14, 1990",
+        "date": "1990-03-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-eyadema-gnassingbe",
+    "sortName": "Eyadema",
+    "displayName": "Eyadema, Gnassingbe",
+    "entry": "Eyadema, Gnassingbe, President of Togo",
+    "sourceLine": "Eyadema, Gnassingbe, President of Togo",
+    "aliases": [
+      "gnassingbe eyadema"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080851",
+        "title": "Luncheon Meeting with President Gnassingbe Eyadema of Togo, July 31, 1990 (3 of 3)",
+        "date": "1990-07-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080847",
+        "title": "One-on-One Meeting with President Gnassingbe Eyadema of Togo, July 31, 1990 (1 of 3)",
+        "date": "1990-07-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-fernandez-ordonez-francisco",
+    "sortName": "Fernandez Ordonez",
+    "displayName": "Fernandez Ordonez, Francisco",
+    "entry": "Fernandez Ordonez, Francisco, Spanish Foreign Minister",
+    "sourceLine": "Fernandez Ordonez, Francisco, Spanish Foreign Minister",
+    "aliases": [
+      "francisco fernandez ordonez",
+      "francisco fernandez"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081087",
+        "title": "Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-fitzwater-m-marlin",
+    "sortName": "Fitzwater",
+    "displayName": "Fitzwater, M. Marlin",
+    "entry": "Fitzwater, M. Marlin, Assistant to the President for Press Relations until January 23, 1989; thereafter Assistant to the President and Press Secretary",
+    "sourceLine": "Fitzwater, M. Marlin, Assistant to the President for Press Relations until January 23, 1989; thereafter Assistant to the President and Press Secretary",
+    "aliases": [
+      "m marlin fitzwater",
+      "marlin fitzwater"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 13,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079859",
+        "title": "President's Meeting with Prime Minister Benazir Bhutto of Pakistan, February 24, 1989",
+        "date": "1989-02-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079869",
+        "title": "Meeting with President Ibrahim Babangida of Nigeria, February 25, 1989",
+        "date": "1989-02-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079913",
+        "title": "Plenary Meeting between President Bush and President Roh Tae Woo of Korea, and Lunch (2 of 2)",
+        "date": "1989-02-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082475",
+        "title": "Meeting with Francesco Cossiga, Presidentof Italy, May 27, 1989",
+        "date": "1989-05-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080133",
+        "title": "Meeting with General Youssef Abu Talib, Defense Minister of Egypt",
+        "date": "1989-08-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-ford-carl-w-jr",
+    "sortName": "Ford",
+    "displayName": "Ford, Carl W., Jr.",
+    "entry": "Ford, Carl W., Jr., Principal Deputy Secretary of Defense for International Security Affairs from 1989 until 1992",
+    "sourceLine": "Ford, Carl W., Jr., Principal Deputy Secretary of Defense for International Security Affairs from 1989 until 1992",
+    "aliases": [
+      "carl w ford",
+      "carl ford"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081177",
+        "title": "Meeting with South Korean Minister of National Defense Lee Jong Koo, November 16, 1990",
+        "date": "1990-11-16",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-frasure-robert-c",
+    "sortName": "Frasure",
+    "displayName": "Frasure, Robert C.",
+    "entry": "Frasure, Robert C., Deputy Chief of Mission, U.S. Embassy in Addis Ababa until 1990; Special Assistant to the President and Senior Director for African Affairs, National Security Council staff from 1990 until 1991; Charge d'Affaires ad interim, U.S. Embassy in Tallinn from October 2, 1991; U.S. Ambassador to Estonia from April 9, 1992",
+    "sourceLine": "Frasure, Robert C., Deputy Chief of Mission, U.S. Embassy in Addis Ababa until 1990; Special Assistant to the President and Senior Director for African Affairs, National Security Council staff from 1990 until 1991; Charge d’Affaires ad interim, U.S. Embassy in Tallinn from October 2, 1991; U.S. Ambassador to Estonia from April 9, 1992",
+    "aliases": [
+      "robert c frasure",
+      "robert frasure"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080851",
+        "title": "Luncheon Meeting with President Gnassingbe Eyadema of Togo, July 31, 1990 (3 of 3)",
+        "date": "1990-07-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080847",
+        "title": "One-on-One Meeting with President Gnassingbe Eyadema of Togo, July 31, 1990 (1 of 3)",
+        "date": "1990-07-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081625",
+        "title": "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+        "date": "1991-04-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-fujimori-alberto-k",
+    "sortName": "Fujimori",
+    "displayName": "Fujimori, Alberto K.",
+    "entry": "Fujimori, Alberto K., President of Peru from July 28, 1990",
+    "sourceLine": "Fujimori, Alberto K., President of Peru from July 28, 1990",
+    "aliases": [
+      "alberto k fujimori",
+      "alberto fujimori"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082203",
+        "title": "Telcon with Alberto Fujimori of Peru on April 20, 1992",
+        "date": "1992-04-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-garcia-perez-alan",
+    "sortName": "Garcia Perez",
+    "displayName": "Garcia Perez, Alan",
+    "entry": "Garcia Perez, Alan, President of Peru until July 28, 1990",
+    "sourceLine": "Garcia Perez, Alan, President of Peru until July 28, 1990",
+    "aliases": [
+      "alan garcia perez",
+      "alan garcia"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080015",
+        "title": "Telephone Conversation with President Alan Garcia of Peru, May 13, 1989",
+        "date": "1989-05-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080487",
+        "title": "Cartagena Drug Summit, February 15, 1990",
+        "date": "1990-02-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-gates-robert-m",
+    "sortName": "Gates",
+    "displayName": "Gates, Robert M.",
+    "entry": "Gates, Robert M., Deputy Director of Central Intelligence until March 1989; Deputy Assistant to the President for National Security Affairs from March 1989 until August 3, 1989; Assistant to the President and Deputy for National Security Affairs from August 3, 1989, until August 1991; Director of Central Intelligence from August 1991",
+    "sourceLine": "Gates, Robert M., Deputy Director of Central Intelligence until March 1989; Deputy Assistant to the President for National Security Affairs from March 1989 until August 3, 1989; Assistant to the President and Deputy for National Security Affairs from August 3, 1989, until August 1991; Director of Central Intelligence from August 1991",
+    "aliases": [
+      "robert m gates",
+      "robert gates"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 31,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080181",
+        "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+        "date": "1989-09-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080241",
+        "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+        "date": "1989-09-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080485",
+        "title": "Plenary Meeting with President Denis Sassou Nguesso of People's Republic of the Congo, February 12, 1990 (2 of 2)",
+        "date": "1990-02-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080733",
+        "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+        "date": "1990-06-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082499",
+        "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+        "date": "1991-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081627",
+        "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+        "date": "1991-05-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081689",
+        "title": "Luncheon Meeting with Alfredo Cristiani, President of the Republic of EI Salvador, June 12, 1991 (2 of 2)",
+        "date": "1991-06-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080133",
+        "title": "Meeting with General Youssef Abu Talib, Defense Minister of Egypt",
+        "date": "1989-08-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080243",
+        "title": "Meeting with President Mubarak of Egypt, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080577",
+        "title": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+        "date": "1990-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080627",
+        "title": "Meeting with Foreign Minister Eduard Shevardnadze of the Soviet Union, April 6, 1990",
+        "date": "1990-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080735",
+        "title": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080741",
+        "title": "Meeting with Roh Tae Woo, President of the Republic of Korea, June 6, 1990 (3 of 3)",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081117",
+        "title": "Meeting with General Mikhail Moiseyev of the USSR, October 2, 1990",
+        "date": "1990-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081131",
+        "title": "Meeting with Cardinal Casaroli of the Holy See, October 31, 1990",
+        "date": "1990-10-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081545",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "date": "1991-03-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081625",
+        "title": "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+        "date": "1991-04-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081977",
+        "title": "Meeting with the Amir of Bahrain, October 15, 1991 (2 of 2)",
+        "date": "1991-10-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-gaviria-trujillo-cesar",
+    "sortName": "Gaviria Trujillo",
+    "displayName": "Gaviria Trujillo, Cesar",
+    "entry": "Gaviria Trujillo, Cesar, President of Columbia from August 7, 1990",
+    "sourceLine": "Gaviria Trujillo, Cesar, President of Columbia from August 7, 1990",
+    "aliases": [
+      "cesar gaviria trujillo",
+      "cesar gaviria"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081077",
+        "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082499",
+        "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+        "date": "1991-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081721",
+        "title": "Telcon with Cesar Gaviria Trujillo, President of Colombia, June 20, 1991",
+        "date": "1991-06-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-gelbard-robert-s",
+    "sortName": "Gelbard",
+    "displayName": "Gelbard, Robert S.",
+    "entry": "Gelbard, Robert S., U.S. Ambassador to Bolivia until July 20, 1991; Principal Deputy Assistant Secretary of State for Inter-American Affairs from 1991",
+    "sourceLine": "Gelbard, Robert S., U.S. Ambassador to Bolivia until July 20, 1991; Principal Deputy Assistant Secretary of State for Inter-American Affairs from 1991",
+    "aliases": [
+      "robert s gelbard",
+      "robert gelbard"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-genscher-hans-dietrich",
+    "sortName": "Genscher",
+    "displayName": "Genscher, Hans-Dietrich",
+    "entry": "Genscher, Hans-Dietrich, German Foreign Minister",
+    "sourceLine": "Genscher, Hans-Dietrich, German Foreign Minister",
+    "aliases": [
+      "hans dietrich genscher",
+      "hans genscher"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-gompert-david-c",
+    "sortName": "Gompert",
+    "displayName": "Gompert, David C.",
+    "entry": "Gompert, David C., Special Assistant to the President for National Security Affairs and Senior Director for European and Soviet Affairs from October 11, 1990, until March 22, 1991; Senior Director for European and Eurasian Affairs until October 1992",
+    "sourceLine": "Gompert, David C., Special Assistant to the President for National Security Affairs and Senior Director for European and Soviet Affairs from October 11, 1990, until March 22, 1991; Senior Director for European and Eurasian Affairs until October 1992",
+    "aliases": [
+      "david c gompert",
+      "david gompert"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 5,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081739",
+        "title": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
+        "date": "1991-07-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-gonzalez-felipe",
+    "sortName": "Gonzalez",
+    "displayName": "Gonzalez, Felipe",
+    "entry": "Gonzalez, Felipe, Prime Minister of Spain",
+    "sourceLine": "Gonzalez, Felipe, Prime Minister of Spain",
+    "aliases": [
+      "felipe gonzalez"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081087",
+        "title": "Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-gorbachev-mikhail",
+    "sortName": "Gorbachev",
+    "displayName": "Gorbachev, Mikhail",
+    "entry": "Gorbachev, Mikhail, General Secretary of the Central Committee of the Communist Party of the Soviet Union; Chairman of the Supreme Soviet of the Soviet Union until March 15, 1990; President of the Soviet Union until December 25, 1991",
+    "sourceLine": "Gorbachev, Mikhail, General Secretary of the Central Committee of the Communist Party of the Soviet Union; Chairman of the Supreme Soviet of the Soviet Union until March 15, 1990; President of the Soviet Union until December 25, 1991",
+    "aliases": [
+      "mikhail gorbachev"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 7,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080381",
+        "title": "First Restricted Bilateral Session with Chairman Gorbachev of Soviet Union, December 2, 1989",
+        "date": "1989-12-02",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080729",
+        "title": "Meeting with Mikhail Gorbachev, June 2, 1990",
+        "date": "1990-06-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081025",
+        "title": "Meeting with Mikhail Gorbachev of theSoviet Union, September 9, 1990 (1 of 2)",
+        "date": "1990-09-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081027",
+        "title": "Meeting with Mikhail Gorbachev of theSoviet Union, September 9, 1990 (3 of 3)",
+        "date": "1990-09-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081029",
+        "title": "Meeting with President Mikhail Gorbachev of the USSR, September 9, 1990 (2 of 3)",
+        "date": "1990-09-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081841",
+        "title": "Telcon with President Mikhail Gorbachev of the USSR, August 21, 1991",
+        "date": "1991-08-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081989",
+        "title": "Meeting with President Gorbachev of the USSR, October 29, 1991 (2 of 2)",
+        "date": "1991-10-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-gregg-donald-p",
+    "sortName": "Gregg",
+    "displayName": "Gregg, Donald P.",
+    "entry": "Gregg, Donald P., U.S. Ambassador to Korea from September 27, 1989",
+    "sourceLine": "Gregg, Donald P., U.S. Ambassador to Korea from September 27, 1989",
+    "aliases": [
+      "donald p gregg",
+      "donald gregg"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080741",
+        "title": "Meeting with Roh Tae Woo, President of the Republic of Korea, June 6, 1990 (3 of 3)",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-guinot-luis-jr",
+    "sortName": "Guinot",
+    "displayName": "Guinot, Luis, Jr.",
+    "entry": "Guinot, Luis, Jr., lawyer, Kelley, Drye & Warren; U.S. Ambassador to Costa Rica from August 27, 1991",
+    "sourceLine": "Guinot, Luis, Jr., lawyer, Kelley, Drye & Warren; U.S. Ambassador to Costa Rica from August 27, 1991",
+    "aliases": [
+      "luis guinot"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-haass-richard-n",
+    "sortName": "Haass",
+    "displayName": "Haass, Richard N.",
+    "entry": "Haass, Richard N., Special Assistant to the President for National Security Affairs and Senior Director for Near East and South Asian Affairs, from March 13, 1989, until November 1992",
+    "sourceLine": "Haass, Richard N., Special Assistant to the President for National Security Affairs and Senior Director for Near East and South Asian Affairs, from March 13, 1989, until November 1992",
+    "aliases": [
+      "richard n haass",
+      "richard haass"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 15,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080121",
+        "title": "Telephone Conversation with King Hussein of Jordan, July 7, 1989",
+        "date": "1989-07-07",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080133",
+        "title": "Meeting with General Youssef Abu Talib, Defense Minister of Egypt",
+        "date": "1989-08-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080243",
+        "title": "Meeting with President Mubarak of Egypt, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080433",
+        "title": "Meeting with Defense Minister Yitzhak Rabin of Israel, January 17, 1990",
+        "date": "1990-01-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080709",
+        "title": "Telephone Conversation with President Mubarak of Egypt, May 4, 1990",
+        "date": "1990-05-04",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081269",
+        "title": "Credential Ceremony of Israeli Ambassador Zalman Shoval, December 17, 1990",
+        "date": "1990-12-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081877",
+        "title": "Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991",
+        "date": "1991-09-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081977",
+        "title": "Meeting with the Amir of Bahrain, October 15, 1991 (2 of 2)",
+        "date": "1991-10-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082001",
+        "title": "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081999",
+        "title": "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081993",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081997",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hare-paul-j",
+    "sortName": "Hare",
+    "displayName": "Hare, Paul J.",
+    "entry": "Hare, Paul J., Senior Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs until June 1989; Foreign Service Institute, Department of State from 1990 until 1991; acting Director, Policy Coordination Staff, Bureau of Personnel, Department of State in 1991",
+    "sourceLine": "Hare, Paul J., Senior Deputy Assistant Secretary of State for Near Eastern and South Asian Affairs until June 1989; Foreign Service Institute, Department of State [1990, 1991]; acting Director, Policy Coordination Staff, Bureau of Personnel, Department of State [1991]",
+    "aliases": [
+      "paul j hare",
+      "paul hare"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hassan-ii",
+    "sortName": "Hassan II",
+    "displayName": "Hassan II",
+    "entry": "Hassan II, King of Morocco",
+    "sourceLine": "Hassan II, King of Morocco",
+    "aliases": [
+      "hassan ii"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080159",
+        "title": "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-havel-vaclav",
+    "sortName": "Havel",
+    "displayName": "Havel, Vaclav",
+    "entry": "Havel, Vaclav, President of Czechoslovakia from December 29, 1989",
+    "sourceLine": "Havel, Vaclav, President of Czechoslovakia from December 29, 1989",
+    "aliases": [
+      "vaclav havel"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hawke-robert-j-l",
+    "sortName": "Hawke",
+    "displayName": "Hawke, Robert J.L.",
+    "entry": "Hawke, Robert J.L., Prime Minister of Australia until December 20, 1991",
+    "sourceLine": "Hawke, Robert J.L., Prime Minister of Australia until December 20, 1991",
+    "aliases": [
+      "robert j l hawke",
+      "robert hawke"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081215",
+        "title": "Telephone Call from Prime Minister Hawke of Australia, November 15, 1990",
+        "date": "1990-11-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081423",
+        "title": "Telcon with Prime Minister Robert Hawke of Australia on February 7, 1991",
+        "date": "1991-02-07",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hewett-edward-a",
+    "sortName": "Hewett",
+    "displayName": "Hewett, Edward A.",
+    "entry": "Hewett, Edward A., Senior Fellow, Foreign Policy Studies Program, Brookings Institution until 1991; Special Assistant to the President for National Security Affairs and Senior Director for Soviet Affairs (later Russian and Eurasian Affairs) from March 22, 1991",
+    "sourceLine": "Hewett, Edward A., Senior Fellow, Foreign Policy Studies Program, Brookings Institution until 1991; Special Assistant to the President for National Security Affairs and Senior Director for Soviet Affairs (later Russian and Eurasian Affairs) from March 22, 1991",
+    "aliases": [
+      "edward a hewett",
+      "edward hewett"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081545",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "date": "1991-03-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hicks-irvin-irv",
+    "sortName": "Hicks",
+    "displayName": "Hicks, Irvin (Irv)",
+    "entry": "Hicks, Irvin (Irv), Deputy Assistant Secretary of State for Personnel until 1989; Deputy Assistant Secretary of State for African Affairs from 1989 until 1992",
+    "sourceLine": "Hicks, Irvin (Irv), Deputy Assistant Secretary of State for Personnel until 1989; Deputy Assistant Secretary of State for African Affairs from 1989 until 1992",
+    "aliases": [
+      "irvin irv hicks",
+      "irvin hicks"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081625",
+        "title": "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+        "date": "1991-04-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hills-carla-anderson",
+    "sortName": "Hills",
+    "displayName": "Hills, Carla Anderson",
+    "entry": "Hills, Carla Anderson, United States Trade Representative from February 6, 1989, until January 20, 1993",
+    "sourceLine": "Hills, Carla Anderson, United States Trade Representative from February 6, 1989, until January 20, 1993",
+    "aliases": [
+      "carla anderson hills",
+      "carla hills"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hinton-deane-r",
+    "sortName": "Hinton",
+    "displayName": "Hinton, Deane R.",
+    "entry": "Hinton, Deane R., U.S. Ambassador to Costa Rica until January 4, 1990; U.S. Ambassador to Panama from January 9, 1990",
+    "sourceLine": "Hinton, Deane R., U.S. Ambassador to Costa Rica until January 4, 1990; U.S. Ambassador to Panama from January 9, 1990",
+    "aliases": [
+      "deane r hinton",
+      "deane hinton"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079941",
+        "title": "Meeting Between the President and Costa Rican President Arias, April 4, 1989",
+        "date": "1989-04-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-horowitz-herbert-e",
+    "sortName": "Horowitz",
+    "displayName": "Horowitz, Herbert E.",
+    "entry": "Horowitz, Herbert E., U.S. Ambassador to the Gambia until November 4, 1989; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State from 1991 until 1992",
+    "sourceLine": "Horowitz, Herbert E., U.S. Ambassador to the Gambia until November 4, 1989; Contemporary Documents Review, Office of Freedom of Information, Privacy, and Classification Review, Office of the Deputy Assistant Secretary for Information Services, Bureau of Diplomatic Security, Department of State [1991, 1992]",
+    "aliases": [
+      "herbert e horowitz",
+      "herbert horowitz"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080023",
+        "title": "Memorandum of Conversation between the President and Sir Dawda Jawara, President of The Gambia",
+        "date": "1989-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hostler-charles-w",
+    "sortName": "Hostler",
+    "displayName": "Hostler, Charles W.",
+    "entry": "Hostler, Charles W., U.S. Ambassador to Bahrain from October 28, 1989",
+    "sourceLine": "Hostler, Charles W., U.S. Ambassador to Bahrain from October 28, 1989",
+    "aliases": [
+      "charles w hostler",
+      "charles hostler"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081977",
+        "title": "Meeting with the Amir of Bahrain, October 15, 1991 (2 of 2)",
+        "date": "1991-10-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-howe-jonathan-t-adm",
+    "sortName": "Howe",
+    "displayName": "Howe, Jonathan T., Adm.",
+    "entry": "Howe, Jonathan T., Adm., Assistant to the Chairman of the Joint Chiefs of Staff until 1989; USN, NATO Commander of Allied Forces, southern Europe, from May 1989; Deputy Assistant to the President for National Security Affairs from November 19, 1991, until November 1992",
+    "sourceLine": "Howe, Jonathan T., Adm., Assistant to the Chairman of the Joint Chiefs of Staff until 1989; USN, NATO Commander of Allied Forces, southern Europe, from May 1989; Deputy Assistant to the President for National Security Affairs from November 19, 1991, until November 1992",
+    "aliases": [
+      "jonathan t howe",
+      "jonathan howe"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080159",
+        "title": "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hoyte-h-desmond",
+    "sortName": "Hoyte",
+    "displayName": "Hoyte, H. Desmond",
+    "entry": "Hoyte, H. Desmond, President of Guyana",
+    "sourceLine": "Hoyte, H. Desmond, President of Guyana",
+    "aliases": [
+      "h desmond hoyte",
+      "desmond hoyte"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hull-edmund-j",
+    "sortName": "Hull",
+    "displayName": "Hull, Edmund J.",
+    "entry": "Hull, Edmund J., Political Counselor, U.S. Embassy in Tunis from 1989 until 1990; Director, Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State from 1990 until 1991; Director for Near East and South Asian Affairs, National Security Council staff, from June 1991 until November 1992",
+    "sourceLine": "Hull, Edmund J., Political Counselor, U.S. Embassy in Tunis [1989, 1990]; Director, Northern Gulf Affairs (Iran and Iraq), Bureau of Near Eastern and South Asian Affairs, Department of State [1990, 1991]; Director for Near East and South Asian Affairs, National Security Council staff, from June 1991 until November 1992",
+    "aliases": [
+      "edmund j hull",
+      "edmund hull"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082043",
+        "title": "Telcon with President Mubarak of Egypt, November 7, 1991",
+        "date": "1991-11-07",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hussein-saddam",
+    "sortName": "Hussein",
+    "displayName": "Hussein, Saddam",
+    "entry": "Hussein, Saddam, President of Iraq",
+    "sourceLine": "Hussein, Saddam, President of Iraq",
+    "aliases": [
+      "saddam hussein"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hussein-i",
+    "sortName": "Hussein I",
+    "displayName": "Hussein I",
+    "entry": "Hussein I, King of Jordan",
+    "sourceLine": "Hussein I, King of Jordan",
+    "aliases": [
+      "hussein i"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079967",
+        "title": "Plenary Session with King Hussein of Jordan, April 19, 1989",
+        "date": "1989-04-19",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080121",
+        "title": "Telephone Conversation with King Hussein of Jordan, July 7, 1989",
+        "date": "1989-07-07",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080671",
+        "title": "Telephone Conversation with King Hussein of Jordan, April 23, 1990",
+        "date": "1990-04-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080805",
+        "title": "Telephone Conversation with King Hussein of Jordan, June 23, 1990",
+        "date": "1990-06-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-hutchings-robert-l",
+    "sortName": "Hutchings",
+    "displayName": "Hutchings, Robert L.",
+    "entry": "Hutchings, Robert L., Director for European and Soviet Affairs, National Security Council Staff from 1989 until 1990; Special Adviser for Eurasian Assistance, Office of the Deputy Secretary of State, Department of State in 1992",
+    "sourceLine": "Hutchings, Robert L., Director for European and Soviet Affairs, National Security Council Staff (1989, 1990); Special Adviser for Eurasian Assistance, Office of the Deputy Secretary of State, Department of State [1992]",
+    "aliases": [
+      "robert l hutchings",
+      "robert hutchings"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 14,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080163",
+        "title": "Telephone Call to Chancellor Helmut Kohl of West Germany, August 3, 1989",
+        "date": "1989-08-03",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081055",
+        "title": "Telephone Call to President Turgut Ozal of Turkey, September 10, 1990",
+        "date": "1990-09-10",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081043",
+        "title": "Meeting with Prime Minister Salim al-Huss of Lebanon, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081087",
+        "title": "Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081113",
+        "title": "Meeting with Foreign Minister Shevardnadze of the Soviet Union, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081163",
+        "title": "Telcon with Chancellor Helmut Kohl of the Federal Republic of Germany, October 26, 1990",
+        "date": "1990-10-26",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081161",
+        "title": "Telcon with Prime Minister Giulio Andreotti of Italy, October 26, 1990",
+        "date": "1990-10-26",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081131",
+        "title": "Meeting with Cardinal Casaroli of the Holy See, October 31, 1990",
+        "date": "1990-10-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081397",
+        "title": "Telcon with Chancellor Kohl of Germany, January 28, 1991 (1 of 2)",
+        "date": "1991-01-28",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081449",
+        "title": "Telcon with Prime Minister Ruud Lubbers of the Netherlands, February 9, 1991",
+        "date": "1991-02-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081651",
+        "title": "Telcon with President Ozal of Turkey, April 20, 1991",
+        "date": "1991-04-20",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-jackson-karl-d",
+    "sortName": "Jackson",
+    "displayName": "Jackson, Karl D.",
+    "entry": "Jackson, Karl D., Deputy Assistant Secretary of Defense for East Asia and Pacific Affairs from 1986 until March 1989; Special Assistant to the President for National Security Affairs and Senior Director for Asian Affairs, National Security Council Staff, from March 13, 1989, until April 4, 1991; National Security Adviser to the Vice President",
+    "sourceLine": "Jackson, Karl D., Deputy Assistant Secretary of Defense for East Asia and Pacific Affairs from 1986 until March 1989; Special Assistant to the President for National Security Affairs and Senior Director for Asian Affairs, National Security Council Staff, from March 13, 1989, until April 4, 1991; National Security Adviser to the Vice President",
+    "aliases": [
+      "karl d jackson",
+      "karl jackson"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080775",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (1 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-jawara-dawda-kairaba",
+    "sortName": "Jawara",
+    "displayName": "Jawara, Dawda Kairaba",
+    "entry": "Jawara, Dawda Kairaba, President of The Gambia",
+    "sourceLine": "Jawara, Dawda Kairaba, President of The Gambia",
+    "aliases": [
+      "dawda kairaba jawara",
+      "dawda jawara"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080023",
+        "title": "Memorandum of Conversation between the President and Sir Dawda Jawara, President of The Gambia",
+        "date": "1989-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-johnson-donald-c",
+    "sortName": "Johnson",
+    "displayName": "Johnson, Donald C.",
+    "entry": "Johnson, Donald C., Political Counselor, U.S. Embassy in Tegucigalpa from 1989 until 1990; Director for Latin American Affairs, National Security Council staff in 1990",
+    "sourceLine": "Johnson, Donald C., Political Counselor, U.S. Embassy in Tegucigalpa [1989, 1990]; Director for Latin American Affairs, National Security Council staff (1990)",
+    "aliases": [
+      "donald c johnson",
+      "donald johnson"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 5,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080673",
+        "title": "Telephone Conversation with President Virgilio Barco of Colombia, April 27, 1990",
+        "date": "1990-04-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080733",
+        "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+        "date": "1990-06-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080951",
+        "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, August 13, 1990",
+        "date": "1990-08-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081595",
+        "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, April 9, 1991",
+        "date": "1991-04-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-kelly-john-hubert",
+    "sortName": "Kelly",
+    "displayName": "Kelly, John Hubert",
+    "entry": "Kelly, John Hubert, Deputy Director, Policy Planning Staff, Department of State, until February 1989; Assistant Secretary of State for Near Eastern and South Asian Affairs, from June 16, 1989, until September 30, 1991; U.S. Ambassador to Finland from December 20, 1991",
+    "sourceLine": "Kelly, John Hubert, Deputy Director, Policy Planning Staff, Department of State, until February 1989; Assistant Secretary of State for Near Eastern and South Asian Affairs, from June 16, 1989, until September 30, 1991; U.S. Ambassador to Finland from December 20, 1991",
+    "aliases": [
+      "john hubert kelly",
+      "john kelly"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080693",
+        "title": "Plenary Meeting with President Ben Ali of Tunisia, May 15, 1990 (2 of 2)",
+        "date": "1990-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081897",
+        "title": "Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-kimmitt-robert-m",
+    "sortName": "Kimmitt",
+    "displayName": "Kimmitt, Robert M.",
+    "entry": "Kimmitt, Robert M., lawyer, Sidley & Austin; Under Secretary of State for Political Affairs from March 2, 1989, until August 23, 1991; U.S. Ambassador to Germany from September 5, 1991",
+    "sourceLine": "Kimmitt, Robert M., lawyer, Sidley & Austin; Under Secretary of State for Political Affairs from March 2, 1989, until August 23, 1991; U.S. Ambassador to Germany from September 5, 1991",
+    "aliases": [
+      "robert m kimmitt",
+      "robert kimmitt"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080735",
+        "title": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081545",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "date": "1991-03-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-kohl-helmut-chancellor-of-the-federal-republic-of-germany-until-1990-thereafter-chancellor",
+    "sortName": "Kohl",
+    "displayName": "Kohl, Helmut, Chancellor of the Federal Republic of Germany until 1990; thereafter Chancellor of Germany",
+    "entry": "Kohl, Helmut, Chancellor of the Federal Republic of Germany until 1990; thereafter Chancellor of Germany",
+    "sourceLine": "Kohl, Helmut, Chancellor of the Federal Republic of Germany until 1990; thereafter Chancellor of Germany",
+    "aliases": [
+      "helmut chancellor of the federal republic of germany until 1990 thereafter chancellor of germany kohl",
+      "helmut kohl"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 10,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080217",
+        "title": "Telephone Conversation with Helmut Kohl, Chancellor of the Federal Republic of Germany",
+        "date": "1989-09-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080453",
+        "title": "Telephone Conversation with Chancellor Helmut Kohl of the Federal Republic of Germany, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080695",
+        "title": "Meeting with Chancellor Kohl, Federal Republic of Germany (1 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080829",
+        "title": "Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2)",
+        "date": "1990-07-09",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080163",
+        "title": "Telephone Call to Chancellor Helmut Kohl of West Germany, August 3, 1989",
+        "date": "1989-08-03",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081059",
+        "title": "Telephone Call from Chancellor Helmut Kohl of the Federal Republic of Germany, September 11, 1990",
+        "date": "1990-09-11",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081163",
+        "title": "Telcon with Chancellor Helmut Kohl of the Federal Republic of Germany, October 26, 1990",
+        "date": "1990-10-26",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081397",
+        "title": "Telcon with Chancellor Kohl of Germany, January 28, 1991 (1 of 2)",
+        "date": "1991-01-28",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-kozak-michael-g",
+    "sortName": "Kozak",
+    "displayName": "Kozak, Michael G.",
+    "entry": "Kozak, Michael G., Principal Deputy Assistant Secretary of State for Inter-American Affairs from 1989 until 1991",
+    "sourceLine": "Kozak, Michael G., Principal Deputy Assistant Secretary of State for Inter-American Affairs [1989-1991]",
+    "aliases": [
+      "michael g kozak",
+      "michael kozak"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080733",
+        "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+        "date": "1990-06-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-lambert-paul-c",
+    "sortName": "Lambert",
+    "displayName": "Lambert, Paul C.",
+    "entry": "Lambert, Paul C., lawyer, Breed, Abbot, and Morgan; U.S. Ambassador to Ecuador from July 2, 1990, until February 1, 1992",
+    "sourceLine": "Lambert, Paul C., lawyer, Breed, Abbot, and Morgan; U.S. Ambassador to Ecuador from July 2, 1990, until February 1, 1992",
+    "aliases": [
+      "paul c lambert",
+      "paul lambert"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-li-peng",
+    "sortName": "Li Peng",
+    "displayName": "Li Peng",
+    "entry": "Li Peng, Premier of China",
+    "sourceLine": "Li Peng, Premier of China",
+    "aliases": [
+      "li peng"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079903",
+        "title": "Meeting with Premier Li Peng of The People's Republic of China, February 26, 1989",
+        "date": "1989-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-lubbers-ruud",
+    "sortName": "Lubbers",
+    "displayName": "Lubbers, Ruud",
+    "entry": "Lubbers, Ruud, Prime Minister of the Netherlands",
+    "sourceLine": "Lubbers, Ruud, Prime Minister of the Netherlands",
+    "aliases": [
+      "ruud lubbers"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081449",
+        "title": "Telcon with Prime Minister Ruud Lubbers of the Netherlands, February 9, 1991",
+        "date": "1991-02-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-major-john",
+    "sortName": "Major",
+    "displayName": "Major, John",
+    "entry": "Major, John, Prime Minister of the United Kingdom from November 28, 1990",
+    "sourceLine": "Major, John, Prime Minister of the United Kingdom from November 28, 1990",
+    "aliases": [
+      "john major"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081243",
+        "title": "Meeting with Prime Minister John Major of the United Kingdom, December 21, 1990 (2 of 2)",
+        "date": "1990-12-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082161",
+        "title": "Telcon with John Major of the United Kingdom, March 6, 1992",
+        "date": "1992-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-manley-michael",
+    "sortName": "Manley",
+    "displayName": "Manley, Michael",
+    "entry": "Manley, Michael, Prime Minister of Jamaica",
+    "sourceLine": "Manley, Michael, Prime Minister of Jamaica",
+    "aliases": [
+      "michael manley"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079929",
+        "title": "Meeting with Prime Minister Manley of Jamaica, March 15, 1989",
+        "date": "1989-03-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-matlock-jack-f",
+    "sortName": "Matlock",
+    "displayName": "Matlock, Jack F.",
+    "entry": "Matlock, Jack F., U.S. Ambassador to the Union of Soviet Socialist Republics until August 11, 1991",
+    "sourceLine": "Matlock, Jack F., U.S. Ambassador to the Union of Soviet Socialist Republics until August 11, 1991",
+    "aliases": [
+      "jack f matlock",
+      "jack matlock"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080627",
+        "title": "Meeting with Foreign Minister Eduard Shevardnadze of the Soviet Union, April 6, 1990",
+        "date": "1990-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-mccormack-richard-t",
+    "sortName": "McCormack",
+    "displayName": "McCormack, Richard T.",
+    "entry": "McCormack, Richard T., U.S. Permanent Representative to the Organization of American States until April 13, 1989; Under Secretary of State for Economic and Agricultural Affairs, from April 14, 1989, until May 3, 1991",
+    "sourceLine": "McCormack, Richard T., U.S. Permanent Representative to the Organization of American States until April 13, 1989; Under Secretary of State for Economic and Agricultural Affairs, from April 14, 1989, until May 3, 1991",
+    "aliases": [
+      "richard t mccormack",
+      "richard mccormack"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080829",
+        "title": "Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2)",
+        "date": "1990-07-09",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-mcnamara-thomas-e",
+    "sortName": "McNamara",
+    "displayName": "McNamara, Thomas E.",
+    "entry": "McNamara, Thomas E., U.S. Ambassador to Colombia until August 14, 1991; Special Assistant to the President for National Security Affairs and Senior Director for International Programs and African Affairs, National Security Council staff from September 25, 1991, until YY",
+    "sourceLine": "McNamara, Thomas E., U.S. Ambassador to Colombia until August 14, 1991; Special Assistant to the President for National Security Affairs and Senior Director for International Programs and African Affairs, National Security Council staff from September 25, 1991, until YY",
+    "aliases": [
+      "thomas e mcnamara",
+      "thomas mcnamara"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 7,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080241",
+        "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+        "date": "1989-09-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080733",
+        "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+        "date": "1990-06-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081077",
+        "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082499",
+        "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+        "date": "1991-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-melady-thomas-p",
+    "sortName": "Melady",
+    "displayName": "Melady, Thomas P.",
+    "entry": "Melady, Thomas P., Personal Representative of the President to the Vatican from October 3, 1989, until March 1, 1993",
+    "sourceLine": "Melady, Thomas P., Personal Representative of the President to the Vatican from October 3, 1989, until March 1, 1993",
+    "aliases": [
+      "thomas p melady",
+      "thomas melady"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081131",
+        "title": "Meeting with Cardinal Casaroli of the Holy See, October 31, 1990",
+        "date": "1990-10-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-melby-eric-d-k",
+    "sortName": "Melby",
+    "displayName": "Melby, Eric D.K.",
+    "entry": "Melby, Eric D.K., Director for International Economic Affairs, National Security Council staff from 1989 until 1991; Special Assistant to the President for National Security Affairs and Senior Director for International Economic Affairs from May 27, 1992",
+    "sourceLine": "Melby, Eric D.K., Director for International Economic Affairs, National Security Council staff (1989, 1990, 1991); Special Assistant to the President for National Security Affairs and Senior Director for International Economic Affairs from May 27, 1992",
+    "aliases": [
+      "eric d k melby",
+      "eric melby"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080605",
+        "title": "Telephone Conversation with President Endara of Panama, March 14, 1990",
+        "date": "1990-03-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-melton-richard-h",
+    "sortName": "Melton",
+    "displayName": "Melton, Richard H.",
+    "entry": "Melton, Richard H., Deputy Assistant Secretary for the Caribbean, Bureau of Inter-American Affairs, Department of State until October 1989; U.S. Ambassador to Brazil from December 12, 1989",
+    "sourceLine": "Melton, Richard H., Deputy Assistant Secretary for the Caribbean, Bureau of Inter-American Affairs, Department of State until October 1989; U.S. Ambassador to Brazil from December 12, 1989",
+    "aliases": [
+      "richard h melton",
+      "richard melton"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079929",
+        "title": "Meeting with Prime Minister Manley of Jamaica, March 15, 1989",
+        "date": "1989-03-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-menem-carlos-saul",
+    "sortName": "Menem",
+    "displayName": "Menem, Carlos Saul",
+    "entry": "Menem, Carlos Saul, President of Argentina from July 8, 1989",
+    "sourceLine": "Menem, Carlos Saul, President of Argentina from July 8, 1989",
+    "aliases": [
+      "carlos saul menem",
+      "carlos menem"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081105",
+        "title": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-miller-david-c-jr",
+    "sortName": "Miller",
+    "displayName": "Miller, David C., Jr.",
+    "entry": "Miller, David C., Jr., Special Assistant to the President for National Security Affairs and Senior Director for International Programs and African Affairs, National Security Council Staff, from March 13, 1989, until September 25, 1991",
+    "sourceLine": "Miller, David C., Jr., Special Assistant to the President for National Security Affairs and Senior Director for International Programs and African Affairs, National Security Council Staff, from March 13, 1989, until September 25, 1991",
+    "aliases": [
+      "david c miller",
+      "david miller"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080023",
+        "title": "Memorandum of Conversation between the President and Sir Dawda Jawara, President of The Gambia",
+        "date": "1989-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-mitsotakis-constantine",
+    "sortName": "Mitsotakis",
+    "displayName": "Mitsotakis, Constantine",
+    "entry": "Mitsotakis, Constantine, Prime Minister of Greece",
+    "sourceLine": "Mitsotakis, Constantine, Prime Minister of Greece",
+    "aliases": [
+      "constantine mitsotakis"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080735",
+        "title": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-mitterrand-francois",
+    "sortName": "Mitterrand",
+    "displayName": "Mitterrand, Francois",
+    "entry": "Mitterrand, Francois, President of France",
+    "sourceLine": "Mitterrand, Francois, President of France",
+    "aliases": [
+      "francois mitterrand"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 9,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080213",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, August 26, 1989",
+        "date": "1989-08-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080457",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080829",
+        "title": "Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2)",
+        "date": "1990-07-09",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080957",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, August 20, 1990",
+        "date": "1990-08-20",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081007",
+        "title": "Telephone Call to Francois Mitterrand, President of France",
+        "date": "1990-08-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081019",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, September 6, 1990",
+        "date": "1990-09-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081191",
+        "title": "Meeting with President Mitterrand of France, November 18, 1990",
+        "date": "1990-11-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081533",
+        "title": "Meeting with Francois Mitterrand, President of France, tv1arch 14, 1991",
+        "date": "1991-03-14",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082129",
+        "title": "Meeting with President Mitterrand of France, January 31, 1992",
+        "date": "1992-01-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-mosbacher-robert-aaron-sr",
+    "sortName": "Mosbacher",
+    "displayName": "Mosbacher, Robert Aaron, Sr.",
+    "entry": "Mosbacher, Robert Aaron, Sr., Secretary of Commerce from January 31, 1989, until January 15, 1993",
+    "sourceLine": "Mosbacher, Robert Aaron, Sr., Secretary of Commerce from January 31, 1989, until January 15, 1993",
+    "aliases": [
+      "robert aaron mosbacher",
+      "robert mosbacher"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-mubarak-mohammed-hosni",
+    "sortName": "Mubarak",
+    "displayName": "Mubarak, Mohammed Hosni",
+    "entry": "Mubarak, Mohammed Hosni, President of Egypt",
+    "sourceLine": "Mubarak, Mohammed Hosni, President of Egypt",
+    "aliases": [
+      "mohammed hosni mubarak",
+      "mohammed mubarak"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 12,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080173",
+        "title": "Telephone Conversation with - President Mubarak of Egypt, August 9, 1989",
+        "date": "1989-08-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080243",
+        "title": "Meeting with President Mubarak of Egypt, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080303",
+        "title": "Telephone Conversation with President Mubarak of Egypt, October 18, 1989",
+        "date": "1989-10-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080611",
+        "title": "Telephone Conversation with President Mubarak of Egypt, March 17, 1990",
+        "date": "1990-03-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080709",
+        "title": "Telephone Conversation with President Mubarak of Egypt, May 4, 1990",
+        "date": "1990-05-04",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080771",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 8, 1990",
+        "date": "1990-06-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080801",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 12, 1990",
+        "date": "1990-06-12",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080807",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 23, 1990",
+        "date": "1990-06-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081159",
+        "title": "Telephone Conversation with President Mubarak, October 25, 1990",
+        "date": "1990-10-25",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081371",
+        "title": "Presidential Phone Call to President Mubarak of Egypt on January 21, 1991",
+        "date": "1991-01-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081877",
+        "title": "Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991",
+        "date": "1991-09-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082043",
+        "title": "Telcon with President Mubarak of Egypt, November 7, 1991",
+        "date": "1991-11-07",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-mulford-david-c",
+    "sortName": "Mulford",
+    "displayName": "Mulford, David C.",
+    "entry": "Mulford, David C., Assistant Secretary of the Treasury for International Affairs until May 1989; thereafter Under Secretary of the Treasury for International Affairs",
+    "sourceLine": "Mulford, David C., Assistant Secretary of the Treasury for International Affairs until May 1989; thereafter Under Secretary of the Treasury for International Affairs",
+    "aliases": [
+      "david c mulford",
+      "david mulford"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-negroponte-john-dimitri",
+    "sortName": "Negroponte",
+    "displayName": "Negroponte, John Dimitri",
+    "entry": "Negroponte, John Dimitri, Deputy Assistant to the President for National Security Affairs until January 1989; U.S. Ambassador to Mexico from July 3, 1989",
+    "sourceLine": "Negroponte, John Dimitri, Deputy Assistant to the President for National Security Affairs until January 1989; U.S. Ambassador to Mexico from July 3, 1989",
+    "aliases": [
+      "john dimitri negroponte",
+      "john negroponte"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-niles-thomas-michael-tolliver",
+    "sortName": "Niles",
+    "displayName": "Niles, Thomas Michael Tolliver",
+    "entry": "Niles, Thomas Michael Tolliver, U.S. Ambassador to Canada until June 28, 1989; Ambassador, U.S. Mission to the European Communities from June 23, 1989, until August 26, 1991; Assistant Secretary of State for European and Canadian Affairs from October 3, 1991",
+    "sourceLine": "Niles, Thomas Michael Tolliver, U.S. Ambassador to Canada until June 28, 1989; Ambassador, U.S. Mission to the European Communities from June 23, 1989, until August 26, 1991; Assistant Secretary of State for European and Canadian Affairs from October 3, 1991",
+    "aliases": [
+      "thomas michael tolliver niles",
+      "thomas niles"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-o-donohue-daniel-a",
+    "sortName": "O'Donohue",
+    "displayName": "O'Donohue, Daniel A.",
+    "entry": "O'Donohue, Daniel A., U.S. Ambassador to Thailand until August 10, 1991",
+    "sourceLine": "O’Donohue, Daniel A., U.S. Ambassador to Thailand until August 10, 1991",
+    "aliases": [
+      "daniel a o donohue",
+      "daniel o donohue",
+      "daniel o"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-ordway-john-m",
+    "sortName": "Ordway",
+    "displayName": "Ordway, John M.",
+    "entry": "Ordway, John M., Deputy Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State from 1989 until 1991; Deputy Director for Multilateral and Security Affairs, Bureau of European and Canadian Affairs, Department of State in 1991; Deputy Director for Russia and Security Affairs, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State in 1992; Director for African Affairs, National Security Council staff in 1992",
+    "sourceLine": "Ordway, John M., Deputy Director, Office of Southern African Affairs, Bureau of African Affairs, Department of State [1989-1991]; Deputy Director for Multilateral and Security Affairs, Bureau of European and Canadian Affairs, Department of State [1991]; Deputy Director for Russia and Security Affairs, Office of Independent States and Commonwealth Affairs, Bureau of European and Canadian Affairs, Department of State [1992]; Director for African Affairs, National Security Council staff (1992)",
+    "aliases": [
+      "john m ordway",
+      "john ordway"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080485",
+        "title": "Plenary Meeting with President Denis Sassou Nguesso of People's Republic of the Congo, February 12, 1990 (2 of 2)",
+        "date": "1990-02-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-owen-william-h",
+    "sortName": "Owen",
+    "displayName": "Owen, William H.",
+    "entry": "Owen, William H., Labor Attache, U.S. Consulate at Casablanca from 1990 until 1992; Political Counselor and Labor Attache, U.S. Consulate at Casablanca in 1992",
+    "sourceLine": "Owen, William H., Labor Attache, U.S. Consulate at Casablanca [1990-1992]; Political Counselor and Labor Attache, U.S. Consulate at Casablanca [1992]",
+    "aliases": [
+      "william h owen",
+      "william owen"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080611",
+        "title": "Telephone Conversation with President Mubarak of Egypt, March 17, 1990",
+        "date": "1990-03-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-ozal-turgut",
+    "sortName": "Ozal",
+    "displayName": "Ozal, Turgut",
+    "entry": "Ozal, Turgut, President of Turkey",
+    "sourceLine": "Ozal, Turgut, President of Turkey",
+    "aliases": [
+      "turgut ozal"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 6,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081055",
+        "title": "Telephone Call to President Turgut Ozal of Turkey, September 10, 1990",
+        "date": "1990-09-10",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081499",
+        "title": "Telephone Conversation with President Turgut Ozal of Turkey: February 23, 1991",
+        "date": "1991-02-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081555",
+        "title": "Telephone Conversation with President Turgut Ozal of Turkey, February 28, 1991",
+        "date": "1991-02-28",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081651",
+        "title": "Telcon with President Ozal of Turkey, April 20, 1991",
+        "date": "1991-04-20",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081713",
+        "title": "Telcon with Turgut Ozal, President of Turkey on June 4, 1991",
+        "date": "1991-06-04",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081719",
+        "title": "Telcon with Turgut Ozal, President of Turkey on June 13, 1991",
+        "date": "1991-06-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-paal-douglas-h",
+    "sortName": "Paal",
+    "displayName": "Paal, Douglas H.",
+    "entry": "Paal, Douglas H., Director for Asian Affairs, National Security Council staff, from March 1989 until 1991; Special Assistant to the President for National Security Affairs and Senior Director for Asian Affairs, National Security Council Staff from April 4, 1991",
+    "sourceLine": "Paal, Douglas H., Director for Asian Affairs, National Security Council staff, from March 1989 until 1991; Special Assistant to the President for National Security Affairs and Senior Director for Asian Affairs, National Security Council Staff from April 4, 1991",
+    "aliases": [
+      "douglas h paal",
+      "douglas paal"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 5,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080741",
+        "title": "Meeting with Roh Tae Woo, President of the Republic of Korea, June 6, 1990 (3 of 3)",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081215",
+        "title": "Telephone Call from Prime Minister Hawke of Australia, November 15, 1990",
+        "date": "1990-11-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081177",
+        "title": "Meeting with South Korean Minister of National Defense Lee Jong Koo, November 16, 1990",
+        "date": "1990-11-16",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081897",
+        "title": "Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-pacelli-david",
+    "sortName": "Pacelli",
+    "displayName": "Pacelli, David",
+    "entry": "Pacelli, David, Director for Latin American Affairs, National Security Council Staff from 1989 until 1990",
+    "sourceLine": "Pacelli, David, Director for Latin American Affairs, National Security Council Staff (1989, 1990)",
+    "aliases": [
+      "david pacelli"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 11,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079941",
+        "title": "Meeting Between the President and Costa Rican President Arias, April 4, 1989",
+        "date": "1989-04-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079963",
+        "title": "The President's Telephone Conversation with President Barco of Colombia, April 14, 1989",
+        "date": "1989-04-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079971",
+        "title": "The President's Meeting with Prime Minister Esquivel of Belize, April 20, 1989",
+        "date": "1989-04-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079983",
+        "title": "Telephone Conversation with President Arias of Costa Rica, April 28, 1989",
+        "date": "1989-04-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080453",
+        "title": "Telephone Conversation with Chancellor Helmut Kohl of the Federal Republic of Germany, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080457",
+        "title": "Telephone Conversation with President Francois Mitterrand of France, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080461",
+        "title": "Telephone Conversation with President Perez of Venezuela, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080463",
+        "title": "Telephone Conversation with President Salinas of Mexico, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080451",
+        "title": "Telephone Conversation with Prime Minister Toshiki Kaifu of Japan, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081715",
+        "title": "Telcon with President Jorge Serrano of the Republic of Guatemala on June 11, 1991",
+        "date": "1991-06-11",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-pastorino-robert-s",
+    "sortName": "Pastorino",
+    "displayName": "Pastorino, Robert S.",
+    "entry": "Pastorino, Robert S., Deputy Chief of Mission, U.S. Embassy in Mexico City from 1989 until 1991; U.S. Ambassador to the Dominican Republic from February 6, 1992",
+    "sourceLine": "Pastorino, Robert S., Deputy Chief of Mission, U.S. Embassy in Mexico City from 1989 until 1991; U.S. Ambassador to the Dominican Republic from February 6, 1992",
+    "aliases": [
+      "robert s pastorino",
+      "robert pastorino"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079929",
+        "title": "Meeting with Prime Minister Manley of Jamaica, March 15, 1989",
+        "date": "1989-03-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079933",
+        "title": "Meeting with Mexican Foreign Secretary Fernando Solana, March 20, 1989",
+        "date": "1989-03-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-pelletreau-robert-h-jr",
+    "sortName": "Pelletreau",
+    "displayName": "Pelletreau, Robert H., Jr.",
+    "entry": "Pelletreau, Robert H., Jr., U.S. Ambassador to Tunisia until May 11, 1991; U.S. Ambassador to Egypt from September 12, 1991",
+    "sourceLine": "Pelletreau, Robert H., Jr., U.S. Ambassador to Tunisia until May 11, 1991; U.S. Ambassador to Egypt from September 12, 1991",
+    "aliases": [
+      "robert h pelletreau",
+      "robert pelletreau"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080693",
+        "title": "Plenary Meeting with President Ben Ali of Tunisia, May 15, 1990 (2 of 2)",
+        "date": "1990-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-perez-carlos-andres",
+    "sortName": "Perez",
+    "displayName": "Perez, Carlos Andres",
+    "entry": "Perez, Carlos Andres, President of Venezuela from February 1989",
+    "sourceLine": "Perez, Carlos Andres, President of Venezuela from February 1989",
+    "aliases": [
+      "carlos andres perez",
+      "carlos perez"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 8,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080461",
+        "title": "Telephone Conversation with President Perez of Venezuela, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080951",
+        "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, August 13, 1990",
+        "date": "1990-08-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081627",
+        "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+        "date": "1991-05-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081905",
+        "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082045",
+        "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela on November 15, 1991",
+        "date": "1991-11-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080005",
+        "title": "Phone Call from President Bush to President Arias of Costa Rica re Panama, May 11, 1989",
+        "date": "1989-05-11",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081595",
+        "title": "Telephone Conversation with President Carlos Andres Perez of Venezuela, April 9, 1991",
+        "date": "1991-04-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-perez-de-cuellar-javier",
+    "sortName": "Perez de Cuellar",
+    "displayName": "Perez de Cuellar, Javier",
+    "entry": "Perez de Cuellar, Javier, United Nations Secretary General",
+    "sourceLine": "Perez de Cuellar, Javier, United Nations Secretary General",
+    "aliases": [
+      "javier perez de cuellar",
+      "javier perez"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081111",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081441",
+        "title": "President's Call to the UN Secretary General, February 8, 1991",
+        "date": "1991-02-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081893",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+        "date": "1991-09-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-pickering-thomas-r",
+    "sortName": "Pickering",
+    "displayName": "Pickering, Thomas R.",
+    "entry": "Pickering, Thomas R., U.S. Permanent Representative to the United Nations from March 20, 1989, until May 7, 1992; U.S. Ambassador to India from August 14, 1992",
+    "sourceLine": "Pickering, Thomas R., U.S. Permanent Representative to the United Nations from March 20, 1989, until May 7, 1992; U.S. Ambassador to India from August 14, 1992",
+    "aliases": [
+      "thomas r pickering",
+      "thomas pickering"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081111",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081893",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+        "date": "1991-09-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-porter-roger-b",
+    "sortName": "Porter",
+    "displayName": "Porter, Roger B.",
+    "entry": "Porter, Roger B., Assistant to the President for Economic and Domestic Policy from 1989 until 1992",
+    "sourceLine": "Porter, Roger B., Assistant to the President for Economic and Domestic Policy (1989-1992)",
+    "aliases": [
+      "roger b porter",
+      "roger porter"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-powell-colin-l-gen",
+    "sortName": "Powell",
+    "displayName": "Powell, Colin L., Gen.",
+    "entry": "Powell, Colin L., Gen., Chairman of the Joint Chiefs of Staff from October 1, 1989",
+    "sourceLine": "Powell, Colin L., Gen., Chairman of the Joint Chiefs of Staff from October 1, 1989",
+    "aliases": [
+      "colin l powell",
+      "colin powell"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081117",
+        "title": "Meeting with General Mikhail Moiseyev of the USSR, October 2, 1990",
+        "date": "1990-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-pryce-william-t",
+    "sortName": "Pryce",
+    "displayName": "Pryce, William T.",
+    "entry": "Pryce, William T., Deputy U.S. Permanent Representatives to the Organization of Latin American States until 1989; Special Assistant to the President for National Security Affairs and Senior Director for Latin America and the Caribbean, National Security Council staff, from November 8, 1989, until August 6, 1992",
+    "sourceLine": "Pryce, William T., Deputy U.S. Permanent Representatives to the Organization of Latin American States until 1989; Special Assistant to the President for National Security Affairs and Senior Director for Latin America and the Caribbean, National Security Council staff, from November 8, 1989, until August 6, 1992",
+    "aliases": [
+      "william t pryce",
+      "william pryce"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 28,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080119",
+        "title": "Telephone Conversation with Victor Paz Estenssoro of Bolivia, July 7, 1989",
+        "date": "1989-07-07",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080141",
+        "title": "Telephone Conversation with President Carlos Salinas de Gortari of Mexico, July 24, 1989",
+        "date": "1989-07-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080207",
+        "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+        "date": "1989-08-21",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080215",
+        "title": "Telephone Conversation with Virgilio Barco Vargas, President of Colombia",
+        "date": "1989-08-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081077",
+        "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081105",
+        "title": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081103",
+        "title": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081227",
+        "title": "Meeting with Ricardo Arias-Calderon of the Republic of Panama, November 28, 1990",
+        "date": "1990-11-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082499",
+        "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+        "date": "1991-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081627",
+        "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+        "date": "1991-05-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081689",
+        "title": "Luncheon Meeting with Alfredo Cristiani, President of the Republic of EI Salvador, June 12, 1991 (2 of 2)",
+        "date": "1991-06-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081905",
+        "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081935",
+        "title": "Meeting with Jean-Bertrand Aristide, President of Haiti, October 4, 1991",
+        "date": "1991-10-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082045",
+        "title": "Telephone Conversation with Carlos Andres Perez, President of Venezuela on November 15, 1991",
+        "date": "1991-11-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082079",
+        "title": "Meeting with President Carlos Salinas of Mexico, December 14, 1991",
+        "date": "1991-12-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081091",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081095",
+        "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-quayle-j-danforth-iii",
+    "sortName": "Quayle",
+    "displayName": "Quayle, J. Danforth, III",
+    "entry": "Quayle, J. Danforth, III, Vice President of the United States",
+    "sourceLine": "Quayle, J. Danforth, III, Vice President of the United States",
+    "aliases": [
+      "j danforth quayle",
+      "danforth quayle"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081227",
+        "title": "Meeting with Ricardo Arias-Calderon of the Republic of Panama, November 28, 1990",
+        "date": "1990-11-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-rabin-yitzhak",
+    "sortName": "Rabin",
+    "displayName": "Rabin, Yitzhak",
+    "entry": "Rabin, Yitzhak, Israeli Minister of Defense until June 1990",
+    "sourceLine": "Rabin, Yitzhak, Israeli Minister of Defense until June 1990",
+    "aliases": [
+      "yitzhak rabin"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080433",
+        "title": "Meeting with Defense Minister Yitzhak Rabin of Israel, January 17, 1990",
+        "date": "1990-01-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-ransom-david-m",
+    "sortName": "Ransom",
+    "displayName": "Ransom, David M.",
+    "entry": "Ransom, David M., Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State from 1989 until 1990; Director, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State from 1990 until 1992",
+    "sourceLine": "Ransom, David M., Director, Office of Arabian Peninsula Affairs, Bureau of Near Eastern and South Asian Affairs, Department of State [1989, 1990]; Director, Office of Southern European Affairs, Bureau of European and Canadian Affairs, Department of State [1990-1992]",
+    "aliases": [
+      "david m ransom",
+      "david ransom"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-reilly-william-k",
+    "sortName": "Reilly",
+    "displayName": "Reilly, William K.",
+    "entry": "Reilly, William K., Administrator of the Environmental Protection Agency until February 1989",
+    "sourceLine": "Reilly, William K., Administrator of the Environmental Protection Agency until February 1989",
+    "aliases": [
+      "william k reilly",
+      "william reilly"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-rice-condoleezza",
+    "sortName": "Rice",
+    "displayName": "Rice, Condoleezza",
+    "entry": "Rice, Condoleezza, Director for European and Soviet Affairs, National Security Council staff, from February 1989 until May 1990; Senior Director for European and Soviet Affairs from May 1990 until August 1990; Special Assistant to the President for National Security Affairs and Senior Director for Soviet Affairs from August 10, 1990, until YY.",
+    "sourceLine": "Rice, Condoleezza, Director for European and Soviet Affairs, National Security Council staff, from February 1989 until May 1990; Senior Director for European and Soviet Affairs from May 1990 until August 1990; Special Assistant to the President for National Security Affairs and Senior Director for Soviet Affairs from August 10, 1990, until YY.",
+    "aliases": [
+      "condoleezza rice"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080627",
+        "title": "Meeting with Foreign Minister Eduard Shevardnadze of the Soviet Union, April 6, 1990",
+        "date": "1990-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081029",
+        "title": "Meeting with President Mikhail Gorbachev of the USSR, September 9, 1990 (2 of 3)",
+        "date": "1990-09-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081117",
+        "title": "Meeting with General Mikhail Moiseyev of the USSR, October 2, 1990",
+        "date": "1990-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-rich-robert-g-jr",
+    "sortName": "Rich",
+    "displayName": "Rich, Robert G., Jr.",
+    "entry": "Rich, Robert G., Jr., U.S. Ambassador to Belize until July 7, 1990",
+    "sourceLine": "Rich, Robert G., Jr., U.S. Ambassador to Belize until July 7, 1990",
+    "aliases": [
+      "robert g rich",
+      "robert rich"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079971",
+        "title": "The President's Meeting with Prime Minister Esquivel of Belize, April 20, 1989",
+        "date": "1989-04-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-ridgway-rozanne-l",
+    "sortName": "Ridgway",
+    "displayName": "Ridgway, Rozanne L.",
+    "entry": "Ridgway, Rozanne L., Assistant Secretary of State for European and Canadian Affairs until June 1989",
+    "sourceLine": "Ridgway, Rozanne L., Assistant Secretary of State for European and Canadian Affairs until June 1989",
+    "aliases": [
+      "rozanne l ridgway",
+      "rozanne ridgway"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079947",
+        "title": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
+        "date": "1989-04-11",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-robson-john-e-dean-and-professor-of-management-school-of-business-administration-emory-uni",
+    "sortName": "Robson",
+    "displayName": "Robson, John E., Dean and Professor of Management, School of Business Administration, Emory University",
+    "entry": "Robson, John E., Dean and Professor of Management, School of Business Administration, Emory University, until 1989; Deputy Secretary of the Treasury",
+    "sourceLine": "Robson, John E., Dean and Professor of Management, School of Business Administration, Emory University, until 1989; Deputy Secretary of the Treasury",
+    "aliases": [
+      "john e dean and professor of management school of business administration emory university robson",
+      "john robson"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-roh-tae-woo",
+    "sortName": "Roh Tae Woo",
+    "displayName": "Roh Tae Woo",
+    "entry": "Roh Tae Woo, President of South Korea",
+    "sourceLine": "Roh Tae Woo, President of South Korea",
+    "aliases": [
+      "roh tae woo"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079913",
+        "title": "Plenary Meeting between President Bush and President Roh Tae Woo of Korea, and Lunch (2 of 2)",
+        "date": "1989-02-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080741",
+        "title": "Meeting with Roh Tae Woo, President of the Republic of Korea, June 6, 1990 (3 of 3)",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-ross-dennis-b",
+    "sortName": "Ross",
+    "displayName": "Ross, Dennis B.",
+    "entry": "Ross, Dennis B., Director, Policy Planning Staff, Department of State, from January 21, 1989, until August 23, 1992; Assistant to the President for Policy Planning from August until November 1992",
+    "sourceLine": "Ross, Dennis B., Director, Policy Planning Staff, Department of State, from January 21, 1989, until August 23, 1992; Assistant to the President for Policy Planning from August until November 1992",
+    "aliases": [
+      "dennis b ross",
+      "dennis ross"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080243",
+        "title": "Meeting with President Mubarak of Egypt, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081113",
+        "title": "Meeting with Foreign Minister Shevardnadze of the Soviet Union, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-salinas-de-gortari-carlos",
+    "sortName": "Salinas de Gortari",
+    "displayName": "Salinas de Gortari, Carlos",
+    "entry": "Salinas de Gortari, Carlos, President of Mexico",
+    "sourceLine": "Salinas de Gortari, Carlos, President of Mexico",
+    "aliases": [
+      "carlos salinas de gortari",
+      "carlos salinas"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Compiler gap",
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 8,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079921",
+        "title": "Telephone Conversation with President Salinas, March 10, 1989",
+        "date": "1989-03-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080141",
+        "title": "Telephone Conversation with President Carlos Salinas de Gortari of Mexico, July 24, 1989",
+        "date": "1989-07-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080463",
+        "title": "Telephone Conversation with President Salinas of Mexico, December 20, 1989",
+        "date": "1989-12-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082079",
+        "title": "Meeting with President Carlos Salinas of Mexico, December 14, 1991",
+        "date": "1991-12-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081091",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "compiler gap",
+        "id": "gap-492080178",
+        "title": "2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico",
+        "date": "1992-02-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-samaras-antonis-greek-foreign-minister",
+    "sortName": "Samaras",
+    "displayName": "Samaras, Antonis, Greek Foreign Minister",
+    "entry": "Samaras, Antonis, Greek Foreign Minister",
+    "sourceLine": "Samaras, Antonis, Greek Foreign Minister",
+    "aliases": [
+      "antonis greek foreign minister samaras",
+      "antonis samaras"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-sanner-beth-e",
+    "sortName": "Sanner",
+    "displayName": "Sanner, Beth E.",
+    "entry": "Sanner, Beth E., Associate Director for European and Eurasian Affairs, National Security Council staff, from October 1992",
+    "sourceLine": "Sanner, Beth E., Associate Director for European and Eurasian Affairs, National Security Council staff, from October 1992",
+    "aliases": [
+      "beth e sanner",
+      "beth sanner"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081841",
+        "title": "Telcon with President Mikhail Gorbachev of the USSR, August 21, 1991",
+        "date": "1991-08-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-sassou-nguesso-denis",
+    "sortName": "Sassou-Nguesso",
+    "displayName": "Sassou-Nguesso, Denis",
+    "entry": "Sassou-Nguesso, Denis, President of the Republic of Congo",
+    "sourceLine": "Sassou-Nguesso, Denis, President of the Republic of Congo",
+    "aliases": [
+      "denis sassou nguesso",
+      "denis sassou"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080485",
+        "title": "Plenary Meeting with President Denis Sassou Nguesso of People's Republic of the Congo, February 12, 1990 (2 of 2)",
+        "date": "1990-02-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-saud-fahd-bin-abd-al-aziz-al",
+    "sortName": "Saud Fahd bin Abd al-Aziz Al",
+    "displayName": "Saud Fahd bin Abd al-Aziz Al",
+    "entry": "Saud Fahd bin Abd al-Aziz Al, King and Prime Minister of Saudi Arabia",
+    "sourceLine": "Saud Fahd bin Abd al-Aziz Al, King and Prime Minister of Saudi Arabia",
+    "aliases": [
+      "saud fahd bin abd al aziz al"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080159",
+        "title": "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080157",
+        "title": "Telephone Conversation with King Fahd of Saudi Arabia, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081405",
+        "title": "President's Call to the King of Saudi Arabia, February 2, 1991",
+        "date": "1991-02-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-scowcroft-gen-brent-usaf-ret",
+    "sortName": "Scowcroft",
+    "displayName": "Scowcroft, Gen. Brent, USAF (Ret.)",
+    "entry": "Scowcroft, Gen. Brent, USAF (Ret.), President's Assistant for National Security Affairs from January 1989",
+    "sourceLine": "Scowcroft, Gen. Brent, USAF (Ret.), President’s Assistant for National Security Affairs from January 1989",
+    "aliases": [
+      "brent usaf ret scowcroft",
+      "brent scowcroft"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Compiler gap",
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 94,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079859",
+        "title": "President's Meeting with Prime Minister Benazir Bhutto of Pakistan, February 24, 1989",
+        "date": "1989-02-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079869",
+        "title": "Meeting with President Ibrahim Babangida of Nigeria, February 25, 1989",
+        "date": "1989-02-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079929",
+        "title": "Meeting with Prime Minister Manley of Jamaica, March 15, 1989",
+        "date": "1989-03-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079933",
+        "title": "Meeting with Mexican Foreign Secretary Fernando Solana, March 20, 1989",
+        "date": "1989-03-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079941",
+        "title": "Meeting Between the President and Costa Rican President Arias, April 4, 1989",
+        "date": "1989-04-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079971",
+        "title": "The President's Meeting with Prime Minister Esquivel of Belize, April 20, 1989",
+        "date": "1989-04-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082461",
+        "title": "Meeting with Datuk Seri Dr. Mahathir bin Mohamad, Prime Minister of Malaysia, May 20, 1989",
+        "date": "1989-05-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080181",
+        "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+        "date": "1989-09-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080185",
+        "title": "MEETING WITH PRIME MINISTER SANDIFORD OF BARBADOS, September 20, 1989",
+        "date": "1989-09-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080241",
+        "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+        "date": "1989-09-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080315",
+        "title": "Telephone Conversation with President Barco of Colombia, October 30, 1989",
+        "date": "1989-10-30",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080381",
+        "title": "First Restricted Bilateral Session with Chairman Gorbachev of Soviet Union, December 2, 1989",
+        "date": "1989-12-02",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080485",
+        "title": "Plenary Meeting with President Denis Sassou Nguesso of People's Republic of the Congo, February 12, 1990 (2 of 2)",
+        "date": "1990-02-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080685",
+        "title": "Meeting with President Jaime Paz Zamora of Bolivia, May 8, 1990 (1 of 2)",
+        "date": "1990-05-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080695",
+        "title": "Meeting with Chancellor Kohl, Federal Republic of Germany (1 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080733",
+        "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+        "date": "1990-06-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081077",
+        "title": "Memorandum of Conversation with President Cesar Gaviria Trujillo of Colombia, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081105",
+        "title": "Meeting with President Carlos Saul Menem of Argentina, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081103",
+        "title": "Meeting with President Luis Alberto Lacalle of Uruguay, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081227",
+        "title": "Meeting with Ricardo Arias-Calderon of the Republic of Panama, November 28, 1990",
+        "date": "1990-11-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082499",
+        "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+        "date": "1991-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081627",
+        "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+        "date": "1991-05-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081689",
+        "title": "Luncheon Meeting with Alfredo Cristiani, President of the Republic of EI Salvador, June 12, 1991 (2 of 2)",
+        "date": "1991-06-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081905",
+        "title": "Meeting with Carlos Andres Perez, President of the Republic of Venezuela at UNGA, Waldorf Astoria Hotel, New York",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081935",
+        "title": "Meeting with Jean-Bertrand Aristide, President of Haiti, October 4, 1991",
+        "date": "1991-10-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082079",
+        "title": "Meeting with President Carlos Salinas of Mexico, December 14, 1991",
+        "date": "1991-12-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079913",
+        "title": "Plenary Meeting between President Bush and President Roh Tae Woo of Korea, and Lunch (2 of 2)",
+        "date": "1989-02-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079943",
+        "title": "One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989",
+        "date": "1989-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080023",
+        "title": "Memorandum of Conversation between the President and Sir Dawda Jawara, President of The Gambia",
+        "date": "1989-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082475",
+        "title": "Meeting with Francesco Cossiga, Presidentof Italy, May 27, 1989",
+        "date": "1989-05-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080131",
+        "title": "Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080133",
+        "title": "Meeting with General Youssef Abu Talib, Defense Minister of Egypt",
+        "date": "1989-08-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080243",
+        "title": "Meeting with President Mubarak of Egypt, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080433",
+        "title": "Meeting with Defense Minister Yitzhak Rabin of Israel, January 17, 1990",
+        "date": "1990-01-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080577",
+        "title": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+        "date": "1990-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080627",
+        "title": "Meeting with Foreign Minister Eduard Shevardnadze of the Soviet Union, April 6, 1990",
+        "date": "1990-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080691",
+        "title": "Meeting with President Ben Ali of Tunisia, May 15, 1990 (1 of 2)",
+        "date": "1990-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080693",
+        "title": "Plenary Meeting with President Ben Ali of Tunisia, May 15, 1990 (2 of 2)",
+        "date": "1990-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080735",
+        "title": "Meeting and Lunch with Prime Minister Mitsotakis, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080741",
+        "title": "Meeting with Roh Tae Woo, President of the Republic of Korea, June 6, 1990 (3 of 3)",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080851",
+        "title": "Luncheon Meeting with President Gnassingbe Eyadema of Togo, July 31, 1990 (3 of 3)",
+        "date": "1990-07-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080847",
+        "title": "One-on-One Meeting with President Gnassingbe Eyadema of Togo, July 31, 1990 (1 of 3)",
+        "date": "1990-07-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081029",
+        "title": "Meeting with President Mikhail Gorbachev of the USSR, September 9, 1990 (2 of 3)",
+        "date": "1990-09-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081043",
+        "title": "Meeting with Prime Minister Salim al-Huss of Lebanon, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081087",
+        "title": "Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081091",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081113",
+        "title": "Meeting with Foreign Minister Shevardnadze of the Soviet Union, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081111",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081095",
+        "title": "Memorandum of Conversation with President Collor of Brazil, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081117",
+        "title": "Meeting with General Mikhail Moiseyev of the USSR, October 2, 1990",
+        "date": "1990-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081131",
+        "title": "Meeting with Cardinal Casaroli of the Holy See, October 31, 1990",
+        "date": "1990-10-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081133",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (1 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081177",
+        "title": "Meeting with South Korean Minister of National Defense Lee Jong Koo, November 16, 1990",
+        "date": "1990-11-16",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081191",
+        "title": "Meeting with President Mitterrand of France, November 18, 1990",
+        "date": "1990-11-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081269",
+        "title": "Credential Ceremony of Israeli Ambassador Zalman Shoval, December 17, 1990",
+        "date": "1990-12-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081545",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "date": "1991-03-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081625",
+        "title": "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+        "date": "1991-04-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081681",
+        "title": "Meeting with Sir Anerood Jugnauth, Prime Minister of Mauritius, June 5, 1991 (1 of 3)",
+        "date": "1991-06-05",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081739",
+        "title": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
+        "date": "1991-07-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081877",
+        "title": "Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991",
+        "date": "1991-09-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081893",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+        "date": "1991-09-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081897",
+        "title": "Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991",
+        "date": "1991-09-24",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081977",
+        "title": "Meeting with the Amir of Bahrain, October 15, 1991 (2 of 2)",
+        "date": "1991-10-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082001",
+        "title": "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081999",
+        "title": "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081993",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081997",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "compiler gap",
+        "id": "gap-492070600",
+        "title": "[Meeting of] CBG [C. Boyden Gray]/[Richard] Darman/[Brent] Scowcroft]/[Nelson] Lund/Raul/[Nicholas] Rostow re: H.R. 91 Anti-Terrorism Amendments, 11:00-11:45",
+        "date": "1989-01-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-secchia-peter-f",
+    "sortName": "Secchia",
+    "displayName": "Secchia, Peter F.",
+    "entry": "Secchia, Peter F., U.S. Ambassador to Italy from July 3, 1989, until January 20, 1993",
+    "sourceLine": "Secchia, Peter F., U.S. Ambassador to Italy from July 3, 1989, until January 20, 1993",
+    "aliases": [
+      "peter f secchia",
+      "peter secchia"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080577",
+        "title": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+        "date": "1990-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-seitz-raymond-g-h",
+    "sortName": "Seitz",
+    "displayName": "Seitz, Raymond G. H.",
+    "entry": "Seitz, Raymond G. H., Deputy Chief of Mission, U.S. Embassy in London until 1989; Assistant Secretary of State for European and Canadian Affairs from August 8, 1989, until April 30, 1991; U.S. Ambassador to the United Kingdom from June 25, 1991",
+    "sourceLine": "Seitz, Raymond G. H., Deputy Chief of Mission, U.S. Embassy in London until 1989; Assistant Secretary of State for European and Canadian Affairs from August 8, 1989, until April 30, 1991; U.S. Ambassador to the United Kingdom from June 25, 1991",
+    "aliases": [
+      "raymond g h seitz",
+      "raymond seitz"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 8,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080577",
+        "title": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+        "date": "1990-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080627",
+        "title": "Meeting with Foreign Minister Eduard Shevardnadze of the Soviet Union, April 6, 1990",
+        "date": "1990-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081087",
+        "title": "Meeting with Prime Minister Felipe Gonzalez of Spain, September 30, 1990",
+        "date": "1990-09-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081113",
+        "title": "Meeting with Foreign Minister Shevardnadze of the Soviet Union, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081131",
+        "title": "Meeting with Cardinal Casaroli of the Holy See, October 31, 1990",
+        "date": "1990-10-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-sens-andrew",
+    "sortName": "Sens",
+    "displayName": "Sens, Andrew",
+    "entry": "Sens, Andrew, Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State from 1990 until 1991; Executive Assistant, Bureau of Inter-American Affairs, Department of State in 1992",
+    "sourceLine": "Sens, Andrew, Director, Office of Southern Cone Affairs, Bureau of Inter-American Affairs, Department of State [1990, 1991]; Executive Assistant, Bureau of Inter-American Affairs, Department of State [1992]",
+    "aliases": [
+      "andrew sens"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-sens-andrew-d",
+    "sortName": "Sens",
+    "displayName": "Sens, Andrew D.",
+    "entry": "Sens, Andrew D., Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State from 1989 until 1990; Operation Center, Executive Secretariat, Department of State in 1991",
+    "sourceLine": "Sens, Andrew D., Director, Office of Environmental Protection, (Environment, Health, and Natural Resources), Bureau of Oceans and International Environmental and Scientific Affairs, Department of State [1989, 1990]; Operation Center, Executive Secretariat, Department of State [1991]",
+    "aliases": [
+      "andrew d sens",
+      "andrew sens"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-serrano-elias-jorge-antonio",
+    "sortName": "Serrano Elias",
+    "displayName": "Serrano Elias, Jorge Antonio",
+    "entry": "Serrano Elias, Jorge Antonio, President of Guatemala from January 14, 1991",
+    "sourceLine": "Serrano Elias, Jorge Antonio, President of Guatemala from January 14, 1991",
+    "aliases": [
+      "jorge antonio serrano elias",
+      "jorge serrano elias",
+      "jorge serrano"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081715",
+        "title": "Telcon with President Jorge Serrano of the Republic of Guatemala on June 11, 1991",
+        "date": "1991-06-11",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081931",
+        "title": "Meeting with Jorge Serrano, President of Guatemala, October 2, 1991",
+        "date": "1991-10-02",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-shamir-yitzhak",
+    "sortName": "Shamir",
+    "displayName": "Shamir, Yitzhak",
+    "entry": "Shamir, Yitzhak, Prime Minister of Israel",
+    "sourceLine": "Shamir, Yitzhak, Prime Minister of Israel",
+    "aliases": [
+      "yitzhak shamir"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 5,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080467",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, December 26, 1989",
+        "date": "1989-12-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079943",
+        "title": "One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989",
+        "date": "1989-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080205",
+        "title": "Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, August 9, 1989",
+        "date": "1989-08-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080513",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990",
+        "date": "1990-02-05",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081999",
+        "title": "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-shevardnadze-eduard",
+    "sortName": "Shevardnadze",
+    "displayName": "Shevardnadze, Eduard",
+    "entry": "Shevardnadze, Eduard, Soviet Foreign Minister until December 1990",
+    "sourceLine": "Shevardnadze, Eduard, Soviet Foreign Minister until December 1990",
+    "aliases": [
+      "eduard shevardnadze"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 4,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080627",
+        "title": "Meeting with Foreign Minister Eduard Shevardnadze of the Soviet Union, April 6, 1990",
+        "date": "1990-04-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081029",
+        "title": "Meeting with President Mikhail Gorbachev of the USSR, September 9, 1990 (2 of 3)",
+        "date": "1990-09-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081113",
+        "title": "Meeting with Foreign Minister Shevardnadze of the Soviet Union, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-shlaudeman-harry-w",
+    "sortName": "Shlaudeman",
+    "displayName": "Shlaudeman, Harry W.",
+    "entry": "Shlaudeman, Harry W., U.S. Ambassador to Brazil until May 14, 1989; Consultant, Department of State, from 1989 until 1990; U.S. Ambassador to Nicaragua from June 21, 1990, until March 14, 1992",
+    "sourceLine": "Shlaudeman, Harry W., U.S. Ambassador to Brazil until May 14, 1989; Consultant, Department of State, from 1989 until 1990; U.S. Ambassador to Nicaragua from June 21, 1990, until March 14, 1992",
+    "aliases": [
+      "harry w shlaudeman",
+      "harry shlaudeman"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-shurtleff-leonard-g",
+    "sortName": "Shurtleff",
+    "displayName": "Shurtleff, Leonard G.",
+    "entry": "Shurtleff, Leonard G., U.S. Ambassador to the Congo (Brazzaville) until July 5, 1990; Coordinator for Management Projects, Office of the Under Secretary of State for Management from 1990 until 1992",
+    "sourceLine": "Shurtleff, Leonard G., U.S. Ambassador to the Congo (Brazzaville) until July 5, 1990; Coordinator for Management Projects, Office of the Under Secretary of State for Management [1990-1992]",
+    "aliases": [
+      "leonard g shurtleff",
+      "leonard shurtleff"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080485",
+        "title": "Plenary Meeting with President Denis Sassou Nguesso of People's Republic of the Congo, February 12, 1990 (2 of 2)",
+        "date": "1990-02-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-skol-michael-m",
+    "sortName": "Skol",
+    "displayName": "Skol, Michael M.",
+    "entry": "Skol, Michael M., Deputy Assistant Secretary for South America, Bureau of Inter-American Affairs, Department of State from 1989 until 1990; U.S. Ambassador to Venezuela from November 19, 1990",
+    "sourceLine": "Skol, Michael M., Deputy Assistant Secretary for South America, Bureau of Inter-American Affairs, Department of State [1989, 1990]; U.S. Ambassador to Venezuela from November 19, 1990",
+    "aliases": [
+      "michael m skol",
+      "michael skol"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080181",
+        "title": "Meeting with Uruguayan President Julio Maria Sanguinetti, September 15, 1989",
+        "date": "1989-09-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081239",
+        "title": "Memorandum of Conversation of Expanded Bilateral Meeting with President Carlos Andres Perez of Venezuela, December 8, 1990",
+        "date": "1990-12-08",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081627",
+        "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+        "date": "1991-05-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-solana-morales-fernando",
+    "sortName": "Solana Morales",
+    "displayName": "Solana Morales, Fernando",
+    "entry": "Solana Morales, Fernando, Mexican Secretary of Foreign Affairs",
+    "sourceLine": "Solana Morales, Fernando, Mexican Secretary of Foreign Affairs",
+    "aliases": [
+      "fernando solana morales",
+      "fernando solana"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079933",
+        "title": "Meeting with Mexican Foreign Secretary Fernando Solana, March 20, 1989",
+        "date": "1989-03-20",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082079",
+        "title": "Meeting with President Carlos Salinas of Mexico, December 14, 1991",
+        "date": "1991-12-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-solomon-richard-h",
+    "sortName": "Solomon",
+    "displayName": "Solomon, Richard H.",
+    "entry": "Solomon, Richard H., Director, Policy Planning Staff, Department of State, until January 21, 1989; Assistant Secretary of State for East Asian and Pacific Affairs from June 23, 1989, until July 10, 1992; U.S. Ambassador to the Philippines from September 4, 1992",
+    "sourceLine": "Solomon, Richard H., Director, Policy Planning Staff, Department of State, until January 21, 1989; Assistant Secretary of State for East Asian and Pacific Affairs from June 23, 1989, until July 10, 1992; U.S. Ambassador to the Philippines from September 4, 1992",
+    "aliases": [
+      "richard h solomon",
+      "richard solomon"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080741",
+        "title": "Meeting with Roh Tae Woo, President of the Republic of Korea, June 6, 1990 (3 of 3)",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-sotirhos-michael",
+    "sortName": "Sotirhos",
+    "displayName": "Sotirhos, Michael",
+    "entry": "Sotirhos, Michael, U.S. Ambassador to Jamaica until July 7, 1989; U.S. Ambassador to Greece from October 6, 1989, until January 30, 1993",
+    "sourceLine": "Sotirhos, Michael, U.S. Ambassador to Jamaica until July 7, 1989; U.S. Ambassador to Greece from October 6, 1989, until January 30, 1993",
+    "aliases": [
+      "michael sotirhos"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079929",
+        "title": "Meeting with Prime Minister Manley of Jamaica, March 15, 1989",
+        "date": "1989-03-15",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-stoltenberg-gerhard",
+    "sortName": "Stoltenberg",
+    "displayName": "Stoltenberg, Gerhard",
+    "entry": "Stoltenberg, Gerhard, West German Minister of Defense until October 3, 1990; thereafter German Minister of Defense",
+    "sourceLine": "Stoltenberg, Gerhard, West German Minister of Defense until October 3, 1990; thereafter German Minister of Defense",
+    "aliases": [
+      "gerhard stoltenberg"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-stoltenberg-thorvald",
+    "sortName": "Stoltenberg",
+    "displayName": "Stoltenberg, Thorvald",
+    "entry": "Stoltenberg, Thorvald, United Nations High Commissioner for Refugees until November 1990; thereafter Norwegian Foreign Minister",
+    "sourceLine": "Stoltenberg, Thorvald, United Nations High Commissioner for Refugees until November 1990; thereafter Norwegian Foreign Minister",
+    "aliases": [
+      "thorvald stoltenberg"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-sununu-john-h",
+    "sortName": "Sununu",
+    "displayName": "Sununu, John H.",
+    "entry": "Sununu, John H., White House Chief of Staff from January 21, 1989, until December 15, 1991; Counselor to the President from December 16, 1991, until February 28, 1992",
+    "sourceLine": "Sununu, John H., White House Chief of Staff from January 21, 1989, until December 15, 1991; Counselor to the President from December 16, 1991, until February 28, 1992",
+    "aliases": [
+      "john h sununu",
+      "john sununu"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 47,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079859",
+        "title": "President's Meeting with Prime Minister Benazir Bhutto of Pakistan, February 24, 1989",
+        "date": "1989-02-24",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079869",
+        "title": "Meeting with President Ibrahim Babangida of Nigeria, February 25, 1989",
+        "date": "1989-02-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079941",
+        "title": "Meeting Between the President and Costa Rican President Arias, April 4, 1989",
+        "date": "1989-04-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080241",
+        "title": "Meeting with President Virgilio Barco of Colombia, September 28, 1989",
+        "date": "1989-09-28",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080485",
+        "title": "Plenary Meeting with President Denis Sassou Nguesso of People's Republic of the Congo, February 12, 1990 (2 of 2)",
+        "date": "1990-02-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080733",
+        "title": "Memorandum of Conversation with President Virgilio Barco of Colombia, June 5, 1990",
+        "date": "1990-06-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080777",
+        "title": "Meeting with Chatichai Chunhawan of Thailand, June 14, 1990 (2 of 3)",
+        "date": "1990-06-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080837",
+        "title": "Meeting with President-Elect Gaviria of Colombia, July 13, 1990",
+        "date": "1990-07-13",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080839",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (1 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080841",
+        "title": "Meeting with President Rodrigo Borja of Ecuador, July 23, 1990 (2 of 2)",
+        "date": "1990-07-23",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082499",
+        "title": "Meeting with President Cesar Gaviria of Colombia, February 26, 1991",
+        "date": "1991-02-26",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081585",
+        "title": "The President's Meeting with President Violeta Chamorro of Nicaragua, April 17, 1991",
+        "date": "1991-04-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081627",
+        "title": "Meeting with President Carlos Andres Perez of Venezuela, May 3, 1991",
+        "date": "1991-05-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081889",
+        "title": "Luncheon with Alberto Fujimori, President of Peru, September 17, 1991 (2 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081887",
+        "title": "Meeting with Alberto Fujimori, President of Peru, September 17, 1991 (1 of 2)",
+        "date": "1991-09-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081935",
+        "title": "Meeting with Jean-Bertrand Aristide, President of Haiti, October 4, 1991",
+        "date": "1991-10-04",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081943",
+        "title": "Meeting with President Calderon of the Republic of Costa Rica, October 10, 1991 (1 of 2)",
+        "date": "1991-10-10",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079913",
+        "title": "Plenary Meeting between President Bush and President Roh Tae Woo of Korea, and Lunch (2 of 2)",
+        "date": "1989-02-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079947",
+        "title": "Meeting with Foreign Minister Roland Dumas of France, April 11, 1989",
+        "date": "1989-04-11",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082475",
+        "title": "Meeting with Francesco Cossiga, Presidentof Italy, May 27, 1989",
+        "date": "1989-05-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080131",
+        "title": "Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080133",
+        "title": "Meeting with General Youssef Abu Talib, Defense Minister of Egypt",
+        "date": "1989-08-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080243",
+        "title": "Meeting with President Mubarak of Egypt, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080577",
+        "title": "Meeting with Prime Minister Giu1io Andreotti of Italy, March 6, 1990 (2 of 2)",
+        "date": "1990-03-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080693",
+        "title": "Plenary Meeting with President Ben Ali of Tunisia, May 15, 1990 (2 of 2)",
+        "date": "1990-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081029",
+        "title": "Meeting with President Mikhail Gorbachev of the USSR, September 9, 1990 (2 of 3)",
+        "date": "1990-09-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081131",
+        "title": "Meeting with Cardinal Casaroli of the Holy See, October 31, 1990",
+        "date": "1990-10-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081185",
+        "title": "Working Lunch with President Havel of Czechoslovakia, November 17, 1990 (2 of 2)",
+        "date": "1990-11-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081545",
+        "title": "Meeting with Arnold Ruutel, President of Estonia, March 29, 1991",
+        "date": "1991-03-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081681",
+        "title": "Meeting with Sir Anerood Jugnauth, Prime Minister of Mauritius, June 5, 1991 (1 of 3)",
+        "date": "1991-06-05",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081777",
+        "title": "President's Expanded Meeting with Prime Minister Mitsotakis of Greece, Ju 1 y 18, 1991",
+        "date": "1991-07-18",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081977",
+        "title": "Meeting with the Amir of Bahrain, October 15, 1991 (2 of 2)",
+        "date": "1991-10-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081983",
+        "title": "Meeting with Vaclav Havel, President of Czechoslovakia",
+        "date": "1991-10-22",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081993",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-tae-woo-roh",
+    "sortName": "Tae-woo",
+    "displayName": "Tae-woo, Roh",
+    "entry": "Tae-woo, Roh, President of the Republic of Korea",
+    "sourceLine": "Tae-woo, Roh, President of the Republic of Korea",
+    "aliases": [
+      "roh tae woo",
+      "roh tae"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428079913",
+        "title": "Plenary Meeting between President Bush and President Roh Tae Woo of Korea, and Lunch (2 of 2)",
+        "date": "1989-02-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080275",
+        "title": "Meeting with President Roh Tae Woo of the Republic of Korea, October 17, 1989",
+        "date": "1989-10-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080741",
+        "title": "Meeting with Roh Tae Woo, President of the Republic of Korea, June 6, 1990 (3 of 3)",
+        "date": "1990-06-06",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-thatcher-margaret",
+    "sortName": "Thatcher",
+    "displayName": "Thatcher, Margaret",
+    "entry": "Thatcher, Margaret, Prime Minister of the United Kingdom until November 28, 1990",
+    "sourceLine": "Thatcher, Margaret, Prime Minister of the United Kingdom until November 28, 1990",
+    "aliases": [
+      "margaret thatcher"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 6,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080147",
+        "title": "POINTS TO BE MADE FOR TELEPHONE CALL TO PRIME MINISTER THATCHER, July 27, 1989",
+        "date": "1989-07-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080219",
+        "title": "Telephone Conversation with Margaret Thatcher of the United Kingdom of Great Britain and Northern Ireland, September 5, 1989",
+        "date": "1989-09-05",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080829",
+        "title": "Opening Session of the 16th Economic Summit of Industrialized Nations, July 9, 1990 (2 of 2)",
+        "date": "1990-07-09",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080029",
+        "title": "Meeting with Margaret Thatcher, Prime Minister of the United Kingdom (2 of 2)",
+        "date": "1989-06-01",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080161",
+        "title": "Telephone Conversation with Margaret Thatcher, Prime Minister of The United Kingdom",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081005",
+        "title": "Telephone Call to Prime Minister Thatcher of the United Kingdom, August 31, 1990",
+        "date": "1990-08-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-todman-terence-a",
+    "sortName": "Todman",
+    "displayName": "Todman, Terence A.",
+    "entry": "Todman, Terence A., U.S. Ambassador to Denmark until January 8, 1989; U.S. Ambassador to Argentina from June 13, 1989",
+    "sourceLine": "Todman, Terence A., U.S. Ambassador to Denmark until January 8, 1989; U.S. Ambassador to Argentina from June 13, 1989",
+    "aliases": [
+      "terence a todman",
+      "terence todman"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080237",
+        "title": "Meeting with President Carlos Menem of Argentina, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-tull-theresa-a",
+    "sortName": "Tull",
+    "displayName": "Tull, Theresa A.",
+    "entry": "Tull, Theresa A., U.S. Ambassador to Guyana until July 10, 1990; Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State in 1992",
+    "sourceLine": "Tull, Theresa A., U.S. Ambassador to Guyana until July 10, 1990; Director, Office of Regional Affairs, Bureau of East Asian and Pacific Affairs, Department of State [1992]",
+    "aliases": [
+      "theresa a tull",
+      "theresa tull"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080045",
+        "title": "The President's Meeting with President Desmond Hoyte of Guyana, June 19, 1989",
+        "date": "1989-06-19",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-van-den-broek-hans",
+    "sortName": "Van den Broek",
+    "displayName": "Van den Broek, Hans",
+    "entry": "Van den Broek, Hans, Netherlands Prime Minister",
+    "sourceLine": "Van den Broek, Hans, Netherlands Prime Minister",
+    "aliases": [
+      "hans van den broek",
+      "hans van"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-vranitzky-franz-chancellor-of-austria",
+    "sortName": "Vranitzky",
+    "displayName": "Vranitzky, Franz, Chancellor of Austria",
+    "entry": "Vranitzky, Franz, Chancellor of Austria",
+    "sourceLine": "Vranitzky, Franz, Chancellor of Austria",
+    "aliases": [
+      "franz chancellor of austria vranitzky",
+      "franz vranitzky"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082133",
+        "title": "Meeting with Franz Vranitzky of Austria, January 31, 1992",
+        "date": "1992-01-31",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-walker-william-g",
+    "sortName": "Walker",
+    "displayName": "Walker, William G.",
+    "entry": "Walker, William G., U.S. Ambassador to El Salvador until February 21, 1992",
+    "sourceLine": "Walker, William G., U.S. Ambassador to El Salvador until February 21, 1992",
+    "aliases": [
+      "william g walker",
+      "william walker"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428081689",
+        "title": "Luncheon Meeting with Alfredo Cristiani, President of the Republic of EI Salvador, June 12, 1991 (2 of 2)",
+        "date": "1991-06-12",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-walters-lt-gen-vernon-a-usa-ret",
+    "sortName": "Walters",
+    "displayName": "Walters, Lt. Gen. Vernon A., USA (Ret.)",
+    "entry": "Walters, Lt. Gen. Vernon A., USA (Ret.), U.S. Permanent Representative to the United Nations until March 15, 1989; U.S. Ambassador to the Federal Republic of Germany from April 24, 1989, until October 3, 1990; thereafter U.S. Ambassador to Germany",
+    "sourceLine": "Walters, Lt. Gen. Vernon A., USA (Ret.), U.S. Permanent Representative to the United Nations until March 15, 1989; U.S. Ambassador to the Federal Republic of Germany from April 24, 1989, until October 3, 1990; thereafter U.S. Ambassador to Germany",
+    "aliases": [
+      "vernon a usa ret walters",
+      "vernon walters"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 2,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080699",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany (3 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080697",
+        "title": "Meeting with Helmut Kohl, Chancellor of the Federal Republic of Germany, May 17, 1990  (2 of 3)",
+        "date": "1990-05-17",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-welch-c-david",
+    "sortName": "Welch",
+    "displayName": "Welch, C. David",
+    "entry": "Welch, C. David, Director for Near East and South Asian Affairs, National Security Council staff from 1989 until 1990; Deputy Chief of Mission, U.S. Embassy in Riyadh in 1992; Charge d'Affaires ad Interim from August 1992",
+    "sourceLine": "Welch, C. David, Director for Near East and South Asian Affairs, National Security Council staff (1989, 1990); Deputy Chief of Mission, U.S. Embassy in Riyadh [1992]; Charge d’Affaires ad Interim from August 1992",
+    "aliases": [
+      "c david welch",
+      "david welch"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 10,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080059",
+        "title": "Telephone Conversation with President Mohammad Hosni Mubarak of Egypt, June 9, 1989",
+        "date": "1989-06-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080173",
+        "title": "Telephone Conversation with - President Mubarak of Egypt, August 9, 1989",
+        "date": "1989-08-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080205",
+        "title": "Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, August 9, 1989",
+        "date": "1989-08-09",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080433",
+        "title": "Meeting with Defense Minister Yitzhak Rabin of Israel, January 17, 1990",
+        "date": "1990-01-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080671",
+        "title": "Telephone Conversation with King Hussein of Jordan, April 23, 1990",
+        "date": "1990-04-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080669",
+        "title": "Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990",
+        "date": "1990-04-23",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080693",
+        "title": "Plenary Meeting with President Ben Ali of Tunisia, May 15, 1990 (2 of 2)",
+        "date": "1990-05-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080771",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 8, 1990",
+        "date": "1990-06-08",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080801",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 12, 1990",
+        "date": "1990-06-12",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080987",
+        "title": "Telephone Conversation with President Bendjedid of Algeria, August 29, 1990",
+        "date": "1990-08-29",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-wilkins-c-howard-jr",
+    "sortName": "Wilkins",
+    "displayName": "Wilkins, C. Howard, Jr.",
+    "entry": "Wilkins, C. Howard, Jr., U.S. Ambassador to the Netherlands from July 13, 1989, until July 11, 1992",
+    "sourceLine": "Wilkins, C. Howard, Jr., U.S. Ambassador to the Netherlands from July 13, 1989, until July 11, 1992",
+    "aliases": [
+      "c howard wilkins",
+      "howard wilkins"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-woerner-manfred",
+    "sortName": "Woerner",
+    "displayName": "Woerner, Manfred",
+    "entry": "Woerner, Manfred, Secretary General of the North Atlantic Treaty Organization",
+    "sourceLine": "Woerner, Manfred, Secretary General of the North Atlantic Treaty Organization",
+    "aliases": [
+      "manfred woerner"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080191",
+        "title": "President's Lunch for Allied Representatives, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-wolfowitz-paul-d",
+    "sortName": "Wolfowitz",
+    "displayName": "Wolfowitz, Paul D.",
+    "entry": "Wolfowitz, Paul D., U.S. Ambassador to Indonesia until May 12, 1989; Under Secretary of Defense for Policy from May 15, 1989, until January 19, 1993",
+    "sourceLine": "Wolfowitz, Paul D., U.S. Ambassador to Indonesia until May 12, 1989; Under Secretary of Defense for Policy from May 15, 1989, until January 19, 1993",
+    "aliases": [
+      "paul d wolfowitz",
+      "paul wolfowitz"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 3,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080189",
+        "title": "Meeting with Eduard Shevardnadze, Foreign Minister of the Soviet Union (1 of 2)",
+        "date": "1989-09-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081177",
+        "title": "Meeting with South Korean Minister of National Defense Lee Jong Koo, November 16, 1990",
+        "date": "1990-11-16",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081197",
+        "title": "Bilateral Meeting with Amir of Kuwait, November 21, 1990",
+        "date": "1990-11-21",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-yeltsin-boris-n",
+    "sortName": "Yeltsin",
+    "displayName": "Yeltsin, Boris N.",
+    "entry": "Yeltsin, Boris N., President of the Russian Federation",
+    "sourceLine": "Yeltsin, Boris N., President of the Russian Federation",
+    "aliases": [
+      "boris n yeltsin",
+      "boris yeltsin"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082097",
+        "title": "Telephone Conversation with President Boris Yeltsin of Russia, December 13,- 1991",
+        "date": "1991-12-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-zakhem-sam-h",
+    "sortName": "Zakhem",
+    "displayName": "Zakhem, Sam H.",
+    "entry": "Zakhem, Sam H., U.S. Ambassador to Bahrain until August 1, 1989",
+    "sourceLine": "Zakhem, Sam H., U.S. Ambassador to Bahrain until August 1, 1989",
+    "aliases": [
+      "sam h zakhem",
+      "sam zakhem"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080131",
+        "title": "Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-zelikow-philip",
+    "sortName": "Zelikow",
+    "displayName": "Zelikow, Philip",
+    "entry": "Zelikow, Philip, Director for European and Soviet Affairs, National Security Council staff from February 3, 1989, until January 1991",
+    "sourceLine": "Zelikow, Philip, Director for European and Soviet Affairs, National Security Council staff from February 3, 1989, until January 1991",
+    "aliases": [
+      "philip zelikow"
+    ],
+    "chapters": [
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 1,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428082475",
+        "title": "Meeting with Francesco Cossiga, Presidentof Italy, May 27, 1989",
+        "date": "1989-05-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  },
+  {
+    "id": "person-zoellick-robert-bruce",
+    "sortName": "Zoellick",
+    "displayName": "Zoellick, Robert Bruce",
+    "entry": "Zoellick, Robert Bruce, Counselor of the Department of State from March 2, 1989, until March 23, 1992; Undersecretary of State for Economic and Agricultural Affairs from May 20, 1991, until August 23, 1992; White House Deputy Chief of Staff from August 23, 1992, until January 20, 1993",
+    "sourceLine": "Zoellick, Robert Bruce, Counselor of the Department of State from March 2, 1989, until March 23, 1992; Undersecretary of State for Economic and Agricultural Affairs from May 20, 1991, until August 23, 1992; White House Deputy Chief of Staff from August 23, 1992, until January 20, 1993",
+    "aliases": [
+      "robert bruce zoellick",
+      "robert zoellick"
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      {
+        "number": 2,
+        "name": "Counterterrorism"
+      }
+    ],
+    "sourceTypes": [
+      "Declassified memcon/telcon"
+    ],
+    "referenceCount": 7,
+    "references": [
+      {
+        "kind": "conversation",
+        "id": "conversation-428080245",
+        "title": "Meeting with Mexican President Carlos Salinas de Gortari, October 3, 1989",
+        "date": "1989-10-03",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081225",
+        "title": "Memorandum of Conversation with President Carlos Salinas of Mexico, November 27, 1990",
+        "date": "1990-11-27",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428082079",
+        "title": "Meeting with President Carlos Salinas of Mexico, December 14, 1991",
+        "date": "1991-12-14",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428079913",
+        "title": "Plenary Meeting between President Bush and President Roh Tae Woo of Korea, and Lunch (2 of 2)",
+        "date": "1989-02-27",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428080103",
+        "title": "Meeting with Ruud Lubbers, Prime Minister of the Netherlands (1 of 2)",
+        "date": "1989-07-17",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081135",
+        "title": "Meeting with Prime Minister Andreotti of Italy, November 13, 1990 (2 of 2)",
+        "date": "1990-11-13",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      },
+      {
+        "kind": "conversation",
+        "id": "conversation-428081739",
+        "title": "Meeting with Giulio Andreotti, Prime Minister of Italy on July 15, 1991",
+        "date": "1991-07-15",
+        "chapter": {
+          "number": 2,
+          "name": "Counterterrorism"
+        }
+      }
+    ]
+  }
+];
