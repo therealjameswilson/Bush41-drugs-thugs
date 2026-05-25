@@ -45,12 +45,12 @@ The workbench supports:
 
 The workbench reflects FRUS production practice: it keeps chronological
 arrangement central, treats source-note metadata as something to verify in the
-PDF, and separates discovery evidence from final editorial selection.
-The source-note drafts follow the compact pattern used in FRUS 1989-1992,
-Volume XXXI: repository and collection path first, then status/classification
-information when verified. Because this site has Catalog metadata rather than
-page-level archival review, original classification, distribution, drafting,
-and meeting-place details remain explicit PDF-verification tasks.
+PDF, and separates discovery evidence from final editorial selection. Source-note
+drafts follow the compact pattern used in FRUS 1989-1992, Volume XXXI:
+repository and collection path first, then classification when the PDF extraction
+supports it. Catalog URLs, NAIDs, digital-object details, FOIA numbers, and
+access flags are kept in the separate Catalog trail rather than the source-note
+line.
 
 ## Source Collections
 
@@ -65,6 +65,7 @@ Refresh the public chronology with:
 ```bash
 node scripts/harvest-presidential-conversations.js
 node scripts/enrich-conversation-pdfs.js
+node scripts/refresh-source-notes.js
 ```
 
 This writes:
@@ -73,6 +74,7 @@ This writes:
 - `data/records.js`
 - `reports/presidential-conversation-harvest.json`
 - `reports/conversation-pdf-enrichment.json`
+- `reports/source-notes-refresh.json`
 
 The enrichment step downloads the online conversation PDFs into `.cache`,
 measures page counts with `pdfinfo`, extracts first-page text with `pdftotext`,
@@ -118,6 +120,7 @@ After running the broad harvesters, rebuild the site-level risk data with:
 
 ```bash
 node scripts/build-compiler-risk-data.js
+node scripts/refresh-source-notes.js
 ```
 
 This writes:

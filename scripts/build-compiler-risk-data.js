@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const { notesFromCompilerGap } = require("./frus-source-notes");
 
 const repoRoot = path.resolve(__dirname, "..");
 
@@ -212,6 +213,7 @@ function normalizeGap(record, reportName) {
   const chapter = chapterObject(record.chapter);
   const priority = priorityFor(record, category);
   const eventTags = eventTagsFor(record);
+  const notes = notesFromCompilerGap(record);
 
   return {
     id: `gap-${record.naid || slug(record.title)}`,
@@ -223,6 +225,8 @@ function normalizeGap(record, reportName) {
     category,
     documentType: record.documentType || category,
     sourceName: record.source?.shortName || record.source?.title || reportName,
+    sourceCollection: notes.sourceCollection || "",
+    sourceFolder: notes.sourceFolder || "",
     priority,
     eventTags,
     catalogUrl: record.catalogUrl || (record.naid ? `https://catalog.archives.gov/id/${record.naid}` : ""),
@@ -233,8 +237,9 @@ function normalizeGap(record, reportName) {
     containerId: record.containerId || "",
     releaseStatus: record.releaseStatus || "",
     accessRestrictionStatus: record.accessRestrictionStatus || "",
-    sourceNote: record.sourceNote || "",
-    frusSourceNote: record.frusSourceNote || record.sourceNote || "",
+    sourceNote: notes.sourceNote,
+    frusSourceNote: notes.sourceNote,
+    catalogTrail: notes.catalogTrail,
     matchedQueries: record.matchedQueries || [],
     sourceConfidence: confidenceFor(record),
     why: whyFor(record, category),
