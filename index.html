@@ -92,6 +92,10 @@
           <p>public statements</p>
         </div>
         <div>
+          <span id="total-schedule-references">0</span>
+          <p>Daily Diary controls</p>
+        </div>
+        <div>
           <span id="total-persons">0</span>
           <p>persons</p>
         </div>
@@ -521,6 +525,7 @@
         <div class="source-grid">
           <a href="https://catalog.archives.gov/id/321498039">Presidential Memcon Files</a>
           <a href="https://catalog.archives.gov/id/321498139">Presidential Telcon Files</a>
+          <a href="https://catalog.archives.gov/id/186322">Presidential Daily Diary and Daily Backup Materials</a>
           <a href="https://catalog.archives.gov/id/312294079">NSC/DC Meetings</a>
           <a href="https://catalog.archives.gov/id/580456">Chief of Staff Files</a>
           <a href="https://catalog.archives.gov/id/564645">WHORM Files</a>
@@ -538,7 +543,9 @@
           Run <code>node scripts/harvest-presidential-conversations.js</code> to refresh the public
           chronology from the Presidential Memcon and Telcon Files, then run
           <code>node scripts/enrich-conversation-pdfs.js</code> to measure pages and extract first-page
-          verification metadata. The broader harvest scripts and reports remain in the repository for
+          verification metadata. Run <code>node scripts/harvest-daily-diary-references.js</code> to add
+          same-day Presidential Daily Diary and Daily Backup control references for meetings and calls.
+          The broader harvest scripts and reports remain in the repository for
           source discovery, while this site publishes declassified conversations plus explicit gap queues
           for compiler risk. Run
           <code>node scripts/harvest-public-statements.js</code> to refresh the GovInfo Public Papers
@@ -556,6 +563,7 @@
     </footer>
     <script src="data/records.js"></script>
     <script src="data/public-statements.js"></script>
+    <script src="data/schedule-references.js"></script>
     <script src="data/persons.js"></script>
     <script src="data/event-dossiers.js"></script>
     <script src="data/compiler-gaps.js"></script>

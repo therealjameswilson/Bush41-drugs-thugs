@@ -1,0 +1,4426 @@
+{
+  "generatedAt": "2026-05-26T02:03:52.568Z",
+  "series": {
+    "naid": "186322",
+    "title": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "url": "https://catalog.archives.gov/id/186322"
+  },
+  "matchMethod": "Exact-date query under NAID 186322 using quoted M/D/YYYY dates from the Volume XXVIII memcon/telcon chronology.",
+  "scopeNote": "These are same-day schedule-control references from the Presidential Daily Diary/Daily Backup series. They should be used for calendar corroboration and FRUS editorial notes, not as substitute conversation transcripts.",
+  "recordCount": 209,
+  "uniqueRecordDates": 166,
+  "scheduleReferenceCount": 338,
+  "datesWithScheduleReferences": 166,
+  "recordsWithScheduleReferences": 209,
+  "recordsWithoutScheduleReferences": 0,
+  "byType": {
+    "Presidential Daily Backup": 167,
+    "Presidential Daily Diary": 164,
+    "President's Daily Diary Entry": 7
+  },
+  "unmatchedDates": [],
+  "queryAudit": [
+    {
+      "date": "1989-02-24",
+      "query": "2/24/1989",
+      "queryResults": [
+        {
+          "query": "2/24/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/24/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 24, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415889668",
+        "415889669"
+      ]
+    },
+    {
+      "date": "1989-02-25",
+      "query": "2/25/1989",
+      "queryResults": [
+        {
+          "query": "2/25/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/25/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 25, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889671",
+        "415889670"
+      ]
+    },
+    {
+      "date": "1989-02-26",
+      "query": "2/26/1989",
+      "queryResults": [
+        {
+          "query": "2/26/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/26/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 26, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415889673",
+        "415889672"
+      ]
+    },
+    {
+      "date": "1989-02-27",
+      "query": "2/27/1989",
+      "queryResults": [
+        {
+          "query": "2/27/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/27/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 27, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889675",
+        "415889674"
+      ]
+    },
+    {
+      "date": "1989-03-10",
+      "query": "3/10/1989",
+      "queryResults": [
+        {
+          "query": "3/10/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/10/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 10, 1989",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415889697",
+        "415889696"
+      ]
+    },
+    {
+      "date": "1989-03-13",
+      "query": "3/13/1989",
+      "queryResults": [
+        {
+          "query": "3/13/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/13/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 13, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415889703",
+        "415889702"
+      ]
+    },
+    {
+      "date": "1989-03-15",
+      "query": "3/15/1989",
+      "queryResults": [
+        {
+          "query": "3/15/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/15/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 15, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415889707",
+        "415889706"
+      ]
+    },
+    {
+      "date": "1989-03-20",
+      "query": "3/20/1989",
+      "queryResults": [
+        {
+          "query": "3/20/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/20/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 20, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889717",
+        "415889716"
+      ]
+    },
+    {
+      "date": "1989-03-22",
+      "query": "3/22/1989",
+      "queryResults": [
+        {
+          "query": "3/22/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/22/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 22, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889721",
+        "415889720"
+      ]
+    },
+    {
+      "date": "1989-04-04",
+      "query": "4/4/1989",
+      "queryResults": [
+        {
+          "query": "4/4/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "4/04/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/4/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/04/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 4, 1989",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415889747",
+        "415889746"
+      ]
+    },
+    {
+      "date": "1989-04-06",
+      "query": "4/6/1989",
+      "queryResults": [
+        {
+          "query": "4/6/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "4/06/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/6/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/06/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 6, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415889751",
+        "415889750"
+      ]
+    },
+    {
+      "date": "1989-04-11",
+      "query": "4/11/1989",
+      "queryResults": [
+        {
+          "query": "4/11/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/11/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 11, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889760",
+        "415889761"
+      ]
+    },
+    {
+      "date": "1989-04-14",
+      "query": "4/14/1989",
+      "queryResults": [
+        {
+          "query": "4/14/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/14/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 14, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889767",
+        "415889766"
+      ]
+    },
+    {
+      "date": "1989-04-19",
+      "query": "4/19/1989",
+      "queryResults": [
+        {
+          "query": "4/19/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/19/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 19, 1989",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415889777",
+        "415889776"
+      ]
+    },
+    {
+      "date": "1989-04-20",
+      "query": "4/20/1989",
+      "queryResults": [
+        {
+          "query": "4/20/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/20/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 20, 1989",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415889779",
+        "415889778"
+      ]
+    },
+    {
+      "date": "1989-04-22",
+      "query": "4/22/1989",
+      "queryResults": [
+        {
+          "query": "4/22/1989",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "04/22/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 22, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415889783",
+        "415889782"
+      ]
+    },
+    {
+      "date": "1989-04-28",
+      "query": "4/28/1989",
+      "queryResults": [
+        {
+          "query": "4/28/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/28/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 28, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889794",
+        "415889795"
+      ]
+    },
+    {
+      "date": "1989-05-11",
+      "query": "5/11/1989",
+      "queryResults": [
+        {
+          "query": "5/11/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "05/11/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 11, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415889821",
+        "415889820"
+      ]
+    },
+    {
+      "date": "1989-05-13",
+      "query": "5/13/1989",
+      "queryResults": [
+        {
+          "query": "5/13/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "05/13/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 13, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889824",
+        "415889825"
+      ]
+    },
+    {
+      "date": "1989-05-15",
+      "query": "5/15/1989",
+      "queryResults": [
+        {
+          "query": "5/15/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "05/15/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 15, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889829",
+        "415889828"
+      ]
+    },
+    {
+      "date": "1989-05-20",
+      "query": "5/20/1989",
+      "queryResults": [
+        {
+          "query": "5/20/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "05/20/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 20, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415889839",
+        "415889838"
+      ]
+    },
+    {
+      "date": "1989-05-27",
+      "query": "5/27/1989",
+      "queryResults": [
+        {
+          "query": "5/27/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "05/27/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 27, 1989",
+          "total": 1,
+          "hits": 1
+        }
+      ],
+      "keptReferences": [
+        "415889853",
+        "415889852"
+      ]
+    },
+    {
+      "date": "1989-06-01",
+      "query": "6/1/1989",
+      "queryResults": [
+        {
+          "query": "6/1/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/01/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/1/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/01/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 1, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889863",
+        "415889862"
+      ]
+    },
+    {
+      "date": "1989-06-09",
+      "query": "6/9/1989",
+      "queryResults": [
+        {
+          "query": "6/9/1989",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "6/09/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/9/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/09/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 9, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415889879",
+        "415889878"
+      ]
+    },
+    {
+      "date": "1989-06-19",
+      "query": "6/19/1989",
+      "queryResults": [
+        {
+          "query": "6/19/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "06/19/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 19, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415889898",
+        "415889899"
+      ]
+    },
+    {
+      "date": "1989-07-07",
+      "query": "7/7/1989",
+      "queryResults": [
+        {
+          "query": "7/7/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "7/07/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/7/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/07/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 7, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889934",
+        "415889935"
+      ]
+    },
+    {
+      "date": "1989-07-15",
+      "query": "7/15/1989",
+      "queryResults": [
+        {
+          "query": "7/15/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/15/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 15, 1989",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415889951",
+        "415889950"
+      ]
+    },
+    {
+      "date": "1989-07-17",
+      "query": "7/17/1989",
+      "queryResults": [
+        {
+          "query": "7/17/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/17/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 17, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889955",
+        "415889954"
+      ]
+    },
+    {
+      "date": "1989-07-20",
+      "query": "7/20/1989",
+      "queryResults": [
+        {
+          "query": "7/20/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/20/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 20, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889961",
+        "415889960"
+      ]
+    },
+    {
+      "date": "1989-07-24",
+      "query": "7/24/1989",
+      "queryResults": [
+        {
+          "query": "7/24/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/24/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 24, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889968",
+        "415889969"
+      ]
+    },
+    {
+      "date": "1989-07-27",
+      "query": "7/27/1989",
+      "queryResults": [
+        {
+          "query": "7/27/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/27/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 27, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415889974",
+        "415889975"
+      ]
+    },
+    {
+      "date": "1989-08-01",
+      "query": "8/1/1989",
+      "queryResults": [
+        {
+          "query": "8/1/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "8/01/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/1/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/01/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 1, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415889985",
+        "415889984"
+      ]
+    },
+    {
+      "date": "1989-08-02",
+      "query": "8/2/1989",
+      "queryResults": [
+        {
+          "query": "8/2/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "8/02/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/2/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/02/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 2, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415889986",
+        "415889987"
+      ]
+    },
+    {
+      "date": "1989-08-03",
+      "query": "8/3/1989",
+      "queryResults": [
+        {
+          "query": "8/3/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "8/03/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/3/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/03/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 3, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889989",
+        "415889988"
+      ]
+    },
+    {
+      "date": "1989-08-04",
+      "query": "8/4/1989",
+      "queryResults": [
+        {
+          "query": "8/4/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "8/04/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/4/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/04/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 4, 1989",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415889990",
+        "415889991"
+      ]
+    },
+    {
+      "date": "1989-08-05",
+      "query": "8/5/1989",
+      "queryResults": [
+        {
+          "query": "8/5/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "8/05/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/5/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/05/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 5, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889993",
+        "415889992"
+      ]
+    },
+    {
+      "date": "1989-08-08",
+      "query": "8/8/1989",
+      "queryResults": [
+        {
+          "query": "8/8/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "8/08/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/8/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/08/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 8, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415889998",
+        "415889999"
+      ]
+    },
+    {
+      "date": "1989-08-09",
+      "query": "8/9/1989",
+      "queryResults": [
+        {
+          "query": "8/9/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "8/09/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/9/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "08/09/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 9, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890001",
+        "415890000"
+      ]
+    },
+    {
+      "date": "1989-08-21",
+      "query": "8/21/1989",
+      "queryResults": [
+        {
+          "query": "8/21/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/21/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 21, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890025",
+        "415890024"
+      ]
+    },
+    {
+      "date": "1989-08-26",
+      "query": "8/26/1989",
+      "queryResults": [
+        {
+          "query": "8/26/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/26/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 26, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890035",
+        "415890034"
+      ]
+    },
+    {
+      "date": "1989-08-28",
+      "query": "8/28/1989",
+      "queryResults": [
+        {
+          "query": "8/28/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/28/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 28, 1989",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890038",
+        "415890039"
+      ]
+    },
+    {
+      "date": "1989-09-05",
+      "query": "9/5/1989",
+      "queryResults": [
+        {
+          "query": "9/5/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "9/05/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/5/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/05/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 5, 1989",
+          "total": 17,
+          "hits": 17
+        }
+      ],
+      "keptReferences": [
+        "415890055",
+        "415890054"
+      ]
+    },
+    {
+      "date": "1989-09-15",
+      "query": "9/15/1989",
+      "queryResults": [
+        {
+          "query": "9/15/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/15/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 15, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890075",
+        "415890074"
+      ]
+    },
+    {
+      "date": "1989-09-20",
+      "query": "9/20/1989",
+      "queryResults": [
+        {
+          "query": "9/20/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/20/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 20, 1989",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415890084",
+        "415890085"
+      ]
+    },
+    {
+      "date": "1989-09-21",
+      "query": "9/21/1989",
+      "queryResults": [
+        {
+          "query": "9/21/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/21/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 21, 1989",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415890087",
+        "415890086"
+      ]
+    },
+    {
+      "date": "1989-09-25",
+      "query": "9/25/1989",
+      "queryResults": [
+        {
+          "query": "9/25/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/25/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 25, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890094",
+        "415890095"
+      ]
+    },
+    {
+      "date": "1989-09-26",
+      "query": "9/26/1989",
+      "queryResults": [
+        {
+          "query": "9/26/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/26/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 26, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890096",
+        "415890097"
+      ]
+    },
+    {
+      "date": "1989-09-27",
+      "query": "9/27/1989",
+      "queryResults": [
+        {
+          "query": "9/27/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/27/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 27, 1989",
+          "total": 1,
+          "hits": 1
+        }
+      ],
+      "keptReferences": [
+        "415890099",
+        "415890098"
+      ]
+    },
+    {
+      "date": "1989-09-28",
+      "query": "9/28/1989",
+      "queryResults": [
+        {
+          "query": "9/28/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/28/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 28, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890101",
+        "415890100"
+      ]
+    },
+    {
+      "date": "1989-10-02",
+      "query": "10/2/1989",
+      "queryResults": [
+        {
+          "query": "10/2/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "10/02/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "October 2, 1989",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415890109",
+        "415890108"
+      ]
+    },
+    {
+      "date": "1989-10-03",
+      "query": "10/3/1989",
+      "queryResults": [
+        {
+          "query": "10/3/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "10/03/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "October 3, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890110",
+        "415890111"
+      ]
+    },
+    {
+      "date": "1989-10-17",
+      "query": "10/17/1989",
+      "queryResults": [
+        {
+          "query": "10/17/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 17, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890139",
+        "415890138"
+      ]
+    },
+    {
+      "date": "1989-10-18",
+      "query": "10/18/1989",
+      "queryResults": [
+        {
+          "query": "10/18/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 18, 1989",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890141",
+        "415890140"
+      ]
+    },
+    {
+      "date": "1989-10-30",
+      "query": "10/30/1989",
+      "queryResults": [
+        {
+          "query": "10/30/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 30, 1989",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415890165",
+        "415890164"
+      ]
+    },
+    {
+      "date": "1989-12-02",
+      "query": "12/2/1989",
+      "queryResults": [
+        {
+          "query": "12/2/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "12/02/1989",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "December 2, 1989",
+          "total": 1,
+          "hits": 1
+        }
+      ],
+      "keptReferences": [
+        "415890231",
+        "415890230"
+      ]
+    },
+    {
+      "date": "1989-12-20",
+      "query": "12/20/1989",
+      "queryResults": [
+        {
+          "query": "12/20/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "December 20, 1989",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415890267",
+        "415890266"
+      ]
+    },
+    {
+      "date": "1989-12-26",
+      "query": "12/26/1989",
+      "queryResults": [
+        {
+          "query": "12/26/1989",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "December 26, 1989",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890279",
+        "415890278"
+      ]
+    },
+    {
+      "date": "1990-01-17",
+      "query": "1/17/1990",
+      "queryResults": [
+        {
+          "query": "1/17/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "01/17/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "January 17, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890323",
+        "415890322"
+      ]
+    },
+    {
+      "date": "1990-01-28",
+      "query": "1/28/1990",
+      "queryResults": [
+        {
+          "query": "1/28/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "01/28/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "January 28, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890345",
+        "415890344"
+      ]
+    },
+    {
+      "date": "1990-02-05",
+      "query": "2/5/1990",
+      "queryResults": [
+        {
+          "query": "2/5/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "2/05/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/5/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/05/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 5, 1990",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415890361",
+        "415890360"
+      ]
+    },
+    {
+      "date": "1990-02-12",
+      "query": "2/12/1990",
+      "queryResults": [
+        {
+          "query": "2/12/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/12/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 12, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890375",
+        "415890374"
+      ]
+    },
+    {
+      "date": "1990-02-15",
+      "query": "2/15/1990",
+      "queryResults": [
+        {
+          "query": "2/15/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/15/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 15, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890381",
+        "415890380"
+      ]
+    },
+    {
+      "date": "1990-03-06",
+      "query": "3/6/1990",
+      "queryResults": [
+        {
+          "query": "3/6/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "3/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "03/6/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "03/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 6, 1990",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415890419",
+        "415890418"
+      ]
+    },
+    {
+      "date": "1990-03-14",
+      "query": "3/14/1990",
+      "queryResults": [
+        {
+          "query": "3/14/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/14/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 14, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890434",
+        "415890435"
+      ]
+    },
+    {
+      "date": "1990-03-17",
+      "query": "3/17/1990",
+      "queryResults": [
+        {
+          "query": "3/17/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/17/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 17, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890440",
+        "415890441"
+      ]
+    },
+    {
+      "date": "1990-04-06",
+      "query": "4/6/1990",
+      "queryResults": [
+        {
+          "query": "4/6/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "4/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/6/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 6, 1990",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415890481",
+        "415890480"
+      ]
+    },
+    {
+      "date": "1990-04-23",
+      "query": "4/23/1990",
+      "queryResults": [
+        {
+          "query": "4/23/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/23/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 23, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890515",
+        "415890514"
+      ]
+    },
+    {
+      "date": "1990-04-27",
+      "query": "4/27/1990",
+      "queryResults": [
+        {
+          "query": "4/27/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/27/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 27, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890522",
+        "415890523"
+      ]
+    },
+    {
+      "date": "1990-05-04",
+      "query": "5/4/1990",
+      "queryResults": [
+        {
+          "query": "5/4/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "5/04/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "05/4/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "05/04/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 4, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890537",
+        "415890536"
+      ]
+    },
+    {
+      "date": "1990-05-08",
+      "query": "5/8/1990",
+      "queryResults": [
+        {
+          "query": "5/8/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "5/08/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "05/8/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "05/08/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 8, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890544",
+        "415890545"
+      ]
+    },
+    {
+      "date": "1990-05-15",
+      "query": "5/15/1990",
+      "queryResults": [
+        {
+          "query": "5/15/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "05/15/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 15, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890559",
+        "415890558"
+      ]
+    },
+    {
+      "date": "1990-05-17",
+      "query": "5/17/1990",
+      "queryResults": [
+        {
+          "query": "5/17/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "05/17/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 17, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890563",
+        "415890562"
+      ]
+    },
+    {
+      "date": "1990-06-02",
+      "query": "6/2/1990",
+      "queryResults": [
+        {
+          "query": "6/2/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/02/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/2/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/02/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 2, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890594",
+        "415890595"
+      ]
+    },
+    {
+      "date": "1990-06-04",
+      "query": "6/4/1990",
+      "queryResults": [
+        {
+          "query": "6/4/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/04/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/4/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/04/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 4, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890598",
+        "415890599"
+      ]
+    },
+    {
+      "date": "1990-06-05",
+      "query": "6/5/1990",
+      "queryResults": [
+        {
+          "query": "6/5/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/05/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/5/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/05/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 5, 1990",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415890600",
+        "415890601"
+      ]
+    },
+    {
+      "date": "1990-06-06",
+      "query": "6/6/1990",
+      "queryResults": [
+        {
+          "query": "6/6/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/6/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 6, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890603",
+        "415890602"
+      ]
+    },
+    {
+      "date": "1990-06-08",
+      "query": "6/8/1990",
+      "queryResults": [
+        {
+          "query": "6/8/1990",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "6/08/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/8/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/08/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 8, 1990",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415890606",
+        "415890607"
+      ]
+    },
+    {
+      "date": "1990-06-12",
+      "query": "6/12/1990",
+      "queryResults": [
+        {
+          "query": "6/12/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "06/12/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 12, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890614",
+        "415890615"
+      ]
+    },
+    {
+      "date": "1990-06-14",
+      "query": "6/14/1990",
+      "queryResults": [
+        {
+          "query": "6/14/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "06/14/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 14, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890619",
+        "415890618"
+      ]
+    },
+    {
+      "date": "1990-06-23",
+      "query": "6/23/1990",
+      "queryResults": [
+        {
+          "query": "6/23/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "06/23/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 23, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890636",
+        "415890637"
+      ]
+    },
+    {
+      "date": "1990-07-09",
+      "query": "7/9/1990",
+      "queryResults": [
+        {
+          "query": "7/9/1990",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "7/09/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/9/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/09/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 9, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890669",
+        "415890668"
+      ]
+    },
+    {
+      "date": "1990-07-13",
+      "query": "7/13/1990",
+      "queryResults": [
+        {
+          "query": "7/13/1990",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "07/13/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 13, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890677",
+        "415890676"
+      ]
+    },
+    {
+      "date": "1990-07-23",
+      "query": "7/23/1990",
+      "queryResults": [
+        {
+          "query": "7/23/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/23/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 23, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890697",
+        "415890696"
+      ]
+    },
+    {
+      "date": "1990-07-31",
+      "query": "7/31/1990",
+      "queryResults": [
+        {
+          "query": "7/31/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/31/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 31, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890713",
+        "415890712"
+      ]
+    },
+    {
+      "date": "1990-08-13",
+      "query": "8/13/1990",
+      "queryResults": [
+        {
+          "query": "8/13/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/13/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 13, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890739",
+        "415890738"
+      ]
+    },
+    {
+      "date": "1990-08-20",
+      "query": "8/20/1990",
+      "queryResults": [
+        {
+          "query": "8/20/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/20/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 20, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890753",
+        "415890752"
+      ]
+    },
+    {
+      "date": "1990-08-29",
+      "query": "8/29/1990",
+      "queryResults": [
+        {
+          "query": "8/29/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/29/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 29, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890771",
+        "415890770"
+      ]
+    },
+    {
+      "date": "1990-08-31",
+      "query": "8/31/1990",
+      "queryResults": [
+        {
+          "query": "8/31/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/31/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 31, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890775",
+        "415890774"
+      ]
+    },
+    {
+      "date": "1990-09-01",
+      "query": "9/1/1990",
+      "queryResults": [
+        {
+          "query": "9/1/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "9/01/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/1/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/01/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 1, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890776",
+        "415890777"
+      ]
+    },
+    {
+      "date": "1990-09-06",
+      "query": "9/6/1990",
+      "queryResults": [
+        {
+          "query": "9/6/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "9/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/6/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/06/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 6, 1990",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415890787",
+        "415890786"
+      ]
+    },
+    {
+      "date": "1990-09-09",
+      "query": "9/9/1990",
+      "queryResults": [
+        {
+          "query": "9/9/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "9/09/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/9/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "09/09/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 9, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890793",
+        "415890792"
+      ]
+    },
+    {
+      "date": "1990-09-10",
+      "query": "9/10/1990",
+      "queryResults": [
+        {
+          "query": "9/10/1990",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "09/10/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 10, 1990",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415890794",
+        "415890795"
+      ]
+    },
+    {
+      "date": "1990-09-11",
+      "query": "9/11/1990",
+      "queryResults": [
+        {
+          "query": "9/11/1990",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "09/11/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 11, 1990",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415890797",
+        "415890796"
+      ]
+    },
+    {
+      "date": "1990-09-29",
+      "query": "9/29/1990",
+      "queryResults": [
+        {
+          "query": "9/29/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/29/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 29, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890833",
+        "415890832"
+      ]
+    },
+    {
+      "date": "1990-09-30",
+      "query": "9/30/1990",
+      "queryResults": [
+        {
+          "query": "9/30/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/30/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 30, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890834",
+        "415890835"
+      ]
+    },
+    {
+      "date": "1990-10-01",
+      "query": "10/1/1990",
+      "queryResults": [
+        {
+          "query": "10/1/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "10/01/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 1, 1990",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415890836",
+        "415890837"
+      ]
+    },
+    {
+      "date": "1990-10-02",
+      "query": "10/2/1990",
+      "queryResults": [
+        {
+          "query": "10/2/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "10/02/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "October 2, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890839",
+        "415890838"
+      ]
+    },
+    {
+      "date": "1990-10-25",
+      "query": "10/25/1990",
+      "queryResults": [
+        {
+          "query": "10/25/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 25, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890887",
+        "415890886"
+      ]
+    },
+    {
+      "date": "1990-10-26",
+      "query": "10/26/1990",
+      "queryResults": [
+        {
+          "query": "10/26/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 26, 1990",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415890889",
+        "415890888"
+      ]
+    },
+    {
+      "date": "1990-10-31",
+      "query": "10/31/1990",
+      "queryResults": [
+        {
+          "query": "10/31/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 31, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890899",
+        "415890898"
+      ]
+    },
+    {
+      "date": "1990-11-13",
+      "query": "11/13/1990",
+      "queryResults": [
+        {
+          "query": "11/13/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 13, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890924",
+        "415890925"
+      ]
+    },
+    {
+      "date": "1990-11-15",
+      "query": "11/15/1990",
+      "queryResults": [
+        {
+          "query": "11/15/1990",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "November 15, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890929",
+        "415890928"
+      ]
+    },
+    {
+      "date": "1990-11-16",
+      "query": "11/16/1990",
+      "queryResults": [
+        {
+          "query": "11/16/1990",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "November 16, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890931"
+      ]
+    },
+    {
+      "date": "1990-11-17",
+      "query": "11/17/1990",
+      "queryResults": [
+        {
+          "query": "11/17/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 17, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890933",
+        "415890932"
+      ]
+    },
+    {
+      "date": "1990-11-18",
+      "query": "11/18/1990",
+      "queryResults": [
+        {
+          "query": "11/18/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 18, 1990",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415890935",
+        "415890934"
+      ]
+    },
+    {
+      "date": "1990-11-19",
+      "query": "11/19/1990",
+      "queryResults": [
+        {
+          "query": "11/19/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 19, 1990",
+          "total": 1,
+          "hits": 1
+        }
+      ],
+      "keptReferences": [
+        "415890937",
+        "415890936"
+      ]
+    },
+    {
+      "date": "1990-11-21",
+      "query": "11/21/1990",
+      "queryResults": [
+        {
+          "query": "11/21/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 21, 1990",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415890941",
+        "415890940"
+      ]
+    },
+    {
+      "date": "1990-11-23",
+      "query": "11/23/1990",
+      "queryResults": [
+        {
+          "query": "11/23/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 23, 1990",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415890944",
+        "415890945"
+      ]
+    },
+    {
+      "date": "1990-11-27",
+      "query": "11/27/1990",
+      "queryResults": [
+        {
+          "query": "11/27/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 27, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890953",
+        "415890952"
+      ]
+    },
+    {
+      "date": "1990-11-28",
+      "query": "11/28/1990",
+      "queryResults": [
+        {
+          "query": "11/28/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 28, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890955",
+        "415890954"
+      ]
+    },
+    {
+      "date": "1990-12-08",
+      "query": "12/8/1990",
+      "queryResults": [
+        {
+          "query": "12/8/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "12/08/1990",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "December 8, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415890975",
+        "415890974"
+      ]
+    },
+    {
+      "date": "1990-12-17",
+      "query": "12/17/1990",
+      "queryResults": [
+        {
+          "query": "12/17/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "December 17, 1990",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415890992",
+        "415890993"
+      ]
+    },
+    {
+      "date": "1990-12-21",
+      "query": "12/21/1990",
+      "queryResults": [
+        {
+          "query": "12/21/1990",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "December 21, 1990",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891000",
+        "415891001"
+      ]
+    },
+    {
+      "date": "1991-01-21",
+      "query": "1/21/1991",
+      "queryResults": [
+        {
+          "query": "1/21/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "01/21/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "January 21, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891063",
+        "415891062",
+        "186327"
+      ]
+    },
+    {
+      "date": "1991-01-28",
+      "query": "1/28/1991",
+      "queryResults": [
+        {
+          "query": "1/28/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "01/28/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "January 28, 1991",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415891077",
+        "415891076",
+        "186334"
+      ]
+    },
+    {
+      "date": "1991-02-02",
+      "query": "2/2/1991",
+      "queryResults": [
+        {
+          "query": "2/2/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "2/02/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/2/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/02/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 2, 1991",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415891086",
+        "415891087",
+        "186339"
+      ]
+    },
+    {
+      "date": "1991-02-07",
+      "query": "2/7/1991",
+      "queryResults": [
+        {
+          "query": "2/7/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "2/07/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/7/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/07/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 7, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891097",
+        "415891096",
+        "186344"
+      ]
+    },
+    {
+      "date": "1991-02-08",
+      "query": "2/8/1991",
+      "queryResults": [
+        {
+          "query": "2/8/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "2/08/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/8/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/08/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 8, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891098",
+        "415891099",
+        "186345"
+      ]
+    },
+    {
+      "date": "1991-02-09",
+      "query": "2/9/1991",
+      "queryResults": [
+        {
+          "query": "2/9/1991",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "2/09/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/9/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "02/09/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 9, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891101",
+        "415891100",
+        "186346"
+      ]
+    },
+    {
+      "date": "1991-02-23",
+      "query": "2/23/1991",
+      "queryResults": [
+        {
+          "query": "2/23/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/23/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 23, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891128",
+        "415891129"
+      ]
+    },
+    {
+      "date": "1991-02-26",
+      "query": "2/26/1991",
+      "queryResults": [
+        {
+          "query": "2/26/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/26/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 26, 1991",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415891135",
+        "415891134",
+        "186362"
+      ]
+    },
+    {
+      "date": "1991-02-28",
+      "query": "2/28/1991",
+      "queryResults": [
+        {
+          "query": "2/28/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "02/28/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "February 28, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891138",
+        "415891139"
+      ]
+    },
+    {
+      "date": "1991-03-14",
+      "query": "3/14/1991",
+      "queryResults": [
+        {
+          "query": "3/14/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/14/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 14, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891166",
+        "415891167"
+      ]
+    },
+    {
+      "date": "1991-03-29",
+      "query": "3/29/1991",
+      "queryResults": [
+        {
+          "query": "3/29/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/29/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 29, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891196",
+        "415891197"
+      ]
+    },
+    {
+      "date": "1991-04-09",
+      "query": "4/9/1991",
+      "queryResults": [
+        {
+          "query": "4/9/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "4/09/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/9/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/09/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 9, 1991",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415891219",
+        "415891218"
+      ]
+    },
+    {
+      "date": "1991-04-17",
+      "query": "4/17/1991",
+      "queryResults": [
+        {
+          "query": "4/17/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/17/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 17, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891234",
+        "415891235"
+      ]
+    },
+    {
+      "date": "1991-04-20",
+      "query": "4/20/1991",
+      "queryResults": [
+        {
+          "query": "4/20/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/20/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 20, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891241",
+        "415891240"
+      ]
+    },
+    {
+      "date": "1991-04-24",
+      "query": "4/24/1991",
+      "queryResults": [
+        {
+          "query": "4/24/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/24/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 24, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891248",
+        "415891249"
+      ]
+    },
+    {
+      "date": "1991-05-03",
+      "query": "5/3/1991",
+      "queryResults": [
+        {
+          "query": "5/3/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "5/03/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "05/3/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "05/03/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "May 3, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891267",
+        "415891266"
+      ]
+    },
+    {
+      "date": "1991-06-03",
+      "query": "6/3/1991",
+      "queryResults": [
+        {
+          "query": "6/3/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/03/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/3/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/03/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 3, 1991",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415891330",
+        "415891329"
+      ]
+    },
+    {
+      "date": "1991-06-04",
+      "query": "6/4/1991",
+      "queryResults": [
+        {
+          "query": "6/4/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/04/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/4/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/04/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 4, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891332",
+        "415891331"
+      ]
+    },
+    {
+      "date": "1991-06-05",
+      "query": "6/5/1991",
+      "queryResults": [
+        {
+          "query": "6/5/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "6/05/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/5/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "06/05/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 5, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891334",
+        "415891333"
+      ]
+    },
+    {
+      "date": "1991-06-11",
+      "query": "6/11/1991",
+      "queryResults": [
+        {
+          "query": "6/11/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "06/11/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 11, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891345",
+        "415891346"
+      ]
+    },
+    {
+      "date": "1991-06-12",
+      "query": "6/12/1991",
+      "queryResults": [
+        {
+          "query": "6/12/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "06/12/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 12, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891347",
+        "415891348"
+      ]
+    },
+    {
+      "date": "1991-06-13",
+      "query": "6/13/1991",
+      "queryResults": [
+        {
+          "query": "6/13/1991",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "06/13/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 13, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891349",
+        "415891350"
+      ]
+    },
+    {
+      "date": "1991-06-20",
+      "query": "6/20/1991",
+      "queryResults": [
+        {
+          "query": "6/20/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "06/20/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "June 20, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891364",
+        "415891363"
+      ]
+    },
+    {
+      "date": "1991-07-15",
+      "query": "7/15/1991",
+      "queryResults": [
+        {
+          "query": "7/15/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/15/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 15, 1991",
+          "total": 9,
+          "hits": 9
+        }
+      ],
+      "keptReferences": [
+        "415891414",
+        "415891413"
+      ]
+    },
+    {
+      "date": "1991-07-18",
+      "query": "7/18/1991",
+      "queryResults": [
+        {
+          "query": "7/18/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/18/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 18, 1991",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415891420",
+        "415891419"
+      ]
+    },
+    {
+      "date": "1991-08-21",
+      "query": "8/21/1991",
+      "queryResults": [
+        {
+          "query": "8/21/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "08/21/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "August 21, 1991",
+          "total": 17,
+          "hits": 17
+        }
+      ],
+      "keptReferences": [
+        "415891488",
+        "415891487"
+      ]
+    },
+    {
+      "date": "1991-09-13",
+      "query": "9/13/1991",
+      "queryResults": [
+        {
+          "query": "9/13/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/13/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 13, 1991",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415891534",
+        "415891533"
+      ]
+    },
+    {
+      "date": "1991-09-17",
+      "query": "9/17/1991",
+      "queryResults": [
+        {
+          "query": "9/17/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/17/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 17, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891541",
+        "415891542"
+      ]
+    },
+    {
+      "date": "1991-09-23",
+      "query": "9/23/1991",
+      "queryResults": [
+        {
+          "query": "9/23/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/23/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 23, 1991",
+          "total": 8,
+          "hits": 8
+        }
+      ],
+      "keptReferences": [
+        "415891554",
+        "415891553"
+      ]
+    },
+    {
+      "date": "1991-09-24",
+      "query": "9/24/1991",
+      "queryResults": [
+        {
+          "query": "9/24/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/24/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 24, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891555",
+        "415891556"
+      ]
+    },
+    {
+      "date": "1991-10-02",
+      "query": "10/2/1991",
+      "queryResults": [
+        {
+          "query": "10/2/1991",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "10/02/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "October 2, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891572",
+        "415891571",
+        "415891573"
+      ]
+    },
+    {
+      "date": "1991-10-04",
+      "query": "10/4/1991",
+      "queryResults": [
+        {
+          "query": "10/4/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "10/04/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "October 4, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891577",
+        "415891576"
+      ]
+    },
+    {
+      "date": "1991-10-10",
+      "query": "10/10/1991",
+      "queryResults": [
+        {
+          "query": "10/10/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 10, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891589",
+        "415891588"
+      ]
+    },
+    {
+      "date": "1991-10-15",
+      "query": "10/15/1991",
+      "queryResults": [
+        {
+          "query": "10/15/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 15, 1991",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891599",
+        "415891598"
+      ]
+    },
+    {
+      "date": "1991-10-22",
+      "query": "10/22/1991",
+      "queryResults": [
+        {
+          "query": "10/22/1991",
+          "total": 4,
+          "hits": 4
+        },
+        {
+          "query": "October 22, 1991",
+          "total": 9,
+          "hits": 9
+        }
+      ],
+      "keptReferences": [
+        "415891613",
+        "415891612"
+      ]
+    },
+    {
+      "date": "1991-10-29",
+      "query": "10/29/1991",
+      "queryResults": [
+        {
+          "query": "10/29/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 29, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891627",
+        "415891626"
+      ]
+    },
+    {
+      "date": "1991-10-30",
+      "query": "10/30/1991",
+      "queryResults": [
+        {
+          "query": "10/30/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "October 30, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891629",
+        "415891628"
+      ]
+    },
+    {
+      "date": "1991-11-07",
+      "query": "11/7/1991",
+      "queryResults": [
+        {
+          "query": "11/7/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "11/07/1991",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "November 7, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891646",
+        "415891645"
+      ]
+    },
+    {
+      "date": "1991-11-15",
+      "query": "11/15/1991",
+      "queryResults": [
+        {
+          "query": "11/15/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "November 15, 1991",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415891663",
+        "415891662"
+      ]
+    },
+    {
+      "date": "1991-12-13",
+      "query": "12/13/1991",
+      "queryResults": [
+        {
+          "query": "12/13/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "December 13, 1991",
+          "total": 5,
+          "hits": 5
+        }
+      ],
+      "keptReferences": [
+        "415891718",
+        "415891719"
+      ]
+    },
+    {
+      "date": "1991-12-14",
+      "query": "12/14/1991",
+      "queryResults": [
+        {
+          "query": "12/14/1991",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "December 14, 1991",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415891721",
+        "415891720"
+      ]
+    },
+    {
+      "date": "1992-01-31",
+      "query": "1/31/1992",
+      "queryResults": [
+        {
+          "query": "1/31/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "01/31/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "January 31, 1992",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415891818",
+        "415891817"
+      ]
+    },
+    {
+      "date": "1992-03-06",
+      "query": "3/6/1992",
+      "queryResults": [
+        {
+          "query": "3/6/1992",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "3/06/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "03/6/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "03/06/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 6, 1992",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415891888",
+        "415891889"
+      ]
+    },
+    {
+      "date": "1992-03-10",
+      "query": "3/10/1992",
+      "queryResults": [
+        {
+          "query": "3/10/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "03/10/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "March 10, 1992",
+          "total": 7,
+          "hits": 7
+        }
+      ],
+      "keptReferences": [
+        "415891896",
+        "415891897"
+      ]
+    },
+    {
+      "date": "1992-04-07",
+      "query": "4/7/1992",
+      "queryResults": [
+        {
+          "query": "4/7/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "4/07/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/7/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "04/07/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 7, 1992",
+          "total": 6,
+          "hits": 6
+        }
+      ],
+      "keptReferences": [
+        "415891953",
+        "415891952"
+      ]
+    },
+    {
+      "date": "1992-04-20",
+      "query": "4/20/1992",
+      "queryResults": [
+        {
+          "query": "4/20/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "04/20/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "April 20, 1992",
+          "total": 9,
+          "hits": 9
+        }
+      ],
+      "keptReferences": [
+        "415891978",
+        "415891979"
+      ]
+    },
+    {
+      "date": "1992-07-06",
+      "query": "7/6/1992",
+      "queryResults": [
+        {
+          "query": "7/6/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "7/06/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/6/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/06/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 6, 1992",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415892135",
+        "415892136"
+      ]
+    },
+    {
+      "date": "1992-07-07",
+      "query": "7/7/1992",
+      "queryResults": [
+        {
+          "query": "7/7/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "7/07/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/7/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "07/07/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 7, 1992",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415892138",
+        "415892137"
+      ]
+    },
+    {
+      "date": "1992-07-28",
+      "query": "7/28/1992",
+      "queryResults": [
+        {
+          "query": "7/28/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "07/28/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "July 28, 1992",
+          "total": 4,
+          "hits": 4
+        }
+      ],
+      "keptReferences": [
+        "415892180",
+        "415892181"
+      ]
+    },
+    {
+      "date": "1992-09-21",
+      "query": "9/21/1992",
+      "queryResults": [
+        {
+          "query": "9/21/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "09/21/1992",
+          "total": 0,
+          "hits": 0
+        },
+        {
+          "query": "September 21, 1992",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415892290",
+        "415892291"
+      ]
+    },
+    {
+      "date": "1992-12-17",
+      "query": "12/17/1992",
+      "queryResults": [
+        {
+          "query": "12/17/1992",
+          "total": 2,
+          "hits": 2
+        },
+        {
+          "query": "December 17, 1992",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415892464",
+        "415892465"
+      ]
+    },
+    {
+      "date": "1992-12-18",
+      "query": "12/18/1992",
+      "queryResults": [
+        {
+          "query": "12/18/1992",
+          "total": 3,
+          "hits": 3
+        },
+        {
+          "query": "December 18, 1992",
+          "total": 3,
+          "hits": 3
+        }
+      ],
+      "keptReferences": [
+        "415892467",
+        "415892466"
+      ]
+    },
+    {
+      "date": "1992-12-24",
+      "query": "12/24/1992",
+      "queryResults": [
+        {
+          "query": "12/24/1992",
+          "total": 1,
+          "hits": 1
+        },
+        {
+          "query": "December 24, 1992",
+          "total": 2,
+          "hits": 2
+        }
+      ],
+      "keptReferences": [
+        "415892479"
+      ]
+    }
+  ],
+  "errors": []
+}

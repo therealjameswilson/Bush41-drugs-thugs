@@ -9,6 +9,7 @@ const totalPublicStatements = document.querySelector("#total-public-statements")
 const totalPersons = document.querySelector("#total-persons");
 const totalEventDossiers = document.querySelector("#total-event-dossiers");
 const totalCompilerGaps = document.querySelector("#total-compiler-gaps");
+const totalScheduleReferences = document.querySelector("#total-schedule-references");
 const filteredCount = document.querySelector("#filtered-count");
 const searchInput = document.querySelector("#filter-search");
 const chapterFilter = document.querySelector("#filter-chapter");
@@ -81,6 +82,7 @@ let allCompilerGaps = [];
 let visibleCompilerGaps = [];
 let allPublicReviewMentions = [];
 let visiblePublicReviewMentions = [];
+let allScheduleReferences = [];
 let reviewedRecords = new Set(readReviewedRecords());
 
 function chapterId(chapterName) {
@@ -124,6 +126,23 @@ function catalogTrail(record) {
   return record.catalogTrail || record.sourceNote || "";
 }
 
+function scheduleReferences(record) {
+  return record.scheduleReferences || [];
+}
+
+function scheduleReferenceSummary(record) {
+  return scheduleReferences(record)
+    .map((reference) => {
+      const empty = reference.isEmptyDiary && !/\[EMPTY\]/i.test(reference.title) ? " [empty diary file]" : "";
+      return `${reference.documentType}: ${reference.title}${empty}${reference.catalogUrl ? ` (${reference.catalogUrl})` : ""}`;
+    })
+    .join("; ");
+}
+
+function scheduleReferenceSourceNotes(record) {
+  return scheduleReferences(record).map((reference) => reference.sourceNote).filter(Boolean).join(" | ");
+}
+
 function searchableText(record) {
   return [
     record.naid,
@@ -137,6 +156,16 @@ function searchableText(record) {
     record.source?.shortName,
     frusSourceNote(record),
     catalogTrail(record),
+    record.scheduleReferenceSummary,
+    scheduleReferences(record).map((reference) => [
+      reference.title,
+      reference.documentType,
+      reference.naid,
+      reference.localIdentifier,
+      reference.sourceNote,
+      reference.catalogTrail,
+      reference.matchBasis
+    ].filter(Boolean).join(" ")).join(" "),
     record.objectFilename,
     getTerms(record).join(" "),
     record.pdfExtract?.subject,
@@ -295,6 +324,10 @@ function setEventDossierCount(dossiers) {
 
 function setCompilerGapCount(records) {
   if (totalCompilerGaps) totalCompilerGaps.textContent = records.length.toString();
+}
+
+function setScheduleReferenceCount(records) {
+  if (totalScheduleReferences) totalScheduleReferences.textContent = records.length.toString();
 }
 
 function selectedFilters() {
@@ -633,6 +666,28 @@ function createSignalLine(record) {
   return line;
 }
 
+function createScheduleReferenceLine(record) {
+  const references = scheduleReferences(record);
+  if (!references.length) return null;
+
+  const line = document.createElement("p");
+  line.className = "record-schedule";
+  line.append(document.createTextNode("Daily Diary/Backup control: "));
+
+  references.forEach((reference, index) => {
+    if (index) line.append(document.createTextNode("; "));
+    const link = document.createElement("a");
+    link.href = reference.catalogUrl || reference.pdfUrl || "#";
+    link.rel = "noreferrer";
+    const empty = reference.isEmptyDiary && !/\[EMPTY\]/i.test(reference.title) ? " [empty]" : "";
+    link.textContent = `${reference.title}${empty}`;
+    line.append(link);
+  });
+
+  line.append(document.createTextNode(". Same-day schedule-control source; verify time/place or call context against the PDF."));
+  return line;
+}
+
 function createRecordActions(record) {
   const actions = document.createElement("div");
   actions.className = "record-actions";
@@ -691,10 +746,12 @@ function createRecordRow(record) {
   const terms = createTopicTerms(record);
   const signals = createSignalLine(record);
   const pdfCheck = createPdfExtractLine(record);
+  const scheduleLine = createScheduleReferenceLine(record);
   body.append(titleLine, createMeta(record));
   if (terms) body.append(terms);
   if (signals) body.append(signals);
   if (pdfCheck) body.append(pdfCheck);
+  if (scheduleLine) body.append(scheduleLine);
   body.append(sourceNote);
   if (catalogTrail(record)) body.append(trail);
   body.append(createRecordActions(record));
@@ -1365,6 +1422,7 @@ function exportVisibleRecords() {
     "pdf_url",
     "matched_terms",
     "compiler_flags",
+    "daily_diary_backup_references",
     "frus_source_note_draft",
     "catalog_trail"
   ];
@@ -1389,6 +1447,7 @@ function exportVisibleRecords() {
       record.pdfUrl,
       [...new Set(getTerms(record))].join("; "),
       signalMatches(record).map((signal) => signal.label).join("; "),
+      scheduleReferenceSummary(record),
       frusSourceNote(record),
       catalogTrail(record)
     ].map(csvEscape).join(",");
@@ -1570,6 +1629,8 @@ function compilerStub(record) {
     `PDF: ${record.pdfUrl || ""}`,
     `FRUS-style source note draft: ${frusSourceNote(record)}`,
     `Catalog trail: ${catalogTrail(record)}`,
+    `Daily Diary/Backup control: ${scheduleReferenceSummary(record) || "none matched"}`,
+    `Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
     `PDF subject: ${record.pdfExtract?.subject || "not isolated"}`,
     `PDF participants: ${record.pdfExtract?.participants || "not isolated"}`,
     `PDF date/time/place: ${record.pdfExtract?.dateTimePlace || "not isolated"}`,
@@ -1857,6 +1918,13 @@ async function loadPublicReviewMentions() {
   return response.json();
 }
 
+async function loadScheduleReferences() {
+  if (window.FRUS_SCHEDULE_REFERENCES) return window.FRUS_SCHEDULE_REFERENCES;
+  const response = await fetch("data/schedule-references.json");
+  if (!response.ok) throw new Error(`Could not load Daily Diary references: ${response.status}`);
+  return response.json();
+}
+
 async function init() {
   try {
     const publicStatementPromise = publicStatementsRoot ? loadPublicStatements() : Promise.resolve([]);
@@ -1864,13 +1932,15 @@ async function init() {
     const eventDossierPromise = eventDossiersRoot ? loadEventDossiers() : Promise.resolve([]);
     const compilerGapPromise = compilerGapsRoot ? loadCompilerGaps() : Promise.resolve([]);
     const publicReviewPromise = publicMentionsRoot ? loadPublicReviewMentions() : Promise.resolve([]);
-    [allRecords, allPublicStatements, allPersons, allEventDossiers, allCompilerGaps, allPublicReviewMentions] = await Promise.all([
+    const scheduleReferencePromise = totalScheduleReferences ? loadScheduleReferences() : Promise.resolve([]);
+    [allRecords, allPublicStatements, allPersons, allEventDossiers, allCompilerGaps, allPublicReviewMentions, allScheduleReferences] = await Promise.all([
       window.FRUS_RECORDS || loadRecords(),
       publicStatementPromise,
       personsPromise,
       eventDossierPromise,
       compilerGapPromise,
-      publicReviewPromise
+      publicReviewPromise,
+      scheduleReferencePromise
     ]);
     setWorkbenchOptions(allRecords);
     setReferenceOptions(allPublicStatements);
@@ -1881,6 +1951,7 @@ async function init() {
     setPersonsCount(allPersons);
     setEventDossierCount(allEventDossiers);
     setCompilerGapCount(allCompilerGaps);
+    setScheduleReferenceCount(allScheduleReferences);
     bindWorkbench();
     bindReferenceWorkbench();
     bindPersonWorkbench();

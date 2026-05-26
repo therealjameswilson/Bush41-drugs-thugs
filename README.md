@@ -32,6 +32,8 @@ The workbench supports:
 - measured PDF page counts and first-page extraction checks for subject,
   participants, date/time/place, and classification markings
 - copyable FRUS-style source-note drafts for PDF verification and editorial drafting
+- same-day Presidential Daily Diary and Daily Backup control references for
+  meetings and calls
 - a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
 - CSV export of the currently visible record set
 - event dossiers for major chronology anchors such as Cartagena, San Antonio,
@@ -59,6 +61,8 @@ conversation records with online PDFs inside these source series:
 
 - Presidential Memcon Files, NAID 321498039: <https://catalog.archives.gov/id/321498039>
 - Presidential Telcon Files, NAID 321498139: <https://catalog.archives.gov/id/321498139>
+- Presidential Daily Diary and Presidential Daily Backup Materials, NAID 186322:
+  <https://catalog.archives.gov/id/186322>
 
 Refresh the public chronology with:
 
@@ -66,6 +70,7 @@ Refresh the public chronology with:
 node scripts/harvest-presidential-conversations.js
 node scripts/enrich-conversation-pdfs.js
 node scripts/refresh-source-notes.js
+node scripts/harvest-daily-diary-references.js
 ```
 
 This writes:
@@ -75,10 +80,18 @@ This writes:
 - `reports/presidential-conversation-harvest.json`
 - `reports/conversation-pdf-enrichment.json`
 - `reports/source-notes-refresh.json`
+- `data/schedule-references.json`
+- `data/schedule-references.js`
+- `reports/daily-diary-references-harvest.json`
 
 The enrichment step downloads the online conversation PDFs into `.cache`,
 measures page counts with `pdfinfo`, extracts first-page text with `pdftotext`,
 and stores the resulting verification metadata in each record.
+
+The Daily Diary step queries NAID 186322 by exact date and attaches same-day
+schedule-control references to each declassified memcon/telcon. These references
+are meant to corroborate appointment, call, time, and location context; they are
+not treated as substitute conversation transcripts.
 
 Refresh the public-statements reference layer with:
 

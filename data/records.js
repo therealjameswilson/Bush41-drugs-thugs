@@ -57,7 +57,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889668",
+        "naid": "415889668",
+        "title": "[Presidential Daily Diary] 2/24/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-02-24",
+        "localIdentifier": "12791-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415889668",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_24_89-12791-015_415889668.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-015, [Presidential Daily Diary] 2/24/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889668. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_24_89-12791-015_415889668.pdf, object ID 496086381, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_24_89-12791-015_415889668.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889669",
+        "naid": "415889669",
+        "title": "[Presidential Daily Backup] 2/24/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-02-24",
+        "localIdentifier": "12791-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415889669",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_24_89-12791-016_415889669.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-016, [Presidential Daily Backup] 2/24/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889669. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_24_89-12791-016_415889669.pdf, object ID 496086382, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_24_89-12791-016_415889669.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/24/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889668 | Presidential Daily Backup: [Presidential Daily Backup] 2/24/1989; 1 digital object; https://catalog.archives.gov/id/415889669"
   },
   {
     "id": "conversation-428079869",
@@ -116,7 +149,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889670",
+        "naid": "415889670",
+        "title": "[Presidential Daily Diary] 2/25/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-02-25",
+        "localIdentifier": "12791-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415889670",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_25_89-12791-017_415889670.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-017, [Presidential Daily Diary] 2/25/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889670. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_25_89-12791-017_415889670.pdf, object ID 496086383, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_25_89-12791-017_415889670.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889671",
+        "naid": "415889671",
+        "title": "[Presidential Daily Backup] 2/25/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-02-25",
+        "localIdentifier": "12791-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415889671",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_25_89-12791-018_415889671.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-018, [Presidential Daily Backup] 2/25/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889671. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_25_89-12791-018_415889671.pdf, object ID 496086384, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_25_89-12791-018_415889671.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/25/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889670 | Presidential Daily Backup: [Presidential Daily Backup] 2/25/1989; 1 digital object; https://catalog.archives.gov/id/415889671"
   },
   {
     "id": "conversation-428079903",
@@ -175,7 +241,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889672",
+        "naid": "415889672",
+        "title": "[Presidential Daily Diary] 2/26/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-02-26",
+        "localIdentifier": "12791-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415889672",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_26_89-12791-019_415889672.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-019, [Presidential Daily Diary] 2/26/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889672. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_26_89-12791-019_415889672.pdf, object ID 496086385, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_26_89-12791-019_415889672.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889673",
+        "naid": "415889673",
+        "title": "[Presidential Daily Backup] 2/26/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-02-26",
+        "localIdentifier": "12791-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415889673",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_26_89-12791-020_415889673.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-020, [Presidential Daily Backup] 2/26/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889673. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_26_89-12791-020_415889673.pdf, object ID 496086386, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_26_89-12791-020_415889673.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/26/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889672 | Presidential Daily Backup: [Presidential Daily Backup] 2/26/1989; 1 digital object; https://catalog.archives.gov/id/415889673"
   },
   {
     "id": "conversation-428079921",
@@ -233,7 +332,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889696",
+        "naid": "415889696",
+        "title": "[Presidential Daily Diary] 3/10/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-03-10",
+        "localIdentifier": "12792-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415889696",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_10_89-12792-009_415889696.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12792-009, [Presidential Daily Diary] 3/10/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889696. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_10_89-12792-009_415889696.pdf, object ID 496086409, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_10_89-12792-009_415889696.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889697",
+        "naid": "415889697",
+        "title": "[Presidential Daily Backup] 3/10/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-03-10",
+        "localIdentifier": "12792-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415889697",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_10_89-12792-010_415889697.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12792-010, [Presidential Daily Backup] 3/10/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889697. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_10_89-12792-010_415889697.pdf, object ID 496086410, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_10_89-12792-010_415889697.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/10/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889696 | Presidential Daily Backup: [Presidential Daily Backup] 3/10/1989; 1 digital object; https://catalog.archives.gov/id/415889697"
   },
   {
     "id": "conversation-428079929",
@@ -291,7 +423,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889706",
+        "naid": "415889706",
+        "title": "[Presidential Daily Diary] 3/15/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-03-15",
+        "localIdentifier": "12792-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415889706",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_15_89-12792-019_415889706.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12792-019, [Presidential Daily Diary] 3/15/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889706. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_15_89-12792-019_415889706.pdf, object ID 496086419, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_15_89-12792-019_415889706.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889707",
+        "naid": "415889707",
+        "title": "[Presidential Daily Backup] 3/15/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-03-15",
+        "localIdentifier": "12792-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415889707",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_15_89-12792-020_415889707.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12792-020, [Presidential Daily Backup] 3/15/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889707. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_15_89-12792-020_415889707.pdf, object ID 496086420, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_15_89-12792-020_415889707.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/15/1989; 1 digital object; https://catalog.archives.gov/id/415889706 | Presidential Daily Backup: [Presidential Daily Backup] 3/15/1989; 1 digital object; https://catalog.archives.gov/id/415889707"
   },
   {
     "id": "conversation-428079933",
@@ -349,7 +514,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889716",
+        "naid": "415889716",
+        "title": "[Presidential Daily Diary] 3/20/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-03-20",
+        "localIdentifier": "12793-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415889716",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_20_89-12793-005_415889716.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12793-005, [Presidential Daily Diary] 3/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889716. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_20_89-12793-005_415889716.pdf, object ID 496086429, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_20_89-12793-005_415889716.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889717",
+        "naid": "415889717",
+        "title": "[Presidential Daily Backup] 3/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-03-20",
+        "localIdentifier": "12793-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415889717",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_20_89-12793-006_415889717.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12793-006, [Presidential Daily Backup] 3/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889717. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_20_89-12793-006_415889717.pdf, object ID 496086430, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_20_89-12793-006_415889717.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/20/1989; 1 digital object; https://catalog.archives.gov/id/415889716 | Presidential Daily Backup: [Presidential Daily Backup] 3/20/1989; 1 digital object; https://catalog.archives.gov/id/415889717"
   },
   {
     "id": "conversation-428079941",
@@ -413,7 +611,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889746",
+        "naid": "415889746",
+        "title": "[Presidential Daily Diary] 4/4/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-04",
+        "localIdentifier": "12794-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415889746",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_04_89-12794-003_415889746.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-003, [Presidential Daily Diary] 4/4/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889746. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_04_89-12794-003_415889746.pdf, object ID 496086459, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_04_89-12794-003_415889746.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889747",
+        "naid": "415889747",
+        "title": "[Presidential Daily Backup] 4/4/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-04",
+        "localIdentifier": "12794-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415889747",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_04_89-12794-004_415889747.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-004, [Presidential Daily Backup] 4/4/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889747. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_04_89-12794-004_415889747.pdf, object ID 496086460, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_04_89-12794-004_415889747.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/4/1989; 1 digital object; https://catalog.archives.gov/id/415889746 | Presidential Daily Backup: [Presidential Daily Backup] 4/4/1989; 1 digital object; https://catalog.archives.gov/id/415889747"
   },
   {
     "id": "conversation-428079963",
@@ -477,7 +708,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889766",
+        "naid": "415889766",
+        "title": "[Presidential Daily Diary] 4/14/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-14",
+        "localIdentifier": "12794-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415889766",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_14_89-12794-023_415889766.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-023, [Presidential Daily Diary] 4/14/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889766. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_14_89-12794-023_415889766.pdf, object ID 496086479, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_14_89-12794-023_415889766.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889767",
+        "naid": "415889767",
+        "title": "[Presidential Daily Backup] 4/14/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-14",
+        "localIdentifier": "12794-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415889767",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_14_89-12794-024_415889767.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-024, [Presidential Daily Backup] 4/14/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889767. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_14_89-12794-024_415889767.pdf, object ID 496086480, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_14_89-12794-024_415889767.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/14/1989; 1 digital object; https://catalog.archives.gov/id/415889766 | Presidential Daily Backup: [Presidential Daily Backup] 4/14/1989; 1 digital object; https://catalog.archives.gov/id/415889767"
   },
   {
     "id": "conversation-428079971",
@@ -537,7 +801,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889778",
+        "naid": "415889778",
+        "title": "[Presidential Daily Diary] 4/20/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-20",
+        "localIdentifier": "12795-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415889778",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_20_89-12795-009_415889778.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-009, [Presidential Daily Diary] 4/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889778. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_20_89-12795-009_415889778.pdf, object ID 496086491, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_20_89-12795-009_415889778.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889779",
+        "naid": "415889779",
+        "title": "[Presidential Daily Backup] 4/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-20",
+        "localIdentifier": "12795-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415889779",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_20_89-12795-010_415889779.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-010, [Presidential Daily Backup] 4/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889779. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_20_89-12795-010_415889779.pdf, object ID 496086492, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_20_89-12795-010_415889779.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/20/1989; 1 digital object; https://catalog.archives.gov/id/415889778 | Presidential Daily Backup: [Presidential Daily Backup] 4/20/1989; 1 digital object; https://catalog.archives.gov/id/415889779"
   },
   {
     "id": "conversation-428079983",
@@ -595,7 +892,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889794",
+        "naid": "415889794",
+        "title": "[Presidential Daily Diary] 4/28/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-28",
+        "localIdentifier": "12795-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415889794",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_28_89-12795-025_415889794.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-025, [Presidential Daily Diary] 4/28/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889794. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_28_89-12795-025_415889794.pdf, object ID 496086507, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_28_89-12795-025_415889794.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889795",
+        "naid": "415889795",
+        "title": "[Presidential Daily Backup] 4/28/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-28",
+        "localIdentifier": "12795-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415889795",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_28_89-12795-026_415889795.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-026, [Presidential Daily Backup] 4/28/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889795. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_28_89-12795-026_415889795.pdf, object ID 496086508, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_28_89-12795-026_415889795.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/28/1989; 1 digital object; https://catalog.archives.gov/id/415889794 | Presidential Daily Backup: [Presidential Daily Backup] 4/28/1989; 1 digital object; https://catalog.archives.gov/id/415889795"
   },
   {
     "id": "conversation-428080015",
@@ -653,7 +983,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889824",
+        "naid": "415889824",
+        "title": "[Presidential Daily Diary] 5/13/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-05-13",
+        "localIdentifier": "12796-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415889824",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_13_89-12796-023_415889824.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12796-023, [Presidential Daily Diary] 5/13/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889824. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_13_89-12796-023_415889824.pdf, object ID 496086537, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_13_89-12796-023_415889824.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889825",
+        "naid": "415889825",
+        "title": "[Presidential Daily Backup] 5/13/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-05-13",
+        "localIdentifier": "12796-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415889825",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_13_89-12796-024_415889825.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12796-024, [Presidential Daily Backup] 5/13/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889825. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_13_89-12796-024_415889825.pdf, object ID 496086538, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_13_89-12796-024_415889825.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/13/1989; 1 digital object; https://catalog.archives.gov/id/415889824 | Presidential Daily Backup: [Presidential Daily Backup] 5/13/1989; 1 digital object; https://catalog.archives.gov/id/415889825"
   },
   {
     "id": "conversation-428082461",
@@ -711,7 +1074,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889838",
+        "naid": "415889838",
+        "title": "[Presidential Daily Diary] 5/20/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-05-20",
+        "localIdentifier": "12797-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415889838",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_20_89-12797-011_415889838.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12797-011, [Presidential Daily Diary] 5/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889838. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_20_89-12797-011_415889838.pdf, object ID 496086551, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_20_89-12797-011_415889838.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889839",
+        "naid": "415889839",
+        "title": "[Presidential Daily Backup] 5/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-05-20",
+        "localIdentifier": "12797-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415889839",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_20_89-12797-012_415889839.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12797-012, [Presidential Daily Backup] 5/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889839. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_20_89-12797-012_415889839.pdf, object ID 496086552, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_20_89-12797-012_415889839.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/20/1989; 1 digital object; https://catalog.archives.gov/id/415889838 | Presidential Daily Backup: [Presidential Daily Backup] 5/20/1989; 1 digital object; https://catalog.archives.gov/id/415889839"
   },
   {
     "id": "conversation-428080045",
@@ -771,7 +1167,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889898",
+        "naid": "415889898",
+        "title": "[Presidential Daily Diary] 6/19/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-06-19",
+        "localIdentifier": "12799-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415889898",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_19_89-12799-021_415889898.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12799-021, [Presidential Daily Diary] 6/19/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889898. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_19_89-12799-021_415889898.pdf, object ID 496086611, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_19_89-12799-021_415889898.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889899",
+        "naid": "415889899",
+        "title": "[Presidential Daily Backup] 6/19/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-06-19",
+        "localIdentifier": "12799-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415889899",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_19_89-12799-022_415889899.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12799-022, [Presidential Daily Backup] 6/19/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889899. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_19_89-12799-022_415889899.pdf, object ID 496086612, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_19_89-12799-022_415889899.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/19/1989; 1 digital object; https://catalog.archives.gov/id/415889898 | Presidential Daily Backup: [Presidential Daily Backup] 6/19/1989; 1 digital object; https://catalog.archives.gov/id/415889899"
   },
   {
     "id": "conversation-428080119",
@@ -829,7 +1258,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889934",
+        "naid": "415889934",
+        "title": "[Presidential Daily Diary] 7/7/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-07-07",
+        "localIdentifier": "12801-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415889934",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-015_415889934.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-015, [Presidential Daily Diary] 7/7/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889934. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_07_89-12801-015_415889934.pdf, object ID 496086647, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-015_415889934.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889935",
+        "naid": "415889935",
+        "title": "[Presidential Daily Backup] 7/7/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-07-07",
+        "localIdentifier": "12801-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415889935",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-016, [Presidential Daily Backup] 7/7/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889935. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf, object ID 496086648, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/7/1989; 1 digital object; https://catalog.archives.gov/id/415889934 | Presidential Daily Backup: [Presidential Daily Backup] 7/7/1989; 1 digital object; https://catalog.archives.gov/id/415889935"
   },
   {
     "id": "conversation-428080101",
@@ -888,7 +1350,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889950",
+        "naid": "415889950",
+        "title": "[Presidential Daily Diary] 7/15/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-07-15",
+        "localIdentifier": "12801-031",
+        "catalogUrl": "https://catalog.archives.gov/id/415889950",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_15_89-12801-031_415889950.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-031, [Presidential Daily Diary] 7/15/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889950. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_15_89-12801-031_415889950.pdf, object ID 496086663, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_15_89-12801-031_415889950.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889951",
+        "naid": "415889951",
+        "title": "[Presidential Daily Backup] 7/15/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-07-15",
+        "localIdentifier": "12801-032",
+        "catalogUrl": "https://catalog.archives.gov/id/415889951",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_15_89-12801-032_415889951.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-032, [Presidential Daily Backup] 7/15/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889951. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_15_89-12801-032_415889951.pdf, object ID 496086664, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_15_89-12801-032_415889951.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/15/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889950 | Presidential Daily Backup: [Presidential Daily Backup] 7/15/1989; 1 digital object; https://catalog.archives.gov/id/415889951"
   },
   {
     "id": "conversation-428080139",
@@ -946,7 +1441,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889960",
+        "naid": "415889960",
+        "title": "[Presidential Daily Diary] 7/20/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-07-20",
+        "localIdentifier": "12802-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889960",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_20_89-12802-001_415889960.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-001, [Presidential Daily Diary] 7/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889960. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_20_89-12802-001_415889960.pdf, object ID 496086673, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_20_89-12802-001_415889960.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889961",
+        "naid": "415889961",
+        "title": "[Presidential Daily Backup] 7/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-07-20",
+        "localIdentifier": "12802-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889961",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_20_89-12802-002_415889961.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-002, [Presidential Daily Backup] 7/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889961. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_20_89-12802-002_415889961.pdf, object ID 496086674, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_20_89-12802-002_415889961.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/20/1989; 1 digital object; https://catalog.archives.gov/id/415889960 | Presidential Daily Backup: [Presidential Daily Backup] 7/20/1989; 1 digital object; https://catalog.archives.gov/id/415889961"
   },
   {
     "id": "conversation-428080141",
@@ -1006,7 +1534,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889968",
+        "naid": "415889968",
+        "title": "[Presidential Daily Diary] 7/24/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-07-24",
+        "localIdentifier": "12802-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415889968",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_24_89-12802-009_415889968.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-009, [Presidential Daily Diary] 7/24/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889968. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_24_89-12802-009_415889968.pdf, object ID 496086681, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_24_89-12802-009_415889968.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889969",
+        "naid": "415889969",
+        "title": "[Presidential Daily Backup] 7/24/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-07-24",
+        "localIdentifier": "12802-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415889969",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_24_89-12802-010_415889969.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-010, [Presidential Daily Backup] 7/24/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889969. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_24_89-12802-010_415889969.pdf, object ID 496086682, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_24_89-12802-010_415889969.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/24/1989; 1 digital object; https://catalog.archives.gov/id/415889968 | Presidential Daily Backup: [Presidential Daily Backup] 7/24/1989; 1 digital object; https://catalog.archives.gov/id/415889969"
   },
   {
     "id": "conversation-428080147",
@@ -1072,7 +1633,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889974",
+        "naid": "415889974",
+        "title": "[Presidential Daily Diary] 7/27/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-07-27",
+        "localIdentifier": "12802-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415889974",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_27_89-12802-015_415889974.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-015, [Presidential Daily Diary] 7/27/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889974. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_27_89-12802-015_415889974.pdf, object ID 496086687, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_27_89-12802-015_415889974.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889975",
+        "naid": "415889975",
+        "title": "[Presidential Daily Backup] 7/27/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-07-27",
+        "localIdentifier": "12802-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415889975",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_27_89-12802-016_415889975.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-016, [Presidential Daily Backup] 7/27/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889975. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_27_89-12802-016_415889975.pdf, object ID 496086688, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_27_89-12802-016_415889975.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/27/1989; 1 digital object; https://catalog.archives.gov/id/415889974 | Presidential Daily Backup: [Presidential Daily Backup] 7/27/1989; 1 digital object; https://catalog.archives.gov/id/415889975"
   },
   {
     "id": "conversation-428080207",
@@ -1130,7 +1724,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890024",
+        "naid": "415890024",
+        "title": "[Presidential Daily Diary] 8/21/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-21",
+        "localIdentifier": "12804-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890024",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_21_89-12804-013_415890024.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-013, [Presidential Daily Diary] 8/21/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890024. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_21_89-12804-013_415890024.pdf, object ID 496086737, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_21_89-12804-013_415890024.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890025",
+        "naid": "415890025",
+        "title": "[Presidential Daily Backup] 8/21/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-21",
+        "localIdentifier": "12804-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890025",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_21_89-12804-014_415890025.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-014, [Presidential Daily Backup] 8/21/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890025. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_21_89-12804-014_415890025.pdf, object ID 496086738, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_21_89-12804-014_415890025.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/21/1989; 1 digital object; https://catalog.archives.gov/id/415890024 | Presidential Daily Backup: [Presidential Daily Backup] 8/21/1989; 1 digital object; https://catalog.archives.gov/id/415890025"
   },
   {
     "id": "conversation-428080213",
@@ -1189,7 +1816,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890034",
+        "naid": "415890034",
+        "title": "[Presidential Daily Diary] 8/26/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-26",
+        "localIdentifier": "12804-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415890034",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_26_89-12804-023_415890034.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-023, [Presidential Daily Diary] 8/26/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890034. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_26_89-12804-023_415890034.pdf, object ID 496086747, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_26_89-12804-023_415890034.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890035",
+        "naid": "415890035",
+        "title": "[Presidential Daily Backup] 8/26/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-26",
+        "localIdentifier": "12804-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415890035",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_26_89-12804-024_415890035.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-024, [Presidential Daily Backup] 8/26/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890035. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_26_89-12804-024_415890035.pdf, object ID 496086748, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_26_89-12804-024_415890035.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/26/1989; 1 digital object; https://catalog.archives.gov/id/415890034 | Presidential Daily Backup: [Presidential Daily Backup] 8/26/1989; 1 digital object; https://catalog.archives.gov/id/415890035"
   },
   {
     "id": "conversation-428080215",
@@ -1253,7 +1913,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890038",
+        "naid": "415890038",
+        "title": "[Presidential Daily Diary] 8/28/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-28",
+        "localIdentifier": "12804-027",
+        "catalogUrl": "https://catalog.archives.gov/id/415890038",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_28_89-12804-027_415890038.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-027, [Presidential Daily Diary] 8/28/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890038. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_28_89-12804-027_415890038.pdf, object ID 496086751, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_28_89-12804-027_415890038.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890039",
+        "naid": "415890039",
+        "title": "[Presidential Daily Backup] 8/28/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-28",
+        "localIdentifier": "12804-028",
+        "catalogUrl": "https://catalog.archives.gov/id/415890039",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_28_89-12804-028_415890039.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-028, [Presidential Daily Backup] 8/28/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890039. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_28_89-12804-028_415890039.pdf, object ID 496086752, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_28_89-12804-028_415890039.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/28/1989; 1 digital object; https://catalog.archives.gov/id/415890038 | Presidential Daily Backup: [Presidential Daily Backup] 8/28/1989; 1 digital object; https://catalog.archives.gov/id/415890039"
   },
   {
     "id": "conversation-428080217",
@@ -1311,7 +2004,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890054",
+        "naid": "415890054",
+        "title": "[Presidential Daily Diary] 9/5/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-05",
+        "localIdentifier": "12804-043",
+        "catalogUrl": "https://catalog.archives.gov/id/415890054",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-043_415890054.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-043, [Presidential Daily Diary] 9/5/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890054. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_05_89-12804-043_415890054.pdf, object ID 496086767, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-043_415890054.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890055",
+        "naid": "415890055",
+        "title": "[Presidential Daily Backup] 9/5/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-05",
+        "localIdentifier": "12804-044",
+        "catalogUrl": "https://catalog.archives.gov/id/415890055",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-044_415890055.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-044, [Presidential Daily Backup] 9/5/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890055. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_05_89-12804-044_415890055.pdf, object ID 496086768, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-044_415890055.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/5/1989; 1 digital object; https://catalog.archives.gov/id/415890054 | Presidential Daily Backup: [Presidential Daily Backup] 9/5/1989; 1 digital object; https://catalog.archives.gov/id/415890055"
   },
   {
     "id": "conversation-428080219",
@@ -1374,7 +2100,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890054",
+        "naid": "415890054",
+        "title": "[Presidential Daily Diary] 9/5/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-05",
+        "localIdentifier": "12804-043",
+        "catalogUrl": "https://catalog.archives.gov/id/415890054",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-043_415890054.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-043, [Presidential Daily Diary] 9/5/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890054. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_05_89-12804-043_415890054.pdf, object ID 496086767, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-043_415890054.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890055",
+        "naid": "415890055",
+        "title": "[Presidential Daily Backup] 9/5/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-05",
+        "localIdentifier": "12804-044",
+        "catalogUrl": "https://catalog.archives.gov/id/415890055",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-044_415890055.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12804-044, [Presidential Daily Backup] 9/5/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890055. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_05_89-12804-044_415890055.pdf, object ID 496086768, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_05_89-12804-044_415890055.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/5/1989; 1 digital object; https://catalog.archives.gov/id/415890054 | Presidential Daily Backup: [Presidential Daily Backup] 9/5/1989; 1 digital object; https://catalog.archives.gov/id/415890055"
   },
   {
     "id": "conversation-428080181",
@@ -1440,7 +2199,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890074",
+        "naid": "415890074",
+        "title": "[Presidential Daily Diary] 9/15/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-15",
+        "localIdentifier": "12805-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415890074",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_15_89-12805-019_415890074.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12805-019, [Presidential Daily Diary] 9/15/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890074. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_15_89-12805-019_415890074.pdf, object ID 496086787, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_15_89-12805-019_415890074.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890075",
+        "naid": "415890075",
+        "title": "[Presidential Daily Backup] 9/15/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-15",
+        "localIdentifier": "12805-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890075",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_15_89-12805-020_415890075.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12805-020, [Presidential Daily Backup] 9/15/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890075. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_15_89-12805-020_415890075.pdf, object ID 496086788, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_15_89-12805-020_415890075.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/15/1989; 1 digital object; https://catalog.archives.gov/id/415890074 | Presidential Daily Backup: [Presidential Daily Backup] 9/15/1989; 1 digital object; https://catalog.archives.gov/id/415890075"
   },
   {
     "id": "conversation-428080185",
@@ -1506,7 +2298,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890084",
+        "naid": "415890084",
+        "title": "[Presidential Daily Diary] 9/20/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-20",
+        "localIdentifier": "12806-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415890084",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_20_89-12806-005_415890084.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-005, [Presidential Daily Diary] 9/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890084. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_20_89-12806-005_415890084.pdf, object ID 496086797, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_20_89-12806-005_415890084.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890085",
+        "naid": "415890085",
+        "title": "[Presidential Daily Backup] 9/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-20",
+        "localIdentifier": "12806-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415890085",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_20_89-12806-006_415890085.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-006, [Presidential Daily Backup] 9/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890085. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_20_89-12806-006_415890085.pdf, object ID 496086798, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_20_89-12806-006_415890085.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/20/1989; 1 digital object; https://catalog.archives.gov/id/415890084 | Presidential Daily Backup: [Presidential Daily Backup] 9/20/1989; 1 digital object; https://catalog.archives.gov/id/415890085"
   },
   {
     "id": "conversation-428080191",
@@ -1565,7 +2390,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890094",
+        "naid": "415890094",
+        "title": "[Presidential Daily Diary] 9/25/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-25",
+        "localIdentifier": "12806-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415890094",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_25_89-12806-015_415890094.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-015, [Presidential Daily Diary] 9/25/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890094. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_25_89-12806-015_415890094.pdf, object ID 496086807, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_25_89-12806-015_415890094.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890095",
+        "naid": "415890095",
+        "title": "[Presidential Daily Backup] 9/25/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-25",
+        "localIdentifier": "12806-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415890095",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_25_89-12806-016_415890095.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-016, [Presidential Daily Backup] 9/25/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890095. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_25_89-12806-016_415890095.pdf, object ID 496086808, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_25_89-12806-016_415890095.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/25/1989; 1 digital object; https://catalog.archives.gov/id/415890094 | Presidential Daily Backup: [Presidential Daily Backup] 9/25/1989; 1 digital object; https://catalog.archives.gov/id/415890095"
   },
   {
     "id": "conversation-428080265",
@@ -1623,7 +2481,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890096",
+        "naid": "415890096",
+        "title": "[Presidential Daily Diary] 9/26/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-26",
+        "localIdentifier": "12806-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415890096",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_26_89-12806-017_415890096.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-017, [Presidential Daily Diary] 9/26/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890096. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_26_89-12806-017_415890096.pdf, object ID 496086809, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_26_89-12806-017_415890096.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890097",
+        "naid": "415890097",
+        "title": "[Presidential Daily Backup] 9/26/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-26",
+        "localIdentifier": "12806-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415890097",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_26_89-12806-018_415890097.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-018, [Presidential Daily Backup] 9/26/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890097. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_26_89-12806-018_415890097.pdf, object ID 496086810, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_26_89-12806-018_415890097.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/26/1989; 1 digital object; https://catalog.archives.gov/id/415890096 | Presidential Daily Backup: [Presidential Daily Backup] 9/26/1989; 1 digital object; https://catalog.archives.gov/id/415890097"
   },
   {
     "id": "conversation-428080237",
@@ -1683,7 +2574,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890098",
+        "naid": "415890098",
+        "title": "[Presidential Daily Diary] 9/27/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-27",
+        "localIdentifier": "12806-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415890098",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_27_89-12806-019_415890098.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-019, [Presidential Daily Diary] 9/27/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890098. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_27_89-12806-019_415890098.pdf, object ID 496086811, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_27_89-12806-019_415890098.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890099",
+        "naid": "415890099",
+        "title": "[Presidential Daily Backup] 9/27/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-27",
+        "localIdentifier": "12806-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890099",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_27_89-12806-020_415890099.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-020, [Presidential Daily Backup] 9/27/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890099. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_27_89-12806-020_415890099.pdf, object ID 496086812, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_27_89-12806-020_415890099.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/27/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890098 | Presidential Daily Backup: [Presidential Daily Backup] 9/27/1989; 1 digital object; https://catalog.archives.gov/id/415890099"
   },
   {
     "id": "conversation-428080241",
@@ -1749,7 +2673,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890100",
+        "naid": "415890100",
+        "title": "[Presidential Daily Diary] 9/28/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-28",
+        "localIdentifier": "12806-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890100",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_28_89-12806-021_415890100.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-021, [Presidential Daily Diary] 9/28/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890100. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_28_89-12806-021_415890100.pdf, object ID 496086813, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_28_89-12806-021_415890100.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890101",
+        "naid": "415890101",
+        "title": "[Presidential Daily Backup] 9/28/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-28",
+        "localIdentifier": "12806-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890101",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_28_89-12806-022_415890101.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-022, [Presidential Daily Backup] 9/28/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890101. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_28_89-12806-022_415890101.pdf, object ID 496086814, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_28_89-12806-022_415890101.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/28/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890100 | Presidential Daily Backup: [Presidential Daily Backup] 9/28/1989; 1 digital object; https://catalog.archives.gov/id/415890101"
   },
   {
     "id": "conversation-428080245",
@@ -1813,7 +2770,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890110",
+        "naid": "415890110",
+        "title": "[Presidential Daily Diary] 10/3/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-10-03",
+        "localIdentifier": "12807-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890110",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_03_89-12807-009_415890110.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12807-009, [Presidential Daily Diary] 10/3/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890110. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_03_89-12807-009_415890110.pdf, object ID 496086823, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_03_89-12807-009_415890110.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890111",
+        "naid": "415890111",
+        "title": "[Presidential Daily Backup] 10/3/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-10-03",
+        "localIdentifier": "12807-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890111",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_03_89-12807-010_415890111.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12807-010, [Presidential Daily Backup] 10/3/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890111. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_03_89-12807-010_415890111.pdf, object ID 496086824, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_03_89-12807-010_415890111.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/3/1989; 1 digital object; https://catalog.archives.gov/id/415890110 | Presidential Daily Backup: [Presidential Daily Backup] 10/3/1989; 1 digital object; https://catalog.archives.gov/id/415890111"
   },
   {
     "id": "conversation-428080315",
@@ -1875,7 +2865,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890164",
+        "naid": "415890164",
+        "title": "[Presidential Daily Diary] 10/30/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-10-30",
+        "localIdentifier": "12809-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890164",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_30_89-12809-021_415890164.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12809-021, [Presidential Daily Diary] 10/30/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890164. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_89-12809-021_415890164.pdf, object ID 496086877, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_30_89-12809-021_415890164.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890165",
+        "naid": "415890165",
+        "title": "[Presidential Daily Backup] 10/30/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-10-30",
+        "localIdentifier": "12809-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890165",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_30_89-12809-022_415890165.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12809-022, [Presidential Daily Backup] 10/30/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890165. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_89-12809-022_415890165.pdf, object ID 496086878, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_30_89-12809-022_415890165.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/30/1989; 1 digital object; https://catalog.archives.gov/id/415890164 | Presidential Daily Backup: [Presidential Daily Backup] 10/30/1989; 1 digital object; https://catalog.archives.gov/id/415890165"
   },
   {
     "id": "conversation-428080381",
@@ -1933,7 +2956,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate participants."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: December 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: December 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890230",
+        "naid": "415890230",
+        "title": "[Presidential Daily Diary] 12/2/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-12-02",
+        "localIdentifier": "12812-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890230",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_02_89-12812-021_415890230.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12812-021, [Presidential Daily Diary] 12/2/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890230. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_02_89-12812-021_415890230.pdf, object ID 496086943, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_02_89-12812-021_415890230.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890231",
+        "naid": "415890231",
+        "title": "[Presidential Daily Backup] 12/2/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-12-02",
+        "localIdentifier": "12812-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890231",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_02_89-12812-022_415890231.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12812-022, [Presidential Daily Backup] 12/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890231. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_02_89-12812-022_415890231.pdf, object ID 496086944, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_02_89-12812-022_415890231.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/2/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890230 | Presidential Daily Backup: [Presidential Daily Backup] 12/2/1989; 1 digital object; https://catalog.archives.gov/id/415890231"
   },
   {
     "id": "conversation-428080453",
@@ -1991,7 +3047,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890266",
+        "naid": "415890266",
+        "title": "[Presidential Daily Diary] 12/20/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890266",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-021, [Presidential Daily Diary] 12/20/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890266. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf, object ID 496086979, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890267",
+        "naid": "415890267",
+        "title": "[Presidential Daily Backup] 12/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890267",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-022, [Presidential Daily Backup] 12/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890267. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf, object ID 496086980, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/20/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890266 | Presidential Daily Backup: [Presidential Daily Backup] 12/20/1989; 1 digital object; https://catalog.archives.gov/id/415890267"
   },
   {
     "id": "conversation-428080457",
@@ -2051,7 +3140,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890266",
+        "naid": "415890266",
+        "title": "[Presidential Daily Diary] 12/20/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890266",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-021, [Presidential Daily Diary] 12/20/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890266. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf, object ID 496086979, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890267",
+        "naid": "415890267",
+        "title": "[Presidential Daily Backup] 12/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890267",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-022, [Presidential Daily Backup] 12/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890267. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf, object ID 496086980, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/20/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890266 | Presidential Daily Backup: [Presidential Daily Backup] 12/20/1989; 1 digital object; https://catalog.archives.gov/id/415890267"
   },
   {
     "id": "conversation-428080461",
@@ -2109,7 +3231,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890266",
+        "naid": "415890266",
+        "title": "[Presidential Daily Diary] 12/20/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890266",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-021, [Presidential Daily Diary] 12/20/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890266. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf, object ID 496086979, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890267",
+        "naid": "415890267",
+        "title": "[Presidential Daily Backup] 12/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890267",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-022, [Presidential Daily Backup] 12/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890267. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf, object ID 496086980, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/20/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890266 | Presidential Daily Backup: [Presidential Daily Backup] 12/20/1989; 1 digital object; https://catalog.archives.gov/id/415890267"
   },
   {
     "id": "conversation-428080463",
@@ -2167,7 +3322,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890266",
+        "naid": "415890266",
+        "title": "[Presidential Daily Diary] 12/20/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890266",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-021, [Presidential Daily Diary] 12/20/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890266. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf, object ID 496086979, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890267",
+        "naid": "415890267",
+        "title": "[Presidential Daily Backup] 12/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890267",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-022, [Presidential Daily Backup] 12/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890267. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf, object ID 496086980, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/20/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890266 | Presidential Daily Backup: [Presidential Daily Backup] 12/20/1989; 1 digital object; https://catalog.archives.gov/id/415890267"
   },
   {
     "id": "conversation-428080451",
@@ -2225,7 +3413,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890266",
+        "naid": "415890266",
+        "title": "[Presidential Daily Diary] 12/20/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890266",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-021, [Presidential Daily Diary] 12/20/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890266. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf, object ID 496086979, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-021_415890266.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890267",
+        "naid": "415890267",
+        "title": "[Presidential Daily Backup] 12/20/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-12-20",
+        "localIdentifier": "12813-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890267",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-022, [Presidential Daily Backup] 12/20/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890267. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf, object ID 496086980, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_20_89-12813-022_415890267.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/20/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890266 | Presidential Daily Backup: [Presidential Daily Backup] 12/20/1989; 1 digital object; https://catalog.archives.gov/id/415890267"
   },
   {
     "id": "conversation-428080467",
@@ -2283,7 +3504,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: December 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890278",
+        "naid": "415890278",
+        "title": "[Presidential Daily Diary] 12/26/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-12-26",
+        "localIdentifier": "12813-033",
+        "catalogUrl": "https://catalog.archives.gov/id/415890278",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_26_89-12813-033_415890278.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-033, [Presidential Daily Diary] 12/26/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890278. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_26_89-12813-033_415890278.pdf, object ID 496086991, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_26_89-12813-033_415890278.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890279",
+        "naid": "415890279",
+        "title": "[Presidential Daily Backup] 12/26/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-12-26",
+        "localIdentifier": "12813-034",
+        "catalogUrl": "https://catalog.archives.gov/id/415890279",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_26_89-12813-034_415890279.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12813-034, [Presidential Daily Backup] 12/26/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890279. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_26_89-12813-034_415890279.pdf, object ID 496086992, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_26_89-12813-034_415890279.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/26/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890278 | Presidential Daily Backup: [Presidential Daily Backup] 12/26/1989; 1 digital object; https://catalog.archives.gov/id/415890279"
   },
   {
     "id": "conversation-428080509",
@@ -2345,7 +3599,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: January 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: January 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890344",
+        "naid": "415890344",
+        "title": "[Presidential Daily Diary] 1/28/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-01-28",
+        "localIdentifier": "12816-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890344",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_28_90-12816-009_415890344.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12816-009, [Presidential Daily Diary] 1/28/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890344. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_28_90-12816-009_415890344.pdf, object ID 498164668, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_28_90-12816-009_415890344.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890345",
+        "naid": "415890345",
+        "title": "[Presidential Daily Backup] 1/28/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-01-28",
+        "localIdentifier": "12816-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890345",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_28_90-12816-010_415890345.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12816-010, [Presidential Daily Backup] 1/28/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890345. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_28_90-12816-010_415890345.pdf, object ID 498164669, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_28_90-12816-010_415890345.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 1/28/1990; 1 digital object; https://catalog.archives.gov/id/415890344 | Presidential Daily Backup: [Presidential Daily Backup] 1/28/1990; 1 digital object; https://catalog.archives.gov/id/415890345"
   },
   {
     "id": "conversation-428080485",
@@ -2408,7 +3695,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890374",
+        "naid": "415890374",
+        "title": "[Presidential Daily Diary] 2/12/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-02-12",
+        "localIdentifier": "12818-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890374",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_12_90-12818-003_415890374.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12818-003, [Presidential Daily Diary] 2/12/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890374. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_12_90-12818-003_415890374.pdf, object ID 498164698, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_12_90-12818-003_415890374.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890375",
+        "naid": "415890375",
+        "title": "[Presidential Daily Backup] 2/12/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-02-12",
+        "localIdentifier": "12818-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890375",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_12_90-12818-004_415890375.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12818-004, [Presidential Daily Backup] 2/12/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890375. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_12_90-12818-004_415890375.pdf, object ID 498164699, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_12_90-12818-004_415890375.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/12/1990; 1 digital object; https://catalog.archives.gov/id/415890374 | Presidential Daily Backup: [Presidential Daily Backup] 2/12/1990; 1 digital object; https://catalog.archives.gov/id/415890375"
   },
   {
     "id": "conversation-428080487",
@@ -2483,7 +3803,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: February 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890380",
+        "naid": "415890380",
+        "title": "[Presidential Daily Diary] 2/15/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-02-15",
+        "localIdentifier": "12818-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890380",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_15_90-12818-009_415890380.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12818-009, [Presidential Daily Diary] 2/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890380. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_15_90-12818-009_415890380.pdf, object ID 498164704, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_15_90-12818-009_415890380.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890381",
+        "naid": "415890381",
+        "title": "[Presidential Daily Backup] 2/15/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-02-15",
+        "localIdentifier": "12818-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890381",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_15_90-12818-010_415890381.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12818-010, [Presidential Daily Backup] 2/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890381. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_15_90-12818-010_415890381.pdf, object ID 498164705, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_15_90-12818-010_415890381.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/15/1990; 1 digital object; https://catalog.archives.gov/id/415890380 | Presidential Daily Backup: [Presidential Daily Backup] 2/15/1990; 1 digital object; https://catalog.archives.gov/id/415890381"
   },
   {
     "id": "conversation-428080605",
@@ -2543,7 +3896,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890434",
+        "naid": "415890434",
+        "title": "[Presidential Daily Diary] 3/14/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-03-14",
+        "localIdentifier": "12821-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415890434",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_14_90-12821-001_415890434.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12821-001, [Presidential Daily Diary] 3/14/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890434. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_14_90-12821-001_415890434.pdf, object ID 498164758, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_14_90-12821-001_415890434.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890435",
+        "naid": "415890435",
+        "title": "[Presidential Daily Backup] 3/14/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-03-14",
+        "localIdentifier": "12821-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415890435",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_14_90-12821-002_415890435.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12821-002, [Presidential Daily Backup] 3/14/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890435. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_14_90-12821-002_415890435.pdf, object ID 498164759, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_14_90-12821-002_415890435.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/14/1990; 1 digital object; https://catalog.archives.gov/id/415890434 | Presidential Daily Backup: [Presidential Daily Backup] 3/14/1990; 1 digital object; https://catalog.archives.gov/id/415890435"
   },
   {
     "id": "conversation-428080673",
@@ -2601,7 +3987,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890522",
+        "naid": "415890522",
+        "title": "[Presidential Daily Diary] 4/27/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-04-27",
+        "localIdentifier": "12825-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890522",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_27_90-12825-003_415890522.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12825-003, [Presidential Daily Diary] 4/27/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890522. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_27_90-12825-003_415890522.pdf, object ID 498164846, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_27_90-12825-003_415890522.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890523",
+        "naid": "415890523",
+        "title": "[Presidential Daily Backup] 4/27/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-04-27",
+        "localIdentifier": "12825-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890523",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_27_90-12825-004_415890523.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12825-004, [Presidential Daily Backup] 4/27/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890523. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_27_90-12825-004_415890523.pdf, object ID 498164847, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_27_90-12825-004_415890523.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/27/1990; 1 digital object; https://catalog.archives.gov/id/415890522 | Presidential Daily Backup: [Presidential Daily Backup] 4/27/1990; 1 digital object; https://catalog.archives.gov/id/415890523"
   },
   {
     "id": "conversation-428080685",
@@ -2667,7 +4086,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890544",
+        "naid": "415890544",
+        "title": "[Presidential Daily Diary] 5/8/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-05-08",
+        "localIdentifier": "12826-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890544",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_08_90-12826-009_415890544.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12826-009, [Presidential Daily Diary] 5/8/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890544. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_08_90-12826-009_415890544.pdf, object ID 498164868, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_08_90-12826-009_415890544.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890545",
+        "naid": "415890545",
+        "title": "[Presidential Daily Backup] 5/8/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-05-08",
+        "localIdentifier": "12826-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890545",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_08_90-12826-010_415890545.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12826-010, [Presidential Daily Backup] 5/8/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890545. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_08_90-12826-010_415890545.pdf, object ID 498164869, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_08_90-12826-010_415890545.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/8/1990; 1 digital object; https://catalog.archives.gov/id/415890544 | Presidential Daily Backup: [Presidential Daily Backup] 5/8/1990; 1 digital object; https://catalog.archives.gov/id/415890545"
   },
   {
     "id": "conversation-428080695",
@@ -2725,7 +4177,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890562",
+        "naid": "415890562",
+        "title": "[Presidential Daily Diary] 5/17/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-05-17",
+        "localIdentifier": "12827-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415890562",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-005, [Presidential Daily Diary] 5/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890562. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf, object ID 498164886, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890563",
+        "naid": "415890563",
+        "title": "[Presidential Daily Backup] 5/17/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-05-17",
+        "localIdentifier": "12827-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415890563",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-006, [Presidential Daily Backup] 5/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890563. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf, object ID 498164887, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/17/1990; 1 digital object; https://catalog.archives.gov/id/415890562 | Presidential Daily Backup: [Presidential Daily Backup] 5/17/1990; 1 digital object; https://catalog.archives.gov/id/415890563"
   },
   {
     "id": "conversation-428080699",
@@ -2783,7 +4268,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890562",
+        "naid": "415890562",
+        "title": "[Presidential Daily Diary] 5/17/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-05-17",
+        "localIdentifier": "12827-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415890562",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-005, [Presidential Daily Diary] 5/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890562. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf, object ID 498164886, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890563",
+        "naid": "415890563",
+        "title": "[Presidential Daily Backup] 5/17/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-05-17",
+        "localIdentifier": "12827-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415890563",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-006, [Presidential Daily Backup] 5/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890563. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf, object ID 498164887, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/17/1990; 1 digital object; https://catalog.archives.gov/id/415890562 | Presidential Daily Backup: [Presidential Daily Backup] 5/17/1990; 1 digital object; https://catalog.archives.gov/id/415890563"
   },
   {
     "id": "conversation-428080697",
@@ -2843,7 +4361,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890562",
+        "naid": "415890562",
+        "title": "[Presidential Daily Diary] 5/17/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-05-17",
+        "localIdentifier": "12827-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415890562",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-005, [Presidential Daily Diary] 5/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890562. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf, object ID 498164886, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-005_415890562.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890563",
+        "naid": "415890563",
+        "title": "[Presidential Daily Backup] 5/17/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-05-17",
+        "localIdentifier": "12827-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415890563",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-006, [Presidential Daily Backup] 5/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890563. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf, object ID 498164887, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_17_90-12827-006_415890563.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/17/1990; 1 digital object; https://catalog.archives.gov/id/415890562 | Presidential Daily Backup: [Presidential Daily Backup] 5/17/1990; 1 digital object; https://catalog.archives.gov/id/415890563"
   },
   {
     "id": "conversation-428080731",
@@ -2901,7 +4452,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890598",
+        "naid": "415890598",
+        "title": "[Presidential Daily Diary] 6/4/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-04",
+        "localIdentifier": "12828-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415890598",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_04_90-12828-023_415890598.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-023, [Presidential Daily Diary] 6/4/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890598. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_04_90-12828-023_415890598.pdf, object ID 498164922, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_04_90-12828-023_415890598.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890599",
+        "naid": "415890599",
+        "title": "[Presidential Daily Backup] 6/4/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-04",
+        "localIdentifier": "12828-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415890599",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_04_90-12828-024_415890599.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-024, [Presidential Daily Backup] 6/4/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890599. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_04_90-12828-024_415890599.pdf, object ID 498164923, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_04_90-12828-024_415890599.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/4/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890598 | Presidential Daily Backup: [Presidential Daily Backup] 6/4/1990; 1 digital object; https://catalog.archives.gov/id/415890599"
   },
   {
     "id": "conversation-428080733",
@@ -2963,7 +4547,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890600",
+        "naid": "415890600",
+        "title": "[Presidential Daily Diary] 6/5/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-05",
+        "localIdentifier": "12828-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415890600",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_05_90-12828-025_415890600.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-025, [Presidential Daily Diary] 6/5/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890600. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_05_90-12828-025_415890600.pdf, object ID 498164924, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_05_90-12828-025_415890600.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890601",
+        "naid": "415890601",
+        "title": "[Presidential Daily Backup] 6/5/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-05",
+        "localIdentifier": "12828-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415890601",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_05_90-12828-026_415890601.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-026, [Presidential Daily Backup] 6/5/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890601. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_05_90-12828-026_415890601.pdf, object ID 498164925, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_05_90-12828-026_415890601.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/5/1990; 1 digital object; https://catalog.archives.gov/id/415890600 | Presidential Daily Backup: [Presidential Daily Backup] 6/5/1990; 1 digital object; https://catalog.archives.gov/id/415890601"
   },
   {
     "id": "conversation-428080775",
@@ -3026,7 +4643,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890618",
+        "naid": "415890618",
+        "title": "[Presidential Daily Diary] 6/14/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-14",
+        "localIdentifier": "12829-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415890618",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-015_415890618.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-015, [Presidential Daily Diary] 6/14/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890618. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_14_90-12829-015_415890618.pdf, object ID 498164942, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-015_415890618.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890619",
+        "naid": "415890619",
+        "title": "[Presidential Daily Backup] 6/14/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-14",
+        "localIdentifier": "12829-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415890619",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-016_415890619.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-016, [Presidential Daily Backup] 6/14/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890619. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_14_90-12829-016_415890619.pdf, object ID 498164943, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-016_415890619.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/14/1990; 1 digital object; https://catalog.archives.gov/id/415890618 | Presidential Daily Backup: [Presidential Daily Backup] 6/14/1990; 1 digital object; https://catalog.archives.gov/id/415890619"
   },
   {
     "id": "conversation-428080777",
@@ -3088,7 +4738,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890618",
+        "naid": "415890618",
+        "title": "[Presidential Daily Diary] 6/14/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-14",
+        "localIdentifier": "12829-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415890618",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-015_415890618.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-015, [Presidential Daily Diary] 6/14/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890618. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_14_90-12829-015_415890618.pdf, object ID 498164942, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-015_415890618.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890619",
+        "naid": "415890619",
+        "title": "[Presidential Daily Backup] 6/14/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-14",
+        "localIdentifier": "12829-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415890619",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-016_415890619.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-016, [Presidential Daily Backup] 6/14/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890619. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_14_90-12829-016_415890619.pdf, object ID 498164943, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_14_90-12829-016_415890619.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/14/1990; 1 digital object; https://catalog.archives.gov/id/415890618 | Presidential Daily Backup: [Presidential Daily Backup] 6/14/1990; 1 digital object; https://catalog.archives.gov/id/415890619"
   },
   {
     "id": "conversation-428080829",
@@ -3153,7 +4836,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890668",
+        "naid": "415890668",
+        "title": "[Presidential Daily Diary] 7/9/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-07-09",
+        "localIdentifier": "12831-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415890668",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_09_90-12831-023_415890668.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12831-023, [Presidential Daily Diary] 7/9/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890668. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_09_90-12831-023_415890668.pdf, object ID 498164992, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_09_90-12831-023_415890668.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890669",
+        "naid": "415890669",
+        "title": "[Presidential Daily Backup] 7/9/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-07-09",
+        "localIdentifier": "12831-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415890669",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_09_90-12831-024_415890669.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12831-024, [Presidential Daily Backup] 7/9/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890669. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_09_90-12831-024_415890669.pdf, object ID 498164993, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_09_90-12831-024_415890669.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/9/1990; 1 digital object; https://catalog.archives.gov/id/415890668 | Presidential Daily Backup: [Presidential Daily Backup] 7/9/1990; 1 digital object; https://catalog.archives.gov/id/415890669"
   },
   {
     "id": "conversation-428080837",
@@ -3225,7 +4941,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890676",
+        "naid": "415890676",
+        "title": "[Presidential Daily Diary] 7/13/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-07-13",
+        "localIdentifier": "12832-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890676",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_13_90-12832-003_415890676.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12832-003, [Presidential Daily Diary] 7/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890676. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_13_90-12832-003_415890676.pdf, object ID 498165000, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_13_90-12832-003_415890676.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890677",
+        "naid": "415890677",
+        "title": "[Presidential Daily Backup] 7/13/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-07-13",
+        "localIdentifier": "12832-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890677",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_13_90-12832-004_415890677.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12832-004, [Presidential Daily Backup] 7/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890677. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_13_90-12832-004_415890677.pdf, object ID 498165001, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_13_90-12832-004_415890677.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/13/1990; 1 digital object; https://catalog.archives.gov/id/415890676 | Presidential Daily Backup: [Presidential Daily Backup] 7/13/1990; 1 digital object; https://catalog.archives.gov/id/415890677"
   },
   {
     "id": "conversation-428080839",
@@ -3291,7 +5040,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890696",
+        "naid": "415890696",
+        "title": "[Presidential Daily Diary] 7/23/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-07-23",
+        "localIdentifier": "12832-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415890696",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-023_415890696.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12832-023, [Presidential Daily Diary] 7/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890696. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_23_90-12832-023_415890696.pdf, object ID 498165020, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-023_415890696.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890697",
+        "naid": "415890697",
+        "title": "[Presidential Daily Backup] 7/23/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-07-23",
+        "localIdentifier": "12832-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415890697",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-024_415890697.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12832-024, [Presidential Daily Backup] 7/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890697. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_23_90-12832-024_415890697.pdf, object ID 498165021, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-024_415890697.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/23/1990; 1 digital object; https://catalog.archives.gov/id/415890696 | Presidential Daily Backup: [Presidential Daily Backup] 7/23/1990; 1 digital object; https://catalog.archives.gov/id/415890697"
   },
   {
     "id": "conversation-428080841",
@@ -3353,7 +5135,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890696",
+        "naid": "415890696",
+        "title": "[Presidential Daily Diary] 7/23/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-07-23",
+        "localIdentifier": "12832-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415890696",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-023_415890696.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12832-023, [Presidential Daily Diary] 7/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890696. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_23_90-12832-023_415890696.pdf, object ID 498165020, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-023_415890696.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890697",
+        "naid": "415890697",
+        "title": "[Presidential Daily Backup] 7/23/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-07-23",
+        "localIdentifier": "12832-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415890697",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-024_415890697.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12832-024, [Presidential Daily Backup] 7/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890697. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_23_90-12832-024_415890697.pdf, object ID 498165021, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_23_90-12832-024_415890697.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/23/1990; 1 digital object; https://catalog.archives.gov/id/415890696 | Presidential Daily Backup: [Presidential Daily Backup] 7/23/1990; 1 digital object; https://catalog.archives.gov/id/415890697"
   },
   {
     "id": "conversation-428080951",
@@ -3411,7 +5226,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890738",
+        "naid": "415890738",
+        "title": "[Presidential Daily Diary] 8/13/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-08-13",
+        "localIdentifier": "12834-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890738",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_13_90-12834-013_415890738.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12834-013, [Presidential Daily Diary] 8/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890738. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_13_90-12834-013_415890738.pdf, object ID 498165062, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_13_90-12834-013_415890738.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890739",
+        "naid": "415890739",
+        "title": "[Presidential Daily Backup] 8/13/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-08-13",
+        "localIdentifier": "12834-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890739",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_13_90-12834-014_415890739.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12834-014, [Presidential Daily Backup] 8/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890739. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_13_90-12834-014_415890739.pdf, object ID 498165063, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_13_90-12834-014_415890739.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/13/1990; 1 digital object; https://catalog.archives.gov/id/415890738 | Presidential Daily Backup: [Presidential Daily Backup] 8/13/1990; 1 digital object; https://catalog.archives.gov/id/415890739"
   },
   {
     "id": "conversation-428081077",
@@ -3474,7 +5322,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890832",
+        "naid": "415890832",
+        "title": "[Presidential Daily Diary] 9/29/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-29",
+        "localIdentifier": "12837-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890832",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12837-009, [Presidential Daily Diary] 9/29/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890832. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf, object ID 498165156, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890833",
+        "naid": "415890833",
+        "title": "[Presidential Daily Backup] 9/29/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-29",
+        "localIdentifier": "12837-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890833",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-010_415890833.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12837-010, [Presidential Daily Backup] 9/29/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890833. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_29_90-12837-010_415890833.pdf, object ID 498165157, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-010_415890833.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/29/1990; 1 digital object; https://catalog.archives.gov/id/415890832 | Presidential Daily Backup: [Presidential Daily Backup] 9/29/1990; 1 digital object; https://catalog.archives.gov/id/415890833"
   },
   {
     "id": "conversation-428081105",
@@ -3534,7 +5415,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890836",
+        "naid": "415890836",
+        "title": "[Presidential Daily Diary] 10/01/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890836",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-003, [Presidential Daily Diary] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890836. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf, object ID 498165160, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890837",
+        "naid": "415890837",
+        "title": "[Presidential Daily Backup] 10/01/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890837",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-004, [Presidential Daily Backup] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890837. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf, object ID 498165161, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890836 | Presidential Daily Backup: [Presidential Daily Backup] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890837"
   },
   {
     "id": "conversation-428081103",
@@ -3592,7 +5506,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890836",
+        "naid": "415890836",
+        "title": "[Presidential Daily Diary] 10/01/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890836",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-003, [Presidential Daily Diary] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890836. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf, object ID 498165160, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890837",
+        "naid": "415890837",
+        "title": "[Presidential Daily Backup] 10/01/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890837",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-004, [Presidential Daily Backup] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890837. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf, object ID 498165161, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890836 | Presidential Daily Backup: [Presidential Daily Backup] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890837"
   },
   {
     "id": "conversation-428081225",
@@ -3658,7 +5605,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890952",
+        "naid": "415890952",
+        "title": "[Presidential Daily Diary] 11/27/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-27",
+        "localIdentifier": "12843-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890952",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_27_90-12843-013_415890952.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-013, [Presidential Daily Diary] 11/27/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890952. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_27_90-12843-013_415890952.pdf, object ID 498165276, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_27_90-12843-013_415890952.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890953",
+        "naid": "415890953",
+        "title": "[Presidential Daily Backup] 11/27/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-27",
+        "localIdentifier": "12843-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890953",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_27_90-12843-014_415890953.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-014, [Presidential Daily Backup] 11/27/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890953. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_27_90-12843-014_415890953.pdf, object ID 498165277, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_27_90-12843-014_415890953.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/27/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890952 | Presidential Daily Backup: [Presidential Daily Backup] 11/27/1990; 1 digital object; https://catalog.archives.gov/id/415890953"
   },
   {
     "id": "conversation-428081227",
@@ -3718,7 +5698,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890954",
+        "naid": "415890954",
+        "title": "[Presidential Daily Diary] 11/28/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-28",
+        "localIdentifier": "12843-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415890954",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_28_90-12843-015_415890954.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-015, [Presidential Daily Diary] 11/28/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890954. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_28_90-12843-015_415890954.pdf, object ID 498165278, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_28_90-12843-015_415890954.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890955",
+        "naid": "415890955",
+        "title": "[Presidential Daily Backup] 11/28/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-28",
+        "localIdentifier": "12843-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415890955",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_28_90-12843-016_415890955.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-016, [Presidential Daily Backup] 11/28/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890955. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_28_90-12843-016_415890955.pdf, object ID 498165279, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_28_90-12843-016_415890955.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/28/1990; 1 digital object; https://catalog.archives.gov/id/415890954 | Presidential Daily Backup: [Presidential Daily Backup] 11/28/1990; 1 digital object; https://catalog.archives.gov/id/415890955"
   },
   {
     "id": "conversation-428081239",
@@ -3777,7 +5790,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890974",
+        "naid": "415890974",
+        "title": "[Presidential Daily Diary] 12/8/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-12-08",
+        "localIdentifier": "12844-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890974",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_08_90-12844-007_415890974.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12844-007, [Presidential Daily Diary] 12/8/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890974. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_08_90-12844-007_415890974.pdf, object ID 498165298, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_08_90-12844-007_415890974.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890975",
+        "naid": "415890975",
+        "title": "[Presidential Daily Backup] 12/8/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-12-08",
+        "localIdentifier": "12844-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890975",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_08_90-12844-008_415890975.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12844-008, [Presidential Daily Backup] 12/8/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890975. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_08_90-12844-008_415890975.pdf, object ID 498165299, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_08_90-12844-008_415890975.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/8/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890974 | Presidential Daily Backup: [Presidential Daily Backup] 12/8/1990; 1 digital object; https://catalog.archives.gov/id/415890975"
   },
   {
     "id": "conversation-428082499",
@@ -3846,7 +5892,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186362",
+        "naid": "186362",
+        "title": "President's Daily Diary Entry, February 26, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-02-26",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186362",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/62/1863/186362/content/arcmedia/media/images/40/23/40-2260a.gif",
+        "digitalObjectCount": 21,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, February 26, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186362. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-2260a.gif, object ID 14790811, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/62/1863/186362/content/arcmedia/media/images/40/23/40-2260a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891134",
+        "naid": "415891134",
+        "title": "[Presidential Daily Diary] 2/26/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-26",
+        "localIdentifier": "12850-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415891134",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_26_91-12850-001_415891134.pdf",
+        "digitalObjectCount": 22,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12850-001, [Presidential Daily Diary] 2/26/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891134. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_26_91-12850-001_415891134.pdf, object ID 508175088, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_26_91-12850-001_415891134.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891135",
+        "naid": "415891135",
+        "title": "[Presidential Daily Backup] 2/26/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-26",
+        "localIdentifier": "12850-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415891135",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_26_91-12850-002_415891135.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12850-002, [Presidential Daily Backup] 2/26/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891135. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_26_91-12850-002_415891135.pdf, object ID 508175089, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_26_91-12850-002_415891135.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, February 26, 1991; 21 digital objects; https://catalog.archives.gov/id/186362 | Presidential Daily Diary: [Presidential Daily Diary] 2/26/1991; 22 digital objects; https://catalog.archives.gov/id/415891134 | Presidential Daily Backup: [Presidential Daily Backup] 2/26/1991; 1 digital object; https://catalog.archives.gov/id/415891135"
   },
   {
     "id": "conversation-428081585",
@@ -3904,7 +5998,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891234",
+        "naid": "415891234",
+        "title": "[Presidential Daily Diary] 4/17/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-04-17",
+        "localIdentifier": "12854-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415891234",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_17_91-12854-015_415891234.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12854-015, [Presidential Daily Diary] 4/17/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891234. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_17_91-12854-015_415891234.pdf, object ID 508175188, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_17_91-12854-015_415891234.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891235",
+        "naid": "415891235",
+        "title": "[Presidential Daily Backup] 4/17/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-04-17",
+        "localIdentifier": "12854-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415891235",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_17_91-12854-016_415891235.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12854-016, [Presidential Daily Backup] 4/17/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891235. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_17_91-12854-016_415891235.pdf, object ID 508175189, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_17_91-12854-016_415891235.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/17/1991; 1 digital object; https://catalog.archives.gov/id/415891234 | Presidential Daily Backup: [Presidential Daily Backup] 4/17/1991; 1 digital object; https://catalog.archives.gov/id/415891235"
   },
   {
     "id": "conversation-428081627",
@@ -3964,7 +6091,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: May 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: May 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891266",
+        "naid": "415891266",
+        "title": "[Presidential Daily Diary] 5/3/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-05-03",
+        "localIdentifier": "12856-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415891266",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_02_91-12856-005_415891266.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12856-005, [Presidential Daily Diary] 5/3/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891266. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_02_91-12856-005_415891266.pdf, object ID 508175220, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_02_91-12856-005_415891266.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891267",
+        "naid": "415891267",
+        "title": "[Presidential Daily Backup] 5/3/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-05-03",
+        "localIdentifier": "12856-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415891267",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_02_91-12856-006_415891267.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12856-006, [Presidential Daily Backup] 5/3/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891267. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_02_91-12856-006_415891267.pdf, object ID 508175221, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_02_91-12856-006_415891267.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/3/1991; 1 digital object; https://catalog.archives.gov/id/415891266 | Presidential Daily Backup: [Presidential Daily Backup] 5/3/1991; 1 digital object; https://catalog.archives.gov/id/415891267"
   },
   {
     "id": "conversation-428081715",
@@ -4026,7 +6186,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891345",
+        "naid": "415891345",
+        "title": "[Presidential Daily Diary] 6/11/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-06-11",
+        "localIdentifier": "12860-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415891345",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_11_91-12860-007_415891345.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12860-007, [Presidential Daily Diary] 6/11/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891345. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_11_91-12860-007_415891345.pdf, object ID 508175299, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_11_91-12860-007_415891345.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891346",
+        "naid": "415891346",
+        "title": "[Presidential Daily Backup] 6/11/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-06-11",
+        "localIdentifier": "12860-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415891346",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_11_91-12860-008_415891346.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12860-008, [Presidential Daily Backup] 6/11/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891346. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_11_91-12860-008_415891346.pdf, object ID 508175300, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_11_91-12860-008_415891346.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/11/1991; 1 digital object; https://catalog.archives.gov/id/415891345 | Presidential Daily Backup: [Presidential Daily Backup] 6/11/1991; 1 digital object; https://catalog.archives.gov/id/415891346"
   },
   {
     "id": "conversation-428081689",
@@ -4084,7 +6277,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891347",
+        "naid": "415891347",
+        "title": "[Presidential Daily Diary] 6/12/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-06-12",
+        "localIdentifier": "12860-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415891347",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_12_91-12860-009_415891347.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12860-009, [Presidential Daily Diary] 6/12/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891347. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_12_91-12860-009_415891347.pdf, object ID 508175301, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_12_91-12860-009_415891347.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891348",
+        "naid": "415891348",
+        "title": "[Presidential Daily Backup] 6/12/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-06-12",
+        "localIdentifier": "12860-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415891348",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_12_91-12860-010_415891348.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12860-010, [Presidential Daily Backup] 6/12/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891348. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_12_91-12860-010_415891348.pdf, object ID 508175302, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_12_91-12860-010_415891348.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/12/1991; 1 digital object; https://catalog.archives.gov/id/415891347 | Presidential Daily Backup: [Presidential Daily Backup] 6/12/1991; 1 digital object; https://catalog.archives.gov/id/415891348"
   },
   {
     "id": "conversation-428081721",
@@ -4144,7 +6370,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891363",
+        "naid": "415891363",
+        "title": "[Presidential Daily Diary] 6/20/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-06-20",
+        "localIdentifier": "12861-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415891363",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_20_91-12861-007_415891363.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12861-007, [Presidential Daily Diary] 6/20/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891363. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_20_91-12861-007_415891363.pdf, object ID 508175317, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_20_91-12861-007_415891363.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891364",
+        "naid": "415891364",
+        "title": "[Presidential Daily Backup] 6/20/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-06-20",
+        "localIdentifier": "12861-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415891364",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_20_91-12861-008_415891364.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12861-008, [Presidential Daily Backup] 6/20/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891364. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_20_91-12861-008_415891364.pdf, object ID 508175318, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_20_91-12861-008_415891364.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/20/1991; 1 digital object; https://catalog.archives.gov/id/415891363 | Presidential Daily Backup: [Presidential Daily Backup] 6/20/1991; 1 digital object; https://catalog.archives.gov/id/415891364"
   },
   {
     "id": "conversation-428081889",
@@ -4218,7 +6477,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891541",
+        "naid": "415891541",
+        "title": "[Presidential Daily Diary] 9/17/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-09-17",
+        "localIdentifier": "12867-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415891541",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-021_415891541.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12867-021, [Presidential Daily Diary] 9/17/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891541. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_17_91-12867-021_415891541.pdf, object ID 508175495, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-021_415891541.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891542",
+        "naid": "415891542",
+        "title": "[Presidential Daily Backup] 9/17/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-09-17",
+        "localIdentifier": "12867-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415891542",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-022_415891542.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12867-022, [Presidential Daily Backup] 9/17/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891542. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_17_91-12867-022_415891542.pdf, object ID 508175496, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-022_415891542.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/17/1991; 1 digital object; https://catalog.archives.gov/id/415891541 | Presidential Daily Backup: [Presidential Daily Backup] 9/17/1991; 1 digital object; https://catalog.archives.gov/id/415891542"
   },
   {
     "id": "conversation-428081887",
@@ -4282,7 +6574,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891541",
+        "naid": "415891541",
+        "title": "[Presidential Daily Diary] 9/17/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-09-17",
+        "localIdentifier": "12867-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415891541",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-021_415891541.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12867-021, [Presidential Daily Diary] 9/17/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891541. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_17_91-12867-021_415891541.pdf, object ID 508175495, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-021_415891541.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891542",
+        "naid": "415891542",
+        "title": "[Presidential Daily Backup] 9/17/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-09-17",
+        "localIdentifier": "12867-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415891542",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-022_415891542.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12867-022, [Presidential Daily Backup] 9/17/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891542. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_17_91-12867-022_415891542.pdf, object ID 508175496, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_17_91-12867-022_415891542.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/17/1991; 1 digital object; https://catalog.archives.gov/id/415891541 | Presidential Daily Backup: [Presidential Daily Backup] 9/17/1991; 1 digital object; https://catalog.archives.gov/id/415891542"
   },
   {
     "id": "conversation-428081905",
@@ -4342,7 +6667,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891555",
+        "naid": "415891555",
+        "title": "[Presidential Daily Diary] 9/24/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-09-24",
+        "localIdentifier": "12868-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891555",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-011_415891555.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12868-011, [Presidential Daily Diary] 9/24/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891555. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_24_91-12868-011_415891555.pdf, object ID 508175509, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-011_415891555.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891556",
+        "naid": "415891556",
+        "title": "[Presidential Daily Backup] 9/24/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-09-24",
+        "localIdentifier": "12868-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415891556",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12868-012, [Presidential Daily Backup] 9/24/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891556. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf, object ID 508175510, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/24/1991; 1 digital object; https://catalog.archives.gov/id/415891555 | Presidential Daily Backup: [Presidential Daily Backup] 9/24/1991; 1 digital object; https://catalog.archives.gov/id/415891556"
   },
   {
     "id": "conversation-428081931",
@@ -4402,7 +6760,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891571",
+        "naid": "415891571",
+        "title": "[Presidential Daily Diary] 10/2/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-02",
+        "localIdentifier": "12869-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415891571",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_02_91-12869-005_415891571.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12869-005, [Presidential Daily Diary] 10/2/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891571. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_02_91-12869-005_415891571.pdf, object ID 508175525, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_02_91-12869-005_415891571.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891572",
+        "naid": "415891572",
+        "title": "[Presidential Daily Backup] [1] 10/2/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-02",
+        "localIdentifier": "12869-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415891572",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_02_91-12869-006_415891572.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12869-006, [Presidential Daily Backup] [1] 10/2/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891572. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_02_91-12869-006_415891572.pdf, object ID 508175526, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_02_91-12869-006_415891572.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891573",
+        "naid": "415891573",
+        "title": "[Presidential Daily Backup] [2] 10/2/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-02",
+        "localIdentifier": "12869-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415891573",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_02_91-12869-007_415891573.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12869-007, [Presidential Daily Backup] [2] 10/2/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891573. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_02_91-12869-007_415891573.pdf, object ID 508175527, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_02_91-12869-007_415891573.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/2/1991; 1 digital object; https://catalog.archives.gov/id/415891571 | Presidential Daily Backup: [Presidential Daily Backup] [1] 10/2/1991; 1 digital object; https://catalog.archives.gov/id/415891572 | Presidential Daily Backup: [Presidential Daily Backup] [2] 10/2/1991; 1 digital object; https://catalog.archives.gov/id/415891573"
   },
   {
     "id": "conversation-428081935",
@@ -4462,7 +6868,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891576",
+        "naid": "415891576",
+        "title": "[Presidential Daily Diary] 10/4/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-04",
+        "localIdentifier": "12869-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415891576",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_04_91-12869-010_415891576.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12869-010, [Presidential Daily Diary] 10/4/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891576. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_04_91-12869-010_415891576.pdf, object ID 508175530, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_04_91-12869-010_415891576.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891577",
+        "naid": "415891577",
+        "title": "[Presidential Daily Backup] 10/4/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-04",
+        "localIdentifier": "12869-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891577",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_04_91-12869-011_415891577.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12869-011, [Presidential Daily Backup] 10/4/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891577. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_04_91-12869-011_415891577.pdf, object ID 508175531, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_04_91-12869-011_415891577.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/4/1991; 1 digital object; https://catalog.archives.gov/id/415891576 | Presidential Daily Backup: [Presidential Daily Backup] 10/4/1991; 1 digital object; https://catalog.archives.gov/id/415891577"
   },
   {
     "id": "conversation-428081943",
@@ -4520,7 +6959,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891588",
+        "naid": "415891588",
+        "title": "[Presidential Daily Diary] 10/10/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-10",
+        "localIdentifier": "12870-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415891588",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_10_91-12870-007_415891588.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12870-007, [Presidential Daily Diary] 10/10/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891588. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_10_91-12870-007_415891588.pdf, object ID 508175542, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_10_91-12870-007_415891588.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891589",
+        "naid": "415891589",
+        "title": "[Presidential Daily Backup] 10/10/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-10",
+        "localIdentifier": "12870-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415891589",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_10_91-12870-008_415891589.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12870-008, [Presidential Daily Backup] 10/10/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891589. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_10_91-12870-008_415891589.pdf, object ID 508175543, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_10_91-12870-008_415891589.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/10/1991; 1 digital object; https://catalog.archives.gov/id/415891588 | Presidential Daily Backup: [Presidential Daily Backup] 10/10/1991; 1 digital object; https://catalog.archives.gov/id/415891589"
   },
   {
     "id": "conversation-428082045",
@@ -4584,7 +7056,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891662",
+        "naid": "415891662",
+        "title": "[Presidential Daily Diary] 11/15/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-11-15",
+        "localIdentifier": "12873-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415891662",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_15_91-12873-014_415891662.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12873-014, [Presidential Daily Diary] 11/15/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891662. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_15_91-12873-014_415891662.pdf, object ID 508175616, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_15_91-12873-014_415891662.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891663",
+        "naid": "415891663",
+        "title": "[Presidential Daily Backup] 11/15/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-11-15",
+        "localIdentifier": "12873-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415891663",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_15_91-12873-015_415891663.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12873-015, [Presidential Daily Backup] 11/15/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891663. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_15_91-12873-015_415891663.pdf, object ID 508175617, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_15_91-12873-015_415891663.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/15/1991; 1 digital object; https://catalog.archives.gov/id/415891662 | Presidential Daily Backup: [Presidential Daily Backup] 11/15/1991; 1 digital object; https://catalog.archives.gov/id/415891663"
   },
   {
     "id": "conversation-428082079",
@@ -4642,7 +7147,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: December 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: December 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891720",
+        "naid": "415891720",
+        "title": "[Presidential Daily Diary] 12/14/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-12-14",
+        "localIdentifier": "12876-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415891720",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_14_91-12876-003_415891720.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12876-003, [Presidential Daily Diary] 12/14/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891720. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_14_91-12876-003_415891720.pdf, object ID 508175674, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_14_91-12876-003_415891720.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891721",
+        "naid": "415891721",
+        "title": "[Presidential Daily Backup] 12/14/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-12-14",
+        "localIdentifier": "12876-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415891721",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_14_91-12876-004_415891721.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12876-004, [Presidential Daily Backup] 12/14/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891721. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_14_91-12876-004_415891721.pdf, object ID 508175675, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_14_91-12876-004_415891721.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/14/1991; 1 digital object; https://catalog.archives.gov/id/415891720 | Presidential Daily Backup: [Presidential Daily Backup] 12/14/1991; 1 digital object; https://catalog.archives.gov/id/415891721"
   },
   {
     "id": "conversation-428082203",
@@ -4701,7 +7239,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: April 1992"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: April 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891978",
+        "naid": "415891978",
+        "title": "[Presidential Daily Diary] 4/20/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-04-20",
+        "localIdentifier": "12887-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415891978",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_20_92-12887-013_415891978.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12887-013, [Presidential Daily Diary] 4/20/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891978. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_20_92-12887-013_415891978.pdf, object ID 563926909, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_20_92-12887-013_415891978.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891979",
+        "naid": "415891979",
+        "title": "[Presidential Daily Backup] 4/20/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-04-20",
+        "localIdentifier": "12887-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415891979",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_20_92-12887-014_415891979.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12887-014, [Presidential Daily Backup] 4/20/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891979. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_20_92-12887-014_415891979.pdf, object ID 563926910, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_20_92-12887-014_415891979.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/20/1992; 1 digital object; https://catalog.archives.gov/id/415891978 | Presidential Daily Backup: [Presidential Daily Backup] 4/20/1992; 1 digital object; https://catalog.archives.gov/id/415891979"
   },
   {
     "id": "conversation-428082233",
@@ -4761,7 +7332,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892135",
+        "naid": "415892135",
+        "title": "[Presidential Daily Diary] 7/6/1992 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-07-06",
+        "localIdentifier": "12895-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415892135",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_06_92-12895-007_415892135.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12895-007, [Presidential Daily Diary] 7/6/1992 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892135. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_06_92-12895-007_415892135.pdf, object ID 563927066, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_06_92-12895-007_415892135.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892136",
+        "naid": "415892136",
+        "title": "[Presidential Daily Backup] 7/6/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-07-06",
+        "localIdentifier": "12895-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415892136",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_06_92-12895-008_415892136.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12895-008, [Presidential Daily Backup] 7/6/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892136. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_06_92-12895-008_415892136.pdf, object ID 563927067, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_06_92-12895-008_415892136.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/6/1992 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415892135 | Presidential Daily Backup: [Presidential Daily Backup] 7/6/1992; 1 digital object; https://catalog.archives.gov/id/415892136"
   },
   {
     "id": "conversation-428082273",
@@ -4819,7 +7423,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892137",
+        "naid": "415892137",
+        "title": "[Presidential Daily Diary] 7/7/1992 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-07-07",
+        "localIdentifier": "12895-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415892137",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_07_92-12895-009_415892137.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12895-009, [Presidential Daily Diary] 7/7/1992 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892137. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_07_92-12895-009_415892137.pdf, object ID 563927068, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_07_92-12895-009_415892137.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892138",
+        "naid": "415892138",
+        "title": "[Presidential Daily Backup] 7/7/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-07-07",
+        "localIdentifier": "12895-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415892138",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_07_92-12895-010_415892138.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12895-010, [Presidential Daily Backup] 7/7/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892138. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_07_92-12895-010_415892138.pdf, object ID 563927069, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_07_92-12895-010_415892138.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/7/1992 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415892137 | Presidential Daily Backup: [Presidential Daily Backup] 7/7/1992; 1 digital object; https://catalog.archives.gov/id/415892138"
   },
   {
     "id": "conversation-428082307",
@@ -4877,7 +7514,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: July 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892180",
+        "naid": "415892180",
+        "title": "[Presidential Daily Diary] 7/28/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-07-28",
+        "localIdentifier": "12897-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415892180",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_28_92-12897-001_415892180.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12897-001, [Presidential Daily Diary] 7/28/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892180. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_28_92-12897-001_415892180.pdf, object ID 563927111, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_28_92-12897-001_415892180.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892181",
+        "naid": "415892181",
+        "title": "[Presidential Daily Backup] 7/28/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-07-28",
+        "localIdentifier": "12897-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415892181",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_28_92-12897-002_415892181.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12897-002, [Presidential Daily Backup] 7/28/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892181. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_28_92-12897-002_415892181.pdf, object ID 563927112, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_28_92-12897-002_415892181.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/28/1992; 1 digital object; https://catalog.archives.gov/id/415892180 | Presidential Daily Backup: [Presidential Daily Backup] 7/28/1992; 1 digital object; https://catalog.archives.gov/id/415892181"
   },
   {
     "id": "conversation-428079913",
@@ -4935,7 +7605,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1989-May 1989]: February 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889674",
+        "naid": "415889674",
+        "title": "[Presidential Daily Diary] 2/27/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-02-27",
+        "localIdentifier": "12791-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415889674",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_27_89-12791-021_415889674.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-021, [Presidential Daily Diary] 2/27/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889674. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_27_89-12791-021_415889674.pdf, object ID 496086387, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_27_89-12791-021_415889674.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889675",
+        "naid": "415889675",
+        "title": "[Presidential Daily Backup] 2/27/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-02-27",
+        "localIdentifier": "12791-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415889675",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_27_89-12791-022_415889675.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12791-022, [Presidential Daily Backup] 2/27/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889675. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_27_89-12791-022_415889675.pdf, object ID 496086388, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_27_89-12791-022_415889675.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/27/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889674 | Presidential Daily Backup: [Presidential Daily Backup] 2/27/1989; 1 digital object; https://catalog.archives.gov/id/415889675"
   },
   {
     "id": "conversation-428079923",
@@ -4999,7 +7702,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: March 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889702",
+        "naid": "415889702",
+        "title": "[Presidential Daily Diary] 3/13/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-03-13",
+        "localIdentifier": "12792-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415889702",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_13_89-12792-015_415889702.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12792-015, [Presidential Daily Diary] 3/13/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889702. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_13_89-12792-015_415889702.pdf, object ID 496086415, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_13_89-12792-015_415889702.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889703",
+        "naid": "415889703",
+        "title": "[Presidential Daily Backup] 3/13/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-03-13",
+        "localIdentifier": "12792-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415889703",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_13_89-12792-016_415889703.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12792-016, [Presidential Daily Backup] 3/13/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889703. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_13_89-12792-016_415889703.pdf, object ID 496086416, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_13_89-12792-016_415889703.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/13/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889702 | Presidential Daily Backup: [Presidential Daily Backup] 3/13/1989; 1 digital object; https://catalog.archives.gov/id/415889703"
   },
   {
     "id": "conversation-428079935",
@@ -5057,7 +7793,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: March 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889720",
+        "naid": "415889720",
+        "title": "[Presidential Daily Diary] 3/22/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-03-22",
+        "localIdentifier": "12793-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415889720",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_22_89-12793-009_415889720.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12793-009, [Presidential Daily Diary] 3/22/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889720. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_22_89-12793-009_415889720.pdf, object ID 496086433, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_22_89-12793-009_415889720.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889721",
+        "naid": "415889721",
+        "title": "[Presidential Daily Backup] 3/22/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-03-22",
+        "localIdentifier": "12793-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415889721",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_22_89-12793-010_415889721.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12793-010, [Presidential Daily Backup] 3/22/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889721. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_22_89-12793-010_415889721.pdf, object ID 496086434, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_22_89-12793-010_415889721.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/22/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889720 | Presidential Daily Backup: [Presidential Daily Backup] 3/22/1989; 1 digital object; https://catalog.archives.gov/id/415889721"
   },
   {
     "id": "conversation-428079943",
@@ -5115,7 +7884,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889750",
+        "naid": "415889750",
+        "title": "[Presidential Daily Diary] 4/6/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-06",
+        "localIdentifier": "12794-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415889750",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-007_415889750.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-007, [Presidential Daily Diary] 4/6/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889750. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_06_89-12794-007_415889750.pdf, object ID 496086463, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-007_415889750.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889751",
+        "naid": "415889751",
+        "title": "[Presidential Daily Backup] 4/6/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-06",
+        "localIdentifier": "12794-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415889751",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-008_415889751.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-008, [Presidential Daily Backup] 4/6/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889751. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_06_89-12794-008_415889751.pdf, object ID 496086464, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-008_415889751.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/6/1989; 1 digital object; https://catalog.archives.gov/id/415889750 | Presidential Daily Backup: [Presidential Daily Backup] 4/6/1989; 1 digital object; https://catalog.archives.gov/id/415889751"
   },
   {
     "id": "conversation-428079947",
@@ -5173,7 +7975,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889760",
+        "naid": "415889760",
+        "title": "[Presidential Daily Diary] 4/11/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-11",
+        "localIdentifier": "12794-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415889760",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_11_89-12794-017_415889760.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-017, [Presidential Daily Diary] 4/11/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889760. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_11_89-12794-017_415889760.pdf, object ID 496086473, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_11_89-12794-017_415889760.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889761",
+        "naid": "415889761",
+        "title": "[Presidential Daily Backup] 4/11/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-11",
+        "localIdentifier": "12794-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415889761",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_11_89-12794-018_415889761.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12794-018, [Presidential Daily Backup] 4/11/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889761. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_11_89-12794-018_415889761.pdf, object ID 496086474, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_11_89-12794-018_415889761.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/11/1989; 1 digital object; https://catalog.archives.gov/id/415889760 | Presidential Daily Backup: [Presidential Daily Backup] 4/11/1989; 1 digital object; https://catalog.archives.gov/id/415889761"
   },
   {
     "id": "conversation-428079967",
@@ -5231,7 +8066,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate participants."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889776",
+        "naid": "415889776",
+        "title": "[Presidential Daily Diary] 4/19/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-19",
+        "localIdentifier": "12795-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415889776",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-007_415889776.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-007, [Presidential Daily Diary] 4/19/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889776. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_19_89-12795-007_415889776.pdf, object ID 496086489, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-007_415889776.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889777",
+        "naid": "415889777",
+        "title": "[Presidential Daily Backup] 4/19/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-19",
+        "localIdentifier": "12795-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415889777",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-008_415889777.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-008, [Presidential Daily Backup] 4/19/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889777. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_19_89-12795-008_415889777.pdf, object ID 496086490, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-008_415889777.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/19/1989; 1 digital object; https://catalog.archives.gov/id/415889776 | Presidential Daily Backup: [Presidential Daily Backup] 4/19/1989; 1 digital object; https://catalog.archives.gov/id/415889777"
   },
   {
     "id": "conversation-428079979",
@@ -5289,7 +8157,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: April 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889782",
+        "naid": "415889782",
+        "title": "[Presidential Daily Diary] 4/22/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-04-22",
+        "localIdentifier": "12795-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415889782",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_22_89-12795-013_415889782.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-013, [Presidential Daily Diary] 4/22/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889782. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_22_89-12795-013_415889782.pdf, object ID 496086495, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_22_89-12795-013_415889782.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889783",
+        "naid": "415889783",
+        "title": "[Presidential Daily Backup] 4/22/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-04-22",
+        "localIdentifier": "12795-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415889783",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_22_89-12795-014_415889783.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12795-014, [Presidential Daily Backup] 4/22/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889783. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_22_89-12795-014_415889783.pdf, object ID 496086496, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_22_89-12795-014_415889783.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/22/1989; 1 digital object; https://catalog.archives.gov/id/415889782 | Presidential Daily Backup: [Presidential Daily Backup] 4/22/1989; 1 digital object; https://catalog.archives.gov/id/415889783"
   },
   {
     "id": "conversation-428080005",
@@ -5347,7 +8248,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889820",
+        "naid": "415889820",
+        "title": "[Presidential Daily Diary] 5/11/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-05-11",
+        "localIdentifier": "12796-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415889820",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-019_415889820.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12796-019, [Presidential Daily Diary] 5/11/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889820. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_11_89-12796-019_415889820.pdf, object ID 496086533, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-019_415889820.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889821",
+        "naid": "415889821",
+        "title": "[Presidential Daily Backup] 5/11/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-05-11",
+        "localIdentifier": "12796-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415889821",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-020_415889821.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12796-020, [Presidential Daily Backup] 5/11/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889821. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_11_89-12796-020_415889821.pdf, object ID 496086534, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-020_415889821.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/11/1989; 1 digital object; https://catalog.archives.gov/id/415889820 | Presidential Daily Backup: [Presidential Daily Backup] 5/11/1989; 1 digital object; https://catalog.archives.gov/id/415889821"
   },
   {
     "id": "conversation-428080023",
@@ -5405,7 +8339,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: May 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - January 1989-May 1989]: May 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889828",
+        "naid": "415889828",
+        "title": "[Presidential Daily Diary] 5/15/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-05-15",
+        "localIdentifier": "12797-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889828",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_15_89-12797-001_415889828.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12797-001, [Presidential Daily Diary] 5/15/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889828. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_15_89-12797-001_415889828.pdf, object ID 496086541, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_15_89-12797-001_415889828.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889829",
+        "naid": "415889829",
+        "title": "[Presidential Daily Backup] 5/15/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-05-15",
+        "localIdentifier": "12797-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889829",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_15_89-12797-002_415889829.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12797-002, [Presidential Daily Backup] 5/15/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889829. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_15_89-12797-002_415889829.pdf, object ID 496086542, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_15_89-12797-002_415889829.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/15/1989; 1 digital object; https://catalog.archives.gov/id/415889828 | Presidential Daily Backup: [Presidential Daily Backup] 5/15/1989; 1 digital object; https://catalog.archives.gov/id/415889829"
   },
   {
     "id": "conversation-428082475",
@@ -5463,7 +8430,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: May 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889852",
+        "naid": "415889852",
+        "title": "[Presidential Daily Diary] 5/27/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-05-27",
+        "localIdentifier": "12798-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415889852",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_27_98-12798-005_415889852.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12798-005, [Presidential Daily Diary] 5/27/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889852. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_27_98-12798-005_415889852.pdf, object ID 496086565, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_27_98-12798-005_415889852.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889853",
+        "naid": "415889853",
+        "title": "[Presidential Daily Backup] 5/27/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-05-27",
+        "localIdentifier": "12798-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415889853",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_27_98-12798-006_415889853.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12798-006, [Presidential Daily Backup] 5/27/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889853. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_27_98-12798-006_415889853.pdf, object ID 496086566, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_27_98-12798-006_415889853.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/27/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889852 | Presidential Daily Backup: [Presidential Daily Backup] 5/27/1989; 1 digital object; https://catalog.archives.gov/id/415889853"
   },
   {
     "id": "conversation-428080029",
@@ -5521,7 +8521,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: June 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889862",
+        "naid": "415889862",
+        "title": "[Presidential Daily Diary] 6/1/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-06-01",
+        "localIdentifier": "12798-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415889862",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_01_89-12798-015_415889862.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12798-015, [Presidential Daily Diary] 6/1/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889862. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_01_89-12798-015_415889862.pdf, object ID 496086575, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_01_89-12798-015_415889862.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889863",
+        "naid": "415889863",
+        "title": "[Presidential Daily Backup] 6/1/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-06-01",
+        "localIdentifier": "12798-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415889863",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_01_89-12798-016_415889863.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12798-016, [Presidential Daily Backup] 6/1/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889863. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_01_89-12798-016_415889863.pdf, object ID 496086576, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_01_89-12798-016_415889863.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/1/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889862 | Presidential Daily Backup: [Presidential Daily Backup] 6/1/1989; 1 digital object; https://catalog.archives.gov/id/415889863"
   },
   {
     "id": "conversation-428080059",
@@ -5583,7 +8616,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: June 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: June 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889878",
+        "naid": "415889878",
+        "title": "[Presidential Daily Diary] 6/9/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-06-09",
+        "localIdentifier": "12799-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889878",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_09_89-12799-001_415889878.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12799-001, [Presidential Daily Diary] 6/9/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889878. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_09_89-12799-001_415889878.pdf, object ID 496086591, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_09_89-12799-001_415889878.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889879",
+        "naid": "415889879",
+        "title": "[Presidential Daily Backup] 6/9/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-06-09",
+        "localIdentifier": "12799-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889879",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_09_89-12799-002_415889879.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12799-002, [Presidential Daily Backup] 6/9/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889879. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_09_89-12799-002_415889879.pdf, object ID 496086592, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_09_89-12799-002_415889879.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/9/1989; 1 digital object; https://catalog.archives.gov/id/415889878 | Presidential Daily Backup: [Presidential Daily Backup] 6/9/1989; 1 digital object; https://catalog.archives.gov/id/415889879"
   },
   {
     "id": "conversation-428080121",
@@ -5641,7 +8707,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1989-July 1989]: July 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889934",
+        "naid": "415889934",
+        "title": "[Presidential Daily Diary] 7/7/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-07-07",
+        "localIdentifier": "12801-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415889934",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-015_415889934.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-015, [Presidential Daily Diary] 7/7/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889934. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_07_89-12801-015_415889934.pdf, object ID 496086647, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-015_415889934.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889935",
+        "naid": "415889935",
+        "title": "[Presidential Daily Backup] 7/7/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-07-07",
+        "localIdentifier": "12801-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415889935",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-016, [Presidential Daily Backup] 7/7/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889935. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf, object ID 496086648, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/7/1989; 1 digital object; https://catalog.archives.gov/id/415889934 | Presidential Daily Backup: [Presidential Daily Backup] 7/7/1989; 1 digital object; https://catalog.archives.gov/id/415889935"
   },
   {
     "id": "conversation-428080103",
@@ -5699,7 +8798,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: July 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889954",
+        "naid": "415889954",
+        "title": "[Presidential Daily Diary] 7/17/1989 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-07-17",
+        "localIdentifier": "12801-035",
+        "catalogUrl": "https://catalog.archives.gov/id/415889954",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_17_89-12801-035_415889954.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-035, [Presidential Daily Diary] 7/17/1989 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889954. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_17_89-12801-035_415889954.pdf, object ID 496086667, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_17_89-12801-035_415889954.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889955",
+        "naid": "415889955",
+        "title": "[Presidential Daily Backup] 7/17/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-07-17",
+        "localIdentifier": "12801-036",
+        "catalogUrl": "https://catalog.archives.gov/id/415889955",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_17_89-12801-036_415889955.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12801-036, [Presidential Daily Backup] 7/17/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889955. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_17_89-12801-036_415889955.pdf, object ID 496086668, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_17_89-12801-036_415889955.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/17/1989 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415889954 | Presidential Daily Backup: [Presidential Daily Backup] 7/17/1989; 1 digital object; https://catalog.archives.gov/id/415889955"
   },
   {
     "id": "conversation-428080151",
@@ -5759,7 +8891,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889984",
+        "naid": "415889984",
+        "title": "[Presidential Daily Diary] 8/1/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-01",
+        "localIdentifier": "12802-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415889984",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_01_89-12802-025_415889984.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-025, [Presidential Daily Diary] 8/1/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889984. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_01_89-12802-025_415889984.pdf, object ID 496086697, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_01_89-12802-025_415889984.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889985",
+        "naid": "415889985",
+        "title": "[Presidential Daily Backup] 8/1/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-01",
+        "localIdentifier": "12802-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415889985",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_01_89-12802-026_415889985.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12802-026, [Presidential Daily Backup] 8/1/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889985. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_01_89-12802-026_415889985.pdf, object ID 496086698, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_01_89-12802-026_415889985.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/1/1989; 1 digital object; https://catalog.archives.gov/id/415889984 | Presidential Daily Backup: [Presidential Daily Backup] 8/1/1989; 1 digital object; https://catalog.archives.gov/id/415889985"
   },
   {
     "id": "conversation-428080131",
@@ -5821,7 +8986,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889986",
+        "naid": "415889986",
+        "title": "[Presidential Daily Diary] 8/2/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889986",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-001, [Presidential Daily Diary] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889986. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf, object ID 496086699, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889987",
+        "naid": "415889987",
+        "title": "[Presidential Daily Backup] 8/2/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889987",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-002, [Presidential Daily Backup] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889987. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf, object ID 496086700, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889986 | Presidential Daily Backup: [Presidential Daily Backup] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889987"
   },
   {
     "id": "conversation-428080159",
@@ -5881,7 +9079,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889986",
+        "naid": "415889986",
+        "title": "[Presidential Daily Diary] 8/2/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889986",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-001, [Presidential Daily Diary] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889986. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf, object ID 496086699, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889987",
+        "naid": "415889987",
+        "title": "[Presidential Daily Backup] 8/2/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889987",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-002, [Presidential Daily Backup] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889987. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf, object ID 496086700, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889986 | Presidential Daily Backup: [Presidential Daily Backup] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889987"
   },
   {
     "id": "conversation-428080157",
@@ -5941,7 +9172,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889986",
+        "naid": "415889986",
+        "title": "[Presidential Daily Diary] 8/2/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889986",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-001, [Presidential Daily Diary] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889986. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf, object ID 496086699, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889987",
+        "naid": "415889987",
+        "title": "[Presidential Daily Backup] 8/2/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889987",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-002, [Presidential Daily Backup] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889987. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf, object ID 496086700, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889986 | Presidential Daily Backup: [Presidential Daily Backup] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889987"
   },
   {
     "id": "conversation-428080161",
@@ -6003,7 +9267,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889986",
+        "naid": "415889986",
+        "title": "[Presidential Daily Diary] 8/2/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889986",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-001, [Presidential Daily Diary] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889986. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf, object ID 496086699, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889987",
+        "naid": "415889987",
+        "title": "[Presidential Daily Backup] 8/2/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889987",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-002, [Presidential Daily Backup] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889987. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf, object ID 496086700, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889986 | Presidential Daily Backup: [Presidential Daily Backup] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889987"
   },
   {
     "id": "conversation-428080155",
@@ -6063,7 +9360,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889986",
+        "naid": "415889986",
+        "title": "[Presidential Daily Diary] 8/2/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415889986",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-001, [Presidential Daily Diary] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889986. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf, object ID 496086699, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-001_415889986.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889987",
+        "naid": "415889987",
+        "title": "[Presidential Daily Backup] 8/2/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-02",
+        "localIdentifier": "12803-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415889987",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-002, [Presidential Daily Backup] 8/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889987. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf, object ID 496086700, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889986 | Presidential Daily Backup: [Presidential Daily Backup] 8/2/1989; 1 digital object; https://catalog.archives.gov/id/415889987"
   },
   {
     "id": "conversation-428080163",
@@ -6121,7 +9451,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889988",
+        "naid": "415889988",
+        "title": "[Presidential Daily Diary] 8/3/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-03",
+        "localIdentifier": "12803-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415889988",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-003_415889988.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-003, [Presidential Daily Diary] 8/3/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889988. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_03_89-12803-003_415889988.pdf, object ID 496086701, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-003_415889988.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889989",
+        "naid": "415889989",
+        "title": "[Presidential Daily Backup] 8/3/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-03",
+        "localIdentifier": "12803-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415889989",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-004_415889989.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-004, [Presidential Daily Backup] 8/3/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889989. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_03_89-12803-004_415889989.pdf, object ID 496086702, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-004_415889989.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/3/1989; 1 digital object; https://catalog.archives.gov/id/415889988 | Presidential Daily Backup: [Presidential Daily Backup] 8/3/1989; 1 digital object; https://catalog.archives.gov/id/415889989"
   },
   {
     "id": "conversation-428080165",
@@ -6179,7 +9542,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889988",
+        "naid": "415889988",
+        "title": "[Presidential Daily Diary] 8/3/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-03",
+        "localIdentifier": "12803-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415889988",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-003_415889988.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-003, [Presidential Daily Diary] 8/3/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889988. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_03_89-12803-003_415889988.pdf, object ID 496086701, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-003_415889988.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889989",
+        "naid": "415889989",
+        "title": "[Presidential Daily Backup] 8/3/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-03",
+        "localIdentifier": "12803-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415889989",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-004_415889989.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-004, [Presidential Daily Backup] 8/3/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889989. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_03_89-12803-004_415889989.pdf, object ID 496086702, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_03_89-12803-004_415889989.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/3/1989; 1 digital object; https://catalog.archives.gov/id/415889988 | Presidential Daily Backup: [Presidential Daily Backup] 8/3/1989; 1 digital object; https://catalog.archives.gov/id/415889989"
   },
   {
     "id": "conversation-428080167",
@@ -6237,7 +9633,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889990",
+        "naid": "415889990",
+        "title": "[Presidential Daily Diary] 8/4/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-04",
+        "localIdentifier": "12803-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415889990",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_04_89-12803-005_415889990.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-005, [Presidential Daily Diary] 8/4/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889990. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_04_89-12803-005_415889990.pdf, object ID 496086703, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_04_89-12803-005_415889990.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889991",
+        "naid": "415889991",
+        "title": "[Presidential Daily Backup] 8/4/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-04",
+        "localIdentifier": "12803-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415889991",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_04_89-12803-006_415889991.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-006, [Presidential Daily Backup] 8/4/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889991. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_04_89-12803-006_415889991.pdf, object ID 496086704, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_04_89-12803-006_415889991.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/4/1989; 1 digital object; https://catalog.archives.gov/id/415889990 | Presidential Daily Backup: [Presidential Daily Backup] 8/4/1989; 1 digital object; https://catalog.archives.gov/id/415889991"
   },
   {
     "id": "conversation-428080169",
@@ -6295,7 +9724,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889992",
+        "naid": "415889992",
+        "title": "[Presidential Daily Diary] 8/5/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-05",
+        "localIdentifier": "12803-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415889992",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_05_89-12803-007_415889992.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-007, [Presidential Daily Diary] 8/5/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889992. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_05_89-12803-007_415889992.pdf, object ID 496086705, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_05_89-12803-007_415889992.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889993",
+        "naid": "415889993",
+        "title": "[Presidential Daily Backup] 8/5/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-05",
+        "localIdentifier": "12803-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415889993",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_05_89-12803-008_415889993.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-008, [Presidential Daily Backup] 8/5/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889993. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_05_89-12803-008_415889993.pdf, object ID 496086706, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_05_89-12803-008_415889993.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/5/1989; 1 digital object; https://catalog.archives.gov/id/415889992 | Presidential Daily Backup: [Presidential Daily Backup] 8/5/1989; 1 digital object; https://catalog.archives.gov/id/415889993"
   },
   {
     "id": "conversation-428080133",
@@ -6355,7 +9817,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415889998",
+        "naid": "415889998",
+        "title": "[Presidential Daily Diary] 8/8/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-08",
+        "localIdentifier": "12803-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415889998",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-013_415889998.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-013, [Presidential Daily Diary] 8/8/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889998. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_08_89-12803-013_415889998.pdf, object ID 496086711, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-013_415889998.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415889999",
+        "naid": "415889999",
+        "title": "[Presidential Daily Backup] 8/8/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-08",
+        "localIdentifier": "12803-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415889999",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-014_415889999.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-014, [Presidential Daily Backup] 8/8/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415889999. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_08_89-12803-014_415889999.pdf, object ID 496086712, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-014_415889999.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/8/1989; 1 digital object; https://catalog.archives.gov/id/415889998 | Presidential Daily Backup: [Presidential Daily Backup] 8/8/1989; 1 digital object; https://catalog.archives.gov/id/415889999"
   },
   {
     "id": "conversation-428080173",
@@ -6415,7 +9910,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890000",
+        "naid": "415890000",
+        "title": "[Presidential Daily Diary] 8/9/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-09",
+        "localIdentifier": "12803-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415890000",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-015, [Presidential Daily Diary] 8/9/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890000. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf, object ID 496086713, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890001",
+        "naid": "415890001",
+        "title": "[Presidential Daily Backup] 8/9/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-09",
+        "localIdentifier": "12803-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415890001",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-016_415890001.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-016, [Presidential Daily Backup] 8/9/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890001. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_09_89-12803-016_415890001.pdf, object ID 496086714, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-016_415890001.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/9/1989; 1 digital object; https://catalog.archives.gov/id/415890000 | Presidential Daily Backup: [Presidential Daily Backup] 8/9/1989; 1 digital object; https://catalog.archives.gov/id/415890001"
   },
   {
     "id": "conversation-428080205",
@@ -6477,7 +10005,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: August 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890000",
+        "naid": "415890000",
+        "title": "[Presidential Daily Diary] 8/9/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-08-09",
+        "localIdentifier": "12803-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415890000",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-015, [Presidential Daily Diary] 8/9/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890000. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf, object ID 496086713, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890001",
+        "naid": "415890001",
+        "title": "[Presidential Daily Backup] 8/9/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-08-09",
+        "localIdentifier": "12803-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415890001",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-016_415890001.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12803-016, [Presidential Daily Backup] 8/9/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890001. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_09_89-12803-016_415890001.pdf, object ID 496086714, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-016_415890001.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/9/1989; 1 digital object; https://catalog.archives.gov/id/415890000 | Presidential Daily Backup: [Presidential Daily Backup] 8/9/1989; 1 digital object; https://catalog.archives.gov/id/415890001"
   },
   {
     "id": "conversation-428080189",
@@ -6535,7 +10096,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: September 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890086",
+        "naid": "415890086",
+        "title": "[Presidential Daily Diary] 9/21/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-09-21",
+        "localIdentifier": "12806-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890086",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_21_89-12806-007_415890086.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-007, [Presidential Daily Diary] 9/21/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890086. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_21_89-12806-007_415890086.pdf, object ID 496086799, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_21_89-12806-007_415890086.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890087",
+        "naid": "415890087",
+        "title": "[Presidential Daily Backup] 9/21/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-09-21",
+        "localIdentifier": "12806-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890087",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_21_89-12806-008_415890087.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12806-008, [Presidential Daily Backup] 9/21/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890087. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_21_89-12806-008_415890087.pdf, object ID 496086800, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_21_89-12806-008_415890087.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/21/1989; 1 digital object; https://catalog.archives.gov/id/415890086 | Presidential Daily Backup: [Presidential Daily Backup] 9/21/1989; 1 digital object; https://catalog.archives.gov/id/415890087"
   },
   {
     "id": "conversation-428080243",
@@ -6599,7 +10193,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890108",
+        "naid": "415890108",
+        "title": "[Presidential Daily Diary] 10/2/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-10-02",
+        "localIdentifier": "12807-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890108",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_02_89-12807-007_415890108.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12807-007, [Presidential Daily Diary] 10/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890108. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_02_89-12807-007_415890108.pdf, object ID 496086821, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_02_89-12807-007_415890108.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890109",
+        "naid": "415890109",
+        "title": "[Presidential Daily Backup] 10/2/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-10-02",
+        "localIdentifier": "12807-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890109",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_02_89-12807-008_415890109.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12807-008, [Presidential Daily Backup] 10/2/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890109. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_02_89-12807-008_415890109.pdf, object ID 496086822, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_02_89-12807-008_415890109.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/2/1989; 1 digital object; https://catalog.archives.gov/id/415890108 | Presidential Daily Backup: [Presidential Daily Backup] 10/2/1989; 1 digital object; https://catalog.archives.gov/id/415890109"
   },
   {
     "id": "conversation-428080275",
@@ -6657,7 +10284,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989"
+    "sourceFolder": "[Memorandum of Conversations (Memcons) - June 1989-December 1989]: October 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890138",
+        "naid": "415890138",
+        "title": "[Presidential Daily Diary] 10/17/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-10-17",
+        "localIdentifier": "12808-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415890138",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-015_415890138.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12808-015, [Presidential Daily Diary] 10/17/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890138. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_17_89-12808-015_415890138.pdf, object ID 496086851, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-015_415890138.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890139",
+        "naid": "415890139",
+        "title": "[Presidential Daily Backup] 10/17/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-10-17",
+        "localIdentifier": "12808-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415890139",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-016_415890139.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12808-016, [Presidential Daily Backup] 10/17/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890139. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_17_89-12808-016_415890139.pdf, object ID 496086852, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-016_415890139.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/17/1989; 1 digital object; https://catalog.archives.gov/id/415890138 | Presidential Daily Backup: [Presidential Daily Backup] 10/17/1989; 1 digital object; https://catalog.archives.gov/id/415890139"
   },
   {
     "id": "conversation-428080303",
@@ -6715,7 +10375,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1989-December 1989]: October 1989",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890140",
+        "naid": "415890140",
+        "title": "[Presidential Daily Diary] 10/18/1989",
+        "documentType": "Presidential Daily Diary",
+        "date": "1989-10-18",
+        "localIdentifier": "12808-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415890140",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-017_415890140.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12808-017, [Presidential Daily Diary] 10/18/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890140. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_18_89-12808-017_415890140.pdf, object ID 496086853, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-017_415890140.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890141",
+        "naid": "415890141",
+        "title": "[Presidential Daily Backup] 10/18/1989",
+        "documentType": "Presidential Daily Backup",
+        "date": "1989-10-18",
+        "localIdentifier": "12808-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415890141",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-018_415890141.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12808-018, [Presidential Daily Backup] 10/18/1989.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890141. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_18_89-12808-018_415890141.pdf, object ID 496086854, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-018_415890141.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/18/1989; 1 digital object; https://catalog.archives.gov/id/415890140 | Presidential Daily Backup: [Presidential Daily Backup] 10/18/1989; 1 digital object; https://catalog.archives.gov/id/415890141"
   },
   {
     "id": "conversation-428080433",
@@ -6773,7 +10466,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: January 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: January 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890322",
+        "naid": "415890322",
+        "title": "[Presidential Daily Diary] 1/17/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-01-17",
+        "localIdentifier": "12815-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890322",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_17_90-12815-013_415890322.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12815-013, [Presidential Daily Diary] 1/17/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890322. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_17_90-12815-013_415890322.pdf, object ID 498164646, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_17_90-12815-013_415890322.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890323",
+        "naid": "415890323",
+        "title": "[Presidential Daily Backup] 1/17/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-01-17",
+        "localIdentifier": "12815-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890323",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_17_90-12815-014_415890323.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12815-014, [Presidential Daily Backup] 1/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890323. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_17_90-12815-014_415890323.pdf, object ID 498164647, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_17_90-12815-014_415890323.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 1/17/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890322 | Presidential Daily Backup: [Presidential Daily Backup] 1/17/1990; 1 digital object; https://catalog.archives.gov/id/415890323"
   },
   {
     "id": "conversation-428080513",
@@ -6831,7 +10557,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: February 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: February 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890360",
+        "naid": "415890360",
+        "title": "[Presidential Daily Diary] 2/5/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-02-05",
+        "localIdentifier": "12817-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890360",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-007_415890360.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12817-007, [Presidential Daily Diary] 2/5/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890360. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_05_90-12817-007_415890360.pdf, object ID 498164684, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-007_415890360.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890361",
+        "naid": "415890361",
+        "title": "[Presidential Daily Backup] 2/5/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-02-05",
+        "localIdentifier": "12817-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890361",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-008_415890361.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12817-008, [Presidential Daily Backup] 2/5/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890361. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_05_90-12817-008_415890361.pdf, object ID 498164685, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-008_415890361.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/5/1990; 1 digital object; https://catalog.archives.gov/id/415890360 | Presidential Daily Backup: [Presidential Daily Backup] 2/5/1990; 1 digital object; https://catalog.archives.gov/id/415890361"
   },
   {
     "id": "conversation-428080577",
@@ -6889,7 +10648,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: March 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: March 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890418",
+        "naid": "415890418",
+        "title": "[Presidential Daily Diary] 3/6/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-03-06",
+        "localIdentifier": "12820-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890418",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_06_90-12820-009_415890418.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12820-009, [Presidential Daily Diary] 3/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890418. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_06_90-12820-009_415890418.pdf, object ID 498164742, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_06_90-12820-009_415890418.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890419",
+        "naid": "415890419",
+        "title": "[Presidential Daily Backup] 3/6/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-03-06",
+        "localIdentifier": "12820-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890419",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_06_90-12820-010_415890419.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12820-010, [Presidential Daily Backup] 3/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890419. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_06_90-12820-010_415890419.pdf, object ID 498164743, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_06_90-12820-010_415890419.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/6/1990; 1 digital object; https://catalog.archives.gov/id/415890418 | Presidential Daily Backup: [Presidential Daily Backup] 3/6/1990; 1 digital object; https://catalog.archives.gov/id/415890419"
   },
   {
     "id": "conversation-428080611",
@@ -6947,7 +10739,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: March 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890440",
+        "naid": "415890440",
+        "title": "[Presidential Daily Diary] 3/17/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-03-17",
+        "localIdentifier": "12821-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890440",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_17_90-12821-007_415890440.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12821-007, [Presidential Daily Diary] 3/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890440. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_17_90-12821-007_415890440.pdf, object ID 498164764, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_17_90-12821-007_415890440.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890441",
+        "naid": "415890441",
+        "title": "[Presidential Daily Backup] 3/17/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-03-17",
+        "localIdentifier": "12821-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890441",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_17_90-12821-008_415890441.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12821-008, [Presidential Daily Backup] 3/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890441. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_17_90-12821-008_415890441.pdf, object ID 498164765, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_17_90-12821-008_415890441.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/17/1990; 1 digital object; https://catalog.archives.gov/id/415890440 | Presidential Daily Backup: [Presidential Daily Backup] 3/17/1990; 1 digital object; https://catalog.archives.gov/id/415890441"
   },
   {
     "id": "conversation-428080627",
@@ -7007,7 +10832,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: April 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: April 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890480",
+        "naid": "415890480",
+        "title": "[Presidential Daily Diary] 4/6/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-04-06",
+        "localIdentifier": "12823-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415890480",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_06_90-12823-005_415890480.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12823-005, [Presidential Daily Diary] 4/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890480. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_06_90-12823-005_415890480.pdf, object ID 498164804, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_06_90-12823-005_415890480.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890481",
+        "naid": "415890481",
+        "title": "[Presidential Daily Backup] 4/6/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-04-06",
+        "localIdentifier": "12823-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415890481",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_06_90-12823-006_415890481.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12823-006, [Presidential Daily Backup] 4/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890481. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_06_90-12823-006_415890481.pdf, object ID 498164805, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_06_90-12823-006_415890481.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/6/1990; 1 digital object; https://catalog.archives.gov/id/415890480 | Presidential Daily Backup: [Presidential Daily Backup] 4/6/1990; 1 digital object; https://catalog.archives.gov/id/415890481"
   },
   {
     "id": "conversation-428080671",
@@ -7065,7 +10923,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890514",
+        "naid": "415890514",
+        "title": "[Presidential Daily Diary] 4/23/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-04-23",
+        "localIdentifier": "12824-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415890514",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12824-019, [Presidential Daily Diary] 4/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890514. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf, object ID 498164838, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890515",
+        "naid": "415890515",
+        "title": "[Presidential Daily Backup] 4/23/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-04-23",
+        "localIdentifier": "12824-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890515",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12824-020, [Presidential Daily Backup] 4/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890515. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf, object ID 498164839, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/23/1990; 1 digital object; https://catalog.archives.gov/id/415890514 | Presidential Daily Backup: [Presidential Daily Backup] 4/23/1990; 1 digital object; https://catalog.archives.gov/id/415890515"
   },
   {
     "id": "conversation-428080669",
@@ -7125,7 +11016,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: April 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890514",
+        "naid": "415890514",
+        "title": "[Presidential Daily Diary] 4/23/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-04-23",
+        "localIdentifier": "12824-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415890514",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12824-019, [Presidential Daily Diary] 4/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890514. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf, object ID 498164838, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890515",
+        "naid": "415890515",
+        "title": "[Presidential Daily Backup] 4/23/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-04-23",
+        "localIdentifier": "12824-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890515",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12824-020, [Presidential Daily Backup] 4/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890515. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf, object ID 498164839, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/23/1990; 1 digital object; https://catalog.archives.gov/id/415890514 | Presidential Daily Backup: [Presidential Daily Backup] 4/23/1990; 1 digital object; https://catalog.archives.gov/id/415890515"
   },
   {
     "id": "conversation-428080709",
@@ -7183,7 +11107,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: May 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: May 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890536",
+        "naid": "415890536",
+        "title": "[Presidential Daily Diary] 5/4/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-05-04",
+        "localIdentifier": "12826-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415890536",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_04_90-12826-001_415890536.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12826-001, [Presidential Daily Diary] 5/4/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890536. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_04_90-12826-001_415890536.pdf, object ID 498164860, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_04_90-12826-001_415890536.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890537",
+        "naid": "415890537",
+        "title": "[Presidential Daily Backup] 5/4/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-05-04",
+        "localIdentifier": "12826-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415890537",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_04_90-12826-002_415890537.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12826-002, [Presidential Daily Backup] 5/4/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890537. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_04_90-12826-002_415890537.pdf, object ID 498164861, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_04_90-12826-002_415890537.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/4/1990; 1 digital object; https://catalog.archives.gov/id/415890536 | Presidential Daily Backup: [Presidential Daily Backup] 5/4/1990; 1 digital object; https://catalog.archives.gov/id/415890537"
   },
   {
     "id": "conversation-428080691",
@@ -7241,7 +11198,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890558",
+        "naid": "415890558",
+        "title": "[Presidential Daily Diary] 5/15/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-05-15",
+        "localIdentifier": "12827-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415890558",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-001_415890558.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-001, [Presidential Daily Diary] 5/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890558. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_15_90-12827-001_415890558.pdf, object ID 498164882, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-001_415890558.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890559",
+        "naid": "415890559",
+        "title": "[Presidential Daily Backup] 5/15/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-05-15",
+        "localIdentifier": "12827-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415890559",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-002_415890559.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-002, [Presidential Daily Backup] 5/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890559. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_15_90-12827-002_415890559.pdf, object ID 498164883, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-002_415890559.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/15/1990; 1 digital object; https://catalog.archives.gov/id/415890558 | Presidential Daily Backup: [Presidential Daily Backup] 5/15/1990; 1 digital object; https://catalog.archives.gov/id/415890559"
   },
   {
     "id": "conversation-428080693",
@@ -7303,7 +11293,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: May 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890558",
+        "naid": "415890558",
+        "title": "[Presidential Daily Diary] 5/15/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-05-15",
+        "localIdentifier": "12827-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415890558",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-001_415890558.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-001, [Presidential Daily Diary] 5/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890558. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_15_90-12827-001_415890558.pdf, object ID 498164882, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-001_415890558.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890559",
+        "naid": "415890559",
+        "title": "[Presidential Daily Backup] 5/15/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-05-15",
+        "localIdentifier": "12827-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415890559",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-002_415890559.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12827-002, [Presidential Daily Backup] 5/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890559. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-05_15_90-12827-002_415890559.pdf, object ID 498164883, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_15_90-12827-002_415890559.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 5/15/1990; 1 digital object; https://catalog.archives.gov/id/415890558 | Presidential Daily Backup: [Presidential Daily Backup] 5/15/1990; 1 digital object; https://catalog.archives.gov/id/415890559"
   },
   {
     "id": "conversation-428080729",
@@ -7363,7 +11386,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890594",
+        "naid": "415890594",
+        "title": "[Presidential Daily Diary] 6/2/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-02",
+        "localIdentifier": "12828-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415890594",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_02_90-12828-019_415890594.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-019, [Presidential Daily Diary] 6/2/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890594. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_02_90-12828-019_415890594.pdf, object ID 498164918, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_02_90-12828-019_415890594.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890595",
+        "naid": "415890595",
+        "title": "[Presidential Daily Backup] 6/2/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-02",
+        "localIdentifier": "12828-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890595",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_02_90-12828-020_415890595.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-020, [Presidential Daily Backup] 6/2/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890595. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_02_90-12828-020_415890595.pdf, object ID 498164919, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_02_90-12828-020_415890595.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/2/1990; 1 digital object; https://catalog.archives.gov/id/415890594 | Presidential Daily Backup: [Presidential Daily Backup] 6/2/1990; 1 digital object; https://catalog.archives.gov/id/415890595"
   },
   {
     "id": "conversation-428080735",
@@ -7429,7 +11485,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890602",
+        "naid": "415890602",
+        "title": "[Presidential Daily Diary] 6/6/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-06",
+        "localIdentifier": "12828-027",
+        "catalogUrl": "https://catalog.archives.gov/id/415890602",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-027, [Presidential Daily Diary] 6/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890602. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf, object ID 498164926, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890603",
+        "naid": "415890603",
+        "title": "[Presidential Daily Backup] 6/6/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-06",
+        "localIdentifier": "12828-028",
+        "catalogUrl": "https://catalog.archives.gov/id/415890603",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-028, [Presidential Daily Backup] 6/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890603. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf, object ID 498164927, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/6/1990; 1 digital object; https://catalog.archives.gov/id/415890602 | Presidential Daily Backup: [Presidential Daily Backup] 6/6/1990; 1 digital object; https://catalog.archives.gov/id/415890603"
   },
   {
     "id": "conversation-428080741",
@@ -7487,7 +11576,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1990-June 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890602",
+        "naid": "415890602",
+        "title": "[Presidential Daily Diary] 6/6/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-06",
+        "localIdentifier": "12828-027",
+        "catalogUrl": "https://catalog.archives.gov/id/415890602",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-027, [Presidential Daily Diary] 6/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890602. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf, object ID 498164926, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890603",
+        "naid": "415890603",
+        "title": "[Presidential Daily Backup] 6/6/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-06",
+        "localIdentifier": "12828-028",
+        "catalogUrl": "https://catalog.archives.gov/id/415890603",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12828-028, [Presidential Daily Backup] 6/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890603. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf, object ID 498164927, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/6/1990; 1 digital object; https://catalog.archives.gov/id/415890602 | Presidential Daily Backup: [Presidential Daily Backup] 6/6/1990; 1 digital object; https://catalog.archives.gov/id/415890603"
   },
   {
     "id": "conversation-428080771",
@@ -7549,7 +11671,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890606",
+        "naid": "415890606",
+        "title": "[Presidential Daily Diary] 6/8/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-08",
+        "localIdentifier": "12829-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890606",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-003_415890606.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-003, [Presidential Daily Diary] 6/8/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890606. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_08_90-12829-003_415890606.pdf, object ID 498164930, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-003_415890606.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890607",
+        "naid": "415890607",
+        "title": "[Presidential Daily Backup] 6/8/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-08",
+        "localIdentifier": "12829-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890607",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-004_415890607.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-004, [Presidential Daily Backup] 6/8/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890607. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_08_90-12829-004_415890607.pdf, object ID 498164931, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-004_415890607.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/8/1990; 1 digital object; https://catalog.archives.gov/id/415890606 | Presidential Daily Backup: [Presidential Daily Backup] 6/8/1990; 1 digital object; https://catalog.archives.gov/id/415890607"
   },
   {
     "id": "conversation-428080801",
@@ -7607,7 +11762,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890614",
+        "naid": "415890614",
+        "title": "[Presidential Daily Diary] 6/12/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-12",
+        "localIdentifier": "12829-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415890614",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_12_90-12829-011_415890614.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-011, [Presidential Daily Diary] 6/12/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890614. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_12_90-12829-011_415890614.pdf, object ID 498164938, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_12_90-12829-011_415890614.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890615",
+        "naid": "415890615",
+        "title": "[Presidential Daily Backup] 6/12/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-12",
+        "localIdentifier": "12829-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415890615",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_12_90-12829-012_415890615.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12829-012, [Presidential Daily Backup] 6/12/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890615. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_12_90-12829-012_415890615.pdf, object ID 498164939, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_12_90-12829-012_415890615.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/12/1990; 1 digital object; https://catalog.archives.gov/id/415890614 | Presidential Daily Backup: [Presidential Daily Backup] 6/12/1990; 1 digital object; https://catalog.archives.gov/id/415890615"
   },
   {
     "id": "conversation-428080805",
@@ -7667,7 +11855,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890636",
+        "naid": "415890636",
+        "title": "[Presidential Daily Diary] 6/23/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-23",
+        "localIdentifier": "12830-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415890636",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12830-011, [Presidential Daily Diary] 6/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890636. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf, object ID 498164960, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890637",
+        "naid": "415890637",
+        "title": "[Presidential Daily Backup] 6/23/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-23",
+        "localIdentifier": "12830-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415890637",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12830-012, [Presidential Daily Backup] 6/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890637. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf, object ID 498164961, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/23/1990; 1 digital object; https://catalog.archives.gov/id/415890636 | Presidential Daily Backup: [Presidential Daily Backup] 6/23/1990; 1 digital object; https://catalog.archives.gov/id/415890637"
   },
   {
     "id": "conversation-428080807",
@@ -7725,7 +11946,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1990-July 1990]: June 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890636",
+        "naid": "415890636",
+        "title": "[Presidential Daily Diary] 6/23/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-06-23",
+        "localIdentifier": "12830-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415890636",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12830-011, [Presidential Daily Diary] 6/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890636. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf, object ID 498164960, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890637",
+        "naid": "415890637",
+        "title": "[Presidential Daily Backup] 6/23/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-06-23",
+        "localIdentifier": "12830-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415890637",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12830-012, [Presidential Daily Backup] 6/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890637. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf, object ID 498164961, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/23/1990; 1 digital object; https://catalog.archives.gov/id/415890636 | Presidential Daily Backup: [Presidential Daily Backup] 6/23/1990; 1 digital object; https://catalog.archives.gov/id/415890637"
   },
   {
     "id": "conversation-428080851",
@@ -7783,7 +12037,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890712",
+        "naid": "415890712",
+        "title": "[Presidential Daily Diary] 7/31/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-07-31",
+        "localIdentifier": "12833-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890712",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12833-013, [Presidential Daily Diary] 7/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890712. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf, object ID 498165036, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890713",
+        "naid": "415890713",
+        "title": "[Presidential Daily Backup] 7/31/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-07-31",
+        "localIdentifier": "12833-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890713",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12833-014, [Presidential Daily Backup] 7/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890713. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf, object ID 498165037, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/31/1990; 1 digital object; https://catalog.archives.gov/id/415890712 | Presidential Daily Backup: [Presidential Daily Backup] 7/31/1990; 1 digital object; https://catalog.archives.gov/id/415890713"
   },
   {
     "id": "conversation-428080847",
@@ -7841,7 +12128,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: July 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890712",
+        "naid": "415890712",
+        "title": "[Presidential Daily Diary] 7/31/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-07-31",
+        "localIdentifier": "12833-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890712",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12833-013, [Presidential Daily Diary] 7/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890712. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf, object ID 498165036, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890713",
+        "naid": "415890713",
+        "title": "[Presidential Daily Backup] 7/31/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-07-31",
+        "localIdentifier": "12833-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890713",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12833-014, [Presidential Daily Backup] 7/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890713. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf, object ID 498165037, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/31/1990; 1 digital object; https://catalog.archives.gov/id/415890712 | Presidential Daily Backup: [Presidential Daily Backup] 7/31/1990; 1 digital object; https://catalog.archives.gov/id/415890713"
   },
   {
     "id": "conversation-428080957",
@@ -7899,7 +12219,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890752",
+        "naid": "415890752",
+        "title": "[Presidential Daily Diary] 8/20/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-08-20",
+        "localIdentifier": "12834-027",
+        "catalogUrl": "https://catalog.archives.gov/id/415890752",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_20_90-12834-027_415890752.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12834-027, [Presidential Daily Diary] 8/20/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890752. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_20_90-12834-027_415890752.pdf, object ID 498165076, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_20_90-12834-027_415890752.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890753",
+        "naid": "415890753",
+        "title": "[Presidential Daily Backup] 8/20/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-08-20",
+        "localIdentifier": "12834-028",
+        "catalogUrl": "https://catalog.archives.gov/id/415890753",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_20_90-12834-028_415890753.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12834-028, [Presidential Daily Backup] 8/20/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890753. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_20_90-12834-028_415890753.pdf, object ID 498165077, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_20_90-12834-028_415890753.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/20/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890752 | Presidential Daily Backup: [Presidential Daily Backup] 8/20/1990; 1 digital object; https://catalog.archives.gov/id/415890753"
   },
   {
     "id": "conversation-428080987",
@@ -7957,7 +12310,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890770",
+        "naid": "415890770",
+        "title": "[Presidential Daily Diary] 8/29/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-08-29",
+        "localIdentifier": "12835-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890770",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_29_90-12835-003_415890770.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-003, [Presidential Daily Diary] 8/29/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890770. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_29_90-12835-003_415890770.pdf, object ID 498165094, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_29_90-12835-003_415890770.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890771",
+        "naid": "415890771",
+        "title": "[Presidential Daily Backup] 8/29/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-08-29",
+        "localIdentifier": "12835-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890771",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_29_90-12835-004_415890771.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-004, [Presidential Daily Backup] 8/29/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890771. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_29_90-12835-004_415890771.pdf, object ID 498165095, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_29_90-12835-004_415890771.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/29/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890770 | Presidential Daily Backup: [Presidential Daily Backup] 8/29/1990; 1 digital object; https://catalog.archives.gov/id/415890771"
   },
   {
     "id": "conversation-428081007",
@@ -8015,7 +12401,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890774",
+        "naid": "415890774",
+        "title": "[Presidential Daily Diary] 8/31/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-08-31",
+        "localIdentifier": "12835-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890774",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-007, [Presidential Daily Diary] 8/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890774. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf, object ID 498165098, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890775",
+        "naid": "415890775",
+        "title": "[Presidential Daily Backup] 8/31/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-08-31",
+        "localIdentifier": "12835-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890775",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-008_415890775.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-008, [Presidential Daily Backup] 8/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890775. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_31_90-12835-008_415890775.pdf, object ID 498165099, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-008_415890775.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/31/1990; 1 digital object; https://catalog.archives.gov/id/415890774 | Presidential Daily Backup: [Presidential Daily Backup] 8/31/1990; 1 digital object; https://catalog.archives.gov/id/415890775"
   },
   {
     "id": "conversation-428081005",
@@ -8075,7 +12494,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: August 1990 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890774",
+        "naid": "415890774",
+        "title": "[Presidential Daily Diary] 8/31/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-08-31",
+        "localIdentifier": "12835-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890774",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-007, [Presidential Daily Diary] 8/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890774. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf, object ID 498165098, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890775",
+        "naid": "415890775",
+        "title": "[Presidential Daily Backup] 8/31/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-08-31",
+        "localIdentifier": "12835-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890775",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-008_415890775.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-008, [Presidential Daily Backup] 8/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890775. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_31_90-12835-008_415890775.pdf, object ID 498165099, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-008_415890775.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/31/1990; 1 digital object; https://catalog.archives.gov/id/415890774 | Presidential Daily Backup: [Presidential Daily Backup] 8/31/1990; 1 digital object; https://catalog.archives.gov/id/415890775"
   },
   {
     "id": "conversation-428081011",
@@ -8135,7 +12587,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890776",
+        "naid": "415890776",
+        "title": "[Presidential Daily Diary] 9/1/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-01",
+        "localIdentifier": "12835-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890776",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_01_90-12835-009_415890776.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-009, [Presidential Daily Diary] 9/1/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890776. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_01_90-12835-009_415890776.pdf, object ID 498165100, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_01_90-12835-009_415890776.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890777",
+        "naid": "415890777",
+        "title": "[Presidential Daily Backup] 9/1/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-01",
+        "localIdentifier": "12835-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890777",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_01_90-12835-010_415890777.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-010, [Presidential Daily Backup] 9/1/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890777. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_01_90-12835-010_415890777.pdf, object ID 498165101, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_01_90-12835-010_415890777.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/1/1990; 1 digital object; https://catalog.archives.gov/id/415890776 | Presidential Daily Backup: [Presidential Daily Backup] 9/1/1990; 1 digital object; https://catalog.archives.gov/id/415890777"
   },
   {
     "id": "conversation-428081019",
@@ -8193,7 +12678,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890786",
+        "naid": "415890786",
+        "title": "[Presidential Daily Diary] 9/6/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-06",
+        "localIdentifier": "12835-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415890786",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_06_90-12835-019_415890786.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-019, [Presidential Daily Diary] 9/6/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890786. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_06_90-12835-019_415890786.pdf, object ID 498165110, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_06_90-12835-019_415890786.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890787",
+        "naid": "415890787",
+        "title": "[Presidential Daily Backup] 9/6/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-06",
+        "localIdentifier": "12835-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890787",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_06_90-12835-020_415890787.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-020, [Presidential Daily Backup] 9/6/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890787. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_06_90-12835-020_415890787.pdf, object ID 498165111, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_06_90-12835-020_415890787.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/6/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890786 | Presidential Daily Backup: [Presidential Daily Backup] 9/6/1990; 1 digital object; https://catalog.archives.gov/id/415890787"
   },
   {
     "id": "conversation-428081025",
@@ -8251,7 +12769,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890792",
+        "naid": "415890792",
+        "title": "[Presidential Daily Diary] 9/9/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-09",
+        "localIdentifier": "12835-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415890792",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-025, [Presidential Daily Diary] 9/9/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890792. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf, object ID 498165116, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890793",
+        "naid": "415890793",
+        "title": "[Presidential Daily Backup] 9/9/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-09",
+        "localIdentifier": "12835-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415890793",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-026, [Presidential Daily Backup] 9/9/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890793. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf, object ID 498165117, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/9/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890792 | Presidential Daily Backup: [Presidential Daily Backup] 9/9/1990; 1 digital object; https://catalog.archives.gov/id/415890793"
   },
   {
     "id": "conversation-428081027",
@@ -8309,7 +12860,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890792",
+        "naid": "415890792",
+        "title": "[Presidential Daily Diary] 9/9/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-09",
+        "localIdentifier": "12835-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415890792",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-025, [Presidential Daily Diary] 9/9/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890792. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf, object ID 498165116, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890793",
+        "naid": "415890793",
+        "title": "[Presidential Daily Backup] 9/9/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-09",
+        "localIdentifier": "12835-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415890793",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-026, [Presidential Daily Backup] 9/9/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890793. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf, object ID 498165117, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/9/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890792 | Presidential Daily Backup: [Presidential Daily Backup] 9/9/1990; 1 digital object; https://catalog.archives.gov/id/415890793"
   },
   {
     "id": "conversation-428081029",
@@ -8367,7 +12951,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890792",
+        "naid": "415890792",
+        "title": "[Presidential Daily Diary] 9/9/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-09",
+        "localIdentifier": "12835-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415890792",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-025, [Presidential Daily Diary] 9/9/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890792. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf, object ID 498165116, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-025_415890792.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890793",
+        "naid": "415890793",
+        "title": "[Presidential Daily Backup] 9/9/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-09",
+        "localIdentifier": "12835-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415890793",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-026, [Presidential Daily Backup] 9/9/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890793. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf, object ID 498165117, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_09_90-12835-026_415890793.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/9/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890792 | Presidential Daily Backup: [Presidential Daily Backup] 9/9/1990; 1 digital object; https://catalog.archives.gov/id/415890793"
   },
   {
     "id": "conversation-428081055",
@@ -8425,7 +13042,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890794",
+        "naid": "415890794",
+        "title": "[Presidential Daily Diary] 9/10/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-10",
+        "localIdentifier": "12835-027",
+        "catalogUrl": "https://catalog.archives.gov/id/415890794",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_10_90-12835-027_415890794.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-027, [Presidential Daily Diary] 9/10/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890794. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_10_90-12835-027_415890794.pdf, object ID 498165118, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_10_90-12835-027_415890794.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890795",
+        "naid": "415890795",
+        "title": "[Presidential Daily Backup] 9/10/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-10",
+        "localIdentifier": "12835-028",
+        "catalogUrl": "https://catalog.archives.gov/id/415890795",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_10_90-12835-028_415890795.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-028, [Presidential Daily Backup] 9/10/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890795. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_10_90-12835-028_415890795.pdf, object ID 498165119, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_10_90-12835-028_415890795.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/10/1990; 1 digital object; https://catalog.archives.gov/id/415890794 | Presidential Daily Backup: [Presidential Daily Backup] 9/10/1990; 1 digital object; https://catalog.archives.gov/id/415890795"
   },
   {
     "id": "conversation-428081059",
@@ -8483,7 +13133,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890796",
+        "naid": "415890796",
+        "title": "[Presidential Daily Diary] 9/11/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-11",
+        "localIdentifier": "12835-029",
+        "catalogUrl": "https://catalog.archives.gov/id/415890796",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_11_90-12835-029_415890796.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-029, [Presidential Daily Diary] 9/11/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890796. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_11_90-12835-029_415890796.pdf, object ID 498165120, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_11_90-12835-029_415890796.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890797",
+        "naid": "415890797",
+        "title": "[Presidential Daily Backup] 9/11/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-11",
+        "localIdentifier": "12835-030",
+        "catalogUrl": "https://catalog.archives.gov/id/415890797",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_11_90-12835-030_415890797.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12835-030, [Presidential Daily Backup] 9/11/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890797. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_11_90-12835-030_415890797.pdf, object ID 498165121, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_11_90-12835-030_415890797.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/11/1990; 1 digital object; https://catalog.archives.gov/id/415890796 | Presidential Daily Backup: [Presidential Daily Backup] 9/11/1990; 1 digital object; https://catalog.archives.gov/id/415890797"
   },
   {
     "id": "conversation-428081043",
@@ -8541,7 +13224,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890832",
+        "naid": "415890832",
+        "title": "[Presidential Daily Diary] 9/29/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-29",
+        "localIdentifier": "12837-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890832",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12837-009, [Presidential Daily Diary] 9/29/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890832. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf, object ID 498165156, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890833",
+        "naid": "415890833",
+        "title": "[Presidential Daily Backup] 9/29/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-29",
+        "localIdentifier": "12837-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890833",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-010_415890833.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12837-010, [Presidential Daily Backup] 9/29/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890833. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_29_90-12837-010_415890833.pdf, object ID 498165157, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-010_415890833.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/29/1990; 1 digital object; https://catalog.archives.gov/id/415890832 | Presidential Daily Backup: [Presidential Daily Backup] 9/29/1990; 1 digital object; https://catalog.archives.gov/id/415890833"
   },
   {
     "id": "conversation-428081087",
@@ -8601,7 +13317,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890834",
+        "naid": "415890834",
+        "title": "[Presidential Daily Diary] 9/30/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-30",
+        "localIdentifier": "12838-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415890834",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-001_415890834.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-001, [Presidential Daily Diary] 9/30/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890834. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_30_90-12838-001_415890834.pdf, object ID 498165158, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-001_415890834.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890835",
+        "naid": "415890835",
+        "title": "[Presidential Daily Backup] 9/30/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-30",
+        "localIdentifier": "12838-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415890835",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-002, [Presidential Daily Backup] 9/30/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890835. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf, object ID 498165159, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/30/1990; 1 digital object; https://catalog.archives.gov/id/415890834 | Presidential Daily Backup: [Presidential Daily Backup] 9/30/1990; 1 digital object; https://catalog.archives.gov/id/415890835"
   },
   {
     "id": "conversation-428081091",
@@ -8659,7 +13408,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: September 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890834",
+        "naid": "415890834",
+        "title": "[Presidential Daily Diary] 9/30/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-09-30",
+        "localIdentifier": "12838-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415890834",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-001_415890834.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-001, [Presidential Daily Diary] 9/30/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890834. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_30_90-12838-001_415890834.pdf, object ID 498165158, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-001_415890834.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890835",
+        "naid": "415890835",
+        "title": "[Presidential Daily Backup] 9/30/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-09-30",
+        "localIdentifier": "12838-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415890835",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-002, [Presidential Daily Backup] 9/30/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890835. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf, object ID 498165159, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/30/1990; 1 digital object; https://catalog.archives.gov/id/415890834 | Presidential Daily Backup: [Presidential Daily Backup] 9/30/1990; 1 digital object; https://catalog.archives.gov/id/415890835"
   },
   {
     "id": "conversation-428081113",
@@ -8717,7 +13499,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890836",
+        "naid": "415890836",
+        "title": "[Presidential Daily Diary] 10/01/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890836",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-003, [Presidential Daily Diary] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890836. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf, object ID 498165160, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890837",
+        "naid": "415890837",
+        "title": "[Presidential Daily Backup] 10/01/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890837",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-004, [Presidential Daily Backup] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890837. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf, object ID 498165161, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890836 | Presidential Daily Backup: [Presidential Daily Backup] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890837"
   },
   {
     "id": "conversation-428081111",
@@ -8775,7 +13590,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890836",
+        "naid": "415890836",
+        "title": "[Presidential Daily Diary] 10/01/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890836",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-003, [Presidential Daily Diary] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890836. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf, object ID 498165160, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890837",
+        "naid": "415890837",
+        "title": "[Presidential Daily Backup] 10/01/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890837",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-004, [Presidential Daily Backup] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890837. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf, object ID 498165161, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890836 | Presidential Daily Backup: [Presidential Daily Backup] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890837"
   },
   {
     "id": "conversation-428081095",
@@ -8833,7 +13681,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890836",
+        "naid": "415890836",
+        "title": "[Presidential Daily Diary] 10/01/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415890836",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-003, [Presidential Daily Diary] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890836. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf, object ID 498165160, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-003_415890836.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890837",
+        "naid": "415890837",
+        "title": "[Presidential Daily Backup] 10/01/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-01",
+        "localIdentifier": "12838-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415890837",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-004, [Presidential Daily Backup] 10/01/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890837. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf, object ID 498165161, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890836 | Presidential Daily Backup: [Presidential Daily Backup] 10/01/1990; 1 digital object; https://catalog.archives.gov/id/415890837"
   },
   {
     "id": "conversation-428081117",
@@ -8893,7 +13774,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890838",
+        "naid": "415890838",
+        "title": "[Presidential Daily Diary] 10/2/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-02",
+        "localIdentifier": "12838-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415890838",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_02_90-12838-005_415890838.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-005, [Presidential Daily Diary] 10/2/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890838. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_02_90-12838-005_415890838.pdf, object ID 498165162, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_02_90-12838-005_415890838.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890839",
+        "naid": "415890839",
+        "title": "[Presidential Daily Backup] 10/2/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-02",
+        "localIdentifier": "12838-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415890839",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_02_90-12838-006_415890839.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12838-006, [Presidential Daily Backup] 10/2/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890839. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_02_90-12838-006_415890839.pdf, object ID 498165163, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_02_90-12838-006_415890839.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/2/1990; 1 digital object; https://catalog.archives.gov/id/415890838 | Presidential Daily Backup: [Presidential Daily Backup] 10/2/1990; 1 digital object; https://catalog.archives.gov/id/415890839"
   },
   {
     "id": "conversation-428081159",
@@ -8951,7 +13865,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890886",
+        "naid": "415890886",
+        "title": "[Presidential Daily Diary] 10/25/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-25",
+        "localIdentifier": "12840-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415890886",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_25_90-12840-018_415890886.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12840-018, [Presidential Daily Diary] 10/25/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890886. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_25_90-12840-018_415890886.pdf, object ID 498165210, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_25_90-12840-018_415890886.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890887",
+        "naid": "415890887",
+        "title": "[Presidential Daily Backup] 10/25/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-25",
+        "localIdentifier": "12840-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415890887",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_25_90-12840-019_415890887.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12840-019, [Presidential Daily Backup] 10/25/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890887. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_25_90-12840-019_415890887.pdf, object ID 498165211, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_25_90-12840-019_415890887.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/25/1990; 1 digital object; https://catalog.archives.gov/id/415890886 | Presidential Daily Backup: [Presidential Daily Backup] 10/25/1990; 1 digital object; https://catalog.archives.gov/id/415890887"
   },
   {
     "id": "conversation-428081163",
@@ -9009,7 +13956,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890888",
+        "naid": "415890888",
+        "title": "[Presidential Daily Diary] 10/26/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-26",
+        "localIdentifier": "12840-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890888",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-020_415890888.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12840-020, [Presidential Daily Diary] 10/26/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890888. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_26_90-12840-020_415890888.pdf, object ID 498165212, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-020_415890888.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890889",
+        "naid": "415890889",
+        "title": "[Presidential Daily Backup] 10/26/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-26",
+        "localIdentifier": "12840-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890889",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-021_415890889.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12840-021, [Presidential Daily Backup] 10/26/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890889. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_26_90-12840-021_415890889.pdf, object ID 498165213, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-021_415890889.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/26/1990; 1 digital object; https://catalog.archives.gov/id/415890888 | Presidential Daily Backup: [Presidential Daily Backup] 10/26/1990; 1 digital object; https://catalog.archives.gov/id/415890889"
   },
   {
     "id": "conversation-428081161",
@@ -9067,7 +14047,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890888",
+        "naid": "415890888",
+        "title": "[Presidential Daily Diary] 10/26/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-26",
+        "localIdentifier": "12840-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890888",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-020_415890888.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12840-020, [Presidential Daily Diary] 10/26/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890888. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_26_90-12840-020_415890888.pdf, object ID 498165212, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-020_415890888.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890889",
+        "naid": "415890889",
+        "title": "[Presidential Daily Backup] 10/26/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-26",
+        "localIdentifier": "12840-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890889",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-021_415890889.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12840-021, [Presidential Daily Backup] 10/26/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890889. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_26_90-12840-021_415890889.pdf, object ID 498165213, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_26_90-12840-021_415890889.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/26/1990; 1 digital object; https://catalog.archives.gov/id/415890888 | Presidential Daily Backup: [Presidential Daily Backup] 10/26/1990; 1 digital object; https://catalog.archives.gov/id/415890889"
   },
   {
     "id": "conversation-428081131",
@@ -9125,7 +14138,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: October 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890898",
+        "naid": "415890898",
+        "title": "[Presidential Daily Diary] 10/31/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-10-31",
+        "localIdentifier": "12841-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415890898",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_31_90-12841-009_415890898.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12841-009, [Presidential Daily Diary] 10/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890898. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_31_90-12841-009_415890898.pdf, object ID 498165222, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_31_90-12841-009_415890898.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890899",
+        "naid": "415890899",
+        "title": "[Presidential Daily Backup] 10/31/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-10-31",
+        "localIdentifier": "12841-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415890899",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_31_90-12841-010_415890899.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12841-010, [Presidential Daily Backup] 10/31/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890899. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_31_90-12841-010_415890899.pdf, object ID 498165223, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_31_90-12841-010_415890899.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/31/1990; 1 digital object; https://catalog.archives.gov/id/415890898 | Presidential Daily Backup: [Presidential Daily Backup] 10/31/1990; 1 digital object; https://catalog.archives.gov/id/415890899"
   },
   {
     "id": "conversation-428081133",
@@ -9183,7 +14229,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890924",
+        "naid": "415890924",
+        "title": "[Presidential Daily Diary] 11/13/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-13",
+        "localIdentifier": "12842-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890924",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-013_415890924.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-013, [Presidential Daily Diary] 11/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890924. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_13_90-12842-013_415890924.pdf, object ID 498165248, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-013_415890924.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890925",
+        "naid": "415890925",
+        "title": "[Presidential Daily Backup] 11/13/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-13",
+        "localIdentifier": "12842-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890925",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-014_415890925.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-014, [Presidential Daily Backup] 11/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890925. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_13_90-12842-014_415890925.pdf, object ID 498165249, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-014_415890925.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/13/1990; 1 digital object; https://catalog.archives.gov/id/415890924 | Presidential Daily Backup: [Presidential Daily Backup] 11/13/1990; 1 digital object; https://catalog.archives.gov/id/415890925"
   },
   {
     "id": "conversation-428081135",
@@ -9241,7 +14320,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890924",
+        "naid": "415890924",
+        "title": "[Presidential Daily Diary] 11/13/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-13",
+        "localIdentifier": "12842-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415890924",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-013_415890924.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-013, [Presidential Daily Diary] 11/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890924. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_13_90-12842-013_415890924.pdf, object ID 498165248, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-013_415890924.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890925",
+        "naid": "415890925",
+        "title": "[Presidential Daily Backup] 11/13/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-13",
+        "localIdentifier": "12842-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415890925",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-014_415890925.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-014, [Presidential Daily Backup] 11/13/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890925. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_13_90-12842-014_415890925.pdf, object ID 498165249, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_13_90-12842-014_415890925.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/13/1990; 1 digital object; https://catalog.archives.gov/id/415890924 | Presidential Daily Backup: [Presidential Daily Backup] 11/13/1990; 1 digital object; https://catalog.archives.gov/id/415890925"
   },
   {
     "id": "conversation-428081215",
@@ -9299,7 +14411,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890928",
+        "naid": "415890928",
+        "title": "[Presidential Daily Diary] 11/15/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-15",
+        "localIdentifier": "12842-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415890928",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_15_90-12842-017_415890928.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-017, [Presidential Daily Diary] 11/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890928. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_15_90-12842-017_415890928.pdf, object ID 498165252, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_15_90-12842-017_415890928.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890929",
+        "naid": "415890929",
+        "title": "[Presidential Daily Backup] 11/15/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-15",
+        "localIdentifier": "12842-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415890929",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_15_90-12842-018_415890929.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-018, [Presidential Daily Backup] 11/15/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890929. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_15_90-12842-018_415890929.pdf, object ID 498165253, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_15_90-12842-018_415890929.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/15/1990; 1 digital object; https://catalog.archives.gov/id/415890928 | Presidential Daily Backup: [Presidential Daily Backup] 11/15/1990; 1 digital object; https://catalog.archives.gov/id/415890929"
   },
   {
     "id": "conversation-428081177",
@@ -9357,7 +14502,25 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890931",
+        "naid": "415890931",
+        "title": "[Presidential Daily Backup] 11/16/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-16",
+        "localIdentifier": "12842-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415890931",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_16_90-12842-020_415890931.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-020, [Presidential Daily Backup] 11/16/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890931. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_16_90-12842-020_415890931.pdf, object ID 498165255, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_16_90-12842-020_415890931.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Backup: [Presidential Daily Backup] 11/16/1990; 1 digital object; https://catalog.archives.gov/id/415890931"
   },
   {
     "id": "conversation-428081185",
@@ -9415,7 +14578,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890932",
+        "naid": "415890932",
+        "title": "[Presidential Daily Diary] 11/17/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-17",
+        "localIdentifier": "12842-021",
+        "catalogUrl": "https://catalog.archives.gov/id/415890932",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_17_90-12842-021_415890932.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-021, [Presidential Daily Diary] 11/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890932. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_17_90-12842-021_415890932.pdf, object ID 498165256, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_17_90-12842-021_415890932.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890933",
+        "naid": "415890933",
+        "title": "[Presidential Daily Backup] 11/17/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-17",
+        "localIdentifier": "12842-022",
+        "catalogUrl": "https://catalog.archives.gov/id/415890933",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_17_90-12842-022_415890933.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-022, [Presidential Daily Backup] 11/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890933. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_17_90-12842-022_415890933.pdf, object ID 498165257, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_17_90-12842-022_415890933.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/17/1990; 1 digital object; https://catalog.archives.gov/id/415890932 | Presidential Daily Backup: [Presidential Daily Backup] 11/17/1990; 1 digital object; https://catalog.archives.gov/id/415890933"
   },
   {
     "id": "conversation-428081191",
@@ -9473,7 +14669,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890934",
+        "naid": "415890934",
+        "title": "[Presidential Daily Diary] 11/18/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-18",
+        "localIdentifier": "12842-023",
+        "catalogUrl": "https://catalog.archives.gov/id/415890934",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_18_90-12842-023_415890934.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-023, [Presidential Daily Diary] 11/18/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890934. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_18_90-12842-023_415890934.pdf, object ID 498165258, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_18_90-12842-023_415890934.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890935",
+        "naid": "415890935",
+        "title": "[Presidential Daily Backup] 11/18/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-18",
+        "localIdentifier": "12842-024",
+        "catalogUrl": "https://catalog.archives.gov/id/415890935",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_18_90-12842-024_415890935.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-024, [Presidential Daily Backup] 11/18/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890935. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_18_90-12842-024_415890935.pdf, object ID 498165259, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_18_90-12842-024_415890935.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/18/1990; 1 digital object; https://catalog.archives.gov/id/415890934 | Presidential Daily Backup: [Presidential Daily Backup] 11/18/1990; 1 digital object; https://catalog.archives.gov/id/415890935"
   },
   {
     "id": "conversation-428081193",
@@ -9531,7 +14760,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890936",
+        "naid": "415890936",
+        "title": "[Presidential Daily Diary] 11/19/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-19",
+        "localIdentifier": "12842-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415890936",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_19_90-12842-025_415890936.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-025, [Presidential Daily Diary] 11/19/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890936. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_19_90-12842-025_415890936.pdf, object ID 498165260, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_19_90-12842-025_415890936.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890937",
+        "naid": "415890937",
+        "title": "[Presidential Daily Backup] 11/19/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-19",
+        "localIdentifier": "12842-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415890937",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_19_90-12842-026_415890937.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12842-026, [Presidential Daily Backup] 11/19/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890937. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_19_90-12842-026_415890937.pdf, object ID 498165261, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_19_90-12842-026_415890937.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/19/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890936 | Presidential Daily Backup: [Presidential Daily Backup] 11/19/1990; 1 digital object; https://catalog.archives.gov/id/415890937"
   },
   {
     "id": "conversation-428081197",
@@ -9591,7 +14853,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890940",
+        "naid": "415890940",
+        "title": "[Presidential Daily Diary] 11/21/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-21",
+        "localIdentifier": "12843-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415890940",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_21_90-12843-001_415890940.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-001, [Presidential Daily Diary] 11/21/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890940. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_21_90-12843-001_415890940.pdf, object ID 498165264, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_21_90-12843-001_415890940.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890941",
+        "naid": "415890941",
+        "title": "[Presidential Daily Backup] 11/21/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-21",
+        "localIdentifier": "12843-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415890941",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_21_90-12843-002_415890941.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-002, [Presidential Daily Backup] 11/21/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890941. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_21_90-12843-002_415890941.pdf, object ID 498165265, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_21_90-12843-002_415890941.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/21/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890940 | Presidential Daily Backup: [Presidential Daily Backup] 11/21/1990; 1 digital object; https://catalog.archives.gov/id/415890941"
   },
   {
     "id": "conversation-428081205",
@@ -9653,7 +14948,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: November 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890944",
+        "naid": "415890944",
+        "title": "[Presidential Daily Diary] 11/23/1990 [EMPTY]",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-11-23",
+        "localIdentifier": "12843-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415890944",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_23_90-12843-005_415890944.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": true,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-005, [Presidential Daily Diary] 11/23/1990 [EMPTY].",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890944. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_23_90-12843-005_415890944.pdf, object ID 498165268, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_23_90-12843-005_415890944.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890945",
+        "naid": "415890945",
+        "title": "[Presidential Daily Backup] 11/23/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-11-23",
+        "localIdentifier": "12843-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415890945",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_23_90-12843-006_415890945.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12843-006, [Presidential Daily Backup] 11/23/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890945. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_23_90-12843-006_415890945.pdf, object ID 498165269, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_23_90-12843-006_415890945.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/23/1990 [EMPTY] [empty diary file]; 1 digital object; https://catalog.archives.gov/id/415890944 | Presidential Daily Backup: [Presidential Daily Backup] 11/23/1990; 1 digital object; https://catalog.archives.gov/id/415890945"
   },
   {
     "id": "conversation-428081269",
@@ -9711,7 +15039,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: December 1990"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - August 1990-December 1990]: December 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415890992",
+        "naid": "415890992",
+        "title": "[Presidential Daily Diary] 12/17/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-12-17",
+        "localIdentifier": "12845-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415890992",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-007_415890992.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12845-007, [Presidential Daily Diary] 12/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890992. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_90-12845-007_415890992.pdf, object ID 498165316, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-007_415890992.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415890993",
+        "naid": "415890993",
+        "title": "[Presidential Daily Backup] 12/17/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-12-17",
+        "localIdentifier": "12845-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415890993",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-008_415890993.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12845-008, [Presidential Daily Backup] 12/17/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415890993. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_90-12845-008_415890993.pdf, object ID 498165317, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-008_415890993.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/17/1990; 1 digital object; https://catalog.archives.gov/id/415890992 | Presidential Daily Backup: [Presidential Daily Backup] 12/17/1990; 1 digital object; https://catalog.archives.gov/id/415890993"
   },
   {
     "id": "conversation-428081243",
@@ -9771,7 +15132,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1990-December 1990]: December 1990",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891000",
+        "naid": "415891000",
+        "title": "[Presidential Daily Diary] 12/21/1990",
+        "documentType": "Presidential Daily Diary",
+        "date": "1990-12-21",
+        "localIdentifier": "12845-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415891000",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_21_90-12845-015_415891000.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12845-015, [Presidential Daily Diary] 12/21/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891000. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_21_90-12845-015_415891000.pdf, object ID 498165324, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_21_90-12845-015_415891000.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891001",
+        "naid": "415891001",
+        "title": "[Presidential Daily Backup] 12/21/1990",
+        "documentType": "Presidential Daily Backup",
+        "date": "1990-12-21",
+        "localIdentifier": "12845-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415891001",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_21_90-12845-016_415891001.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12845-016, [Presidential Daily Backup] 12/21/1990.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891001. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_21_90-12845-016_415891001.pdf, object ID 498165325, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_21_90-12845-016_415891001.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/21/1990; 1 digital object; https://catalog.archives.gov/id/415891000 | Presidential Daily Backup: [Presidential Daily Backup] 12/21/1990; 1 digital object; https://catalog.archives.gov/id/415891001"
   },
   {
     "id": "conversation-428081371",
@@ -9829,7 +15223,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186327",
+        "naid": "186327",
+        "title": "President's Daily Diary Entry, January 21, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-01-21",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186327",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/1863/186327/content/arcmedia/media/images/40/19/40-1899a.gif",
+        "digitalObjectCount": 8,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, January 21, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186327. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-1899a.gif, object ID 14777627, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/27/1863/186327/content/arcmedia/media/images/40/19/40-1899a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891062",
+        "naid": "415891062",
+        "title": "[Presidential Daily Diary] 1/21/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-01-21",
+        "localIdentifier": "12847-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891062",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_21_91-12847-011_415891062.pdf",
+        "digitalObjectCount": 9,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12847-011, [Presidential Daily Diary] 1/21/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891062. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_21_91-12847-011_415891062.pdf, object ID 508175016, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_21_91-12847-011_415891062.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891063",
+        "naid": "415891063",
+        "title": "[Presidential Daily Backup] 1/21/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-01-21",
+        "localIdentifier": "12847-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415891063",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_21_91-12847-012_415891063.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12847-012, [Presidential Daily Backup] 1/21/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891063. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_21_91-12847-012_415891063.pdf, object ID 508175017, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_21_91-12847-012_415891063.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, January 21, 1991; 8 digital objects; https://catalog.archives.gov/id/186327 | Presidential Daily Diary: [Presidential Daily Diary] 1/21/1991; 9 digital objects; https://catalog.archives.gov/id/415891062 | Presidential Daily Backup: [Presidential Daily Backup] 1/21/1991; 1 digital object; https://catalog.archives.gov/id/415891063"
   },
   {
     "id": "conversation-428081397",
@@ -9887,7 +15329,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: January 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186334",
+        "naid": "186334",
+        "title": "President's Daily Diary Entry, January 28, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-01-28",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186334",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/34/1863/186334/content/arcmedia/media/images/40/20/40-1958a.gif",
+        "digitalObjectCount": 10,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, January 28, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186334. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-1958a.gif, object ID 14781108, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/34/1863/186334/content/arcmedia/media/images/40/20/40-1958a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891076",
+        "naid": "415891076",
+        "title": "[Presidential Daily Diary] 1/28/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-01-28",
+        "localIdentifier": "12847-025",
+        "catalogUrl": "https://catalog.archives.gov/id/415891076",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_28_91-12847-025_415891076.pdf",
+        "digitalObjectCount": 11,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12847-025, [Presidential Daily Diary] 1/28/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891076. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_28_91-12847-025_415891076.pdf, object ID 508175030, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_28_91-12847-025_415891076.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891077",
+        "naid": "415891077",
+        "title": "[Presidential Daily Backup] 1/28/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-01-28",
+        "localIdentifier": "12847-026",
+        "catalogUrl": "https://catalog.archives.gov/id/415891077",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_28_91-12847-026_415891077.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12847-026, [Presidential Daily Backup] 1/28/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891077. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_28_91-12847-026_415891077.pdf, object ID 508175031, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_28_91-12847-026_415891077.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, January 28, 1991; 10 digital objects; https://catalog.archives.gov/id/186334 | Presidential Daily Diary: [Presidential Daily Diary] 1/28/1991; 11 digital objects; https://catalog.archives.gov/id/415891076 | Presidential Daily Backup: [Presidential Daily Backup] 1/28/1991; 1 digital object; https://catalog.archives.gov/id/415891077"
   },
   {
     "id": "conversation-428081405",
@@ -9945,7 +15435,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186339",
+        "naid": "186339",
+        "title": "President's Daily Diary Entry, February 2, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-02-02",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186339",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/39/1863/186339/content/arcmedia/media/images/40/21/40-2032a.gif",
+        "digitalObjectCount": 2,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, February 2, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186339. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-2032a.gif, object ID 14784339, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/39/1863/186339/content/arcmedia/media/images/40/21/40-2032a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891086",
+        "naid": "415891086",
+        "title": "[Presidential Daily Diary] 2/2/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-02",
+        "localIdentifier": "12848-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415891086",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-003_415891086.pdf",
+        "digitalObjectCount": 3,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-003, [Presidential Daily Diary] 2/2/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891086. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_02_91-12848-003_415891086.pdf, object ID 508175040, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-003_415891086.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891087",
+        "naid": "415891087",
+        "title": "[Presidential Daily Backup] 2/2/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-02",
+        "localIdentifier": "12848-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415891087",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-004_415891087.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-004, [Presidential Daily Backup] 2/2/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891087. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_02_91-12848-004_415891087.pdf, object ID 508175041, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-004_415891087.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, February 2, 1991; 2 digital objects; https://catalog.archives.gov/id/186339 | Presidential Daily Diary: [Presidential Daily Diary] 2/2/1991; 3 digital objects; https://catalog.archives.gov/id/415891086 | Presidential Daily Backup: [Presidential Daily Backup] 2/2/1991; 1 digital object; https://catalog.archives.gov/id/415891087"
   },
   {
     "id": "conversation-428081423",
@@ -10003,7 +15541,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186344",
+        "naid": "186344",
+        "title": "President's Daily Diary Entry, February 7, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-02-07",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186344",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/44/1863/186344/content/arcmedia/media/images/40/21/40-2081a.gif",
+        "digitalObjectCount": 16,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, February 7, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186344. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-2081a.gif, object ID 14784553, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/44/1863/186344/content/arcmedia/media/images/40/21/40-2081a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891096",
+        "naid": "415891096",
+        "title": "[Presidential Daily Diary] 2/7/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-07",
+        "localIdentifier": "12848-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415891096",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_07_91-12848-013_415891096.pdf",
+        "digitalObjectCount": 17,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-013, [Presidential Daily Diary] 2/7/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891096. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_07_91-12848-013_415891096.pdf, object ID 508175050, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_07_91-12848-013_415891096.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891097",
+        "naid": "415891097",
+        "title": "[Presidential Daily Backup] 2/7/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-07",
+        "localIdentifier": "12848-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415891097",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_07_91-12848-014_415891097.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-014, [Presidential Daily Backup] 2/7/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891097. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_07_91-12848-014_415891097.pdf, object ID 508175051, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_07_91-12848-014_415891097.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, February 7, 1991; 16 digital objects; https://catalog.archives.gov/id/186344 | Presidential Daily Diary: [Presidential Daily Diary] 2/7/1991; 17 digital objects; https://catalog.archives.gov/id/415891096 | Presidential Daily Backup: [Presidential Daily Backup] 2/7/1991; 1 digital object; https://catalog.archives.gov/id/415891097"
   },
   {
     "id": "conversation-428081441",
@@ -10061,7 +15647,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186345",
+        "naid": "186345",
+        "title": "President's Daily Diary Entry, February 8, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-02-08",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186345",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1863/186345/content/arcmedia/media/images/40/21/40-2097a.gif",
+        "digitalObjectCount": 12,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, February 8, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186345. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-2097a.gif, object ID 14784596, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1863/186345/content/arcmedia/media/images/40/21/40-2097a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891098",
+        "naid": "415891098",
+        "title": "[Presidential Daily Diary] 2/8/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-08",
+        "localIdentifier": "12848-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415891098",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-015_415891098.pdf",
+        "digitalObjectCount": 13,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-015, [Presidential Daily Diary] 2/8/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891098. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_08_91-12848-015_415891098.pdf, object ID 508175052, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-015_415891098.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891099",
+        "naid": "415891099",
+        "title": "[Presidential Daily Backup] 2/8/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-08",
+        "localIdentifier": "12848-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415891099",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-016_415891099.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-016, [Presidential Daily Backup] 2/8/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891099. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_08_91-12848-016_415891099.pdf, object ID 508175053, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-016_415891099.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, February 8, 1991; 12 digital objects; https://catalog.archives.gov/id/186345 | Presidential Daily Diary: [Presidential Daily Diary] 2/8/1991; 13 digital objects; https://catalog.archives.gov/id/415891098 | Presidential Daily Backup: [Presidential Daily Backup] 2/8/1991; 1 digital object; https://catalog.archives.gov/id/415891099"
   },
   {
     "id": "conversation-428081443",
@@ -10119,7 +15753,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186345",
+        "naid": "186345",
+        "title": "President's Daily Diary Entry, February 8, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-02-08",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186345",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1863/186345/content/arcmedia/media/images/40/21/40-2097a.gif",
+        "digitalObjectCount": 12,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, February 8, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186345. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-2097a.gif, object ID 14784596, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/45/1863/186345/content/arcmedia/media/images/40/21/40-2097a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891098",
+        "naid": "415891098",
+        "title": "[Presidential Daily Diary] 2/8/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-08",
+        "localIdentifier": "12848-015",
+        "catalogUrl": "https://catalog.archives.gov/id/415891098",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-015_415891098.pdf",
+        "digitalObjectCount": 13,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-015, [Presidential Daily Diary] 2/8/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891098. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_08_91-12848-015_415891098.pdf, object ID 508175052, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-015_415891098.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891099",
+        "naid": "415891099",
+        "title": "[Presidential Daily Backup] 2/8/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-08",
+        "localIdentifier": "12848-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415891099",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-016_415891099.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-016, [Presidential Daily Backup] 2/8/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891099. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_08_91-12848-016_415891099.pdf, object ID 508175053, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_08_91-12848-016_415891099.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, February 8, 1991; 12 digital objects; https://catalog.archives.gov/id/186345 | Presidential Daily Diary: [Presidential Daily Diary] 2/8/1991; 13 digital objects; https://catalog.archives.gov/id/415891098 | Presidential Daily Backup: [Presidential Daily Backup] 2/8/1991; 1 digital object; https://catalog.archives.gov/id/415891099"
   },
   {
     "id": "conversation-428081449",
@@ -10177,7 +15859,55 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate participants."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [1]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-186346",
+        "naid": "186346",
+        "title": "President's Daily Diary Entry, February 9, 1991",
+        "documentType": "President's Daily Diary Entry",
+        "date": "1991-02-09",
+        "localIdentifier": "",
+        "catalogUrl": "https://catalog.archives.gov/id/186346",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/opastorage/live/46/1863/186346/content/arcmedia/media/images/40/22/40-2109a.gif",
+        "digitalObjectCount": 2,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, President's Daily Diary Entry, February 9, 1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/186346. Series URL: https://catalog.archives.gov/id/186322. Digital object: 40-2109a.gif, object ID 14784630, URL https://s3.amazonaws.com/NARAprodstorage/opastorage/live/46/1863/186346/content/arcmedia/media/images/40/22/40-2109a.gif. Access restriction: Unrestricted. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891100",
+        "naid": "415891100",
+        "title": "[Presidential Daily Diary] 2/9/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-09",
+        "localIdentifier": "12848-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415891100",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_09_91-12848-017_415891100.pdf",
+        "digitalObjectCount": 3,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-017, [Presidential Daily Diary] 2/9/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891100. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_09_91-12848-017_415891100.pdf, object ID 508175054, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_09_91-12848-017_415891100.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891101",
+        "naid": "415891101",
+        "title": "[Presidential Daily Backup] 2/9/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-09",
+        "localIdentifier": "12848-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415891101",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_09_91-12848-018_415891101.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12848-018, [Presidential Daily Backup] 2/9/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891101. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_09_91-12848-018_415891101.pdf, object ID 508175055, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_09_91-12848-018_415891101.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "President's Daily Diary Entry: President's Daily Diary Entry, February 9, 1991; 2 digital objects; https://catalog.archives.gov/id/186346 | Presidential Daily Diary: [Presidential Daily Diary] 2/9/1991; 3 digital objects; https://catalog.archives.gov/id/415891100 | Presidential Daily Backup: [Presidential Daily Backup] 2/9/1991; 1 digital object; https://catalog.archives.gov/id/415891101"
   },
   {
     "id": "conversation-428081499",
@@ -10235,7 +15965,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891128",
+        "naid": "415891128",
+        "title": "[Presidential Daily Diary] 2/23/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-23",
+        "localIdentifier": "12849-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415891128",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_23_91-12849-017_415891128.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12849-017, [Presidential Daily Diary] 2/23/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891128. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_23_91-12849-017_415891128.pdf, object ID 508175082, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_23_91-12849-017_415891128.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891129",
+        "naid": "415891129",
+        "title": "[Presidential Daily Backup] 2/23/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-23",
+        "localIdentifier": "12849-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415891129",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_23_91-12849-018_415891129.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12849-018, [Presidential Daily Backup] 2/23/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891129. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_23_91-12849-018_415891129.pdf, object ID 508175083, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_23_91-12849-018_415891129.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/23/1991; 1 digital object; https://catalog.archives.gov/id/415891128 | Presidential Daily Backup: [Presidential Daily Backup] 2/23/1991; 1 digital object; https://catalog.archives.gov/id/415891129"
   },
   {
     "id": "conversation-428081555",
@@ -10293,7 +16056,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2]"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: February 1991 [2]",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891138",
+        "naid": "415891138",
+        "title": "[Presidential Daily Diary] 2/28/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-02-28",
+        "localIdentifier": "12850-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415891138",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_28_91-12850-005_415891138.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12850-005, [Presidential Daily Diary] 2/28/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891138. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_28_91-12850-005_415891138.pdf, object ID 508175092, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_28_91-12850-005_415891138.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891139",
+        "naid": "415891139",
+        "title": "[Presidential Daily Backup] 2/28/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-02-28",
+        "localIdentifier": "12850-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415891139",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_28_91-12850-006_415891139.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12850-006, [Presidential Daily Backup] 2/28/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891139. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-02_28_91-12850-006_415891139.pdf, object ID 508175093, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_28_91-12850-006_415891139.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 2/28/1991; 1 digital object; https://catalog.archives.gov/id/415891138 | Presidential Daily Backup: [Presidential Daily Backup] 2/28/1991; 1 digital object; https://catalog.archives.gov/id/415891139"
   },
   {
     "id": "conversation-428081533",
@@ -10351,7 +16147,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891166",
+        "naid": "415891166",
+        "title": "[Presidential Daily Diary] 3/14/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-03-14",
+        "localIdentifier": "12851-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891166",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_14_19-12851-011_415891166.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12851-011, [Presidential Daily Diary] 3/14/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891166. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_14_19-12851-011_415891166.pdf, object ID 508175120, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_14_19-12851-011_415891166.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891167",
+        "naid": "415891167",
+        "title": "[Presidential Daily Backup] 3/14/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-03-14",
+        "localIdentifier": "12851-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415891167",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_14_91-12851-012_415891167.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12851-012, [Presidential Daily Backup] 3/14/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891167. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_14_91-12851-012_415891167.pdf, object ID 508175121, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_14_91-12851-012_415891167.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/14/1991; 1 digital object; https://catalog.archives.gov/id/415891166 | Presidential Daily Backup: [Presidential Daily Backup] 3/14/1991; 1 digital object; https://catalog.archives.gov/id/415891167"
   },
   {
     "id": "conversation-428081545",
@@ -10409,7 +16238,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: March 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891196",
+        "naid": "415891196",
+        "title": "[Presidential Daily Diary] 3/29/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-03-29",
+        "localIdentifier": "12852-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891196",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_29_91-12852-019_415891196.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12852-019, [Presidential Daily Diary] 3/29/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891196. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_29_91-12852-019_415891196.pdf, object ID 508175150, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_29_91-12852-019_415891196.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891197",
+        "naid": "415891197",
+        "title": "[Presidential Daily Backup] 3/29/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-03-29",
+        "localIdentifier": "12852-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891197",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_29_91-12852-020_415891197.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12852-020, [Presidential Daily Backup] 3/29/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891197. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_29_91-12852-020_415891197.pdf, object ID 508175151, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_29_91-12852-020_415891197.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/29/1991; 1 digital object; https://catalog.archives.gov/id/415891196 | Presidential Daily Backup: [Presidential Daily Backup] 3/29/1991; 1 digital object; https://catalog.archives.gov/id/415891197"
   },
   {
     "id": "conversation-428081595",
@@ -10467,7 +16329,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891218",
+        "naid": "415891218",
+        "title": "[Presidential Daily Diary] 4/9/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-04-09",
+        "localIdentifier": "12853-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891218",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_09_91-12853-011_415891218.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12853-011, [Presidential Daily Diary] 4/9/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891218. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_09_91-12853-011_415891218.pdf, object ID 508175172, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_09_91-12853-011_415891218.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891219",
+        "naid": "415891219",
+        "title": "[Presidential Daily Backup] 4/9/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-04-09",
+        "localIdentifier": "12853-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415891219",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_09_91-12853-012_415891219.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12853-012, [Presidential Daily Backup] 4/9/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891219. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_09_91-12853-012_415891219.pdf, object ID 508175173, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_09_91-12853-012_415891219.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/9/1991; 1 digital object; https://catalog.archives.gov/id/415891218 | Presidential Daily Backup: [Presidential Daily Backup] 4/9/1991; 1 digital object; https://catalog.archives.gov/id/415891219"
   },
   {
     "id": "conversation-428081651",
@@ -10525,7 +16420,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1991-April 1991]: April 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891240",
+        "naid": "415891240",
+        "title": "[Presidential Daily Diary] 4/20/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-04-20",
+        "localIdentifier": "12855-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415891240",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_20_91-12855-001_415891240.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12855-001, [Presidential Daily Diary] 4/20/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891240. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_20_91-12855-001_415891240.pdf, object ID 508175194, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_20_91-12855-001_415891240.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891241",
+        "naid": "415891241",
+        "title": "[Presidential Daily Backup] 4/20/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-04-20",
+        "localIdentifier": "12855-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415891241",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_20_91-12855-002_415891241.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12855-002, [Presidential Daily Backup] 4/20/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891241. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_20_91-12855-002_415891241.pdf, object ID 508175195, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_20_91-12855-002_415891241.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/20/1991; 1 digital object; https://catalog.archives.gov/id/415891240 | Presidential Daily Backup: [Presidential Daily Backup] 4/20/1991; 1 digital object; https://catalog.archives.gov/id/415891241"
   },
   {
     "id": "conversation-428081625",
@@ -10585,7 +16513,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: April 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891248",
+        "naid": "415891248",
+        "title": "[Presidential Daily Diary] 4/24/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-04-24",
+        "localIdentifier": "12855-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415891248",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_24_91-12855-009_415891248.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12855-009, [Presidential Daily Diary] 4/24/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891248. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_24_91-12855-009_415891248.pdf, object ID 508175202, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_24_91-12855-009_415891248.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891249",
+        "naid": "415891249",
+        "title": "[Presidential Daily Backup] 4/24/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-04-24",
+        "localIdentifier": "12855-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415891249",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_24_91-12855-010_415891249.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12855-010, [Presidential Daily Backup] 4/24/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891249. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_24_91-12855-010_415891249.pdf, object ID 508175203, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_24_91-12855-010_415891249.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/24/1991; 1 digital object; https://catalog.archives.gov/id/415891248 | Presidential Daily Backup: [Presidential Daily Backup] 4/24/1991; 1 digital object; https://catalog.archives.gov/id/415891249"
   },
   {
     "id": "conversation-428081711",
@@ -10645,7 +16606,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891329",
+        "naid": "415891329",
+        "title": "[Presidential Daily Diary] 6/3/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-06-03",
+        "localIdentifier": "12859-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415891329",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_03_91-12859-009_415891329.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12859-009, [Presidential Daily Diary] 6/3/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891329. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_03_91-12859-009_415891329.pdf, object ID 508175283, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_03_91-12859-009_415891329.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891330",
+        "naid": "415891330",
+        "title": "[Presidential Daily Backup] 6/3/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-06-03",
+        "localIdentifier": "12859-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415891330",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_03_91-12859-010_415891330.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12859-010, [Presidential Daily Backup] 6/3/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891330. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_03_91-12859-010_415891330.pdf, object ID 508175284, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_03_91-12859-010_415891330.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/3/1991; 1 digital object; https://catalog.archives.gov/id/415891329 | Presidential Daily Backup: [Presidential Daily Backup] 6/3/1991; 1 digital object; https://catalog.archives.gov/id/415891330"
   },
   {
     "id": "conversation-428081713",
@@ -10703,7 +16697,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891331",
+        "naid": "415891331",
+        "title": "[Presidential Daily Diary] 6/4/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-06-04",
+        "localIdentifier": "12859-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891331",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_04_91-12859-011_415891331.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12859-011, [Presidential Daily Diary] 6/4/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891331. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_04_91-12859-011_415891331.pdf, object ID 508175285, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_04_91-12859-011_415891331.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891332",
+        "naid": "415891332",
+        "title": "[Presidential Daily Backup] 6/4/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-06-04",
+        "localIdentifier": "12859-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415891332",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_04_91-12859-012_415891332.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12859-012, [Presidential Daily Backup] 6/4/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891332. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_04_91-12859-012_415891332.pdf, object ID 508175286, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_04_91-12859-012_415891332.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/4/1991; 1 digital object; https://catalog.archives.gov/id/415891331 | Presidential Daily Backup: [Presidential Daily Backup] 6/4/1991; 1 digital object; https://catalog.archives.gov/id/415891332"
   },
   {
     "id": "conversation-428081681",
@@ -10761,7 +16788,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1991-June 1991]: June 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891333",
+        "naid": "415891333",
+        "title": "[Presidential Daily Diary] 6/5/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-06-05",
+        "localIdentifier": "12859-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415891333",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_05_91-12859-013_415891333.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12859-013, [Presidential Daily Diary] 6/5/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891333. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_05_91-12859-013_415891333.pdf, object ID 508175287, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_05_91-12859-013_415891333.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891334",
+        "naid": "415891334",
+        "title": "[Presidential Daily Backup] 6/5/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-06-05",
+        "localIdentifier": "12859-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415891334",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_05_91-12859-014_415891334.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12859-014, [Presidential Daily Backup] 6/5/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891334. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_05_91-12859-014_415891334.pdf, object ID 508175288, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_05_91-12859-014_415891334.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/5/1991; 1 digital object; https://catalog.archives.gov/id/415891333 | Presidential Daily Backup: [Presidential Daily Backup] 6/5/1991; 1 digital object; https://catalog.archives.gov/id/415891334"
   },
   {
     "id": "conversation-428081719",
@@ -10819,7 +16879,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: June 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891349",
+        "naid": "415891349",
+        "title": "[Presidential Daily Diary] 6/13/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-06-13",
+        "localIdentifier": "12860-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891349",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_13_91-12860-011_415891349.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12860-011, [Presidential Daily Diary] 6/13/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891349. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_13_91-12860-011_415891349.pdf, object ID 508175303, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_13_91-12860-011_415891349.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891350",
+        "naid": "415891350",
+        "title": "[Presidential Daily Backup] 6/13/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-06-13",
+        "localIdentifier": "12860-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415891350",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_13_91-12860-012_415891350.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12860-012, [Presidential Daily Backup] 6/13/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891350. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-06_13_91-12860-012_415891350.pdf, object ID 508175304, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_13_91-12860-012_415891350.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 6/13/1991; 1 digital object; https://catalog.archives.gov/id/415891349 | Presidential Daily Backup: [Presidential Daily Backup] 6/13/1991; 1 digital object; https://catalog.archives.gov/id/415891350"
   },
   {
     "id": "conversation-428081739",
@@ -10885,7 +16978,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891413",
+        "naid": "415891413",
+        "title": "[Presidential Daily Diary] 7/15/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-07-15",
+        "localIdentifier": "12863-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415891413",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_15_91-12863-017_415891413.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12863-017, [Presidential Daily Diary] 7/15/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891413. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_15_91-12863-017_415891413.pdf, object ID 508175367, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_15_91-12863-017_415891413.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891414",
+        "naid": "415891414",
+        "title": "[Presidential Daily Backup] 7/15/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-07-15",
+        "localIdentifier": "12863-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415891414",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_15_91-12863-018_415891414.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12863-018, [Presidential Daily Backup] 7/15/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891414. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_15_91-12863-018_415891414.pdf, object ID 508175368, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_15_91-12863-018_415891414.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/15/1991; 1 digital object; https://catalog.archives.gov/id/415891413 | Presidential Daily Backup: [Presidential Daily Backup] 7/15/1991; 1 digital object; https://catalog.archives.gov/id/415891414"
   },
   {
     "id": "conversation-428081777",
@@ -10943,7 +17069,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: July 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891419",
+        "naid": "415891419",
+        "title": "[Presidential Daily Diary] 7/18/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-07-18",
+        "localIdentifier": "12864-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415891419",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_18_91-12864-003_415891419.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12864-003, [Presidential Daily Diary] 7/18/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891419. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_18_91-12864-003_415891419.pdf, object ID 508175373, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_18_91-12864-003_415891419.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891420",
+        "naid": "415891420",
+        "title": "[Presidential Daily Backup] 7/18/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-07-18",
+        "localIdentifier": "12864-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415891420",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_18_91-12864-004_415891420.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12864-004, [Presidential Daily Backup] 7/18/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891420. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-07_18_91-12864-004_415891420.pdf, object ID 508175374, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_18_91-12864-004_415891420.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 7/18/1991; 1 digital object; https://catalog.archives.gov/id/415891419 | Presidential Daily Backup: [Presidential Daily Backup] 7/18/1991; 1 digital object; https://catalog.archives.gov/id/415891420"
   },
   {
     "id": "conversation-428081841",
@@ -11001,7 +17160,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: August 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: August 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891487",
+        "naid": "415891487",
+        "title": "[Presidential Daily Diary] 8/21/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-08-21",
+        "localIdentifier": "12866-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415891487",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_20_91-12866-007_415891487.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12866-007, [Presidential Daily Diary] 8/21/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891487. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_20_91-12866-007_415891487.pdf, object ID 508175441, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_20_91-12866-007_415891487.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891488",
+        "naid": "415891488",
+        "title": "[Presidential Daily Backup] 8/21/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-08-21",
+        "localIdentifier": "12866-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415891488",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_21_91-12866-008_415891488.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12866-008, [Presidential Daily Backup] 8/21/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891488. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-08_21_91-12866-008_415891488.pdf, object ID 508175442, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_21_91-12866-008_415891488.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 8/21/1991; 1 digital object; https://catalog.archives.gov/id/415891487 | Presidential Daily Backup: [Presidential Daily Backup] 8/21/1991; 1 digital object; https://catalog.archives.gov/id/415891488"
   },
   {
     "id": "conversation-428081877",
@@ -11059,7 +17251,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891533",
+        "naid": "415891533",
+        "title": "[Presidential Daily Diary] 9/13/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-09-13",
+        "localIdentifier": "12867-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415891533",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-013_415891533.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12867-013, [Presidential Daily Diary] 9/13/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891533. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_13_91-12867-013_415891533.pdf, object ID 508175487, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-013_415891533.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891534",
+        "naid": "415891534",
+        "title": "[Presidential Daily Backup] 9/13/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-09-13",
+        "localIdentifier": "12867-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415891534",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-014_415891534.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12867-014, [Presidential Daily Backup] 9/13/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891534. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_13_91-12867-014_415891534.pdf, object ID 508175488, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-014_415891534.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/13/1991; 1 digital object; https://catalog.archives.gov/id/415891533 | Presidential Daily Backup: [Presidential Daily Backup] 9/13/1991; 1 digital object; https://catalog.archives.gov/id/415891534"
   },
   {
     "id": "conversation-428081893",
@@ -11117,7 +17342,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891553",
+        "naid": "415891553",
+        "title": "[Presidential Daily Diary] 9/23/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-09-23",
+        "localIdentifier": "12868-009",
+        "catalogUrl": "https://catalog.archives.gov/id/415891553",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-009_415891553.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12868-009, [Presidential Daily Diary] 9/23/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891553. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_23_91-12868-009_415891553.pdf, object ID 508175507, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-009_415891553.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891554",
+        "naid": "415891554",
+        "title": "[Presidential Daily Backup] 9/23/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-09-23",
+        "localIdentifier": "12868-010",
+        "catalogUrl": "https://catalog.archives.gov/id/415891554",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-010_415891554.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12868-010, [Presidential Daily Backup] 9/23/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891554. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_23_91-12868-010_415891554.pdf, object ID 508175508, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-010_415891554.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/23/1991; 1 digital object; https://catalog.archives.gov/id/415891553 | Presidential Daily Backup: [Presidential Daily Backup] 9/23/1991; 1 digital object; https://catalog.archives.gov/id/415891554"
   },
   {
     "id": "conversation-428081897",
@@ -11177,7 +17435,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: September 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891555",
+        "naid": "415891555",
+        "title": "[Presidential Daily Diary] 9/24/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-09-24",
+        "localIdentifier": "12868-011",
+        "catalogUrl": "https://catalog.archives.gov/id/415891555",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-011_415891555.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12868-011, [Presidential Daily Diary] 9/24/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891555. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_24_91-12868-011_415891555.pdf, object ID 508175509, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-011_415891555.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891556",
+        "naid": "415891556",
+        "title": "[Presidential Daily Backup] 9/24/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-09-24",
+        "localIdentifier": "12868-012",
+        "catalogUrl": "https://catalog.archives.gov/id/415891556",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12868-012, [Presidential Daily Backup] 9/24/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891556. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf, object ID 508175510, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/24/1991; 1 digital object; https://catalog.archives.gov/id/415891555 | Presidential Daily Backup: [Presidential Daily Backup] 9/24/1991; 1 digital object; https://catalog.archives.gov/id/415891556"
   },
   {
     "id": "conversation-428081977",
@@ -11235,7 +17526,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891598",
+        "naid": "415891598",
+        "title": "[Presidential Daily Diary] 10/15/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-15",
+        "localIdentifier": "12870-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415891598",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_15_91-12870-017_415891598.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12870-017, [Presidential Daily Diary] 10/15/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891598. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_15_91-12870-017_415891598.pdf, object ID 508175552, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_15_91-12870-017_415891598.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891599",
+        "naid": "415891599",
+        "title": "[Presidential Daily Backup] 10/15/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-15",
+        "localIdentifier": "12870-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415891599",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_15_91-12870-018_415891599.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12870-018, [Presidential Daily Backup] 10/15/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891599. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_15_91-12870-018_415891599.pdf, object ID 508175553, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_15_91-12870-018_415891599.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/15/1991; 1 digital object; https://catalog.archives.gov/id/415891598 | Presidential Daily Backup: [Presidential Daily Backup] 10/15/1991; 1 digital object; https://catalog.archives.gov/id/415891599"
   },
   {
     "id": "conversation-428081983",
@@ -11293,7 +17617,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891612",
+        "naid": "415891612",
+        "title": "[Presidential Daily Diary] 10/22/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-22",
+        "localIdentifier": "12871-003",
+        "catalogUrl": "https://catalog.archives.gov/id/415891612",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_22_91-12871-003_415891612.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-003, [Presidential Daily Diary] 10/22/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891612. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_22_91-12871-003_415891612.pdf, object ID 508175566, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_22_91-12871-003_415891612.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891613",
+        "naid": "415891613",
+        "title": "[Presidential Daily Backup] 10/22/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-22",
+        "localIdentifier": "12871-004",
+        "catalogUrl": "https://catalog.archives.gov/id/415891613",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_22_91-12871-004_415891613.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-004, [Presidential Daily Backup] 10/22/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891613. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_22_91-12871-004_415891613.pdf, object ID 508175567, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_22_91-12871-004_415891613.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/22/1991; 1 digital object; https://catalog.archives.gov/id/415891612 | Presidential Daily Backup: [Presidential Daily Backup] 10/22/1991; 1 digital object; https://catalog.archives.gov/id/415891613"
   },
   {
     "id": "conversation-428081989",
@@ -11351,7 +17708,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891626",
+        "naid": "415891626",
+        "title": "[Presidential Daily Diary] 10/29/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-29",
+        "localIdentifier": "12871-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415891626",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_29_91-12871-017_415891626.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-017, [Presidential Daily Diary] 10/29/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891626. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_29_91-12871-017_415891626.pdf, object ID 508175580, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_29_91-12871-017_415891626.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891627",
+        "naid": "415891627",
+        "title": "[Presidential Daily Backup] 10/29/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-29",
+        "localIdentifier": "12871-018",
+        "catalogUrl": "https://catalog.archives.gov/id/415891627",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_29_91-12871-018_415891627.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-018, [Presidential Daily Backup] 10/29/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891627. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_29_91-12871-018_415891627.pdf, object ID 508175581, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_29_91-12871-018_415891627.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/29/1991; 1 digital object; https://catalog.archives.gov/id/415891626 | Presidential Daily Backup: [Presidential Daily Backup] 10/29/1991; 1 digital object; https://catalog.archives.gov/id/415891627"
   },
   {
     "id": "conversation-428082001",
@@ -11409,7 +17799,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891628",
+        "naid": "415891628",
+        "title": "[Presidential Daily Diary] 10/30/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891628",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-019, [Presidential Daily Diary] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891628. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf, object ID 508175582, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891629",
+        "naid": "415891629",
+        "title": "[Presidential Daily Backup] 10/30/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891629",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-020, [Presidential Daily Backup] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891629. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf, object ID 508175583, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891628 | Presidential Daily Backup: [Presidential Daily Backup] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891629"
   },
   {
     "id": "conversation-428081999",
@@ -11469,7 +17892,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891628",
+        "naid": "415891628",
+        "title": "[Presidential Daily Diary] 10/30/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891628",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-019, [Presidential Daily Diary] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891628. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf, object ID 508175582, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891629",
+        "naid": "415891629",
+        "title": "[Presidential Daily Backup] 10/30/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891629",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-020, [Presidential Daily Backup] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891629. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf, object ID 508175583, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891628 | Presidential Daily Backup: [Presidential Daily Backup] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891629"
   },
   {
     "id": "conversation-428081993",
@@ -11529,7 +17985,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891628",
+        "naid": "415891628",
+        "title": "[Presidential Daily Diary] 10/30/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891628",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-019, [Presidential Daily Diary] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891628. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf, object ID 508175582, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891629",
+        "naid": "415891629",
+        "title": "[Presidential Daily Backup] 10/30/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891629",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-020, [Presidential Daily Backup] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891629. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf, object ID 508175583, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891628 | Presidential Daily Backup: [Presidential Daily Backup] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891629"
   },
   {
     "id": "conversation-428081997",
@@ -11587,7 +18076,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891628",
+        "naid": "415891628",
+        "title": "[Presidential Daily Diary] 10/30/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891628",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-019, [Presidential Daily Diary] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891628. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf, object ID 508175582, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891629",
+        "naid": "415891629",
+        "title": "[Presidential Daily Backup] 10/30/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891629",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-020, [Presidential Daily Backup] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891629. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf, object ID 508175583, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891628 | Presidential Daily Backup: [Presidential Daily Backup] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891629"
   },
   {
     "id": "conversation-428081991",
@@ -11645,7 +18167,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1991-December 1991]: October 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891628",
+        "naid": "415891628",
+        "title": "[Presidential Daily Diary] 10/30/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891628",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-019, [Presidential Daily Diary] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891628. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf, object ID 508175582, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891629",
+        "naid": "415891629",
+        "title": "[Presidential Daily Backup] 10/30/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-10-30",
+        "localIdentifier": "12871-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891629",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12871-020, [Presidential Daily Backup] 10/30/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891629. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf, object ID 508175583, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891628 | Presidential Daily Backup: [Presidential Daily Backup] 10/30/1991; 1 digital object; https://catalog.archives.gov/id/415891629"
   },
   {
     "id": "conversation-428082043",
@@ -11703,7 +18258,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: November 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891645",
+        "naid": "415891645",
+        "title": "[Presidential Daily Diary] 11/7/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-11-07",
+        "localIdentifier": "12872-016",
+        "catalogUrl": "https://catalog.archives.gov/id/415891645",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-016_415891645.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12872-016, [Presidential Daily Diary] 11/7/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891645. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_07_91-12872-016_415891645.pdf, object ID 508175599, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-016_415891645.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891646",
+        "naid": "415891646",
+        "title": "[Presidential Daily Backup] 11/7/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-11-07",
+        "localIdentifier": "12872-017",
+        "catalogUrl": "https://catalog.archives.gov/id/415891646",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-017_415891646.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12872-017, [Presidential Daily Backup] 11/7/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891646. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-11_07_91-12872-017_415891646.pdf, object ID 508175600, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-017_415891646.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 11/7/1991; 1 digital object; https://catalog.archives.gov/id/415891645 | Presidential Daily Backup: [Presidential Daily Backup] 11/7/1991; 1 digital object; https://catalog.archives.gov/id/415891646"
   },
   {
     "id": "conversation-428082097",
@@ -11761,7 +18349,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; subject, participants, and date/time/place parsed from first-page PDF text."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: December 1991"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - May 1991-December 1991]: December 1991",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891718",
+        "naid": "415891718",
+        "title": "[Presidential Daily Diary] 12/13/1991",
+        "documentType": "Presidential Daily Diary",
+        "date": "1991-12-13",
+        "localIdentifier": "12876-001",
+        "catalogUrl": "https://catalog.archives.gov/id/415891718",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-001_415891718.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12876-001, [Presidential Daily Diary] 12/13/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891718. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_13_91-12876-001_415891718.pdf, object ID 508175672, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-001_415891718.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891719",
+        "naid": "415891719",
+        "title": "[Presidential Daily Backup] 12/13/1991",
+        "documentType": "Presidential Daily Backup",
+        "date": "1991-12-13",
+        "localIdentifier": "12876-002",
+        "catalogUrl": "https://catalog.archives.gov/id/415891719",
+        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-002_415891719.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12876-002, [Presidential Daily Backup] 12/13/1991.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891719. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_13_91-12876-002_415891719.pdf, object ID 508175673, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-002_415891719.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/13/1991; 1 digital object; https://catalog.archives.gov/id/415891718 | Presidential Daily Backup: [Presidential Daily Backup] 12/13/1991; 1 digital object; https://catalog.archives.gov/id/415891719"
   },
   {
     "id": "conversation-428082133",
@@ -11819,7 +18440,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891817",
+        "naid": "415891817",
+        "title": "[Presidential Daily Diary] 1/31/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-01-31",
+        "localIdentifier": "12879-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891817",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12879-019, [Presidential Daily Diary] 1/31/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891817. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf, object ID 563926748, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891818",
+        "naid": "415891818",
+        "title": "[Presidential Daily Backup] 1/31/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-01-31",
+        "localIdentifier": "12879-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891818",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12879-020, [Presidential Daily Backup] 1/31/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891818. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf, object ID 563926749, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 1/31/1992; 1 digital object; https://catalog.archives.gov/id/415891817 | Presidential Daily Backup: [Presidential Daily Backup] 1/31/1992; 1 digital object; https://catalog.archives.gov/id/415891818"
   },
   {
     "id": "conversation-428082129",
@@ -11877,7 +18531,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891817",
+        "naid": "415891817",
+        "title": "[Presidential Daily Diary] 1/31/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-01-31",
+        "localIdentifier": "12879-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891817",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12879-019, [Presidential Daily Diary] 1/31/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891817. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf, object ID 563926748, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891818",
+        "naid": "415891818",
+        "title": "[Presidential Daily Backup] 1/31/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-01-31",
+        "localIdentifier": "12879-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891818",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12879-020, [Presidential Daily Backup] 1/31/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891818. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf, object ID 563926749, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 1/31/1992; 1 digital object; https://catalog.archives.gov/id/415891817 | Presidential Daily Backup: [Presidential Daily Backup] 1/31/1992; 1 digital object; https://catalog.archives.gov/id/415891818"
   },
   {
     "id": "conversation-428082127",
@@ -11935,7 +18622,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: January 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891817",
+        "naid": "415891817",
+        "title": "[Presidential Daily Diary] 1/31/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-01-31",
+        "localIdentifier": "12879-019",
+        "catalogUrl": "https://catalog.archives.gov/id/415891817",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12879-019, [Presidential Daily Diary] 1/31/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891817. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf, object ID 563926748, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-019_415891817.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891818",
+        "naid": "415891818",
+        "title": "[Presidential Daily Backup] 1/31/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-01-31",
+        "localIdentifier": "12879-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415891818",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12879-020, [Presidential Daily Backup] 1/31/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891818. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf, object ID 563926749, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-01_31_92-12879-020_415891818.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 1/31/1992; 1 digital object; https://catalog.archives.gov/id/415891817 | Presidential Daily Backup: [Presidential Daily Backup] 1/31/1992; 1 digital object; https://catalog.archives.gov/id/415891818"
   },
   {
     "id": "conversation-428082161",
@@ -11993,7 +18713,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: March 1992"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - January 1992-June 1992]: March 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891888",
+        "naid": "415891888",
+        "title": "[Presidential Daily Diary] 3/6/1992 [EMPTY",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-03-06",
+        "localIdentifier": "12883-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415891888",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_06_92-12883-005_415891888.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12883-005, [Presidential Daily Diary] 3/6/1992 [EMPTY.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891888. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_06_92-12883-005_415891888.pdf, object ID 563926819, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_06_92-12883-005_415891888.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891889",
+        "naid": "415891889",
+        "title": "[Presidential Daily Backup] 3/6/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-03-06",
+        "localIdentifier": "12883-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415891889",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_06_92-12883-006_415891889.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12883-006, [Presidential Daily Backup] 3/6/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891889. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_06_92-12883-006_415891889.pdf, object ID 563926820, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_06_92-12883-006_415891889.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/6/1992 [EMPTY; 1 digital object; https://catalog.archives.gov/id/415891888 | Presidential Daily Backup: [Presidential Daily Backup] 3/6/1992; 1 digital object; https://catalog.archives.gov/id/415891889"
   },
   {
     "id": "conversation-428082139",
@@ -12053,7 +18806,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: March 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: March 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891896",
+        "naid": "415891896",
+        "title": "[Presidential Daily Diary] 3/10/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-03-10",
+        "localIdentifier": "12883-013",
+        "catalogUrl": "https://catalog.archives.gov/id/415891896",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_10_92-12883-013_415891896.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12883-013, [Presidential Daily Diary] 3/10/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891896. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_10_92-12883-013_415891896.pdf, object ID 563926827, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_10_92-12883-013_415891896.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891897",
+        "naid": "415891897",
+        "title": "[Presidential Daily Backup] 3/10/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-03-10",
+        "localIdentifier": "12883-014",
+        "catalogUrl": "https://catalog.archives.gov/id/415891897",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_10_92-12883-014_415891897.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12883-014, [Presidential Daily Backup] 3/10/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891897. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-03_10_92-12883-014_415891897.pdf, object ID 563926828, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_10_92-12883-014_415891897.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 3/10/1992; 1 digital object; https://catalog.archives.gov/id/415891896 | Presidential Daily Backup: [Presidential Daily Backup] 3/10/1992; 1 digital object; https://catalog.archives.gov/id/415891897"
   },
   {
     "id": "conversation-428082153",
@@ -12113,7 +18899,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: April 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-January 1992-June 1992]: April 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415891952",
+        "naid": "415891952",
+        "title": "[Presidential Daily Diary] 4/7/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-04-07",
+        "localIdentifier": "12886-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415891952",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_07_92-12886-005_415891952.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12886-005, [Presidential Daily Diary] 4/7/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891952. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_07_92-12886-005_415891952.pdf, object ID 563926883, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_07_92-12886-005_415891952.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415891953",
+        "naid": "415891953",
+        "title": "[Presidential Daily Backup] 4/7/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-04-07",
+        "localIdentifier": "12886-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415891953",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_07_92-12886-006_415891953.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 12886-006, [Presidential Daily Backup] 4/7/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415891953. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-04_07_92-12886-006_415891953.pdf, object ID 563926884, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_07_92-12886-006_415891953.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 4/7/1992; 1 digital object; https://catalog.archives.gov/id/415891952 | Presidential Daily Backup: [Presidential Daily Backup] 4/7/1992; 1 digital object; https://catalog.archives.gov/id/415891953"
   },
   {
     "id": "conversation-428082323",
@@ -12173,7 +18992,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: September 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: September 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892290",
+        "naid": "415892290",
+        "title": "[Presidential Daily Diary] 9/21/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-09-21",
+        "localIdentifier": "26857-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415892290",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_21_92-26857-007_415892290.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26857-007, [Presidential Daily Diary] 9/21/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892290. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_21_92-26857-007_415892290.pdf, object ID 563927221, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_21_92-26857-007_415892290.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892291",
+        "naid": "415892291",
+        "title": "[Presidential Daily Backup] 9/21/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-09-21",
+        "localIdentifier": "26857-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415892291",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_21_92-26857-008_415892291.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26857-008, [Presidential Daily Backup] 9/21/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892291. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-09_21_92-26857-008_415892291.pdf, object ID 563927222, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-09_21_92-26857-008_415892291.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 9/21/1992; 1 digital object; https://catalog.archives.gov/id/415892290 | Presidential Daily Backup: [Presidential Daily Backup] 9/21/1992; 1 digital object; https://catalog.archives.gov/id/415892291"
   },
   {
     "id": "conversation-428082375",
@@ -12233,7 +19085,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892464",
+        "naid": "415892464",
+        "title": "[Presidential Daily Diary] 12/17/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-12-17",
+        "localIdentifier": "26865-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415892464",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-005, [Presidential Daily Diary] 12/17/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892464. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf, object ID 563927395, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892465",
+        "naid": "415892465",
+        "title": "[Presidential Daily Backup] 12/17/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-12-17",
+        "localIdentifier": "26865-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415892465",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-006, [Presidential Daily Backup] 12/17/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892465. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf, object ID 563927396, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/17/1992; 1 digital object; https://catalog.archives.gov/id/415892464 | Presidential Daily Backup: [Presidential Daily Backup] 12/17/1992; 1 digital object; https://catalog.archives.gov/id/415892465"
   },
   {
     "id": "conversation-428082377",
@@ -12291,7 +19176,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892464",
+        "naid": "415892464",
+        "title": "[Presidential Daily Diary] 12/17/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-12-17",
+        "localIdentifier": "26865-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415892464",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-005, [Presidential Daily Diary] 12/17/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892464. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf, object ID 563927395, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892465",
+        "naid": "415892465",
+        "title": "[Presidential Daily Backup] 12/17/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-12-17",
+        "localIdentifier": "26865-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415892465",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-006, [Presidential Daily Backup] 12/17/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892465. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf, object ID 563927396, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/17/1992; 1 digital object; https://catalog.archives.gov/id/415892464 | Presidential Daily Backup: [Presidential Daily Backup] 12/17/1992; 1 digital object; https://catalog.archives.gov/id/415892465"
   },
   {
     "id": "conversation-428082419",
@@ -12349,7 +19267,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892464",
+        "naid": "415892464",
+        "title": "[Presidential Daily Diary] 12/17/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-12-17",
+        "localIdentifier": "26865-005",
+        "catalogUrl": "https://catalog.archives.gov/id/415892464",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-005, [Presidential Daily Diary] 12/17/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892464. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf, object ID 563927395, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892465",
+        "naid": "415892465",
+        "title": "[Presidential Daily Backup] 12/17/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-12-17",
+        "localIdentifier": "26865-006",
+        "catalogUrl": "https://catalog.archives.gov/id/415892465",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-006, [Presidential Daily Backup] 12/17/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892465. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf, object ID 563927396, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/17/1992; 1 digital object; https://catalog.archives.gov/id/415892464 | Presidential Daily Backup: [Presidential Daily Backup] 12/17/1992; 1 digital object; https://catalog.archives.gov/id/415892465"
   },
   {
     "id": "conversation-428082423",
@@ -12407,7 +19358,40 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992"
+    "sourceFolder": "[Memorandum of Conversations (Memcons)-July 1992-December 1992]: December 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892466",
+        "naid": "415892466",
+        "title": "[Presidential Daily Diary] 12/18/1992",
+        "documentType": "Presidential Daily Diary",
+        "date": "1992-12-18",
+        "localIdentifier": "26865-007",
+        "catalogUrl": "https://catalog.archives.gov/id/415892466",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_18_92-26865-007_415892466.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-007, [Presidential Daily Diary] 12/18/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892466. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_18_92-26865-007_415892466.pdf, object ID 563927397, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_18_92-26865-007_415892466.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      },
+      {
+        "id": "schedule-415892467",
+        "naid": "415892467",
+        "title": "[Presidential Daily Backup] 12/18/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-12-18",
+        "localIdentifier": "26865-008",
+        "catalogUrl": "https://catalog.archives.gov/id/415892467",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_18_92-26865-008_415892467.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-008, [Presidential Daily Backup] 12/18/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892467. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_18_92-26865-008_415892467.pdf, object ID 563927398, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_18_92-26865-008_415892467.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Diary: [Presidential Daily Diary] 12/18/1992; 1 digital object; https://catalog.archives.gov/id/415892466 | Presidential Daily Backup: [Presidential Daily Backup] 12/18/1992; 1 digital object; https://catalog.archives.gov/id/415892467"
   },
   {
     "id": "conversation-428082437",
@@ -12467,6 +19451,24 @@ window.FRUS_RECORDS = [
       "basis": "Page count measured with pdfinfo; first-page parser did not isolate subject, participants, date/time/place."
     },
     "sourceCollection": "Bush Presidential Records, National Security Council",
-    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - July 1992-January 1993]: December 1992"
+    "sourceFolder": "[Memorandum of Telephone Conversations (Telcons) - July 1992-January 1993]: December 1992",
+    "scheduleReferences": [
+      {
+        "id": "schedule-415892479",
+        "naid": "415892479",
+        "title": "[Presidential Daily Backup] 12/24/1992",
+        "documentType": "Presidential Daily Backup",
+        "date": "1992-12-24",
+        "localIdentifier": "26865-020",
+        "catalogUrl": "https://catalog.archives.gov/id/415892479",
+        "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_24_92-26865-020_415892479.pdf",
+        "digitalObjectCount": 1,
+        "isEmptyDiary": false,
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, OA/ID 26865-020, [Presidential Daily Backup] 12/24/1992.",
+        "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/415892479. Series URL: https://catalog.archives.gov/id/186322. Digital object: 41-bpr-apts_sch-dd-12_24_92-26865-020_415892479.pdf, object ID 563927410, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_24_92-26865-020_415892479.pdf. Access restriction: Restricted - Possibly. Use restriction: Unrestricted.",
+        "matchBasis": "Same-day Presidential Daily Diary/Daily Backup schedule-control source. Use to verify appointment/call time, place, and calendar context; do not treat as a substantive memcon/telcon transcript."
+      }
+    ],
+    "scheduleReferenceSummary": "Presidential Daily Backup: [Presidential Daily Backup] 12/24/1992; 1 digital object; https://catalog.archives.gov/id/415892479"
   }
 ];
