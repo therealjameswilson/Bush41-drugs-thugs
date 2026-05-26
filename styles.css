@@ -316,6 +316,10 @@ dd {
   scroll-margin-top: 90px;
 }
 
+.chronology-workbench {
+  margin-bottom: 22px;
+}
+
 .control-grid {
   display: grid;
   grid-template-columns: minmax(260px, 2fr) repeat(3, minmax(150px, 1fr));

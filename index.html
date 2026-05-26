@@ -18,11 +18,10 @@
         <span>Drugs &amp; Thugs Files</span>
       </a>
       <nav aria-label="Primary navigation">
-        <a href="#workbench">Workbench</a>
+        <a href="#records">Chronology</a>
         <a href="#chapters">Chapters</a>
         <a href="#persons">Persons</a>
         <a href="#events">Events</a>
-        <a href="#records">Records</a>
         <a href="#gaps">Gaps</a>
         <a href="#references">References</a>
         <a href="#review-queue">Review</a>
@@ -42,7 +41,7 @@
             and counterterrorism.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
-            <a class="button primary" href="#workbench">Open Workbench</a>
+            <a class="button primary" href="#records">Open Chronology</a>
             <a class="button secondary" href="https://history.state.gov/historicaldocuments/frus1989-92v28">FRUS Volume</a>
           </div>
         </div>
@@ -68,6 +67,116 @@
             </div>
           </dl>
         </aside>
+      </section>
+
+      <section class="section chronology-section" id="records" aria-labelledby="records-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Declassified Chronology</p>
+            <h2 id="records-title">Declassified Memcons and Telcons</h2>
+          </div>
+          <p class="section-note">
+            The main sequence comes first: declassified presidential memoranda of conversation
+            and telephone conversations, arranged by chapter chronology with source transparency,
+            Daily Diary controls, and PDF-first verification.
+          </p>
+        </div>
+
+        <div class="workbench chronology-workbench" id="workbench" aria-label="Chronology triage controls">
+          <div class="control-grid" role="search" aria-label="Filter records">
+            <label>
+              Search records
+              <input id="filter-search" type="search" placeholder="Try Lockerbie, drug summit, hostages, Colombia, NAID..." />
+            </label>
+            <label>
+              Chapter
+              <select id="filter-chapter">
+                <option value="">All chapters</option>
+                <option value="Counternarcotics">Counternarcotics</option>
+                <option value="Counterterrorism">Counterterrorism</option>
+              </select>
+            </label>
+            <label>
+              Type
+              <select id="filter-type">
+                <option value="">All types</option>
+              </select>
+            </label>
+            <label>
+              Year
+              <select id="filter-year">
+                <option value="">All years</option>
+              </select>
+            </label>
+            <label>
+              Source series
+              <select id="filter-source">
+                <option value="">All source series</option>
+              </select>
+            </label>
+            <label>
+              Match strength
+              <select id="filter-confidence">
+                <option value="">All matches</option>
+                <option value="strong">Strong topic hit</option>
+                <option value="solid">Solid topic hit</option>
+                <option value="review">Needs review</option>
+              </select>
+            </label>
+            <label>
+              Review state
+              <select id="filter-review">
+                <option value="">All records</option>
+                <option value="open">Open review</option>
+                <option value="reviewed">Reviewed locally</option>
+              </select>
+            </label>
+            <label>
+              Sort
+              <select id="sort-records">
+                <option value="chapter-date">Chapter chronology</option>
+                <option value="date">Single chronology</option>
+                <option value="confidence">Strongest topic hits</option>
+                <option value="type">Document type</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="workbench-actions">
+            <p id="filtered-count">Showing 0 of 0 records.</p>
+            <div>
+              <button id="reset-filters" type="button">Reset</button>
+              <button id="export-csv" type="button">Export visible CSV</button>
+            </div>
+          </div>
+
+          <div class="compiler-guidance" aria-label="FRUS compiler checks">
+            <div>
+              <h3>Selection Standard</h3>
+              <p>
+                Favor conversations that document major policy decisions, high-level diplomatic
+                exchanges, and anchoring events in counternarcotics or counterterrorism.
+              </p>
+            </div>
+            <div>
+              <h3>Source Note Prep</h3>
+              <p>
+                Use the FRUS-style draft as a starting point. Verify participants, classification,
+                drafting/distribution data, date/time, and excisions directly in the PDF; keep
+                Catalog URLs in the research trail.
+              </p>
+            </div>
+            <div>
+              <h3>Editorial Caution</h3>
+              <p>
+                Match flags are discovery evidence. Final inclusion still needs document-level
+                reading against the chapter chronology and related editorial notes.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div id="records-root" class="records-root" aria-live="polite"></div>
       </section>
 
       <section class="stats" aria-label="Archive summary">
@@ -106,111 +215,6 @@
         <div>
           <span id="total-compiler-gaps">0</span>
           <p>compiler gaps</p>
-        </div>
-      </section>
-
-      <section class="section workbench" id="workbench" aria-labelledby="workbench-title">
-        <div class="section-heading">
-          <div>
-            <p class="kicker">Compiler Workbench</p>
-            <h2 id="workbench-title">Triage the Chronology</h2>
-          </div>
-          <p class="section-note">
-            Built around FRUS production needs: chronological control, source transparency,
-            declassification status, and PDF-first verification.
-          </p>
-        </div>
-
-        <div class="control-grid" role="search" aria-label="Filter records">
-          <label>
-            Search records
-            <input id="filter-search" type="search" placeholder="Try Lockerbie, drug summit, hostages, Colombia, NAID..." />
-          </label>
-          <label>
-            Chapter
-            <select id="filter-chapter">
-              <option value="">All chapters</option>
-              <option value="Counternarcotics">Counternarcotics</option>
-              <option value="Counterterrorism">Counterterrorism</option>
-            </select>
-          </label>
-          <label>
-            Type
-            <select id="filter-type">
-              <option value="">All types</option>
-            </select>
-          </label>
-          <label>
-            Year
-            <select id="filter-year">
-              <option value="">All years</option>
-            </select>
-          </label>
-          <label>
-            Source series
-            <select id="filter-source">
-              <option value="">All source series</option>
-            </select>
-          </label>
-          <label>
-            Match strength
-            <select id="filter-confidence">
-              <option value="">All matches</option>
-              <option value="strong">Strong topic hit</option>
-              <option value="solid">Solid topic hit</option>
-              <option value="review">Needs review</option>
-            </select>
-          </label>
-          <label>
-            Review state
-            <select id="filter-review">
-              <option value="">All records</option>
-              <option value="open">Open review</option>
-              <option value="reviewed">Reviewed locally</option>
-            </select>
-          </label>
-          <label>
-            Sort
-            <select id="sort-records">
-              <option value="chapter-date">Chapter chronology</option>
-              <option value="date">Single chronology</option>
-              <option value="confidence">Strongest topic hits</option>
-              <option value="type">Document type</option>
-            </select>
-          </label>
-        </div>
-
-        <div class="workbench-actions">
-          <p id="filtered-count">Showing 0 of 0 records.</p>
-          <div>
-            <button id="reset-filters" type="button">Reset</button>
-            <button id="export-csv" type="button">Export visible CSV</button>
-          </div>
-        </div>
-
-        <div class="compiler-guidance" aria-label="FRUS compiler checks">
-          <div>
-            <h3>Selection Standard</h3>
-            <p>
-              Favor conversations that document major policy decisions, high-level diplomatic
-              exchanges, and anchoring events in counternarcotics or counterterrorism.
-            </p>
-          </div>
-          <div>
-            <h3>Source Note Prep</h3>
-            <p>
-              Use the FRUS-style draft as a starting point. Verify participants, classification,
-              drafting/distribution data, date/time, and excisions directly in the PDF; keep
-              Catalog URLs in the research trail.
-            </p>
-          </div>
-          <div>
-            <h3>Editorial Caution</h3>
-            <p>
-              Match flags are discovery evidence. Final inclusion still needs document-level
-              reading against the chapter chronology and related editorial notes.
-            </p>
-          </div>
         </div>
       </section>
 
@@ -302,14 +306,6 @@
           </p>
         </div>
         <div id="event-dossiers-root" class="dossier-grid" aria-live="polite"></div>
-      </section>
-
-      <section class="section" id="records" aria-labelledby="records-title">
-        <div class="section-heading">
-          <p class="kicker">Chronological Records</p>
-          <h2 id="records-title">Declassified Memcons and Telcons</h2>
-        </div>
-        <div id="records-root" class="records-root" aria-live="polite"></div>
       </section>
 
       <section class="section" id="gaps" aria-labelledby="gaps-title">
