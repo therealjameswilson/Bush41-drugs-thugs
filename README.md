@@ -45,6 +45,9 @@ The workbench supports:
 - Markdown compiler-packet export for the currently visible chronology, with
   source-note drafts, PDF links, Catalog trails, Daily Diary controls, and
   verification reminders
+- Markdown selected-outline export that turns local Include decisions into a
+  working FRUS document sequence, with Maybe reserves and high-priority gap
+  reminders by chapter
 - event dossiers for major chronology anchors such as Cartagena, San Antonio,
   Pan Am 103, hostages, and the National Drug Control Strategy
 - a compiler-risk queue for NSC/DC, Chief of Staff, WHORM, and policy files

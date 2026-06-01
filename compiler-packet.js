@@ -73,6 +73,121 @@
       .join("\n");
   }
 
+  function outlineSort(records) {
+    return [...records].sort((a, b) => (
+      a.chapter.number - b.chapter.number ||
+      a.sortDate.localeCompare(b.sortDate) ||
+      (a.documentTitle || a.title).localeCompare(b.documentTitle || b.title)
+    ));
+  }
+
+  function selectionKey(record) {
+    return packetSelectionLabel(record).toLowerCase();
+  }
+
+  function outlineRecordBlock(record, documentNumber) {
+    return [
+      `### Document ${documentNumber}. ${record.date} - ${record.documentTitle || record.title}`,
+      "",
+      `- Type: ${record.documentType}`,
+      `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+      `- Source note draft: ${frusSourceNote(record)}`,
+      `- Compiler note: ${packetCompilerNote(record) || "none"}`,
+      `- PDF verification: ${pdfVerificationSummary(record)}`,
+      `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
+      `- PDF: ${record.pdfUrl || "not available"}`,
+      `- Catalog: ${record.catalogUrl || "not listed"}`,
+      ""
+    ].join("\n");
+  }
+
+  function outlineReserveLine(record) {
+    return [
+      `- ${record.date} - ${record.documentTitle || record.title}`,
+      `  - ${record.documentType}; ${record.pageCount || "?"} pages; ${packetSelectionLabel(record)}`,
+      `  - Note: ${packetCompilerNote(record) || "none"}`,
+      `  - PDF: ${record.pdfUrl || "not available"}`
+    ].join("\n");
+  }
+
+  function outlineGapLine(record) {
+    return [
+      `- ${record.date || "No date"} - ${record.title}`,
+      `  - ${record.category || "Gap"}; priority ${record.priority || "Review"}; pages ${record.pageCount || "unknown"}`,
+      `  - Why: ${record.why || "Compiler review needed."}`,
+      `  - Catalog: ${record.catalogUrl || "not listed"}`
+    ].join("\n");
+  }
+
+  function selectedOutline(records, gaps = []) {
+    const allSelectedRecords = outlineSort(records);
+    const includeRecords = allSelectedRecords.filter((record) => selectionKey(record) === "include");
+    const maybeRecords = allSelectedRecords.filter((record) => selectionKey(record) === "maybe");
+    const highGaps = gaps.filter((record) => record.priority === "High");
+    const strongUnassigned = allSelectedRecords
+      .filter((record) => selectionKey(record) === "unassigned" && confidence(record).value === "strong")
+      .sort(byConfidence)
+      .slice(0, 12);
+
+    const lines = [
+      "# FRUS Volume XXVIII Draft Selection Outline",
+      "",
+      `Generated: ${new Date().toISOString()}`,
+      `Included records: ${includeRecords.length}`,
+      `Included page total: ${packetPageTotal(includeRecords)}`,
+      `Maybe records: ${maybeRecords.length}`,
+      `High-priority gap reminders: ${highGaps.length}`,
+      "",
+      "Use: working document numbers below are generated from local Include selections in chapter chronology order. Verify final numbering, source notes, excisions, and chapter balance before drafting.",
+      ""
+    ];
+
+    let documentNumber = 1;
+    for (const chapterName of CHAPTER_ORDER) {
+      const chapterNumber = CHAPTER_ORDER.indexOf(chapterName) + 1;
+      const chapterIncludes = includeRecords.filter((record) => record.chapter.name === chapterName);
+      const chapterMaybes = maybeRecords.filter((record) => record.chapter.name === chapterName);
+      const chapterGaps = highGaps.filter((record) => record.chapter?.name === chapterName);
+
+      lines.push(`## Chapter ${chapterNumber}: ${chapterName}`, "");
+      lines.push(`Include: ${chapterIncludes.length} records, ${packetPageTotal(chapterIncludes)} pages. Maybe: ${chapterMaybes.length}. High-priority gaps: ${chapterGaps.length}.`, "");
+
+      if (chapterIncludes.length) {
+        lines.push("### Proposed Document Sequence", "");
+        for (const record of chapterIncludes) {
+          lines.push(outlineRecordBlock(record, documentNumber));
+          documentNumber += 1;
+        }
+      } else {
+        lines.push("No records are marked Include for this chapter.", "");
+      }
+
+      if (chapterMaybes.length) {
+        lines.push("### Reserve Maybe Records", "");
+        for (const record of chapterMaybes.slice(0, 12)) lines.push(outlineReserveLine(record), "");
+        if (chapterMaybes.length > 12) lines.push(`Additional maybe records not shown here: ${chapterMaybes.length - 12}.`, "");
+      }
+
+      if (chapterGaps.length) {
+        lines.push("### High-Priority Gap Reminders", "");
+        for (const record of chapterGaps.slice(0, 10)) lines.push(outlineGapLine(record), "");
+        if (chapterGaps.length > 10) lines.push(`Additional high-priority gaps in the Gaps workbench: ${chapterGaps.length - 10}.`, "");
+      }
+    }
+
+    if (strongUnassigned.length) {
+      lines.push("## Strong Unassigned Leads", "");
+      for (const record of strongUnassigned) lines.push(outlineReserveLine(record), "");
+    }
+
+    lines.push("## Editorial Checks Before Drafting", "");
+    lines.push("- Reconcile Include selections against high-priority gap reminders before treating this as a final document list.");
+    lines.push("- Confirm dates, participants, classification markings, drafting/distribution data, and excisions directly in each PDF.");
+    lines.push("- Use Public Papers references as public-positioning context, not substitutes for private conversation records.");
+    lines.push("- Preserve Catalog URLs and NAIDs in the research trail, but keep final source notes in FRUS style.");
+    return lines.join("\n");
+  }
+
   function pdfVerificationSummary(record) {
     return [
       record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
@@ -149,9 +264,18 @@
     );
   }
 
-  window.FRUS_PACKET_EXPORT = { compilerPacket, exportCompilerPacket };
+  function exportSelectedOutline() {
+    downloadTextFile(
+      "frus-v28-selected-outline.md",
+      selectedOutline(allRecords, typeof allCompilerGaps === "undefined" ? [] : allCompilerGaps),
+      "text/markdown;charset=utf-8"
+    );
+  }
+
+  window.FRUS_PACKET_EXPORT = { compilerPacket, exportCompilerPacket, selectedOutline, exportSelectedOutline };
 
   document.addEventListener("DOMContentLoaded", () => {
     document.querySelector("#export-packet")?.addEventListener("click", exportCompilerPacket);
+    document.querySelector("#export-outline")?.addEventListener("click", exportSelectedOutline);
   });
 })();
