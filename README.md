@@ -34,9 +34,12 @@ The workbench supports:
 - local per-record compiler notes, note filters, and portable triage JSON
   export/import for moving review state across browsers
 - live selection-coverage dashboard with chapter balance, selected page totals,
-  strong unassigned leads, and included records still missing compiler notes
+  strong unassigned leads, included records still missing compiler notes, and
+  records still needing first-page PDF metadata verification
 - measured PDF page counts and first-page extraction checks for subject,
   participants, date/time/place, and classification markings
+- PDF verification filters and a Markdown checklist export for records missing
+  source-note-critical first-page fields
 - copyable FRUS-style source-note drafts for PDF verification and editorial drafting
 - same-day Presidential Daily Diary and Daily Backup control references for
   meetings and calls

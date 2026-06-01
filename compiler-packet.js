@@ -21,6 +21,7 @@
       filters.review ? `review=${filters.review}` : "",
       filters.selection ? `selection=${filters.selection}` : "",
       filters.note ? `note=${filters.note}` : "",
+      filters.pdfCheck ? `pdf check=${filters.pdfCheck}` : "",
       sortSelect?.value ? `sort=${sortSelect.value}` : ""
     ].filter(Boolean).join("; ") || "all declassified memcons/telcons";
   }
@@ -49,6 +50,20 @@
 
   function packetPageTotal(records) {
     return records.reduce((total, record) => total + (Number(record.pageCount) || 0), 0);
+  }
+
+  function packetPdfVerificationIssues(record) {
+    if (typeof pdfVerificationLabels === "function") return pdfVerificationLabels(record);
+    return [
+      record.pdfExtract?.subject ? "" : "Missing subject",
+      record.pdfExtract?.participants ? "" : "Missing participants",
+      record.pdfExtract?.dateTimePlace ? "" : "Missing date/time/place",
+      record.pdfExtract?.classificationMarking ? "" : "Missing classification"
+    ].filter(Boolean);
+  }
+
+  function packetPdfVerificationQueue(records) {
+    return records.filter((record) => packetPdfVerificationIssues(record).length);
   }
 
   function packetStateCount(records, state) {
@@ -136,6 +151,7 @@
       `Included records: ${includeRecords.length}`,
       `Included page total: ${packetPageTotal(includeRecords)}`,
       `Maybe records: ${maybeRecords.length}`,
+      `Included records needing PDF verification: ${packetPdfVerificationQueue(includeRecords).length}`,
       `High-priority gap reminders: ${highGaps.length}`,
       "",
       "Use: working document numbers below are generated from local Include selections in chapter chronology order. Verify final numbering, source notes, excisions, and chapter balance before drafting.",
@@ -150,7 +166,7 @@
       const chapterGaps = highGaps.filter((record) => record.chapter?.name === chapterName);
 
       lines.push(`## Chapter ${chapterNumber}: ${chapterName}`, "");
-      lines.push(`Include: ${chapterIncludes.length} records, ${packetPageTotal(chapterIncludes)} pages. Maybe: ${chapterMaybes.length}. High-priority gaps: ${chapterGaps.length}.`, "");
+      lines.push(`Include: ${chapterIncludes.length} records, ${packetPageTotal(chapterIncludes)} pages. Maybe: ${chapterMaybes.length}. Include PDF checks: ${packetPdfVerificationQueue(chapterIncludes).length}. High-priority gaps: ${chapterGaps.length}.`, "");
 
       if (chapterIncludes.length) {
         lines.push("### Proposed Document Sequence", "");
@@ -189,13 +205,16 @@
   }
 
   function pdfVerificationSummary(record) {
-    return [
+    const issues = packetPdfVerificationIssues(record);
+    const details = [
       record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
       record.pdfExtract?.dateTimePlace ? `date/time/place: ${record.pdfExtract.dateTimePlace}` : "",
       record.pdfExtract?.participants ? `participants: ${record.pdfExtract.participants}` : "",
       record.pdfExtract?.subject ? `subject: ${record.pdfExtract.subject}` : "",
       record.sourceConfidence?.basis ? `source confidence: ${record.sourceConfidence.basis}` : ""
-    ].filter(Boolean).join("; ") || "PDF verification metadata pending.";
+    ].filter(Boolean);
+    if (issues.length) return `Needs PDF verification: ${issues.join("; ")}${details.length ? `. Parsed: ${details.join("; ")}` : ""}`;
+    return `Complete first-page metadata: ${details.join("; ") || "all required fields parsed"}`;
   }
 
   function packetRecordBlock(record, index) {
@@ -231,6 +250,7 @@
       `Visible records: ${records.length}`,
       `Selection summary: ${packetSelectionSummary(records)}`,
       `Compiler notes: ${records.filter((record) => packetCompilerNote(record)).length}`,
+      `PDF verification queue: ${packetPdfVerificationQueue(records).length}`,
       `Filters: ${selectedChronologyFilters()}`,
       "",
       "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts.",
@@ -256,6 +276,51 @@
     return lines.join("\n");
   }
 
+  function pdfVerificationChecklist(records) {
+    const queue = packetPdfVerificationQueue(records);
+    const lines = [
+      "# FRUS Volume XXVIII PDF Verification Checklist",
+      "",
+      `Generated: ${new Date().toISOString()}`,
+      `Visible records: ${records.length}`,
+      `Records needing first-page PDF verification: ${queue.length}`,
+      `Filters: ${selectedChronologyFilters()}`,
+      "",
+      "Use: verify the listed source-note fields directly in the online PDF before relying on the draft FRUS source note.",
+      ""
+    ];
+
+    for (const chapterName of CHAPTER_ORDER) {
+      const chapterRecords = queue.filter((record) => record.chapter.name === chapterName);
+      if (!chapterRecords.length) continue;
+      lines.push(`## Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`, "");
+      for (const record of chapterRecords) {
+        lines.push(
+          `### ${record.date} - ${record.documentTitle || record.title}`,
+          "",
+          `- Missing: ${packetPdfVerificationIssues(record).join("; ")}`,
+          `- Selection: ${packetSelectionLabel(record)}`,
+          `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+          `- Source note draft: ${frusSourceNote(record)}`,
+          `- Parsed PDF metadata: ${pdfVerificationSummary(record)}`,
+          `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
+          `- PDF: ${record.pdfUrl || "not available"}`,
+          `- Catalog: ${record.catalogUrl || "not listed"}`,
+          ""
+        );
+      }
+    }
+
+    if (!queue.length) {
+      lines.push("No visible records are missing subject, participants, date/time/place, or classification metadata.", "");
+    }
+
+    lines.push("## Final Source-Note Pass", "");
+    lines.push("- Confirm exact dateline, participants, classification markings, drafting/distribution data, excisions, and any attached tabs or distribution markings directly in each PDF.");
+    lines.push("- Reconcile the source note draft against the published FRUS style before moving the record into the final manuscript.");
+    return lines.join("\n");
+  }
+
   function exportCompilerPacket() {
     downloadTextFile(
       "frus-v28-visible-compiler-packet.md",
@@ -272,10 +337,26 @@
     );
   }
 
-  window.FRUS_PACKET_EXPORT = { compilerPacket, exportCompilerPacket, selectedOutline, exportSelectedOutline };
+  function exportPdfVerificationChecklist() {
+    downloadTextFile(
+      "frus-v28-visible-pdf-verification-checklist.md",
+      pdfVerificationChecklist(visibleRecords),
+      "text/markdown;charset=utf-8"
+    );
+  }
+
+  window.FRUS_PACKET_EXPORT = {
+    compilerPacket,
+    exportCompilerPacket,
+    selectedOutline,
+    exportSelectedOutline,
+    pdfVerificationChecklist,
+    exportPdfVerificationChecklist
+  };
 
   document.addEventListener("DOMContentLoaded", () => {
     document.querySelector("#export-packet")?.addEventListener("click", exportCompilerPacket);
     document.querySelector("#export-outline")?.addEventListener("click", exportSelectedOutline);
+    document.querySelector("#export-pdf-checklist")?.addEventListener("click", exportPdfVerificationChecklist);
   });
 })();

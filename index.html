@@ -150,6 +150,18 @@
               </select>
             </label>
             <label>
+              PDF check
+              <select id="filter-pdf-check">
+                <option value="">All PDF checks</option>
+                <option value="complete">Complete first-page metadata</option>
+                <option value="has-issues">Needs PDF verification</option>
+                <option value="missing-subject">Missing subject</option>
+                <option value="missing-participants">Missing participants</option>
+                <option value="missing-date-time-place">Missing date/time/place</option>
+                <option value="missing-classification">Missing classification</option>
+              </select>
+            </label>
+            <label>
               Sort
               <select id="sort-records">
                 <option value="chapter-date">Chapter chronology</option>
@@ -167,6 +179,7 @@
               <button id="export-csv" type="button">Export visible CSV</button>
               <button id="export-packet" type="button">Export compiler packet</button>
               <button id="export-outline" type="button">Export selected outline</button>
+              <button id="export-pdf-checklist" type="button">Export PDF checklist</button>
               <button id="export-state" type="button">Export triage JSON</button>
               <button id="import-state" type="button">Import triage JSON</button>
               <input id="import-state-file" type="file" accept="application/json,.json" hidden />

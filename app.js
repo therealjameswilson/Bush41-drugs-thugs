@@ -8,6 +8,28 @@ const SELECTION_STATES = {
   maybe: "Maybe",
   exclude: "Exclude"
 };
+const PDF_VERIFICATION_FIELDS = [
+  {
+    key: "missing-subject",
+    label: "Missing subject",
+    present: (record) => record.pdfExtract?.subject
+  },
+  {
+    key: "missing-participants",
+    label: "Missing participants",
+    present: (record) => record.pdfExtract?.participants
+  },
+  {
+    key: "missing-date-time-place",
+    label: "Missing date/time/place",
+    present: (record) => record.pdfExtract?.dateTimePlace
+  },
+  {
+    key: "missing-classification",
+    label: "Missing classification",
+    present: (record) => record.pdfExtract?.classificationMarking
+  }
+];
 
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
@@ -31,6 +53,7 @@ const confidenceFilter = document.querySelector("#filter-confidence");
 const reviewFilter = document.querySelector("#filter-review");
 const selectionFilter = document.querySelector("#filter-selection");
 const noteFilter = document.querySelector("#filter-note");
+const pdfCheckFilter = document.querySelector("#filter-pdf-check");
 const sortSelect = document.querySelector("#sort-records");
 const resetButton = document.querySelector("#reset-filters");
 const exportButton = document.querySelector("#export-csv");
@@ -115,6 +138,40 @@ function shortDate(dateString) {
     year: "numeric",
     timeZone: "UTC"
   }).format(date);
+}
+
+function pdfVerificationIssues(record) {
+  return PDF_VERIFICATION_FIELDS.filter((field) => !field.present(record));
+}
+
+function pdfVerificationLabels(record) {
+  return pdfVerificationIssues(record).map((field) => field.label);
+}
+
+function pdfVerificationDetails(record) {
+  return [
+    record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
+    record.pdfExtract?.dateTimePlace ? `date/time/place: ${record.pdfExtract.dateTimePlace}` : "",
+    record.pdfExtract?.participants ? `participants: ${record.pdfExtract.participants}` : "",
+    record.pdfExtract?.subject ? `subject: ${record.pdfExtract.subject}` : ""
+  ].filter(Boolean);
+}
+
+function pdfVerificationSummary(record) {
+  const labels = pdfVerificationLabels(record);
+  const details = pdfVerificationDetails(record);
+  if (labels.length) {
+    return `Needs PDF verification: ${labels.join("; ")}${details.length ? `. Parsed: ${details.join("; ")}` : ""}`;
+  }
+  return `Complete first-page metadata: ${details.join("; ") || "all required fields parsed"}`;
+}
+
+function recordMatchesPdfCheck(record, check) {
+  if (!check) return true;
+  const issues = pdfVerificationIssues(record);
+  if (check === "complete") return issues.length === 0;
+  if (check === "has-issues") return issues.length > 0;
+  return issues.some((issue) => issue.key === check);
 }
 
 function readReviewedRecords() {
@@ -234,6 +291,8 @@ function searchableText(record) {
     record.pdfExtract?.participants,
     record.pdfExtract?.dateTimePlace,
     record.pdfExtract?.classificationMarking,
+    pdfVerificationLabels(record).join(" "),
+    pdfVerificationSummary(record),
     record.sourceConfidence?.level,
     record.sourceConfidence?.basis
   ]
@@ -408,7 +467,8 @@ function selectedFilters() {
     confidence: confidenceFilter?.value || "",
     review: reviewFilter?.value || "",
     selection: selectionFilter?.value || "",
-    note: noteFilter?.value || ""
+    note: noteFilter?.value || "",
+    pdfCheck: pdfCheckFilter?.value || ""
   };
 }
 
@@ -425,6 +485,7 @@ function recordMatchesFilters(record, filters) {
   if (filters.selection && filters.selection !== "unassigned" && selectionState(record) !== filters.selection) return false;
   if (filters.note === "with-note" && !compilerNote(record)) return false;
   if (filters.note === "without-note" && compilerNote(record)) return false;
+  if (filters.pdfCheck && !recordMatchesPdfCheck(record, filters.pdfCheck)) return false;
   return true;
 }
 
@@ -665,7 +726,8 @@ function setFilteredCount(records, all) {
   const maybeCount = records.filter((record) => selectionState(record) === "maybe").length;
   const excludeCount = records.filter((record) => selectionState(record) === "exclude").length;
   const noteCount = records.filter((record) => compilerNote(record)).length;
-  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes.`;
+  const pdfQueueCount = records.filter((record) => pdfVerificationIssues(record).length).length;
+  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${pdfQueueCount} PDF checks.`;
 }
 
 function recordsForSelection(records, state) {
@@ -697,7 +759,7 @@ function createCoverageTable(records) {
   table.className = "triage-table";
 
   const header = document.createElement("tr");
-  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "Include pages"]) {
+  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "PDF issues", "Include pages"]) {
     const cell = document.createElement("th");
     cell.scope = "col";
     cell.textContent = label;
@@ -723,6 +785,7 @@ function createCoverageTable(records) {
       recordsForSelection(chapterRecords, "exclude").length,
       recordsForSelection(chapterRecords, "unassigned").length,
       chapterRecords.filter((record) => compilerNote(record)).length,
+      chapterRecords.filter((record) => pdfVerificationIssues(record).length).length,
       pageTotal(includeRecords)
     ]) {
       const cell = document.createElement("td");
@@ -758,7 +821,11 @@ function createTriageLeadList(title, records, emptyText) {
     link.dataset.recordId = record.id;
     link.textContent = record.documentTitle || record.title;
     const meta = document.createElement("span");
-    meta.textContent = `${shortDate(record.date)} | ${record.chapter.name} | ${record.documentType} | ${record.pageCount || "?"} pages`;
+    const pdfIssues = pdfVerificationLabels(record);
+    meta.textContent = [
+      `${shortDate(record.date)} | ${record.chapter.name} | ${record.documentType} | ${record.pageCount || "?"} pages`,
+      pdfIssues.length ? pdfIssues.join(", ") : ""
+    ].filter(Boolean).join(" | ");
     item.append(link, meta);
     list.append(item);
   }
@@ -776,6 +843,8 @@ function renderTriageSummary(records) {
   const excludeRecords = recordsForSelection(records, "exclude");
   const unassignedRecords = recordsForSelection(records, "unassigned");
   const includeWithoutNotes = includeRecords.filter((record) => !compilerNote(record));
+  const pdfVerificationQueue = records.filter((record) => pdfVerificationIssues(record).length);
+  const selectedPdfVerificationQueue = records.filter((record) => ["include", "maybe"].includes(selectionState(record)) && pdfVerificationIssues(record).length);
   const strongUnassigned = unassignedRecords
     .filter((record) => confidence(record).value === "strong")
     .sort(byConfidence);
@@ -795,6 +864,7 @@ function renderTriageSummary(records) {
   appendMetric(metrics, "exclude", excludeRecords.length.toString(), `${pageTotal(excludeRecords)} pages`);
   appendMetric(metrics, "unassigned", unassignedRecords.length.toString(), `${strongUnassigned.length} strong hits`);
   appendMetric(metrics, "include without note", includeWithoutNotes.length.toString(), "needs rationale");
+  appendMetric(metrics, "PDF checks", pdfVerificationQueue.length.toString(), `${selectedPdfVerificationQueue.length} selected`);
 
   const leads = document.createElement("div");
   leads.className = "triage-lead-grid";
@@ -808,6 +878,11 @@ function renderTriageSummary(records) {
       "Included Records Missing Notes",
       includeWithoutNotes,
       "Every included record has a compiler note."
+    ),
+    createTriageLeadList(
+      "PDF Verification Queue",
+      pdfVerificationQueue,
+      "Every record has complete first-page metadata parsed."
     )
   );
 
@@ -874,15 +949,10 @@ function createTopicTerms(record) {
 
 function createPdfExtractLine(record) {
   if (!record.pdfExtract && !record.sourceConfidence) return null;
-  const details = [
-    record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
-    record.pdfExtract?.dateTimePlace ? `date/time/place: ${record.pdfExtract.dateTimePlace}` : "",
-    record.pdfExtract?.participants ? "participants parsed" : "participants not isolated",
-    record.pdfExtract?.subject ? `subject: ${record.pdfExtract.subject}` : ""
-  ].filter(Boolean);
+  const issues = pdfVerificationIssues(record);
   const line = document.createElement("p");
-  line.className = "record-pdf-check";
-  line.textContent = `PDF first-page check: ${details.join("; ") || record.sourceConfidence?.basis || "metadata pending"}`;
+  line.className = `record-pdf-check ${issues.length ? "needs-verification" : "is-complete"}`;
+  line.textContent = `PDF first-page check: ${pdfVerificationSummary(record)}`;
   return line;
 }
 
@@ -1620,7 +1690,7 @@ function renderPublicReviewMentions(mentions) {
 }
 
 function resetFilters() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter]) {
     if (control) control.value = "";
   }
   if (sortSelect) sortSelect.value = "chapter-date";
@@ -1706,6 +1776,7 @@ function exportVisibleRecords() {
     "naid",
     "page_count",
     "source_confidence",
+    "pdf_verification_issues",
     "pdf_subject",
     "pdf_participants",
     "pdf_date_time_place",
@@ -1733,6 +1804,7 @@ function exportVisibleRecords() {
       record.naid,
       record.pageCount || "",
       record.sourceConfidence?.level || "",
+      pdfVerificationLabels(record).join("; "),
       record.pdfExtract?.subject || "",
       record.pdfExtract?.participants || "",
       record.pdfExtract?.dateTimePlace || "",
@@ -1980,6 +2052,7 @@ function compilerStub(record) {
     `Catalog trail: ${catalogTrail(record)}`,
     `Daily Diary/Backup control: ${scheduleReferenceSummary(record) || "none matched"}`,
     `Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
+    `PDF verification queue: ${pdfVerificationLabels(record).join("; ") || "complete first-page metadata"}`,
     `PDF subject: ${record.pdfExtract?.subject || "not isolated"}`,
     `PDF participants: ${record.pdfExtract?.participants || "not isolated"}`,
     `PDF date/time/place: ${record.pdfExtract?.dateTimePlace || "not isolated"}`,
@@ -2198,7 +2271,7 @@ function enableChapterCards() {
 }
 
 function bindWorkbench() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, sortSelect]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, sortSelect]) {
     control?.addEventListener("input", applyFilters);
     control?.addEventListener("change", applyFilters);
   }
