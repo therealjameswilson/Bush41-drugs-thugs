@@ -31,6 +31,8 @@ The workbench supports:
 - local "reviewed" marking in browser storage
 - local Include / Maybe / Exclude selection triage, with selection filters and
   export fields for compiler working decisions
+- local per-record compiler notes, note filters, and portable triage JSON
+  export/import for moving review state across browsers
 - measured PDF page counts and first-page extraction checks for subject,
   participants, date/time/place, and classification markings
 - copyable FRUS-style source-note drafts for PDF verification and editorial drafting

@@ -142,6 +142,14 @@
               </select>
             </label>
             <label>
+              Compiler note
+              <select id="filter-note">
+                <option value="">All notes</option>
+                <option value="with-note">Has note</option>
+                <option value="without-note">No note</option>
+              </select>
+            </label>
+            <label>
               Sort
               <select id="sort-records">
                 <option value="chapter-date">Chapter chronology</option>
@@ -158,6 +166,9 @@
               <button id="reset-filters" type="button">Reset</button>
               <button id="export-csv" type="button">Export visible CSV</button>
               <button id="export-packet" type="button">Export compiler packet</button>
+              <button id="export-state" type="button">Export triage JSON</button>
+              <button id="import-state" type="button">Import triage JSON</button>
+              <input id="import-state-file" type="file" accept="application/json,.json" hidden />
             </div>
           </div>
 
@@ -209,7 +220,11 @@
         </div>
         <div>
           <span id="total-selected">0</span>
-          <p>selected locally</p>
+          <p>triaged locally</p>
+        </div>
+        <div>
+          <span id="total-noted">0</span>
+          <p>compiler notes</p>
         </div>
         <div>
           <span id="total-public-statements">0</span>

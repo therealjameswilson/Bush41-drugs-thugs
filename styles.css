@@ -768,6 +768,7 @@ h2 {
 .record-source-note,
 .record-catalog-trail,
 .record-pdf-check,
+.record-note,
 .record-schedule,
 .record-signals {
   margin: 0;
@@ -803,6 +804,15 @@ h2 {
   margin-bottom: 8px;
   color: #31424a;
   font-weight: 750;
+}
+
+.record-note {
+  margin-bottom: 8px;
+  padding: 8px 10px;
+  color: #2d3f46;
+  font-weight: 800;
+  background: rgba(173, 132, 55, 0.12);
+  border-left: 4px solid var(--gold);
 }
 
 .record-actions {

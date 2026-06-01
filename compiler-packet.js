@@ -20,6 +20,7 @@
       filters.confidence ? `match=${filters.confidence}` : "",
       filters.review ? `review=${filters.review}` : "",
       filters.selection ? `selection=${filters.selection}` : "",
+      filters.note ? `note=${filters.note}` : "",
       sortSelect?.value ? `sort=${sortSelect.value}` : ""
     ].filter(Boolean).join("; ") || "all declassified memcons/telcons";
   }
@@ -42,6 +43,10 @@
     ].join("; ");
   }
 
+  function packetCompilerNote(record) {
+    return typeof compilerNote === "function" ? compilerNote(record) : "";
+  }
+
   function pdfVerificationSummary(record) {
     return [
       record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
@@ -61,6 +66,7 @@
       `- Chapter: ${record.chapter.name}`,
       `- Type: ${record.documentType}`,
       `- Selection: ${packetSelectionLabel(record)}`,
+      `- Compiler note: ${packetCompilerNote(record) || "none"}`,
       `- NAID: ${record.naid}`,
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `- Catalog: ${record.catalogUrl || "not listed"}`,
@@ -83,6 +89,7 @@
       `Generated: ${new Date().toISOString()}`,
       `Visible records: ${records.length}`,
       `Selection summary: ${packetSelectionSummary(records)}`,
+      `Compiler notes: ${records.filter((record) => packetCompilerNote(record)).length}`,
       `Filters: ${selectedChronologyFilters()}`,
       "",
       "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts.",
