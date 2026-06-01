@@ -29,6 +29,8 @@ The workbench supports:
   local review state
 - chapter chronology, single chronology, match-strength, and document-type sorts
 - shareable chronology view links that preserve active filter and sort settings
+- one-click compiler quick queues for source-note checks, strong unassigned
+  leads, and major anchoring events
 - local "reviewed" marking in browser storage
 - local Include / Maybe / Exclude selection triage, with selection filters and
   export fields for compiler working decisions

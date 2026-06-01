@@ -393,6 +393,77 @@ button:focus-visible {
   gap: 8px;
 }
 
+.quick-queues {
+  display: grid;
+  gap: 12px;
+  margin: 18px 0;
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.66);
+  border: 1px solid rgba(207, 216, 210, 0.9);
+  border-radius: 8px;
+}
+
+.quick-queues-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.quick-queues-heading h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.quick-queues-heading p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 750;
+  line-height: 1.45;
+}
+
+.quick-queue-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 8px;
+}
+
+.quick-queue-button {
+  justify-content: flex-start;
+  min-height: 92px;
+  padding: 10px;
+  text-align: left;
+  white-space: normal;
+}
+
+.quick-queue-button strong,
+.quick-queue-button span,
+.quick-queue-button small {
+  display: block;
+}
+
+.quick-queue-button strong {
+  color: var(--red);
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.quick-queue-button span {
+  margin-top: 6px;
+  font-size: 0.78rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.quick-queue-button small {
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 750;
+  line-height: 1.35;
+}
+
 .triage-summary {
   display: grid;
   gap: 14px;
@@ -1064,11 +1135,13 @@ footer {
   .source-grid,
   .compiler-guidance,
   .triage-lead-grid,
+  .quick-queue-list,
   .control-grid {
     grid-template-columns: 1fr;
   }
 
-  .triage-heading {
+  .triage-heading,
+  .quick-queues-heading {
     align-items: flex-start;
     flex-direction: column;
   }

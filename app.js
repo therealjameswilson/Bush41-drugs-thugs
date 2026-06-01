@@ -43,6 +43,7 @@ const totalEventDossiers = document.querySelector("#total-event-dossiers");
 const totalCompilerGaps = document.querySelector("#total-compiler-gaps");
 const totalScheduleReferences = document.querySelector("#total-schedule-references");
 const filteredCount = document.querySelector("#filtered-count");
+const quickQueueRoot = document.querySelector("#quick-queues");
 const triageSummaryRoot = document.querySelector("#triage-summary");
 const searchInput = document.querySelector("#filter-search");
 const chapterFilter = document.querySelector("#filter-chapter");
@@ -109,6 +110,50 @@ const TOPIC_SIGNALS = [
   { label: "Lockerbie / Pan Am 103", pattern: /\b(lockerbie|pan am|pan-am|aviation security)\b/i, weight: 4 },
   { label: "Hostages", pattern: /\b(hostage|hostages|hostage-taking)\b/i, weight: 3 },
   { label: "Libya / Middle East terror", pattern: /\b(libya|qadhafi|gaddafi|abu nidal|pflugerville|extradition)\b/i, weight: 2 }
+];
+const QUICK_QUEUE_DEFINITIONS = [
+  {
+    id: "ct-classification",
+    label: "CT Classification Checks",
+    detail: "Counterterrorism records missing classification metadata",
+    filters: { chapter: "Counterterrorism", pdfCheck: "missing-classification", sort: "date" }
+  },
+  {
+    id: "cn-classification",
+    label: "CN Classification Checks",
+    detail: "Counternarcotics records missing classification metadata",
+    filters: { chapter: "Counternarcotics", pdfCheck: "missing-classification", sort: "date" }
+  },
+  {
+    id: "missing-participants",
+    label: "Missing Participants",
+    detail: "Records whose first-page participant block still needs PDF verification",
+    filters: { pdfCheck: "missing-participants", sort: "date" }
+  },
+  {
+    id: "strong-unassigned",
+    label: "Strong Unassigned",
+    detail: "High-signal documents not yet marked Include, Maybe, or Exclude",
+    filters: { confidence: "strong", selection: "unassigned", sort: "confidence" }
+  },
+  {
+    id: "included-without-notes",
+    label: "Included Missing Notes",
+    detail: "Local Include selections that still need a compiler rationale",
+    filters: { selection: "include", note: "without-note", sort: "date" }
+  },
+  {
+    id: "lockerbie",
+    label: "Lockerbie / Pan Am",
+    detail: "Counterterrorism anchor queue for Pan Am 103 and Lockerbie",
+    filters: { query: "Lockerbie", chapter: "Counterterrorism", confidence: "strong", sort: "date" }
+  },
+  {
+    id: "drug-summits",
+    label: "Drug Summits",
+    detail: "Cartagena, San Antonio, and other summit-related counternarcotics leads",
+    filters: { query: "drug summit", chapter: "Counternarcotics", sort: "date" }
+  }
 ];
 
 let allRecords = [];
@@ -489,6 +534,22 @@ function chronologyUrlControls() {
   ];
 }
 
+function chronologyControlByFilterKey() {
+  return {
+    query: searchInput,
+    chapter: chapterFilter,
+    type: typeFilter,
+    year: yearFilter,
+    source: sourceFilter,
+    confidence: confidenceFilter,
+    review: reviewFilter,
+    selection: selectionFilter,
+    note: noteFilter,
+    pdfCheck: pdfCheckFilter,
+    sort: sortSelect
+  };
+}
+
 function canUseControlValue(control, value) {
   if (!control || value == null) return false;
   if (control.tagName !== "SELECT") return true;
@@ -521,6 +582,38 @@ function updateChronologyUrl() {
   if (nextUrl.href !== window.location.href) {
     history.replaceState(null, "", nextUrl);
   }
+}
+
+function queueMatchFilters(filters) {
+  return {
+    query: filters.query?.toLowerCase() || "",
+    chapter: filters.chapter || "",
+    type: filters.type || "",
+    year: filters.year || "",
+    source: filters.source || "",
+    confidence: filters.confidence || "",
+    review: filters.review || "",
+    selection: filters.selection || "",
+    note: filters.note || "",
+    pdfCheck: filters.pdfCheck || ""
+  };
+}
+
+function resetChronologyControls() {
+  for (const { control, defaultValue } of chronologyUrlControls()) {
+    if (control) control.value = defaultValue;
+  }
+}
+
+function applyQueueFilters(filters) {
+  resetChronologyControls();
+  const controls = chronologyControlByFilterKey();
+  for (const [key, value] of Object.entries(filters)) {
+    const control = controls[key];
+    if (control && canUseControlValue(control, value)) control.value = value;
+  }
+  applyFilters();
+  document.querySelector("#chronology")?.scrollIntoView({ block: "start" });
 }
 
 function recordMatchesFilters(record, filters) {
@@ -735,6 +828,7 @@ function applyFilters(options = {}) {
   renderRecords(visibleRecords);
   setChapterCounts(allRecords);
   setFilteredCount(visibleRecords, allRecords);
+  renderQuickQueues();
   renderTriageSummary(allRecords);
   if (options?.updateUrl !== false) updateChronologyUrl();
 }
@@ -780,6 +874,46 @@ function setFilteredCount(records, all) {
   const noteCount = records.filter((record) => compilerNote(record)).length;
   const pdfQueueCount = records.filter((record) => pdfVerificationIssues(record).length).length;
   filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${pdfQueueCount} PDF checks.`;
+}
+
+function quickQueueCount(queue) {
+  const filters = queueMatchFilters(queue.filters);
+  return allRecords.filter((record) => recordMatchesFilters(record, filters)).length;
+}
+
+function createQuickQueueButton(queue) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "quick-queue-button";
+  button.dataset.quickQueueId = queue.id;
+
+  const count = document.createElement("strong");
+  count.textContent = quickQueueCount(queue).toString();
+  const label = document.createElement("span");
+  label.textContent = queue.label;
+  const detail = document.createElement("small");
+  detail.textContent = queue.detail;
+  button.append(count, label, detail);
+  return button;
+}
+
+function renderQuickQueues() {
+  if (!quickQueueRoot) return;
+  quickQueueRoot.replaceChildren();
+
+  const heading = document.createElement("div");
+  heading.className = "quick-queues-heading";
+  const title = document.createElement("h3");
+  title.textContent = "Compiler Quick Queues";
+  const summary = document.createElement("p");
+  summary.textContent = "One-click review sets for source-note checks, anchor events, and local triage.";
+  heading.append(title, summary);
+
+  const list = document.createElement("div");
+  list.className = "quick-queue-list";
+  for (const queue of QUICK_QUEUE_DEFINITIONS) list.append(createQuickQueueButton(queue));
+
+  quickQueueRoot.append(heading, list);
 }
 
 function recordsForSelection(records, state) {
@@ -2199,6 +2333,14 @@ function copyCurrentViewLink(button) {
     .catch(() => flashButton(button, "Copy failed"));
 }
 
+function handleQuickQueueAction(event) {
+  const button = event.target.closest("button[data-quick-queue-id]");
+  if (!button) return;
+  const queue = QUICK_QUEUE_DEFINITIONS.find((item) => item.id === button.dataset.quickQueueId);
+  if (!queue) return;
+  applyQueueFilters(queue.filters);
+}
+
 function handleTriageSummaryAction(event) {
   const link = event.target.closest("a[data-record-id]");
   if (!link) return;
@@ -2342,6 +2484,7 @@ function bindWorkbench() {
   importStateButton?.addEventListener("click", () => importStateFileInput?.click());
   importStateFileInput?.addEventListener("change", importCompilerStateFile);
   recordsRoot.addEventListener("click", handleRecordAction);
+  quickQueueRoot?.addEventListener("click", handleQuickQueueAction);
   triageSummaryRoot?.addEventListener("click", handleTriageSummaryAction);
   window.addEventListener("popstate", () => {
     applyChronologyFiltersFromUrl();
