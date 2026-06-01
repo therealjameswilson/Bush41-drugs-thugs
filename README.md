@@ -28,6 +28,7 @@ The workbench supports:
 - filters for chapter, document type, year, source series, match strength, and
   local review state
 - chapter chronology, single chronology, match-strength, and document-type sorts
+- shareable chronology view links that preserve active filter and sort settings
 - local "reviewed" marking in browser storage
 - local Include / Maybe / Exclude selection triage, with selection filters and
   export fields for compiler working decisions

@@ -56,6 +56,7 @@ const noteFilter = document.querySelector("#filter-note");
 const pdfCheckFilter = document.querySelector("#filter-pdf-check");
 const sortSelect = document.querySelector("#sort-records");
 const resetButton = document.querySelector("#reset-filters");
+const copyViewButton = document.querySelector("#copy-view-link");
 const exportButton = document.querySelector("#export-csv");
 const exportStateButton = document.querySelector("#export-state");
 const importStateButton = document.querySelector("#import-state");
@@ -472,6 +473,56 @@ function selectedFilters() {
   };
 }
 
+function chronologyUrlControls() {
+  return [
+    { param: "q", control: searchInput, defaultValue: "" },
+    { param: "chapter", control: chapterFilter, defaultValue: "" },
+    { param: "type", control: typeFilter, defaultValue: "" },
+    { param: "year", control: yearFilter, defaultValue: "" },
+    { param: "source", control: sourceFilter, defaultValue: "" },
+    { param: "match", control: confidenceFilter, defaultValue: "" },
+    { param: "review", control: reviewFilter, defaultValue: "" },
+    { param: "selection", control: selectionFilter, defaultValue: "" },
+    { param: "note", control: noteFilter, defaultValue: "" },
+    { param: "pdf", control: pdfCheckFilter, defaultValue: "" },
+    { param: "sort", control: sortSelect, defaultValue: "chapter-date" }
+  ];
+}
+
+function canUseControlValue(control, value) {
+  if (!control || value == null) return false;
+  if (control.tagName !== "SELECT") return true;
+  return [...control.options].some((option) => option.value === value);
+}
+
+function applyChronologyFiltersFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  for (const { param, control } of chronologyUrlControls()) {
+    if (!control || !params.has(param)) continue;
+    const value = params.get(param) || "";
+    if (canUseControlValue(control, value)) control.value = value;
+  }
+}
+
+function chronologyViewUrl({ includeUnknownParams = true, forceChronologyHash = false } = {}) {
+  const url = new URL(window.location.href);
+  if (!includeUnknownParams) url.search = "";
+  for (const { param } of chronologyUrlControls()) url.searchParams.delete(param);
+  for (const { param, control, defaultValue } of chronologyUrlControls()) {
+    const value = control?.value?.trim?.() ?? control?.value ?? "";
+    if (value && value !== defaultValue) url.searchParams.set(param, value);
+  }
+  if (forceChronologyHash) url.hash = "chronology";
+  return url;
+}
+
+function updateChronologyUrl() {
+  const nextUrl = chronologyViewUrl();
+  if (nextUrl.href !== window.location.href) {
+    history.replaceState(null, "", nextUrl);
+  }
+}
+
 function recordMatchesFilters(record, filters) {
   if (filters.query && !searchableText(record).includes(filters.query)) return false;
   if (filters.chapter && record.chapter.name !== filters.chapter) return false;
@@ -678,13 +729,14 @@ function sortMentions(mentions) {
   return sorted.sort(byMentionChapterThenDate);
 }
 
-function applyFilters() {
+function applyFilters(options = {}) {
   const filters = selectedFilters();
   visibleRecords = sortRecords(allRecords.filter((record) => recordMatchesFilters(record, filters)));
   renderRecords(visibleRecords);
   setChapterCounts(allRecords);
   setFilteredCount(visibleRecords, allRecords);
   renderTriageSummary(allRecords);
+  if (options?.updateUrl !== false) updateChronologyUrl();
 }
 
 function applyReferenceFilters() {
@@ -2140,6 +2192,13 @@ function flashButton(button, label) {
   }, 1400);
 }
 
+function copyCurrentViewLink(button) {
+  const url = chronologyViewUrl({ includeUnknownParams: false, forceChronologyHash: true });
+  copyText(url.toString())
+    .then((copied) => flashButton(button, copied ? "Copied link" : "Copy failed"))
+    .catch(() => flashButton(button, "Copy failed"));
+}
+
 function handleTriageSummaryAction(event) {
   const link = event.target.closest("a[data-record-id]");
   if (!link) return;
@@ -2277,12 +2336,17 @@ function bindWorkbench() {
   }
 
   resetButton?.addEventListener("click", resetFilters);
+  copyViewButton?.addEventListener("click", () => copyCurrentViewLink(copyViewButton));
   exportButton?.addEventListener("click", exportVisibleRecords);
   exportStateButton?.addEventListener("click", exportCompilerState);
   importStateButton?.addEventListener("click", () => importStateFileInput?.click());
   importStateFileInput?.addEventListener("change", importCompilerStateFile);
   recordsRoot.addEventListener("click", handleRecordAction);
   triageSummaryRoot?.addEventListener("click", handleTriageSummaryAction);
+  window.addEventListener("popstate", () => {
+    applyChronologyFiltersFromUrl();
+    applyFilters({ updateUrl: false });
+  });
 }
 
 function bindReferenceWorkbench() {
@@ -2412,6 +2476,7 @@ async function init() {
     setEventDossierCount(allEventDossiers);
     setCompilerGapCount(allCompilerGaps);
     setScheduleReferenceCount(allScheduleReferences);
+    applyChronologyFiltersFromUrl();
     bindWorkbench();
     bindReferenceWorkbench();
     bindPersonWorkbench();
