@@ -21,7 +21,6 @@ const reviewFilter = document.querySelector("#filter-review");
 const sortSelect = document.querySelector("#sort-records");
 const resetButton = document.querySelector("#reset-filters");
 const exportButton = document.querySelector("#export-csv");
-const packetExportButton = document.querySelector("#export-packet");
 const publicStatementsRoot = document.querySelector("#public-statements-root");
 const referenceCount = document.querySelector("#reference-count");
 const referenceSearchInput = document.querySelector("#reference-search");
@@ -1404,16 +1403,6 @@ function csvEscape(value) {
   return `"${text.replaceAll('"', '""')}"`;
 }
 
-function downloadTextFile(filename, text, type) {
-  const blob = new Blob([text], { type });
-  const url = URL.createObjectURL(blob);
-  const link = document.createElement("a");
-  link.href = url;
-  link.download = filename;
-  link.click();
-  URL.revokeObjectURL(url);
-}
-
 function exportVisibleRecords() {
   const headers = [
     "chapter",
@@ -1465,88 +1454,13 @@ function exportVisibleRecords() {
   });
 
   const csv = [headers.join(","), ...rows].join("\n");
-  downloadTextFile("frus-v28-visible-memcons-telcons.csv", csv, "text/csv;charset=utf-8");
-}
-
-function filterSummary() {
-  const filters = selectedFilters();
-  return [
-    filters.query ? `search=${filters.query}` : "",
-    filters.chapter ? `chapter=${filters.chapter}` : "",
-    filters.type ? `type=${filters.type}` : "",
-    filters.year ? `year=${filters.year}` : "",
-    filters.source ? `source=${filters.source}` : "",
-    filters.confidence ? `match=${filters.confidence}` : "",
-    filters.review ? `review=${filters.review}` : "",
-    sortSelect?.value ? `sort=${sortSelect.value}` : ""
-  ].filter(Boolean).join("; ") || "all declassified memcons/telcons";
-}
-
-function pdfVerificationSummary(record) {
-  return [
-    record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
-    record.pdfExtract?.dateTimePlace ? `date/time/place: ${record.pdfExtract.dateTimePlace}` : "",
-    record.pdfExtract?.participants ? `participants: ${record.pdfExtract.participants}` : "",
-    record.pdfExtract?.subject ? `subject: ${record.pdfExtract.subject}` : "",
-    record.sourceConfidence?.basis ? `source confidence: ${record.sourceConfidence.basis}` : ""
-  ].filter(Boolean).join("; ") || "PDF verification metadata pending.";
-}
-
-function packetRecordBlock(record, index) {
-  const terms = [...new Set(getTerms(record))].join(", ") || "none";
-  const flags = signalMatches(record).map((signal) => signal.label).join("; ") || "none detected";
-  return [
-    `### ${index}. ${record.date} - ${record.documentTitle || record.title}`,
-    "",
-    `- Chapter: ${record.chapter.name}`,
-    `- Type: ${record.documentType}`,
-    `- NAID: ${record.naid}`,
-    `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
-    `- Catalog: ${record.catalogUrl || "not listed"}`,
-    `- PDF: ${record.pdfUrl || "not available"}`,
-    `- FRUS-style source note draft: ${frusSourceNote(record)}`,
-    `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
-    `- Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
-    `- PDF verification: ${pdfVerificationSummary(record)}`,
-    `- Matched evidence: ${terms}`,
-    `- Compiler flags: ${flags}`,
-    `- Catalog trail: ${catalogTrail(record) || "none"}`,
-    ""
-  ].join("\n");
-}
-
-function compilerPacket(records) {
-  const generated = new Date().toISOString();
-  const lines = [
-    "# FRUS Volume XXVIII Declassified Chronology Packet",
-    "",
-    `Generated: ${generated}`,
-    `Visible records: ${records.length}`,
-    `Filters: ${filterSummary()}`,
-    "",
-    "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts.",
-    ""
-  ];
-
-  let index = 1;
-  for (const chapterName of CHAPTER_ORDER) {
-    const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
-    if (!chapterRecords.length) continue;
-    lines.push(`## Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`, "");
-    for (const record of chapterRecords) {
-      lines.push(packetRecordBlock(record, index));
-      index += 1;
-    }
-  }
-
-  lines.push("## Verification Reminder", "");
-  lines.push("Confirm exact dateline, participants, original classification, distribution/drafting data, excisions, and any meeting-place or cross-reference editorial notes directly in the PDF before publication.");
-  return lines.join("\n");
-}
-
-function exportCompilerPacket() {
-  const packet = compilerPacket(visibleRecords);
-  downloadTextFile("frus-v28-visible-compiler-packet.md", packet, "text/markdown;charset=utf-8");
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "frus-v28-visible-memcons-telcons.csv";
+  link.click();
+  URL.revokeObjectURL(url);
 }
 
 function exportVisibleGaps() {
@@ -1908,7 +1822,6 @@ function bindWorkbench() {
 
   resetButton?.addEventListener("click", resetFilters);
   exportButton?.addEventListener("click", exportVisibleRecords);
-  packetExportButton?.addEventListener("click", exportCompilerPacket);
   recordsRoot.addEventListener("click", handleRecordAction);
 }
 
