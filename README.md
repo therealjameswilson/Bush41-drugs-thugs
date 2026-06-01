@@ -36,6 +36,9 @@ The workbench supports:
   meetings and calls
 - a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
 - CSV export of the currently visible record set
+- Markdown compiler-packet export for the currently visible chronology, with
+  source-note drafts, PDF links, Catalog trails, Daily Diary controls, and
+  verification reminders
 - event dossiers for major chronology anchors such as Cartagena, San Antonio,
   Pan Am 103, hostages, and the National Drug Control Strategy
 - a compiler-risk queue for NSC/DC, Chief of Staff, WHORM, and policy files
