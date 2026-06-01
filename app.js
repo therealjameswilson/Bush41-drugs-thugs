@@ -21,6 +21,7 @@ const totalEventDossiers = document.querySelector("#total-event-dossiers");
 const totalCompilerGaps = document.querySelector("#total-compiler-gaps");
 const totalScheduleReferences = document.querySelector("#total-schedule-references");
 const filteredCount = document.querySelector("#filtered-count");
+const triageSummaryRoot = document.querySelector("#triage-summary");
 const searchInput = document.querySelector("#filter-search");
 const chapterFilter = document.querySelector("#filter-chapter");
 const typeFilter = document.querySelector("#filter-type");
@@ -622,6 +623,7 @@ function applyFilters() {
   renderRecords(visibleRecords);
   setChapterCounts(allRecords);
   setFilteredCount(visibleRecords, allRecords);
+  renderTriageSummary(allRecords);
 }
 
 function applyReferenceFilters() {
@@ -664,6 +666,156 @@ function setFilteredCount(records, all) {
   const excludeCount = records.filter((record) => selectionState(record) === "exclude").length;
   const noteCount = records.filter((record) => compilerNote(record)).length;
   filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes.`;
+}
+
+function recordsForSelection(records, state) {
+  if (state === "unassigned") return records.filter((record) => !selectionState(record));
+  return records.filter((record) => selectionState(record) === state);
+}
+
+function pageTotal(records) {
+  return records.reduce((total, record) => total + (Number(record.pageCount) || 0), 0);
+}
+
+function appendMetric(parent, label, value, detail) {
+  const item = document.createElement("div");
+  const number = document.createElement("strong");
+  number.textContent = value;
+  const text = document.createElement("span");
+  text.textContent = label;
+  item.append(number, text);
+  if (detail) {
+    const sub = document.createElement("small");
+    sub.textContent = detail;
+    item.append(sub);
+  }
+  parent.append(item);
+}
+
+function createCoverageTable(records) {
+  const table = document.createElement("table");
+  table.className = "triage-table";
+
+  const header = document.createElement("tr");
+  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "Include pages"]) {
+    const cell = document.createElement("th");
+    cell.scope = "col";
+    cell.textContent = label;
+    header.append(cell);
+  }
+
+  const thead = document.createElement("thead");
+  thead.append(header);
+  const tbody = document.createElement("tbody");
+
+  for (const chapterName of CHAPTER_ORDER) {
+    const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
+    const includeRecords = recordsForSelection(chapterRecords, "include");
+    const row = document.createElement("tr");
+    const chapter = document.createElement("th");
+    chapter.scope = "row";
+    chapter.textContent = chapterName;
+    row.append(chapter);
+
+    for (const value of [
+      includeRecords.length,
+      recordsForSelection(chapterRecords, "maybe").length,
+      recordsForSelection(chapterRecords, "exclude").length,
+      recordsForSelection(chapterRecords, "unassigned").length,
+      chapterRecords.filter((record) => compilerNote(record)).length,
+      pageTotal(includeRecords)
+    ]) {
+      const cell = document.createElement("td");
+      cell.textContent = value.toString();
+      row.append(cell);
+    }
+    tbody.append(row);
+  }
+
+  table.append(thead, tbody);
+  return table;
+}
+
+function createTriageLeadList(title, records, emptyText) {
+  const section = document.createElement("div");
+  section.className = "triage-leads";
+  const heading = document.createElement("h4");
+  heading.textContent = title;
+  section.append(heading);
+
+  if (!records.length) {
+    const empty = document.createElement("p");
+    empty.textContent = emptyText;
+    section.append(empty);
+    return section;
+  }
+
+  const list = document.createElement("ol");
+  for (const record of records.slice(0, 5)) {
+    const item = document.createElement("li");
+    const link = document.createElement("a");
+    link.href = `#${record.id}`;
+    link.dataset.recordId = record.id;
+    link.textContent = record.documentTitle || record.title;
+    const meta = document.createElement("span");
+    meta.textContent = `${shortDate(record.date)} | ${record.chapter.name} | ${record.documentType} | ${record.pageCount || "?"} pages`;
+    item.append(link, meta);
+    list.append(item);
+  }
+
+  section.append(list);
+  return section;
+}
+
+function renderTriageSummary(records) {
+  if (!triageSummaryRoot) return;
+  triageSummaryRoot.replaceChildren();
+
+  const includeRecords = recordsForSelection(records, "include");
+  const maybeRecords = recordsForSelection(records, "maybe");
+  const excludeRecords = recordsForSelection(records, "exclude");
+  const unassignedRecords = recordsForSelection(records, "unassigned");
+  const includeWithoutNotes = includeRecords.filter((record) => !compilerNote(record));
+  const strongUnassigned = unassignedRecords
+    .filter((record) => confidence(record).value === "strong")
+    .sort(byConfidence);
+
+  const heading = document.createElement("div");
+  heading.className = "triage-heading";
+  const title = document.createElement("h3");
+  title.textContent = "Selection Coverage";
+  const summary = document.createElement("p");
+  summary.textContent = "Live local triage balance across both chapters; exported with your browser state.";
+  heading.append(title, summary);
+
+  const metrics = document.createElement("div");
+  metrics.className = "triage-metrics";
+  appendMetric(metrics, "include", includeRecords.length.toString(), `${pageTotal(includeRecords)} pages`);
+  appendMetric(metrics, "maybe", maybeRecords.length.toString(), `${pageTotal(maybeRecords)} pages`);
+  appendMetric(metrics, "exclude", excludeRecords.length.toString(), `${pageTotal(excludeRecords)} pages`);
+  appendMetric(metrics, "unassigned", unassignedRecords.length.toString(), `${strongUnassigned.length} strong hits`);
+  appendMetric(metrics, "include without note", includeWithoutNotes.length.toString(), "needs rationale");
+
+  const leads = document.createElement("div");
+  leads.className = "triage-lead-grid";
+  leads.append(
+    createTriageLeadList(
+      "Strong Unassigned Leads",
+      strongUnassigned,
+      "No strong topic hits remain unassigned."
+    ),
+    createTriageLeadList(
+      "Included Records Missing Notes",
+      includeWithoutNotes,
+      "Every included record has a compiler note."
+    )
+  );
+
+  const tableWrap = document.createElement("div");
+  tableWrap.className = "triage-table-wrap";
+  tableWrap.append(createCoverageTable(records));
+
+  triageSummaryRoot.append(heading, metrics, tableWrap, leads);
 }
 
 function setReferenceCount(statements, all) {
@@ -819,6 +971,7 @@ function createRecordActions(record) {
 function createRecordRow(record) {
   const row = document.createElement("article");
   row.className = "record-row";
+  row.id = record.id;
   if (reviewedRecords.has(record.id)) row.classList.add("is-reviewed");
   if (selectionState(record)) row.classList.add(`is-selection-${selectionState(record)}`);
 
@@ -1474,6 +1627,18 @@ function resetFilters() {
   applyFilters();
 }
 
+function focusRecord(recordId) {
+  resetFilters();
+  window.requestAnimationFrame(() => {
+    const target = document.getElementById(recordId);
+    if (!target) return;
+    history.pushState(null, "", `#${recordId}`);
+    target.scrollIntoView({ block: "center" });
+    target.classList.add("is-focused");
+    window.setTimeout(() => target.classList.remove("is-focused"), 1800);
+  });
+}
+
 function resetReferenceFilters() {
   for (const control of [
     referenceSearchInput,
@@ -1902,6 +2067,13 @@ function flashButton(button, label) {
   }, 1400);
 }
 
+function handleTriageSummaryAction(event) {
+  const link = event.target.closest("a[data-record-id]");
+  if (!link) return;
+  event.preventDefault();
+  focusRecord(link.dataset.recordId);
+}
+
 function handleRecordAction(event) {
   const button = event.target.closest("button[data-action]");
   if (!button) return;
@@ -2037,6 +2209,7 @@ function bindWorkbench() {
   importStateButton?.addEventListener("click", () => importStateFileInput?.click());
   importStateFileInput?.addEventListener("change", importCompilerStateFile);
   recordsRoot.addEventListener("click", handleRecordAction);
+  triageSummaryRoot?.addEventListener("click", handleTriageSummaryAction);
 }
 
 function bindReferenceWorkbench() {

@@ -47,6 +47,32 @@
     return typeof compilerNote === "function" ? compilerNote(record) : "";
   }
 
+  function packetPageTotal(records) {
+    return records.reduce((total, record) => total + (Number(record.pageCount) || 0), 0);
+  }
+
+  function packetStateCount(records, state) {
+    return records.filter((record) => {
+      const selection = packetSelectionLabel(record).toLowerCase();
+      return state === "unassigned" ? selection === "unassigned" : selection === state;
+    });
+  }
+
+  function packetSelectionCoverage(records) {
+    return CHAPTER_ORDER
+      .map((chapterName, chapterIndex) => {
+        const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
+        if (!chapterRecords.length) return "";
+        const include = packetStateCount(chapterRecords, "include");
+        const maybe = packetStateCount(chapterRecords, "maybe");
+        const exclude = packetStateCount(chapterRecords, "exclude");
+        const unassigned = packetStateCount(chapterRecords, "unassigned");
+        return `- Chapter ${chapterIndex + 1}: ${chapterName}: include ${include.length} (${packetPageTotal(include)} pages); maybe ${maybe.length}; exclude ${exclude.length}; unassigned ${unassigned.length}; notes ${chapterRecords.filter((record) => packetCompilerNote(record)).length}`;
+      })
+      .filter(Boolean)
+      .join("\n");
+  }
+
   function pdfVerificationSummary(record) {
     return [
       record.pdfExtract?.classificationMarking ? `classification: ${record.pdfExtract.classificationMarking}` : "",
@@ -95,6 +121,9 @@
       "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts.",
       ""
     ];
+
+    const coverage = packetSelectionCoverage(records);
+    if (coverage) lines.push("## Selection Coverage", "", coverage, "");
 
     let index = 1;
     for (const chapterName of CHAPTER_ORDER) {
