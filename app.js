@@ -1,10 +1,17 @@
 const CHAPTER_ORDER = ["Counternarcotics", "Counterterrorism"];
 const REVIEW_STORAGE_KEY = "frus-v28-reviewed-records";
+const SELECTION_STORAGE_KEY = "frus-v28-record-selections";
+const SELECTION_STATES = {
+  include: "Include",
+  maybe: "Maybe",
+  exclude: "Exclude"
+};
 
 const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
 const totalPdfs = document.querySelector("#total-pdfs");
 const totalReviewed = document.querySelector("#total-reviewed");
+const totalSelected = document.querySelector("#total-selected");
 const totalPublicStatements = document.querySelector("#total-public-statements");
 const totalPersons = document.querySelector("#total-persons");
 const totalEventDossiers = document.querySelector("#total-event-dossiers");
@@ -18,6 +25,7 @@ const yearFilter = document.querySelector("#filter-year");
 const sourceFilter = document.querySelector("#filter-source");
 const confidenceFilter = document.querySelector("#filter-confidence");
 const reviewFilter = document.querySelector("#filter-review");
+const selectionFilter = document.querySelector("#filter-selection");
 const sortSelect = document.querySelector("#sort-records");
 const resetButton = document.querySelector("#reset-filters");
 const exportButton = document.querySelector("#export-csv");
@@ -84,6 +92,7 @@ let allPublicReviewMentions = [];
 let visiblePublicReviewMentions = [];
 let allScheduleReferences = [];
 let reviewedRecords = new Set(readReviewedRecords());
+let recordSelections = readRecordSelections();
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
@@ -109,6 +118,27 @@ function readReviewedRecords() {
 
 function saveReviewedRecords() {
   localStorage.setItem(REVIEW_STORAGE_KEY, JSON.stringify([...reviewedRecords]));
+}
+
+function readRecordSelections() {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(SELECTION_STORAGE_KEY) || "{}");
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveRecordSelections() {
+  localStorage.setItem(SELECTION_STORAGE_KEY, JSON.stringify(recordSelections));
+}
+
+function selectionState(record) {
+  return recordSelections[record.id] || "";
+}
+
+function selectionLabel(record) {
+  return SELECTION_STATES[selectionState(record)] || "Unassigned";
 }
 
 function getTerms(record) {
@@ -302,6 +332,9 @@ function setChapterCounts(records) {
   totalRecords.textContent = records.length.toString();
   totalPdfs.textContent = records.filter((record) => record.pdfUrl).length.toString();
   totalReviewed.textContent = records.filter((record) => reviewedRecords.has(record.id)).length.toString();
+  if (totalSelected) {
+    totalSelected.textContent = records.filter((record) => selectionState(record) === "include").length.toString();
+  }
 
   for (const chapterName of CHAPTER_ORDER) {
     const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
@@ -338,7 +371,8 @@ function selectedFilters() {
     year: yearFilter?.value || "",
     source: sourceFilter?.value || "",
     confidence: confidenceFilter?.value || "",
-    review: reviewFilter?.value || ""
+    review: reviewFilter?.value || "",
+    selection: selectionFilter?.value || ""
   };
 }
 
@@ -351,6 +385,8 @@ function recordMatchesFilters(record, filters) {
   if (filters.confidence && confidence(record).value !== filters.confidence) return false;
   if (filters.review === "open" && reviewedRecords.has(record.id)) return false;
   if (filters.review === "reviewed" && !reviewedRecords.has(record.id)) return false;
+  if (filters.selection === "unassigned" && selectionState(record)) return false;
+  if (filters.selection && filters.selection !== "unassigned" && selectionState(record) !== filters.selection) return false;
   return true;
 }
 
@@ -586,7 +622,10 @@ function applyMentionFilters() {
 function setFilteredCount(records, all) {
   if (!filteredCount) return;
   const reviewedCount = records.filter((record) => reviewedRecords.has(record.id)).length;
-  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} marked reviewed in this browser.`;
+  const includeCount = records.filter((record) => selectionState(record) === "include").length;
+  const maybeCount = records.filter((record) => selectionState(record) === "maybe").length;
+  const excludeCount = records.filter((record) => selectionState(record) === "exclude").length;
+  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude.`;
 }
 
 function setReferenceCount(statements, all) {
@@ -705,6 +744,21 @@ function createRecordActions(record) {
   copyButton.textContent = "Copy source stub";
 
   actions.append(reviewButton, copyButton);
+
+  for (const [state, label] of Object.entries(SELECTION_STATES)) {
+    const selectionButton = document.createElement("button");
+    selectionButton.type = "button";
+    selectionButton.dataset.action = "set-selection";
+    selectionButton.dataset.recordId = record.id;
+    selectionButton.dataset.selectionState = state;
+    selectionButton.className = `selection-action selection-${state}`;
+    selectionButton.textContent = label;
+    const active = selectionState(record) === state;
+    selectionButton.setAttribute("aria-pressed", active ? "true" : "false");
+    if (active) selectionButton.classList.add("is-active");
+    actions.append(selectionButton);
+  }
+
   return actions;
 }
 
@@ -712,6 +766,7 @@ function createRecordRow(record) {
   const row = document.createElement("article");
   row.className = "record-row";
   if (reviewedRecords.has(record.id)) row.classList.add("is-reviewed");
+  if (selectionState(record)) row.classList.add(`is-selection-${selectionState(record)}`);
 
   const date = document.createElement("time");
   date.className = "record-date";
@@ -733,7 +788,11 @@ function createRecordRow(record) {
   confidenceBadge.className = `confidence-badge ${confidenceInfo.value}`;
   confidenceBadge.textContent = confidenceInfo.label;
 
-  titleLine.append(title, confidenceBadge);
+  const selectionBadge = document.createElement("span");
+  selectionBadge.className = `selection-badge ${selectionState(record) || "unassigned"}`;
+  selectionBadge.textContent = `Selection: ${selectionLabel(record)}`;
+
+  titleLine.append(title, confidenceBadge, selectionBadge);
 
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
@@ -1352,7 +1411,7 @@ function renderPublicReviewMentions(mentions) {
 }
 
 function resetFilters() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter]) {
     if (control) control.value = "";
   }
   if (sortSelect) sortSelect.value = "chapter-date";
@@ -1410,6 +1469,7 @@ function exportVisibleRecords() {
     "document_type",
     "confidence",
     "reviewed",
+    "selection",
     "title",
     "naid",
     "page_count",
@@ -1435,6 +1495,7 @@ function exportVisibleRecords() {
       record.documentType,
       confidenceInfo.label,
       reviewedRecords.has(record.id) ? "yes" : "no",
+      selectionLabel(record),
       record.documentTitle || record.title,
       record.naid,
       record.pageCount || "",
@@ -1621,6 +1682,7 @@ function compilerStub(record) {
     `${shortDate(record.date)} - ${record.documentTitle || record.title}`,
     `Chapter: ${record.chapter.name}`,
     `Document type: ${record.documentType}`,
+    `Selection: ${selectionLabel(record)}`,
     `Source series: ${record.source?.title || record.source?.shortName || "Presidential conversation files"}`,
     `NAID: ${record.naid}`,
     `Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
@@ -1742,6 +1804,18 @@ function handleRecordAction(event) {
       .then((copied) => flashButton(button, copied ? "Copied" : "Copy failed"))
       .catch(() => flashButton(button, "Copy failed"));
   }
+
+  if (button.dataset.action === "set-selection") {
+    const state = button.dataset.selectionState;
+    if (selectionState(record) === state) {
+      delete recordSelections[record.id];
+    } else if (SELECTION_STATES[state]) {
+      recordSelections[record.id] = state;
+    }
+
+    saveRecordSelections();
+    applyFilters();
+  }
 }
 
 function handleReferenceAction(event) {
@@ -1815,7 +1889,7 @@ function enableChapterCards() {
 }
 
 function bindWorkbench() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, sortSelect]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, sortSelect]) {
     control?.addEventListener("input", applyFilters);
     control?.addEventListener("change", applyFilters);
   }

@@ -29,6 +29,8 @@ The workbench supports:
   local review state
 - chapter chronology, single chronology, match-strength, and document-type sorts
 - local "reviewed" marking in browser storage
+- local Include / Maybe / Exclude selection triage, with selection filters and
+  export fields for compiler working decisions
 - measured PDF page counts and first-page extraction checks for subject,
   participants, date/time/place, and classification markings
 - copyable FRUS-style source-note drafts for PDF verification and editorial drafting

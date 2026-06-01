@@ -659,6 +659,18 @@ h2 {
   box-shadow: inset 4px 0 0 var(--green);
 }
 
+.record-row.is-selection-include {
+  background: linear-gradient(90deg, rgba(49, 95, 82, 0.08), transparent 34%);
+}
+
+.record-row.is-selection-maybe {
+  background: linear-gradient(90deg, rgba(173, 132, 55, 0.1), transparent 34%);
+}
+
+.record-row.is-selection-exclude {
+  background: linear-gradient(90deg, rgba(115, 78, 66, 0.09), transparent 34%);
+}
+
 .record-date {
   color: var(--blue);
   font-size: 1.05rem;
@@ -706,6 +718,34 @@ h2 {
 .confidence-badge.review {
   color: #604719;
   background: rgba(173, 132, 55, 0.16);
+}
+
+.selection-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 26px;
+  padding: 3px 8px;
+  color: #42515a;
+  font-size: 0.73rem;
+  font-weight: 900;
+  background: rgba(43, 58, 66, 0.08);
+  border: 1px solid rgba(43, 58, 66, 0.12);
+  border-radius: 6px;
+}
+
+.selection-badge.include {
+  color: #174235;
+  background: rgba(49, 95, 82, 0.15);
+}
+
+.selection-badge.maybe {
+  color: #604719;
+  background: rgba(173, 132, 55, 0.17);
+}
+
+.selection-badge.exclude {
+  color: #5c251f;
+  background: rgba(156, 62, 53, 0.13);
 }
 
 .record-meta {
@@ -773,6 +813,28 @@ h2 {
   min-height: 34px;
   padding: 0 10px;
   font-size: 0.78rem;
+}
+
+.record-actions button[aria-pressed="true"] {
+  color: #fff;
+  background: var(--blue);
+  border-color: var(--blue);
+}
+
+.record-actions .selection-include[aria-pressed="true"] {
+  background: var(--green);
+  border-color: var(--green);
+}
+
+.record-actions .selection-maybe[aria-pressed="true"] {
+  color: #2b2418;
+  background: var(--gold);
+  border-color: var(--gold);
+}
+
+.record-actions .selection-exclude[aria-pressed="true"] {
+  background: var(--red);
+  border-color: var(--red);
 }
 
 .record-links {

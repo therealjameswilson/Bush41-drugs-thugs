@@ -19,8 +19,27 @@
       filters.source ? `source=${filters.source}` : "",
       filters.confidence ? `match=${filters.confidence}` : "",
       filters.review ? `review=${filters.review}` : "",
+      filters.selection ? `selection=${filters.selection}` : "",
       sortSelect?.value ? `sort=${sortSelect.value}` : ""
     ].filter(Boolean).join("; ") || "all declassified memcons/telcons";
+  }
+
+  function packetSelectionLabel(record) {
+    return typeof selectionLabel === "function" ? selectionLabel(record) : "Unassigned";
+  }
+
+  function packetSelectionSummary(records) {
+    const counts = records.reduce((totals, record) => {
+      const label = packetSelectionLabel(record).toLowerCase();
+      totals[label] = (totals[label] || 0) + 1;
+      return totals;
+    }, {});
+    return [
+      `include ${counts.include || 0}`,
+      `maybe ${counts.maybe || 0}`,
+      `exclude ${counts.exclude || 0}`,
+      `unassigned ${counts.unassigned || 0}`
+    ].join("; ");
   }
 
   function pdfVerificationSummary(record) {
@@ -41,6 +60,7 @@
       "",
       `- Chapter: ${record.chapter.name}`,
       `- Type: ${record.documentType}`,
+      `- Selection: ${packetSelectionLabel(record)}`,
       `- NAID: ${record.naid}`,
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `- Catalog: ${record.catalogUrl || "not listed"}`,
@@ -62,6 +82,7 @@
       "",
       `Generated: ${new Date().toISOString()}`,
       `Visible records: ${records.length}`,
+      `Selection summary: ${packetSelectionSummary(records)}`,
       `Filters: ${selectedChronologyFilters()}`,
       "",
       "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts.",

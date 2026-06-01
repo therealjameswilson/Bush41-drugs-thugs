@@ -132,6 +132,16 @@
               </select>
             </label>
             <label>
+              Selection
+              <select id="filter-selection">
+                <option value="">All selections</option>
+                <option value="unassigned">Unassigned</option>
+                <option value="include">Include</option>
+                <option value="maybe">Maybe</option>
+                <option value="exclude">Exclude</option>
+              </select>
+            </label>
+            <label>
               Sort
               <select id="sort-records">
                 <option value="chapter-date">Chapter chronology</option>
@@ -196,6 +206,10 @@
         <div>
           <span id="total-reviewed">0</span>
           <p>reviewed locally</p>
+        </div>
+        <div>
+          <span id="total-selected">0</span>
+          <p>selected locally</p>
         </div>
         <div>
           <span id="total-public-statements">0</span>
