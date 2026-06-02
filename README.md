@@ -31,6 +31,7 @@ The workbench supports:
 - shareable chronology view links that preserve active filter and sort settings
 - one-click compiler quick queues for source-note checks, strong unassigned
   leads, and major anchoring events
+- event-dossier filtering and record-level links back to anchoring event bundles
 - local "reviewed" marking in browser storage
 - local Include / Maybe / Exclude selection triage, with selection filters and
   export fields for compiler working decisions

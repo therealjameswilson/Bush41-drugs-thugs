@@ -978,6 +978,7 @@ h2 {
 .record-pdf-check,
 .record-note,
 .record-schedule,
+.record-events,
 .record-signals {
   margin: 0;
   color: var(--muted);
@@ -1008,6 +1009,17 @@ h2 {
 }
 
 .record-schedule a {
+  color: #1d5f72;
+  overflow-wrap: anywhere;
+}
+
+.record-events {
+  margin-bottom: 8px;
+  color: #2f493c;
+  font-weight: 750;
+}
+
+.record-events a {
   color: #1d5f72;
   overflow-wrap: anywhere;
 }

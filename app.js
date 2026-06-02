@@ -55,6 +55,7 @@ const reviewFilter = document.querySelector("#filter-review");
 const selectionFilter = document.querySelector("#filter-selection");
 const noteFilter = document.querySelector("#filter-note");
 const pdfCheckFilter = document.querySelector("#filter-pdf-check");
+const eventFilter = document.querySelector("#filter-event");
 const sortSelect = document.querySelector("#sort-records");
 const resetButton = document.querySelector("#reset-filters");
 const copyViewButton = document.querySelector("#copy-view-link");
@@ -146,7 +147,7 @@ const QUICK_QUEUE_DEFINITIONS = [
     id: "lockerbie",
     label: "Lockerbie / Pan Am",
     detail: "Counterterrorism anchor queue for Pan Am 103 and Lockerbie",
-    filters: { query: "Lockerbie", chapter: "Counterterrorism", confidence: "strong", sort: "date" }
+    filters: { event: "pan-am-103-lockerbie", sort: "date" }
   },
   {
     id: "drug-summits",
@@ -168,6 +169,7 @@ let visibleCompilerGaps = [];
 let allPublicReviewMentions = [];
 let visiblePublicReviewMentions = [];
 let allScheduleReferences = [];
+let recordEventMap = new Map();
 let reviewedRecords = new Set(readReviewedRecords());
 let recordSelections = readRecordSelections();
 let recordNotes = readRecordNotes();
@@ -320,6 +322,7 @@ function searchableText(record) {
     record.source?.shortName,
     frusSourceNote(record),
     catalogTrail(record),
+    recordEventTitles(record).join(" "),
     record.scheduleReferenceSummary,
     scheduleReferences(record).map((reference) => [
       reference.title,
@@ -349,6 +352,30 @@ function searchableText(record) {
 
 function eventTitle(eventId) {
   return allEventDossiers.find((event) => event.id === eventId)?.title || eventId.replaceAll("-", " ");
+}
+
+function buildRecordEventMap(events) {
+  const map = new Map();
+  for (const event of events || []) {
+    for (const record of event.privateRecords || []) {
+      for (const key of [record.id, record.naid].filter(Boolean)) {
+        const existing = map.get(key) || [];
+        if (!existing.some((item) => item.id === event.id)) existing.push(event);
+        map.set(key, existing);
+      }
+    }
+  }
+  return map;
+}
+
+function recordEvents(record) {
+  const byId = recordEventMap.get(record.id) || [];
+  const byNaid = recordEventMap.get(record.naid) || [];
+  return [...byId, ...byNaid].filter((event, index, events) => events.findIndex((item) => item.id === event.id) === index);
+}
+
+function recordEventTitles(record) {
+  return recordEvents(record).map((event) => event.title);
 }
 
 function statementTerms(statement, chapterName = statement.chapter?.name) {
@@ -445,6 +472,17 @@ function setWorkbenchOptions(records) {
   setOptions(sourceFilter, uniqueValues(records, (record) => record.source?.shortName), "All source series");
 }
 
+function setEventFilterOptions(events) {
+  if (!eventFilter) return;
+  const current = eventFilter.value;
+  const options = [new Option("All event dossiers", "")];
+  for (const event of events || []) {
+    if ((event.privateRecords || []).length) options.push(new Option(event.title, event.id));
+  }
+  eventFilter.replaceChildren(...options);
+  if ([...eventFilter.options].some((option) => option.value === current)) eventFilter.value = current;
+}
+
 function setReferenceOptions(statements) {
   setOptions(referenceYearFilter, uniqueValues(statements, (statement) => statement.year), "All years");
   setOptions(referenceTypeFilter, uniqueValues(statements, (statement) => statement.documentType), "All types");
@@ -514,7 +552,8 @@ function selectedFilters() {
     review: reviewFilter?.value || "",
     selection: selectionFilter?.value || "",
     note: noteFilter?.value || "",
-    pdfCheck: pdfCheckFilter?.value || ""
+    pdfCheck: pdfCheckFilter?.value || "",
+    event: eventFilter?.value || ""
   };
 }
 
@@ -530,6 +569,7 @@ function chronologyUrlControls() {
     { param: "selection", control: selectionFilter, defaultValue: "" },
     { param: "note", control: noteFilter, defaultValue: "" },
     { param: "pdf", control: pdfCheckFilter, defaultValue: "" },
+    { param: "event", control: eventFilter, defaultValue: "" },
     { param: "sort", control: sortSelect, defaultValue: "chapter-date" }
   ];
 }
@@ -546,6 +586,7 @@ function chronologyControlByFilterKey() {
     selection: selectionFilter,
     note: noteFilter,
     pdfCheck: pdfCheckFilter,
+    event: eventFilter,
     sort: sortSelect
   };
 }
@@ -595,7 +636,8 @@ function queueMatchFilters(filters) {
     review: filters.review || "",
     selection: filters.selection || "",
     note: filters.note || "",
-    pdfCheck: filters.pdfCheck || ""
+    pdfCheck: filters.pdfCheck || "",
+    event: filters.event || ""
   };
 }
 
@@ -630,6 +672,7 @@ function recordMatchesFilters(record, filters) {
   if (filters.note === "with-note" && !compilerNote(record)) return false;
   if (filters.note === "without-note" && compilerNote(record)) return false;
   if (filters.pdfCheck && !recordMatchesPdfCheck(record, filters.pdfCheck)) return false;
+  if (filters.event && !recordEvents(record).some((event) => event.id === filters.event)) return false;
   return true;
 }
 
@@ -1151,6 +1194,23 @@ function createSignalLine(record) {
   return line;
 }
 
+function createEventDossierLine(record) {
+  const events = recordEvents(record);
+  if (!events.length) return null;
+
+  const line = document.createElement("p");
+  line.className = "record-events";
+  line.append(document.createTextNode("Event dossier: "));
+  events.forEach((event, index) => {
+    if (index) line.append(document.createTextNode("; "));
+    const link = document.createElement("a");
+    link.href = `#event-${event.id}`;
+    link.textContent = event.title;
+    line.append(link);
+  });
+  return line;
+}
+
 function createCompilerNoteLine(record) {
   const note = compilerNote(record);
   if (!note) return null;
@@ -1267,12 +1327,14 @@ function createRecordRow(record) {
 
   const terms = createTopicTerms(record);
   const signals = createSignalLine(record);
+  const eventLine = createEventDossierLine(record);
   const noteLine = createCompilerNoteLine(record);
   const pdfCheck = createPdfExtractLine(record);
   const scheduleLine = createScheduleReferenceLine(record);
   body.append(titleLine, createMeta(record));
   if (terms) body.append(terms);
   if (signals) body.append(signals);
+  if (eventLine) body.append(eventLine);
   if (noteLine) body.append(noteLine);
   if (pdfCheck) body.append(pdfCheck);
   if (scheduleLine) body.append(scheduleLine);
@@ -1459,6 +1521,7 @@ function createCompactList(title, records, emptyText) {
 function createDossierCard(event) {
   const card = document.createElement("article");
   card.className = "dossier-card";
+  card.id = `event-${event.id}`;
 
   const title = document.createElement("h3");
   title.textContent = event.title;
@@ -1876,7 +1939,7 @@ function renderPublicReviewMentions(mentions) {
 }
 
 function resetFilters() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, eventFilter]) {
     if (control) control.value = "";
   }
   if (sortSelect) sortSelect.value = "chapter-date";
@@ -1958,6 +2021,7 @@ function exportVisibleRecords() {
     "reviewed",
     "selection",
     "compiler_note",
+    "event_dossiers",
     "title",
     "naid",
     "page_count",
@@ -1986,6 +2050,7 @@ function exportVisibleRecords() {
       reviewedRecords.has(record.id) ? "yes" : "no",
       selectionLabel(record),
       compilerNote(record),
+      recordEventTitles(record).join("; "),
       record.documentTitle || record.title,
       record.naid,
       record.pageCount || "",
@@ -2228,6 +2293,7 @@ function compilerStub(record) {
     `Document type: ${record.documentType}`,
     `Selection: ${selectionLabel(record)}`,
     `Compiler note: ${compilerNote(record) || "none"}`,
+    `Event dossiers: ${recordEventTitles(record).join("; ") || "none matched"}`,
     `Source series: ${record.source?.title || record.source?.shortName || "Presidential conversation files"}`,
     `NAID: ${record.naid}`,
     `Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
@@ -2472,7 +2538,7 @@ function enableChapterCards() {
 }
 
 function bindWorkbench() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, sortSelect]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, eventFilter, sortSelect]) {
     control?.addEventListener("input", applyFilters);
     control?.addEventListener("change", applyFilters);
   }
@@ -2609,7 +2675,9 @@ async function init() {
       publicReviewPromise,
       scheduleReferencePromise
     ]);
+    recordEventMap = buildRecordEventMap(allEventDossiers);
     setWorkbenchOptions(allRecords);
+    setEventFilterOptions(allEventDossiers);
     setReferenceOptions(allPublicStatements);
     setPersonOptions(allPersons);
     setGapOptions(allCompilerGaps);

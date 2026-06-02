@@ -22,6 +22,7 @@
       filters.selection ? `selection=${filters.selection}` : "",
       filters.note ? `note=${filters.note}` : "",
       filters.pdfCheck ? `pdf check=${filters.pdfCheck}` : "",
+      filters.event ? `event=${filters.event}` : "",
       sortSelect?.value ? `sort=${sortSelect.value}` : ""
     ].filter(Boolean).join("; ") || "all declassified memcons/telcons";
   }
@@ -46,6 +47,10 @@
 
   function packetCompilerNote(record) {
     return typeof compilerNote === "function" ? compilerNote(record) : "";
+  }
+
+  function packetEventDossiers(record) {
+    return typeof recordEventTitles === "function" ? recordEventTitles(record) : [];
   }
 
   function packetPageTotal(records) {
@@ -106,6 +111,7 @@
       "",
       `- Type: ${record.documentType}`,
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+      `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
       `- Source note draft: ${frusSourceNote(record)}`,
       `- Compiler note: ${packetCompilerNote(record) || "none"}`,
       `- PDF verification: ${pdfVerificationSummary(record)}`,
@@ -120,6 +126,7 @@
     return [
       `- ${record.date} - ${record.documentTitle || record.title}`,
       `  - ${record.documentType}; ${record.pageCount || "?"} pages; ${packetSelectionLabel(record)}`,
+      `  - Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
       `  - Note: ${packetCompilerNote(record) || "none"}`,
       `  - PDF: ${record.pdfUrl || "not available"}`
     ].join("\n");
@@ -227,6 +234,7 @@
       `- Type: ${record.documentType}`,
       `- Selection: ${packetSelectionLabel(record)}`,
       `- Compiler note: ${packetCompilerNote(record) || "none"}`,
+      `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
       `- NAID: ${record.naid}`,
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `- Catalog: ${record.catalogUrl || "not listed"}`,
@@ -301,6 +309,7 @@
           `- Missing: ${packetPdfVerificationIssues(record).join("; ")}`,
           `- Selection: ${packetSelectionLabel(record)}`,
           `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+          `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
           `- Source note draft: ${frusSourceNote(record)}`,
           `- Parsed PDF metadata: ${pdfVerificationSummary(record)}`,
           `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
