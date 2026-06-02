@@ -32,6 +32,8 @@ The workbench supports:
 - one-click compiler quick queues for source-note checks, strong unassigned
   leads, and major anchoring events
 - event-dossier filtering and record-level links back to anchoring event bundles
+- a top-level compiler-network handoff button that copies the current view,
+  active filters, and adjacent research-tool links
 - local "reviewed" marking in browser storage
 - local Include / Maybe / Exclude selection triage, with selection filters and
   export fields for compiler working decisions

@@ -58,6 +58,32 @@
         border-color: #0b5cab;
         background: #edf6ff;
       }
+
+      .compiler-network__links button {
+        display: inline-flex;
+        align-items: center;
+        min-height: 30px;
+        border: 1px solid #b8c7d9;
+        border-radius: 7px;
+        padding: 0 9px;
+        color: #1f2933;
+        background: #ffffff;
+        font: inherit;
+        font-size: 0.82rem;
+        font-weight: 900;
+        line-height: 1;
+        cursor: pointer;
+      }
+      .compiler-network__links button:hover,
+      .compiler-network__links button:focus-visible {
+        border-color: #0b5cab;
+        background: #edf6ff;
+        outline: none;
+      }
+      .compiler-network__links button[data-copied="true"] {
+        border-color: #2f675f;
+        color: #2f675f;
+      }
       @media (max-width: 640px) {
         .compiler-network__inner {
           align-items: flex-start;
@@ -78,6 +104,7 @@
           <a href="https://history.state.gov/historicaldocuments/status-of-the-series" rel="noreferrer">FRUS Status</a>
           <a href="https://therealjameswilson.github.io/nara-scout/" rel="noreferrer">NARA Scout</a>
           <a href="https://therealjameswilson.github.io/strobe-talbott-foia/" rel="noreferrer">Strobe FOIA</a>
+          <button class="compiler-network__copy" type="button" data-compiler-handoff>Copy Handoff</button>
         </div>
       </div>
     </div>
@@ -690,5 +717,96 @@
     <script src="data/public-statement-review.js"></script>
     <script src="app.js"></script>
     <script src="compiler-packet.js"></script>
+    <script id="compiler-network-script">
+      (() => {
+        const button = document.querySelector("[data-compiler-handoff]");
+        if (!button) return;
+
+        function fallbackCopy(text) {
+          const area = document.createElement("textarea");
+          area.value = text;
+          area.setAttribute("readonly", "");
+          area.style.position = "fixed";
+          area.style.left = "-9999px";
+          document.body.append(area);
+          area.select();
+          try { document.execCommand("copy"); } finally { area.remove(); }
+        }
+
+        function selectedOptionText(selector) {
+          const control = document.querySelector(selector);
+          if (!control?.value) return "";
+          return control.options?.[control.selectedIndex]?.textContent.trim() || control.value.trim();
+        }
+
+        function activeChronologyFilters() {
+          const filters = [
+            ["Search", document.querySelector("#filter-search")?.value.trim()],
+            ["Chapter", selectedOptionText("#filter-chapter")],
+            ["Type", selectedOptionText("#filter-type")],
+            ["Year", selectedOptionText("#filter-year")],
+            ["Source series", selectedOptionText("#filter-source")],
+            ["Match strength", selectedOptionText("#filter-confidence")],
+            ["Review state", selectedOptionText("#filter-review")],
+            ["Selection", selectedOptionText("#filter-selection")],
+            ["Compiler note", selectedOptionText("#filter-note")],
+            ["PDF check", selectedOptionText("#filter-pdf-check")],
+            ["Event dossier", selectedOptionText("#filter-event")]
+          ].filter(([, value]) => value);
+          return filters.map(([label, value]) => `${label}: ${value}`).join("; ") || "none";
+        }
+
+        function currentChronologyViewUrl() {
+          if (typeof chronologyViewUrl === "function") {
+            return chronologyViewUrl({ includeUnknownParams: false, forceChronologyHash: true }).toString();
+          }
+          const url = new URL(window.location.href);
+          url.hash = "chronology";
+          return url.toString();
+        }
+
+        function handoffText() {
+          const title = document.querySelector("h1")?.textContent.trim() || document.title || "FRUS compiler page";
+          const filteredCount = document.querySelector("#filtered-count")?.textContent.trim() || "";
+          return [
+            "# " + title,
+            "",
+            "Page: " + window.location.href,
+            "Current chronology view: " + currentChronologyViewUrl(),
+            filteredCount ? "Visible chronology records: " + filteredCount : "",
+            "Active chronology filters: " + activeChronologyFilters(),
+            "",
+            "Compiler Assist: https://therealjameswilson.github.io/Compiler-Assist/",
+            "Volume page: https://history.state.gov/historicaldocuments/frus1989-92v28",
+            "FRUS Status: https://history.state.gov/historicaldocuments/status-of-the-series",
+            "NARA Scout: https://therealjameswilson.github.io/nara-scout/",
+            "Strobe FOIA: https://therealjameswilson.github.io/strobe-talbott-foia/",
+            "",
+            "Suggested next actions:",
+            "- Export the visible compiler packet for source-note and document-sequence review.",
+            "- Use the PDF checklist for records with missing first-page metadata.",
+            "- Reconcile event dossiers against the gap queue before treating the selection as final."
+          ].filter(Boolean).join("\n");
+        }
+
+        button.addEventListener("click", async () => {
+          const text = handoffText();
+          try {
+            if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(text);
+            else fallbackCopy(text);
+            button.textContent = "Copied";
+            button.dataset.copied = "true";
+            window.setTimeout(() => {
+              button.textContent = "Copy Handoff";
+              delete button.dataset.copied;
+            }, 1800);
+          } catch (error) {
+            fallbackCopy(text);
+            button.textContent = "Copied";
+            button.dataset.copied = "true";
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
