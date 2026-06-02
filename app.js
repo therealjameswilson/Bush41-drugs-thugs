@@ -90,9 +90,12 @@ const gapChapterFilter = document.querySelector("#gap-chapter");
 const gapCategoryFilter = document.querySelector("#gap-category");
 const gapPriorityFilter = document.querySelector("#gap-priority");
 const gapConfidenceFilter = document.querySelector("#gap-confidence");
+const gapOnlineFilter = document.querySelector("#gap-online");
 const gapSortSelect = document.querySelector("#sort-gaps");
 const gapResetButton = document.querySelector("#reset-gaps");
 const gapExportButton = document.querySelector("#export-gaps-csv");
+const gapCopyPullListButton = document.querySelector("#copy-gaps-pull-list");
+const gapQuickQueueRoot = document.querySelector("#gap-quick-queues");
 const publicMentionsRoot = document.querySelector("#public-mentions-root");
 const mentionCount = document.querySelector("#mention-count");
 const mentionSearchInput = document.querySelector("#mention-search");
@@ -154,6 +157,44 @@ const QUICK_QUEUE_DEFINITIONS = [
     label: "Drug Summits",
     detail: "Cartagena, San Antonio, and other summit-related counternarcotics leads",
     filters: { query: "drug summit", chapter: "Counternarcotics", sort: "date" }
+  }
+];
+const GAP_QUEUE_DEFINITIONS = [
+  {
+    id: "high-offline",
+    label: "High Offline Pulls",
+    detail: "High-priority files without an online PDF",
+    filters: { priority: "High", online: "no-pdf", sort: "priority" }
+  },
+  {
+    id: "nsc-dc",
+    label: "NSC/DC Files",
+    detail: "Decision and meeting files to pull or explain",
+    filters: { category: "NSC/DC decision file", sort: "chapter-date" }
+  },
+  {
+    id: "whorm",
+    label: "WHORM Cases",
+    detail: "White House records cases for topic backup",
+    filters: { category: "WHORM case file", sort: "chapter-date" }
+  },
+  {
+    id: "chief-staff",
+    label: "Chief of Staff",
+    detail: "Chief of Staff files with policy context",
+    filters: { category: "Chief of Staff policy file", sort: "chapter-date" }
+  },
+  {
+    id: "ct-high",
+    label: "CT High Gaps",
+    detail: "High-priority counterterrorism gaps",
+    filters: { chapter: "Counterterrorism", priority: "High", sort: "chapter-date" }
+  },
+  {
+    id: "cn-high",
+    label: "CN High Gaps",
+    detail: "High-priority counternarcotics gaps",
+    filters: { chapter: "Counternarcotics", priority: "High", sort: "chapter-date" }
   }
 ];
 
@@ -759,7 +800,8 @@ function selectedGapFilters() {
     chapter: gapChapterFilter?.value || "",
     category: gapCategoryFilter?.value || "",
     priority: gapPriorityFilter?.value || "",
-    confidence: gapConfidenceFilter?.value || ""
+    confidence: gapConfidenceFilter?.value || "",
+    online: gapOnlineFilter?.value || ""
   };
 }
 
@@ -769,6 +811,8 @@ function gapMatchesFilters(record, filters) {
   if (filters.category && record.category !== filters.category) return false;
   if (filters.priority && record.priority !== filters.priority) return false;
   if (filters.confidence && record.sourceConfidence?.level !== filters.confidence) return false;
+  if (filters.online === "no-pdf" && record.pdfUrl) return false;
+  if (filters.online === "has-pdf" && !record.pdfUrl) return false;
   return true;
 }
 
@@ -900,6 +944,7 @@ function applyGapFilters() {
   visibleCompilerGaps = sortGaps(allCompilerGaps.filter((record) => gapMatchesFilters(record, filters)));
   renderCompilerGaps(visibleCompilerGaps);
   setGapCount(visibleCompilerGaps, allCompilerGaps);
+  renderGapQuickQueues();
 }
 
 function applyMentionFilters() {
@@ -959,6 +1004,57 @@ function renderQuickQueues() {
   for (const queue of QUICK_QUEUE_DEFINITIONS) list.append(createQuickQueueButton(queue));
 
   quickQueueRoot.append(heading, list);
+}
+
+function gapQueueMatchFilters(filters) {
+  return {
+    query: filters.query?.toLowerCase() || "",
+    chapter: filters.chapter || "",
+    category: filters.category || "",
+    priority: filters.priority || "",
+    confidence: filters.confidence || "",
+    online: filters.online || ""
+  };
+}
+
+function gapQueueCount(queue) {
+  const filters = gapQueueMatchFilters(queue.filters);
+  return allCompilerGaps.filter((record) => gapMatchesFilters(record, filters)).length;
+}
+
+function createGapQueueButton(queue) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "quick-queue-button";
+  button.dataset.gapQueueId = queue.id;
+
+  const count = document.createElement("strong");
+  count.textContent = gapQueueCount(queue).toString();
+  const label = document.createElement("span");
+  label.textContent = queue.label;
+  const detail = document.createElement("small");
+  detail.textContent = queue.detail;
+  button.append(count, label, detail);
+  return button;
+}
+
+function renderGapQuickQueues() {
+  if (!gapQuickQueueRoot) return;
+  gapQuickQueueRoot.replaceChildren();
+
+  const heading = document.createElement("div");
+  heading.className = "quick-queues-heading";
+  const title = document.createElement("h3");
+  title.textContent = "Gap Pull Queues";
+  const summary = document.createElement("p");
+  summary.textContent = "One-click pull/explain sets for the highest-risk non-chronology files.";
+  heading.append(title, summary);
+
+  const list = document.createElement("div");
+  list.className = "quick-queue-list";
+  for (const queue of GAP_QUEUE_DEFINITIONS) list.append(createGapQueueButton(queue));
+
+  gapQuickQueueRoot.append(heading, list);
 }
 
 function recordsForSelection(records, state) {
@@ -2007,11 +2103,15 @@ function resetPersonFilters() {
   applyPersonFilters();
 }
 
-function resetGapFilters() {
-  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter]) {
+function resetGapControls() {
+  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapOnlineFilter]) {
     if (control) control.value = "";
   }
   if (gapSortSelect) gapSortSelect.value = "priority";
+}
+
+function resetGapFilters() {
+  resetGapControls();
   applyGapFilters();
 }
 
@@ -2204,6 +2304,71 @@ function exportVisibleGaps() {
   link.download = "frus-v28-compiler-gaps.csv";
   link.click();
   URL.revokeObjectURL(url);
+}
+
+function selectedGapFilterSummary() {
+  const filters = selectedGapFilters();
+  return [
+    filters.query ? `search=${filters.query}` : "",
+    filters.chapter ? `chapter=${filters.chapter}` : "",
+    filters.category ? `category=${filters.category}` : "",
+    filters.priority ? `priority=${filters.priority}` : "",
+    filters.confidence ? `source=${filters.confidence}` : "",
+    filters.online ? `pdf=${filters.online}` : "",
+    gapSortSelect?.value ? `sort=${gapSortSelect.value}` : ""
+  ].filter(Boolean).join("; ") || "all compiler gaps";
+}
+
+function gapPullList(records) {
+  const high = records.filter((record) => record.priority === "High").length;
+  const offline = records.filter((record) => !record.pdfUrl).length;
+  const lines = [
+    "# FRUS Volume XXVIII Gap Pull List",
+    "",
+    `Generated: ${new Date().toISOString()}`,
+    `Visible gap candidates: ${records.length}`,
+    `High-priority candidates: ${high}`,
+    `No-online-PDF candidates: ${offline}`,
+    `Filters: ${selectedGapFilterSummary()}`,
+    "",
+    "Use: pull or explain these non-chronology files before treating the memcon/telcon selection as final.",
+    ""
+  ];
+
+  for (const chapterName of CHAPTER_ORDER) {
+    const chapterRecords = records.filter((record) => record.chapter?.name === chapterName);
+    if (!chapterRecords.length) continue;
+    lines.push(`## ${chapterName}`, "");
+    for (const record of chapterRecords) {
+      lines.push(
+        `### ${record.date ? shortDate(record.date) : "No date"} - ${record.title}`,
+        "",
+        `- Priority: ${record.priority || "Review"}`,
+        `- Category: ${record.category || "Gap target"}`,
+        `- Pages: ${record.pageCount || "unknown"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+        `- Online PDF: ${record.pdfUrl ? "yes" : "no"}`,
+        `- Why it matters: ${record.why || "Compiler review needed."}`,
+        `- Source state: ${record.sourceConfidence?.level || "pending"}${record.sourceConfidence?.basis ? ` - ${record.sourceConfidence.basis}` : ""}`,
+        `- NAID: ${record.naid || ""}`,
+        `- Catalog: ${record.catalogUrl || ""}`,
+        record.pdfUrl ? `- PDF: ${record.pdfUrl}` : "",
+        `- Source note: ${record.frusSourceNote || record.sourceNote || "pending"}`,
+        ""
+      );
+    }
+  }
+
+  lines.push("## Compiler Use", "");
+  lines.push("- Pull high-priority no-PDF files first, especially when they are tied to event dossiers.");
+  lines.push("- Compare pulled material against private memcons/telcons before deciding Include, Maybe, or Exclude.");
+  lines.push("- Keep final source notes in FRUS style and move Catalog/NAID details into research trails as needed.");
+  return lines.filter((line, index, all) => line || all[index - 1] !== "").join("\n");
+}
+
+function copyVisibleGapPullList(button) {
+  copyText(gapPullList(visibleCompilerGaps))
+    .then((copied) => flashButton(button, copied ? "Copied pull list" : "Copy failed"))
+    .catch(() => flashButton(button, "Copy failed"));
 }
 
 function exportVisibleReferences() {
@@ -2495,6 +2660,37 @@ function handleQuickQueueAction(event) {
   applyQueueFilters(queue.filters);
 }
 
+function gapControlByFilterKey() {
+  return {
+    query: gapSearchInput,
+    chapter: gapChapterFilter,
+    category: gapCategoryFilter,
+    priority: gapPriorityFilter,
+    confidence: gapConfidenceFilter,
+    online: gapOnlineFilter,
+    sort: gapSortSelect
+  };
+}
+
+function applyGapQueueFilters(filters) {
+  resetGapControls();
+  const controls = gapControlByFilterKey();
+  for (const [key, value] of Object.entries(filters)) {
+    const control = controls[key];
+    if (control && canUseControlValue(control, value)) control.value = value;
+  }
+  applyGapFilters();
+  document.querySelector("#gaps")?.scrollIntoView({ block: "start" });
+}
+
+function handleGapQueueAction(event) {
+  const button = event.target.closest("button[data-gap-queue-id]");
+  if (!button) return;
+  const queue = GAP_QUEUE_DEFINITIONS.find((item) => item.id === button.dataset.gapQueueId);
+  if (!queue) return;
+  applyGapQueueFilters(queue.filters);
+}
+
 function handleTriageSummaryAction(event) {
   const link = event.target.closest("a[data-record-id]");
   if (!link) return;
@@ -2696,13 +2892,15 @@ function bindPersonWorkbench() {
 }
 
 function bindGapWorkbench() {
-  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapSortSelect]) {
+  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapOnlineFilter, gapSortSelect]) {
     control?.addEventListener("input", applyGapFilters);
     control?.addEventListener("change", applyGapFilters);
   }
 
   gapResetButton?.addEventListener("click", resetGapFilters);
   gapExportButton?.addEventListener("click", exportVisibleGaps);
+  gapCopyPullListButton?.addEventListener("click", () => copyVisibleGapPullList(gapCopyPullListButton));
+  gapQuickQueueRoot?.addEventListener("click", handleGapQueueAction);
   compilerGapsRoot?.addEventListener("click", handleGapAction);
 }
 

@@ -507,6 +507,14 @@
               </select>
             </label>
             <label>
+              Online PDF
+              <select id="gap-online">
+                <option value="">All PDF states</option>
+                <option value="no-pdf">No online PDF</option>
+                <option value="has-pdf">Has online PDF</option>
+              </select>
+            </label>
+            <label>
               Sort
               <select id="sort-gaps">
                 <option value="priority">Priority</option>
@@ -521,10 +529,13 @@
             <p id="gap-count">Showing 0 of 0 compiler gaps.</p>
             <div>
               <button id="reset-gaps" type="button">Reset</button>
+              <button id="copy-gaps-pull-list" type="button">Copy pull list</button>
               <button id="export-gaps-csv" type="button">Export gaps CSV</button>
             </div>
           </div>
         </div>
+
+        <div id="gap-quick-queues" class="quick-queues" aria-live="polite"></div>
 
         <div id="compiler-gaps-root" class="records-root" aria-live="polite"></div>
       </section>
