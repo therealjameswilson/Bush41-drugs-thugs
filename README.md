@@ -32,6 +32,8 @@ The workbench supports:
 - one-click compiler quick queues for source-note checks, strong unassigned
   leads, and major anchoring events
 - event-dossier filtering and record-level links back to anchoring event bundles
+- event-dossier action buttons for opening the filtered chronology and copying
+  a compact dossier packet
 - a top-level compiler-network handoff button that copies the current view,
   active filters, and adjacent research-tool links
 - local "reviewed" marking in browser storage

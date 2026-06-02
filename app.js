@@ -1518,6 +1518,29 @@ function createCompactList(title, records, emptyText) {
   return section;
 }
 
+function createDossierActions(event) {
+  const actions = document.createElement("div");
+  actions.className = "dossier-actions";
+
+  if ((event.privateRecords || []).length) {
+    const openButton = document.createElement("button");
+    openButton.type = "button";
+    openButton.dataset.action = "open-dossier-chronology";
+    openButton.dataset.eventId = event.id;
+    openButton.textContent = "Open chronology";
+    actions.append(openButton);
+  }
+
+  const copyButton = document.createElement("button");
+  copyButton.type = "button";
+  copyButton.dataset.action = "copy-dossier-packet";
+  copyButton.dataset.eventId = event.id;
+  copyButton.textContent = "Copy dossier packet";
+  actions.append(copyButton);
+
+  return actions;
+}
+
 function createDossierCard(event) {
   const card = document.createElement("article");
   card.className = "dossier-card";
@@ -1560,6 +1583,7 @@ function createDossierCard(event) {
     meta,
     summary,
     counts,
+    createDossierActions(event),
     action,
     createCompactList("Conversation leads", event.privateRecords || [], "No declassified memcon/telcon leads in this bundle."),
     createCompactList("Gap targets", event.gapRecords || [], "No separate gap targets in this bundle."),
@@ -2366,6 +2390,68 @@ function mentionStub(mention) {
   ].join("\n");
 }
 
+function dossierRecordLine(record) {
+  return [
+    `- ${record.date || "No date"} - ${record.title || record.documentTitle}`,
+    `  - ${[record.documentType, record.pageCount ? `${record.pageCount} pages` : "", record.priority ? `${record.priority} priority` : ""].filter(Boolean).join("; ") || "Record"}`,
+    record.sourceNote || record.frusSourceNote ? `  - Source note: ${record.frusSourceNote || record.sourceNote}` : "",
+    record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : "",
+    record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : "",
+    record.govinfoUrl ? `  - GovInfo: ${record.govinfoUrl}` : ""
+  ].filter(Boolean).join("\n");
+}
+
+function eventChronologyUrl(event) {
+  const url = new URL(window.location.href);
+  url.search = "";
+  url.searchParams.set("event", event.id);
+  url.searchParams.set("sort", "date");
+  url.hash = "chronology";
+  return url.toString();
+}
+
+function dossierPacket(event) {
+  const lines = [
+    `# ${event.title}`,
+    "",
+    `Chapter: ${event.chapter?.name || "Unassigned"}`,
+    `Date range: ${event.dateRange || "not specified"}`,
+    `Chronology view: ${eventChronologyUrl(event)}`,
+    "",
+    event.summary || "",
+    "",
+    `Next check: ${event.nextAction || "Review conversation leads, gap targets, and public anchors together."}`,
+    "",
+    "## Counts",
+    "",
+    `- Declassified conversations: ${event.privateRecords?.length || 0}`,
+    `- Gap targets: ${event.gapRecords?.length || 0}`,
+    `- Public anchors: ${event.publicStatements?.length || 0}`,
+    `- Public review mentions: ${event.publicReviewMentions?.length || 0}`,
+    ""
+  ];
+
+  for (const [heading, records, emptyText] of [
+    ["Private Conversation Leads", event.privateRecords || [], "No declassified memcon/telcon leads in this bundle."],
+    ["Gap Targets", event.gapRecords || [], "No separate gap targets in this bundle."],
+    ["Public Anchors", event.publicStatements || [], "No promoted Public Papers anchors in this bundle."],
+    ["Public Review Mentions", event.publicReviewMentions || [], "No lower-priority public mentions in this bundle."]
+  ]) {
+    lines.push(`## ${heading}`, "");
+    if (records.length) {
+      for (const record of records) lines.push(dossierRecordLine(record), "");
+    } else {
+      lines.push(emptyText, "");
+    }
+  }
+
+  lines.push("## Compiler Use", "");
+  lines.push("- Compare private conversation leads against gap targets before making final Include decisions.");
+  lines.push("- Treat public anchors as context for public positioning, not substitutes for private policy records.");
+  lines.push("- Verify final source notes and first-page metadata directly in the PDFs.");
+  return lines.filter((line, index, all) => line || all[index - 1] !== "").join("\n");
+}
+
 async function copyText(text) {
   if (navigator.clipboard?.writeText) {
     await navigator.clipboard.writeText(text);
@@ -2412,6 +2498,25 @@ function handleTriageSummaryAction(event) {
   if (!link) return;
   event.preventDefault();
   focusRecord(link.dataset.recordId);
+}
+
+function handleEventDossierAction(event) {
+  const button = event.target.closest("button[data-action][data-event-id]");
+  if (!button) return;
+
+  const dossier = allEventDossiers.find((item) => item.id === button.dataset.eventId);
+  if (!dossier) return;
+
+  if (button.dataset.action === "open-dossier-chronology") {
+    applyQueueFilters({ event: dossier.id, sort: "date" });
+    return;
+  }
+
+  if (button.dataset.action === "copy-dossier-packet") {
+    copyText(dossierPacket(dossier))
+      .then((copied) => flashButton(button, copied ? "Copied packet" : "Copy failed"))
+      .catch(() => flashButton(button, "Copy failed"));
+  }
 }
 
 function handleRecordAction(event) {
@@ -2608,6 +2713,7 @@ function bindMentionWorkbench() {
   mentionResetButton?.addEventListener("click", resetMentionFilters);
   mentionExportButton?.addEventListener("click", exportVisibleMentions);
   publicMentionsRoot?.addEventListener("click", handleMentionAction);
+  eventDossiersRoot?.addEventListener("click", handleEventDossierAction);
 }
 
 async function loadRecords() {

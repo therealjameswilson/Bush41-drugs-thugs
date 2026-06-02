@@ -756,6 +756,18 @@ h2 {
   border-left: 4px solid var(--gold);
 }
 
+.dossier-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.dossier-actions button {
+  min-height: 34px;
+  padding: 0 10px;
+  font-size: 0.8rem;
+}
+
 .dossier-counts {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
