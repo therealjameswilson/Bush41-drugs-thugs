@@ -655,6 +655,8 @@ function applyQueueFilters(filters) {
     if (control && canUseControlValue(control, value)) control.value = value;
   }
   applyFilters();
+  const url = chronologyViewUrl({ includeUnknownParams: false, forceChronologyHash: true });
+  if (url.href !== window.location.href) history.replaceState(null, "", url);
   document.querySelector("#chronology")?.scrollIntoView({ block: "start" });
 }
 
