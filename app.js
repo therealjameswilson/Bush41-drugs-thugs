@@ -1747,11 +1747,17 @@ function createGapRow(record) {
   sourceNote.className = "record-source-note";
   sourceNote.textContent = record.frusSourceNote || record.sourceNote || "Source note pending.";
 
+  const trail = document.createElement("p");
+  trail.className = "record-catalog-trail";
+  trail.textContent = `Catalog trail: ${record.catalogTrail || "No Catalog trail recorded."}`;
+
   const confidenceLine = document.createElement("p");
-  confidenceLine.className = "record-catalog-trail";
+  confidenceLine.className = "record-signals";
   confidenceLine.textContent = `Source state: ${record.sourceConfidence?.basis || "No source-state note recorded."}`;
 
-  body.append(titleLine, createGapMeta(record), why, events, sourceNote, confidenceLine, createGapActions(record));
+  body.append(titleLine, createGapMeta(record), why, events, sourceNote);
+  if (record.catalogTrail) body.append(trail);
+  body.append(confidenceLine, createGapActions(record));
 
   const links = document.createElement("div");
   links.className = "record-links";

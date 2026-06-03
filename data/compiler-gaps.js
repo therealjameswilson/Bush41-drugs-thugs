@@ -24,8 +24,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08071",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-003, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-003, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-003, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-003, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492060960. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/2363639. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -39,7 +39,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [1]"
   },
   {
     "id": "gap-492060961",
@@ -66,8 +68,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08071",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-004, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-004, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-004, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-004, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492060961. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/2363639. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush, 2017-0080-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -81,7 +83,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [2]"
   },
   {
     "id": "gap-492060963",
@@ -108,8 +112,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08071",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-006, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-006, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-006, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-006, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492060963. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/2363639. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush, 2017-0080-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -123,7 +127,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [4]"
   },
   {
     "id": "gap-492060964",
@@ -150,8 +156,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08071",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-007, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [5]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-007, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [5]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-007, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [5].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-007, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [5].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492060964. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/2363639. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -165,7 +171,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [5]"
   },
   {
     "id": "gap-492060962",
@@ -192,8 +200,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08071",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-005, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President][3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-005, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President][3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-005, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-005, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492060962. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/2363639. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -207,7 +215,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [3]"
   },
   {
     "id": "gap-509546508",
@@ -234,8 +244,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "07285",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Policy Development (George H. W. Bush Administration), Rae Nelson Subject Files, OA/ID 07285-009, National Drug Control Strategy, 1989 - 1992 [8]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Policy Development (George H. W. Bush Administration), Rae Nelson Subject Files, OA/ID 07285-009, National Drug Control Strategy, 1989 - 1992 [8]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Policy Development, Rae Nelson Subject Files, OA/ID 07285-009, National Drug Control Strategy, 1989 - 1992 [8].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Policy Development, Rae Nelson Subject Files, OA/ID 07285-009, National Drug Control Strategy, 1989 - 1992 [8].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/509546508. Collection URL: https://catalog.archives.gov/id/2163585. Series URL: https://catalog.archives.gov/id/2600877. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy"
@@ -247,7 +257,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Policy Development",
+    "sourceFolder": "National Drug Control Strategy, 1989 - 1992 [8]"
   },
   {
     "id": "gap-702683",
@@ -274,8 +286,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "29186",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-004, Bennett (Drug Policy - 1989). Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-004, Bennett (Drug Policy - 1989). Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-004, Bennett (Drug Policy - 1989).",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-004, Bennett (Drug Policy - 1989).",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/702683. Series URL: https://catalog.archives.gov/id/580521. Digital object: 41-bpr-whcos-sununu-ca-29186-004.pdf, object ID 619451431, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29186-004.pdf. Catalog subjects: FOIA 1998-0004-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -312,7 +324,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Bennett (Drug Policy - 1989)"
   },
   {
     "id": "gap-645609099",
@@ -339,8 +353,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31956",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-003, Counternarcotics [A] [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-003, Counternarcotics [A] [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-003, Counternarcotics [A] [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-003, Counternarcotics [A] [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609099. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31956-003.pdf, object ID 645609100, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-003.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -355,7 +369,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [A] [2]"
   },
   {
     "id": "gap-645609101",
@@ -383,8 +399,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31956",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609101. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31956-004.pdf, object ID 645609102, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-004.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -405,7 +421,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [A] [3]"
   },
   {
     "id": "gap-645609105",
@@ -433,8 +451,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31956",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609105. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31956-006.pdf, object ID 645609106, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-006.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -453,7 +471,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [A] [5]"
   },
   {
     "id": "gap-645609107",
@@ -481,8 +501,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31957",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609107. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31957-001.pdf, object ID 645609108, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-001.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -501,7 +521,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [B] [1]"
   },
   {
     "id": "gap-645609109",
@@ -529,8 +551,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31957",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609109. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31957-002.pdf, object ID 645609110, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-002.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -548,7 +570,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [B] [2]"
   },
   {
     "id": "gap-645609437",
@@ -575,8 +599,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31975",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-003, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-003, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-003, Counternarcotics Operations [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-003, Counternarcotics Operations [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609437. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31975-003.pdf, object ID 645609438, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-003.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -593,7 +617,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [1]"
   },
   {
     "id": "gap-645610331",
@@ -622,8 +648,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32023",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645610331. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32023-008.pdf, object ID 645610332, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32023-008.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -645,7 +671,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [1]"
   },
   {
     "id": "gap-645609439",
@@ -673,8 +701,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31975",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-004, Counternarcotics Operations [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-004, Counternarcotics Operations [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-004, Counternarcotics Operations [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-004, Counternarcotics Operations [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609439. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31975-004.pdf, object ID 645609440, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-004.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -693,7 +721,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [2]"
   },
   {
     "id": "gap-645609443",
@@ -720,8 +750,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31975",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-006, Counternarcotics Operations [4]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-006, Counternarcotics Operations [4]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-006, Counternarcotics Operations [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-006, Counternarcotics Operations [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609443. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31975-006.pdf, object ID 645609444, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-006.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -740,7 +770,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [4]"
   },
   {
     "id": "gap-645609897",
@@ -767,8 +799,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32000",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-004, Counternarcotics Operations [4]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-004, Counternarcotics Operations [4]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-004, Counternarcotics Operations [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-004, Counternarcotics Operations [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609897. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32000-004.pdf, object ID 645609898, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32000-004.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -786,7 +818,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [4]"
   },
   {
     "id": "gap-645609449",
@@ -813,8 +847,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31975",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-009, Counternarcotics Operations [7]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-009, Counternarcotics Operations [7]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-009, Counternarcotics Operations [7].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-009, Counternarcotics Operations [7].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609449. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31975-009.pdf, object ID 645609450, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-009.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -831,7 +865,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [7]"
   },
   {
     "id": "gap-518601848",
@@ -858,8 +894,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "22262",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Office of Domestic Policy and the Council on Competitiveness (George H. W. Bush Administration), David McIntosh Files, OA/ID 22262-018, DPC National Drug Control Strategy [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Office of Domestic Policy and the Council on Competitiveness (George H. W. Bush Administration), David McIntosh Files, OA/ID 22262-018, DPC National Drug Control Strategy [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Office of Domestic Policy and Council on Competitiveness, David McIntosh Files, OA/ID 22262-018, DPC National Drug Control Strategy [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Office of Domestic Policy and Council on Competitiveness, David McIntosh Files, OA/ID 22262-018, DPC National Drug Control Strategy [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/518601848. Collection URL: https://catalog.archives.gov/id/650835. Series URL: https://catalog.archives.gov/id/2577728. Catalog subjects: FOIA 2010-1073-F, 1998-0326-F; Finding aid VP-Quayle; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -875,7 +911,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Office of Domestic Policy and Council on Competitiveness",
+    "sourceFolder": "DPC National Drug Control Strategy [1]"
   },
   {
     "id": "gap-518601849",
@@ -902,8 +940,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "22262",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Office of Domestic Policy and the Council on Competitiveness (George H. W. Bush Administration), David McIntosh Files, OA/ID 22262-019, DPC National Drug Control Strategy [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Office of Domestic Policy and the Council on Competitiveness (George H. W. Bush Administration), David McIntosh Files, OA/ID 22262-019, DPC National Drug Control Strategy [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Office of Domestic Policy and Council on Competitiveness, David McIntosh Files, OA/ID 22262-019, DPC National Drug Control Strategy [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Office of Domestic Policy and Council on Competitiveness, David McIntosh Files, OA/ID 22262-019, DPC National Drug Control Strategy [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/518601849. Collection URL: https://catalog.archives.gov/id/650835. Series URL: https://catalog.archives.gov/id/2577728. Catalog subjects: FOIA 1998-0326-F, 2010-1073-F; Finding aid VP-Quayle; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -919,7 +957,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Office of Domestic Policy and Council on Competitiveness",
+    "sourceFolder": "DPC National Drug Control Strategy [2]"
   },
   {
     "id": "gap-563877964",
@@ -946,8 +986,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04016",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020a, Drug Information [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020a, Drug Information [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020a, Drug Information [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020a, Drug Information [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563877964. Series URL: https://catalog.archives.gov/id/472448952. Digital object: bpr-cos-rogers_subj-04016-020a.pdf, object ID 612851761, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/rogers_subject_472448952/bpr-cos-rogers_subj-04016-020a.pdf. Catalog subjects: Finding aid 2025-0647-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -987,7 +1027,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Drug Information [1]"
   },
   {
     "id": "gap-563877965",
@@ -1014,8 +1056,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04016",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020b, Drug Information [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020b, Drug Information [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020b, Drug Information [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Ed Rogers' Subject Files, OA/ID 04016-020b, Drug Information [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563877965. Series URL: https://catalog.archives.gov/id/472448952. Digital object: bpr-cos-rogers_subj-04016-020b.pdf, object ID 612851762, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/rogers_subject_472448952/bpr-cos-rogers_subj-04016-020b.pdf. Catalog subjects: Finding aid Pres-Bush, 2025-0647-S; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1063,7 +1105,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Drug Information [2]"
   },
   {
     "id": "gap-472802665",
@@ -1088,8 +1132,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04792",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-008, Drug Policy (File B) - Drug Strategy III (1) [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-008, Drug Policy (File B) - Drug Strategy III (1) [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-008, Drug Policy (File B) - Drug Strategy III (1) [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-008, Drug Policy (File B) - Drug Strategy III (1) [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802665. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -1102,7 +1146,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File B) - Drug Strategy III (1) [1]"
   },
   {
     "id": "gap-472802666",
@@ -1127,8 +1173,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04792",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-009, Drug Policy (File B) - Drug Strategy III (1) [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-009, Drug Policy (File B) - Drug Strategy III (1) [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-009, Drug Policy (File B) - Drug Strategy III (1) [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-009, Drug Policy (File B) - Drug Strategy III (1) [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802666. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -1141,7 +1187,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File B) - Drug Strategy III (1) [2]"
   },
   {
     "id": "gap-472802667",
@@ -1166,8 +1214,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04792",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-010, Drug Policy (File B) - Drug Strategy III (1) [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-010, Drug Policy (File B) - Drug Strategy III (1) [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-010, Drug Policy (File B) - Drug Strategy III (1) [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-010, Drug Policy (File B) - Drug Strategy III (1) [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802667. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -1180,7 +1228,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File B) - Drug Strategy III (1) [3]"
   },
   {
     "id": "gap-472802668",
@@ -1205,8 +1255,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04792",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-011, Drug Policy (File B) - Drug Strategy III (1) [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-011, Drug Policy (File B) - Drug Strategy III (1) [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-011, Drug Policy (File B) - Drug Strategy III (1) [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-011, Drug Policy (File B) - Drug Strategy III (1) [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802668. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -1219,7 +1269,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File B) - Drug Strategy III (1) [4]"
   },
   {
     "id": "gap-472802669",
@@ -1244,8 +1296,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-001, Drug Policy (File C) - Drug Strategy III (2). Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-001, Drug Policy (File C) - Drug Strategy III (2). Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-001, Drug Policy (File C) - Drug Strategy III (2).",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-001, Drug Policy (File C) - Drug Strategy III (2).",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802669. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -1258,7 +1310,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2)"
   },
   {
     "id": "gap-472802379",
@@ -1285,8 +1339,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08373",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-012, Drugs Issue - Drug Czar [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-012, Drugs Issue - Drug Czar [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-012, Drugs Issue - Drug Czar [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-012, Drugs Issue - Drug Czar [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802379. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-08373-012.pdf, object ID 612851465, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-012.pdf. Catalog subjects: FOIA 2023-1229-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1334,7 +1388,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Drugs Issue - Drug Czar [1]"
   },
   {
     "id": "gap-472802380",
@@ -1361,8 +1417,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08373",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-013, Drugs Issue - Drug Czar [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-013, Drugs Issue - Drug Czar [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-013, Drugs Issue - Drug Czar [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-013, Drugs Issue - Drug Czar [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802380. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-08373-013.pdf, object ID 612851466, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-013.pdf. Catalog subjects: FOIA 2023-1229-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1410,7 +1466,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Drugs Issue - Drug Czar [2]"
   },
   {
     "id": "gap-472802381",
@@ -1437,8 +1495,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08373",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-014, Drugs Issue - Drug Czar [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-014, Drugs Issue - Drug Czar [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-014, Drugs Issue - Drug Czar [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 08373-014, Drugs Issue - Drug Czar [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802381. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-08373-014.pdf, object ID 612851467, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-08373-014.pdf. Catalog subjects: FOIA 2023-1229-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1483,7 +1541,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Drugs Issue - Drug Czar [3]"
   },
   {
     "id": "gap-472802872",
@@ -1510,8 +1570,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-008, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-008, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-008, National Drug Control Strategy 1-2 and 3 [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-008, National Drug Control Strategy 1-2 and 3 [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802872. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1524,7 +1584,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [1]"
   },
   {
     "id": "gap-472802868",
@@ -1551,8 +1613,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-004, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-004, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-004, National Drug Control Strategy 1-2 and 3 [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-004, National Drug Control Strategy 1-2 and 3 [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802868. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1565,7 +1627,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [1]"
   },
   {
     "id": "gap-472802866",
@@ -1592,8 +1656,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-002, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-002, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-002, National Drug Control Strategy 1-2 and 3 [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-002, National Drug Control Strategy 1-2 and 3 [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802866. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1606,7 +1670,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [1]"
   },
   {
     "id": "gap-472802880",
@@ -1633,8 +1699,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-016, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-016, National Drug Control Strategy 1-2 and 3 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-016, National Drug Control Strategy 1-2 and 3 [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-016, National Drug Control Strategy 1-2 and 3 [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802880. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1647,7 +1713,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [1]"
   },
   {
     "id": "gap-472802869",
@@ -1674,8 +1742,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-005, National Drug Control Strategy 1-2 and 3 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-005, National Drug Control Strategy 1-2 and 3 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-005, National Drug Control Strategy 1-2 and 3 [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-005, National Drug Control Strategy 1-2 and 3 [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802869. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1688,7 +1756,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [2]"
   },
   {
     "id": "gap-472802881",
@@ -1715,8 +1785,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-017, National Drug Control Strategy 1-2 and 3 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-017, National Drug Control Strategy 1-2 and 3 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-017, National Drug Control Strategy 1-2 and 3 [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-017, National Drug Control Strategy 1-2 and 3 [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802881. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1729,7 +1799,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [2]"
   },
   {
     "id": "gap-472802873",
@@ -1756,8 +1828,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-009, National Drug Control Strategy 1-2 and 3 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-009, National Drug Control Strategy 1-2 and 3 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-009, National Drug Control Strategy 1-2 and 3 [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-009, National Drug Control Strategy 1-2 and 3 [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802873. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1770,7 +1842,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [2]"
   },
   {
     "id": "gap-472802870",
@@ -1797,8 +1871,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-006, National Drug Control Strategy 1-2 and 3 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-006, National Drug Control Strategy 1-2 and 3 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-006, National Drug Control Strategy 1-2 and 3 [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-006, National Drug Control Strategy 1-2 and 3 [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802870. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1811,7 +1885,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [3]"
   },
   {
     "id": "gap-472802874",
@@ -1838,8 +1914,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-010, National Drug Control Strategy 1-2 and 3 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-010, National Drug Control Strategy 1-2 and 3 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-010, National Drug Control Strategy 1-2 and 3 [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-010, National Drug Control Strategy 1-2 and 3 [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802874. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1852,7 +1928,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [3]"
   },
   {
     "id": "gap-472802882",
@@ -1879,8 +1957,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-018, National Drug Control Strategy 1-2 and 3 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-018, National Drug Control Strategy 1-2 and 3 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-018, National Drug Control Strategy 1-2 and 3 [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-018, National Drug Control Strategy 1-2 and 3 [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802882. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1893,7 +1971,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [3]"
   },
   {
     "id": "gap-472802875",
@@ -1920,8 +2000,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-011, National Drug Control Strategy 1-2 and 3 [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-011, National Drug Control Strategy 1-2 and 3 [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-011, National Drug Control Strategy 1-2 and 3 [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-011, National Drug Control Strategy 1-2 and 3 [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802875. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -1935,7 +2015,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [4]"
   },
   {
     "id": "gap-472802883",
@@ -1962,8 +2044,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-019, National Drug Control Strategy 1-2 and 3 [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-019, National Drug Control Strategy 1-2 and 3 [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-019, National Drug Control Strategy 1-2 and 3 [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-019, National Drug Control Strategy 1-2 and 3 [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802883. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy"
@@ -1975,7 +2057,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [4]"
   },
   {
     "id": "gap-472802871",
@@ -2002,8 +2086,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-007, National Drug Control Strategy 1-2 and 3 [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-007, National Drug Control Strategy 1-2 and 3 [4]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-007, National Drug Control Strategy 1-2 and 3 [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-007, National Drug Control Strategy 1-2 and 3 [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802871. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Control"
@@ -2015,7 +2099,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [4]"
   },
   {
     "id": "gap-472802884",
@@ -2042,8 +2128,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-020, National Drug Control Strategy 1-2 and 3 [5]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-020, National Drug Control Strategy 1-2 and 3 [5]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-020, National Drug Control Strategy 1-2 and 3 [5].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-020, National Drug Control Strategy 1-2 and 3 [5].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802884. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy"
@@ -2055,7 +2141,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [5]"
   },
   {
     "id": "gap-472802876",
@@ -2082,8 +2170,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-012, National Drug Control Strategy 1-2 and 3 [5]: Drug Policy. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-012, National Drug Control Strategy 1-2 and 3 [5]: Drug Policy. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-012, National Drug Control Strategy 1-2 and 3 [5]: Drug Policy.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-012, National Drug Control Strategy 1-2 and 3 [5]: Drug Policy.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802876. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2098,7 +2186,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [5]: Drug Policy"
   },
   {
     "id": "gap-472802885",
@@ -2125,8 +2215,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-021, National Drug Control Strategy 1-2 and 3 [6]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-021, National Drug Control Strategy 1-2 and 3 [6]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-021, National Drug Control Strategy 1-2 and 3 [6].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-021, National Drug Control Strategy 1-2 and 3 [6].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802885. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2139,7 +2229,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [6]"
   },
   {
     "id": "gap-472802878",
@@ -2166,8 +2258,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-014, National Drug Control Strategy 1-2 and 3 [7]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-014, National Drug Control Strategy 1-2 and 3 [7]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-014, National Drug Control Strategy 1-2 and 3 [7].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-014, National Drug Control Strategy 1-2 and 3 [7].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802878. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2180,7 +2272,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [7]"
   },
   {
     "id": "gap-472802886",
@@ -2207,8 +2301,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-022, National Drug Control Strategy 1-2 and 3 [7]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-022, National Drug Control Strategy 1-2 and 3 [7]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-022, National Drug Control Strategy 1-2 and 3 [7].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-022, National Drug Control Strategy 1-2 and 3 [7].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802886. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Control"
@@ -2220,7 +2314,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [7]"
   },
   {
     "id": "gap-472802887",
@@ -2247,8 +2343,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03167",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-023, National Drug Control Strategy 1-2 and 3 [8]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), John A. Schall Subject Files, OA/ID 03167-023, National Drug Control Strategy 1-2 and 3 [8]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-023, National Drug Control Strategy 1-2 and 3 [8].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, John A. Schall Subject Files, OA/ID 03167-023, National Drug Control Strategy 1-2 and 3 [8].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802887. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2195760. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy"
@@ -2260,7 +2356,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "National Drug Control Strategy 1-2 and 3 [8]"
   },
   {
     "id": "gap-492074572",
@@ -2287,8 +2385,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "45633",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), Gene C. Schaerr Subject Files, OA/ID 45633-006, ONDCP [Office of National Drug Control Policy] - Drug Strategy. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), Gene C. Schaerr Subject Files, OA/ID 45633-006, ONDCP [Office of National Drug Control Policy] - Drug Strategy. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, Gene C. Schaerr Subject Files, OA/ID 45633-006, ONDCP [Office of National Drug Control Policy] - Drug Strategy.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, Gene C. Schaerr Subject Files, OA/ID 45633-006, ONDCP [Office of National Drug Control Policy] - Drug Strategy.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492074572. Collection URL: https://catalog.archives.gov/id/922149. Series URL: https://catalog.archives.gov/id/1225091. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush, 2023-1302-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy"
@@ -2300,7 +2398,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Counsel to the President",
+    "sourceFolder": "ONDCP [Office of National Drug Control Policy] - Drug Strategy"
   },
   {
     "id": "gap-470760907",
@@ -2327,8 +2427,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90001",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-004, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-004, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-004, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-004, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470760907. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312293887. Digital object: 41-bpr-nsc-hfiles-nsc_mtgs-20_1-90001-004.pdf, object ID 483296391, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-20_1-90001-004.pdf. Catalog subjects: FOIA 2005-1003-F, 2009-0857-F; Finding aid Pres-Bush, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2343,7 +2443,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [1]"
   },
   {
     "id": "gap-492061171",
@@ -2370,8 +2472,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-011, 8/15/89 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Outline of Options for Domestic Policy Liberalization and their link to GATT, and the National Drug Control Strategy Status Report]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-011, 8/15/89 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Outline of Options for Domestic Policy Liberalization and their link to GATT, and the National Drug Control Strategy Status Report]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-011, 8/15/89 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Outline of Options for Domestic Policy Liberalization and their link to GATT, and the National Drug Control Strategy Status Report].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-011, 8/15/89 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Outline of Options for Domestic Policy Liberalization and their link to GATT, and the National Drug Control Strategy Status Report].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061171. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2385,7 +2487,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "8/15/89 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Outline of Options for Domestic Policy Liberalization and their link to GATT, and the National Drug Control Strategy Status Report]"
   },
   {
     "id": "gap-492061174",
@@ -2412,8 +2516,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-014, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-014, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-014, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-014, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061174. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush, 2017-0080-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2428,7 +2532,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [1]"
   },
   {
     "id": "gap-492061175",
@@ -2455,8 +2561,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-015, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-015, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-015, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-015, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061175. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2471,7 +2577,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [2]"
   },
   {
     "id": "gap-492061176",
@@ -2498,8 +2606,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-016, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-016, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-016, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-016, 8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061176. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2514,7 +2622,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "8/4/89 (2:00-4:00 p.m.) Domestic Policy Council Meeting - RR re: Drug Policy Strategy [Agenda and Issues for Consideration, Draft of the National Drug Control Strategy] [3]"
   },
   {
     "id": "gap-446396832",
@@ -2542,8 +2652,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90003",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, National Security Directives (NSD) Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, National Security Directives (NSD) Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, National Security Directives (NSD) Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, National Security Directives (NSD) Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/446396832. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/313189290. Digital object: 41-bpr-nsc-hfiles-nsd-18-90003-023.pdf, object ID 483296477, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-18-90003-023.pdf. Catalog subjects: Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2558,7 +2668,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSD-18 - August 21, 1989 - International Counternarcotics Strategy"
   },
   {
     "id": "gap-702362",
@@ -2585,8 +2697,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "29152",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-006, National Drug Control Strategy (1990) [1989] [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-006, National Drug Control Strategy (1990) [1989] [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-006, National Drug Control Strategy (1990) [1989] [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-006, National Drug Control Strategy (1990) [1989] [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/702362. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29152-006.pdf, object ID 619451138, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-006.pdf. Catalog subjects: FOIA 1998-0004-F, 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2631,7 +2743,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "National Drug Control Strategy (1990) [1989] [1]"
   },
   {
     "id": "gap-702363",
@@ -2658,8 +2772,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "29152",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-007, National Drug Control Strategy (1990) [1989] [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-007, National Drug Control Strategy (1990) [1989] [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-007, National Drug Control Strategy (1990) [1989] [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-007, National Drug Control Strategy (1990) [1989] [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/702363. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29152-007.pdf, object ID 619451139, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-007.pdf. Catalog subjects: FOIA 2010-1073-F, 1998-0004-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2704,7 +2818,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "National Drug Control Strategy (1990) [1989] [2]"
   },
   {
     "id": "gap-702364",
@@ -2731,8 +2847,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "29152",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-008, National Drug Control Strategy (1990) [1989] [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-008, National Drug Control Strategy (1990) [1989] [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-008, National Drug Control Strategy (1990) [1989] [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29152-008, National Drug Control Strategy (1990) [1989] [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/702364. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29152-008.pdf, object ID 619451140, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29152-008.pdf. Catalog subjects: FOIA 1998-0004-F, 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2777,7 +2893,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "National Drug Control Strategy (1990) [1989] [3]"
   },
   {
     "id": "gap-470761025",
@@ -2804,8 +2922,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90011",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-004, NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-004, NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-004, NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-004, NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761025. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf, object ID 483296205, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf. Catalog subjects: FOIA 2005-0995-F, 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: narcotics",
@@ -2819,7 +2937,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba"
   },
   {
     "id": "gap-470761052",
@@ -2847,8 +2967,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90012",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761052. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf, object ID 483296233, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -2869,7 +2989,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs"
   },
   {
     "id": "gap-470761063",
@@ -2896,8 +3018,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90012",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-017, NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-017, NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-017, NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-017, NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761063. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf, object ID 483296244, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -2918,7 +3040,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs"
   },
   {
     "id": "gap-702684",
@@ -2945,8 +3069,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "29186",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-005, Bennett (Drug Control) (1990). Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-005, Bennett (Drug Control) (1990). Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-005, Bennett (Drug Control) (1990).",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-005, Bennett (Drug Control) (1990).",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/702684. Series URL: https://catalog.archives.gov/id/580521. Digital object: 41-bpr-whcos-sununu-ca-29186-005.pdf, object ID 619451432, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29186-005.pdf. Catalog subjects: FOIA 1998-0004-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -2992,7 +3116,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Bennett (Drug Control) (1990)"
   },
   {
     "id": "gap-492061183",
@@ -3019,8 +3145,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-023, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-023, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-023, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-023, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061183. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -3035,7 +3161,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [1]"
   },
   {
     "id": "gap-492061184",
@@ -3062,8 +3190,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-024, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-024, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-024, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-024, 1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061184. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -3078,7 +3206,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "1/9/90 (2:15 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy [Report titled: The second National Drug Control Strategy (Strategy II) Issues For DPC Consideration] [2]"
   },
   {
     "id": "gap-470761079",
@@ -3106,8 +3236,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90013",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761079. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf, object ID 483296260, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: narcotics",
@@ -3125,7 +3255,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit"
   },
   {
     "id": "gap-597640513",
@@ -3153,8 +3285,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640513. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: Finding aid 2013-0065-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3166,7 +3298,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 097159 Scanned"
   },
   {
     "id": "gap-597640514",
@@ -3194,8 +3328,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640514. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3207,7 +3341,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 114529 Scanned"
   },
   {
     "id": "gap-597640515",
@@ -3235,8 +3371,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114980 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114980 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114980 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114980 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640515. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: Finding aid 2013-0065-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3248,7 +3384,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 114980 Scanned"
   },
   {
     "id": "gap-597640516",
@@ -3276,8 +3414,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 116972 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 116972 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 116972 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 116972 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640516. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3289,7 +3427,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 116972 Scanned"
   },
   {
     "id": "gap-597640517",
@@ -3317,8 +3457,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 117654 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 117654 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 117654 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 117654 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640517. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F, 2010-1073-F, 2001-0870-F; Finding aid 2013-0065-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3330,7 +3470,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 117654 Scanned"
   },
   {
     "id": "gap-597640518",
@@ -3358,8 +3500,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 119827 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 119827 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 119827 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 119827 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640518. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3371,7 +3513,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 119827 Scanned"
   },
   {
     "id": "gap-597640519",
@@ -3399,8 +3543,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 124624 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 124624 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 124624 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 124624 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640519. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3412,7 +3556,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 124624 Scanned"
   },
   {
     "id": "gap-597641119",
@@ -3440,8 +3586,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641119. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F, 2012-3211-F; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3453,7 +3599,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 127001 C.F."
   },
   {
     "id": "gap-597641120",
@@ -3481,8 +3629,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001SS C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001SS C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001SS C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001SS C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641120. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F, 2012-3211-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3494,7 +3642,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 127001SS C.F."
   },
   {
     "id": "gap-597641121",
@@ -3522,8 +3672,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 131733 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 131733 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 131733 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 131733 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641121. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3535,7 +3685,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 131733 C.F."
   },
   {
     "id": "gap-597641122",
@@ -3563,8 +3715,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133577 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133577 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133577 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133577 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641122. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2012-3211-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3576,7 +3728,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 133577 C.F."
   },
   {
     "id": "gap-597641123",
@@ -3604,8 +3758,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133758 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133758 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133758 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 133758 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641123. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2012-3211-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3617,7 +3771,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 133758 C.F."
   },
   {
     "id": "gap-597641124",
@@ -3645,8 +3801,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 134575 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 134575 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 134575 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 134575 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641124. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: Finding aid 2013-0065-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3658,7 +3814,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 134575 C.F."
   },
   {
     "id": "gap-597641125",
@@ -3686,8 +3844,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 162647 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 162647 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 162647 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 162647 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641125. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2012-3211-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3699,7 +3857,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 162647 C.F."
   },
   {
     "id": "gap-597641126",
@@ -3727,8 +3887,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 165177 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 165177 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 165177 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 165177 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641126. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2005-0992-F, 2004-0722-F, 2009-0704-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3740,7 +3900,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 165177 C.F."
   },
   {
     "id": "gap-597641127",
@@ -3768,8 +3930,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 168575 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 168575 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 168575 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 168575 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641127. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F, 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3781,7 +3943,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 168575 C.F."
   },
   {
     "id": "gap-597641129",
@@ -3809,8 +3973,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 171697 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 171697 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 171697 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 171697 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641129. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2005-0992-F, 2004-0722-F, 2009-0704-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3822,7 +3986,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 171697 C.F."
   },
   {
     "id": "gap-597641130",
@@ -3850,8 +4016,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 172318 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 172318 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 172318 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 172318 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641130. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: FOIA 2009-0704-F; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3863,7 +4029,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 172318 C.F."
   },
   {
     "id": "gap-597641131",
@@ -3891,8 +4059,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 206410 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 206410 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 206410 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 206410 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641131. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: Finding aid 2013-0065-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3904,7 +4072,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Number 206410 C.F."
   },
   {
     "id": "gap-597641128",
@@ -3932,8 +4102,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Numbers 169925 to 170633 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Numbers 169925 to 170633 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Numbers 169925 to 170633 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Numbers 169925 to 170633 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597641128. Series URL: https://catalog.archives.gov/id/498171302. Catalog subjects: Finding aid 2013-0065-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit Colombia: Case"
@@ -3945,7 +4115,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Cartagena/Andean drug summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-05 Case Numbers 169925 to 170633 C.F."
   },
   {
     "id": "gap-472802676",
@@ -3970,8 +4142,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-008, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy 3: W. g. mtg #1 - Oct. 22, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-008, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy 3: W. g. mtg #1 - Oct. 22, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-008, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy 3: W. g. mtg #1 - Oct. 22, 1990.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-008, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy 3: W. g. mtg #1 - Oct. 22, 1990.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802676. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Information"
@@ -3983,7 +4155,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2): Drug Strategy 3: W. g. mtg #1 - Oct. 22, 1990"
   },
   {
     "id": "gap-472802675",
@@ -4008,8 +4182,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-007, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III \"SHOOTDOWN\" Briefing - Oc. 26, 1990 (Fri) 1230-2PM Rm 208. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-007, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III \"SHOOTDOWN\" Briefing - Oc. 26, 1990 (Fri) 1230-2PM Rm 208. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-007, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III \"SHOOTDOWN\" Briefing - Oc. 26, 1990 (Fri) 1230-2PM Rm 208.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-007, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III \"SHOOTDOWN\" Briefing - Oc. 26, 1990 (Fri) 1230-2PM Rm 208.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802675. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Information"
@@ -4021,7 +4195,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III \"SHOOTDOWN\" Briefing - Oc. 26, 1990 (Fri) 1230-2PM Rm 208"
   },
   {
     "id": "gap-472802674",
@@ -4046,8 +4222,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-006, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy Mtg #2 - Nov. 5, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-006, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy Mtg #2 - Nov. 5, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-006, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy Mtg #2 - Nov. 5, 1990.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-006, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy Mtg #2 - Nov. 5, 1990.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802674. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -4060,7 +4236,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2): Drug Strategy Mtg #2 - Nov. 5, 1990"
   },
   {
     "id": "gap-472802673",
@@ -4085,8 +4263,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-005, Drug Policy (File C) - Drug Strategy III (2): Drug Work Grp Mtg #3 - Nov. 16, 1990 (Fri) 10:30AM Rm 324. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-005, Drug Policy (File C) - Drug Strategy III (2): Drug Work Grp Mtg #3 - Nov. 16, 1990 (Fri) 10:30AM Rm 324. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-005, Drug Policy (File C) - Drug Strategy III (2): Drug Work Grp Mtg #3 - Nov. 16, 1990 (Fri) 10:30AM Rm 324.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-005, Drug Policy (File C) - Drug Strategy III (2): Drug Work Grp Mtg #3 - Nov. 16, 1990 (Fri) 10:30AM Rm 324.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802673. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Information"
@@ -4098,7 +4276,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2): Drug Work Grp Mtg #3 - Nov. 16, 1990 (Fri) 10:30AM Rm 324"
   },
   {
     "id": "gap-472802671",
@@ -4123,8 +4303,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-003, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-003, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-003, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-003, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802671. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -4137,7 +4317,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [1]"
   },
   {
     "id": "gap-472802672",
@@ -4162,8 +4344,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-004, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-004, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-004, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-004, Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802672. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Information"
@@ -4175,7 +4357,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2): Drug Strategy III -Nov. 26, 1990 (Mon) 1030-1200 Rm 324 [2]"
   },
   {
     "id": "gap-472802670",
@@ -4200,8 +4384,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04793",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-002, Drug Policy (File C) - Drug Strategy III (2): Deputy Secretaries Mtg. Drug Strategy III - 11:00 Roosevelt Rm. Mon, Dec. 3, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04793-002, Drug Policy (File C) - Drug Strategy III (2): Deputy Secretaries Mtg. Drug Strategy III - 11:00 Roosevelt Rm. Mon, Dec. 3, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-002, Drug Policy (File C) - Drug Strategy III (2): Deputy Secretaries Mtg. Drug Strategy III - 11:00 Roosevelt Rm. Mon, Dec. 3, 1990.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04793-002, Drug Policy (File C) - Drug Strategy III (2): Deputy Secretaries Mtg. Drug Strategy III - 11:00 Roosevelt Rm. Mon, Dec. 3, 1990.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802670. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Information"
@@ -4213,7 +4397,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File C) - Drug Strategy III (2): Deputy Secretaries Mtg. Drug Strategy III - 11:00 Roosevelt Rm. Mon, Dec. 3, 1990"
   },
   {
     "id": "gap-492061200",
@@ -4240,8 +4426,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-040, 12/10/90 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Errata, Paper on - Progress, Controversial Issues and Issues to Consider]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-040, 12/10/90 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Errata, Paper on - Progress, Controversial Issues and Issues to Consider]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-040, 12/10/90 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Errata, Paper on - Progress, Controversial Issues and Issues to Consider].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-040, 12/10/90 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Errata, Paper on - Progress, Controversial Issues and Issues to Consider].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061200. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -4255,7 +4441,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "12/10/90 (2:00 p.m.) Domestic Policy Council Meeting re: National Drug Control Strategy - Cabinet Room [Errata, Paper on - Progress, Controversial Issues and Issues to Consider]"
   },
   {
     "id": "gap-492061199",
@@ -4282,8 +4470,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-039, 12/13/90 Domestic Policy Council Meeting with President re: National Drug Control Strategy - Cabinet Room [National Objectives, Progress, Report on the Third National Drug Control Strategy (Strategy III): Issues for Domestic Policy Council Consideration]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-039, 12/13/90 Domestic Policy Council Meeting with President re: National Drug Control Strategy - Cabinet Room [National Objectives, Progress, Report on the Third National Drug Control Strategy (Strategy III): Issues for Domestic Policy Council Consideration]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-039, 12/13/90 Domestic Policy Council Meeting with President re: National Drug Control Strategy - Cabinet Room [National Objectives, Progress, Report on the Third National Drug Control Strategy (Strategy III): Issues for Domestic Policy Council Consideration].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-039, 12/13/90 Domestic Policy Council Meeting with President re: National Drug Control Strategy - Cabinet Room [National Objectives, Progress, Report on the Third National Drug Control Strategy (Strategy III): Issues for Domestic Policy Council Consideration].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061199. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush, 2017-0080-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -4298,7 +4486,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "12/13/90 Domestic Policy Council Meeting with President re: National Drug Control Strategy - Cabinet Room [National Objectives, Progress, Report on the Third National Drug Control Strategy (Strategy III): Issues for Domestic Policy Council Consideration]"
   },
   {
     "id": "gap-492070555",
@@ -4325,8 +4515,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "45038",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), C. Boyden Gray Meeting Files, OA/ID 45038-026, DPC [Domestic Policy Council] [Meeting on] National Drug Control Policy [in the] Cabinet Room - December 13, 1990, 2:00 p.m. [Economic Policy Council- National Energy Strategy Meeting]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), C. Boyden Gray Meeting Files, OA/ID 45038-026, DPC [Domestic Policy Council] [Meeting on] National Drug Control Policy [in the] Cabinet Room - December 13, 1990, 2:00 p.m. [Economic Policy Council- National Energy Strategy Meeting]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, C. Boyden Gray Meeting Files, OA/ID 45038-026, DPC [Domestic Policy Council] [Meeting on] National Drug Control Policy [in the] Cabinet Room - December 13, 1990, 2:00 p.m. [Economic Policy Council- National Energy Strategy Meeting].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, C. Boyden Gray Meeting Files, OA/ID 45038-026, DPC [Domestic Policy Council] [Meeting on] National Drug Control Policy [in the] Cabinet Room - December 13, 1990, 2:00 p.m. [Economic Policy Council- National Energy Strategy Meeting].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492070555. Collection URL: https://catalog.archives.gov/id/922149. Series URL: https://catalog.archives.gov/id/951764. Catalog subjects: FOIA 2011-1613-F; Finding aid Pres-Bush, 2023-1148-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy"
@@ -4338,7 +4528,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Counsel to the President",
+    "sourceFolder": "DPC [Domestic Policy Council] [Meeting on] National Drug Control Policy [in the] Cabinet Room - December 13, 1990, 2:00 p.m. [Economic Policy Council- National Energy Strategy Meeting]"
   },
   {
     "id": "gap-702720",
@@ -4365,8 +4557,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "29189",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29189-005, Martinez (Drug Policy) [1991]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29189-005, Martinez (Drug Policy) [1991]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29189-005, Martinez (Drug Policy) [1991].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29189-005, Martinez (Drug Policy) [1991].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/702720. Series URL: https://catalog.archives.gov/id/580521. Digital object: 41-bpr-whcos-sununu-ca-29189-005.pdf, object ID 619451468, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29189-005.pdf. Catalog subjects: FOIA 1998-0004-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -4409,7 +4601,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Martinez (Drug Policy) [1991]"
   },
   {
     "id": "gap-492061205",
@@ -4436,8 +4630,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-045, 12/13/91 (10:00 am) Domestic Policy Council Meeting with President re: Drugs [Background Information, Agenda, and Paper on the Fourth National Drug Control Strategy: Issues for Consideration]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-045, 12/13/91 (10:00 am) Domestic Policy Council Meeting with President re: Drugs [Background Information, Agenda, and Paper on the Fourth National Drug Control Strategy: Issues for Consideration]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-045, 12/13/91 (10:00 am) Domestic Policy Council Meeting with President re: Drugs [Background Information, Agenda, and Paper on the Fourth National Drug Control Strategy: Issues for Consideration].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-045, 12/13/91 (10:00 am) Domestic Policy Council Meeting with President re: Drugs [Background Information, Agenda, and Paper on the Fourth National Drug Control Strategy: Issues for Consideration].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061205. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -4452,7 +4646,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "12/13/91 (10:00 am) Domestic Policy Council Meeting with President re: Drugs [Background Information, Agenda, and Paper on the Fourth National Drug Control Strategy: Issues for Consideration]"
   },
   {
     "id": "gap-470439285",
@@ -4480,8 +4676,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "21365",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-027, DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-027, DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-027, DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-027, DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470439285. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/2554916. Digital object: 41-bpr-nsc-howe-21365-027.pdf, object ID 651326678, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-027.pdf. Catalog subjects: Finding aid 2012-3127-S, Pres-Bush, Pres-Bush; Extent One legal file folder.. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -4499,7 +4695,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992"
   },
   {
     "id": "gap-470761360",
@@ -4527,8 +4725,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90021",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-025, NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-025, NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-025, NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-025, NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761360. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf, object ID 483296085, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -4545,7 +4743,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America"
   },
   {
     "id": "gap-597640551",
@@ -4572,8 +4772,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in San Antonio, Texas, FO006-15 Case Number Entire Category Processed Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in San Antonio, Texas, FO006-15 Case Number Entire Category Processed Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in San Antonio, Texas, FO006-15 Case Number Entire Category Processed Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in San Antonio, Texas, FO006-15 Case Number Entire Category Processed Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/597640551. Series URL: https://catalog.archives.gov/id/498171306. Catalog subjects: FOIA 1999-0472-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Drug Summit San Antonio: Case"
@@ -4585,7 +4785,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FO006-15 Case Number Entire Category Processed Scanned"
   },
   {
     "id": "gap-486208889",
@@ -4612,8 +4814,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "05491",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-007, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-007, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-007, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-007, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/486208889. Series URL: https://catalog.archives.gov/id/2363754. Catalog subjects: FOIA 2023-1229-F; Finding aid 2023-0015-S, Pres-Bush, 2016-2650-S. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -4625,7 +4827,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, First Lady's Office of Scheduling",
+    "sourceFolder": "Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [1]"
   },
   {
     "id": "gap-486208890",
@@ -4652,8 +4856,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "05491",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-008, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-008, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-008, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-008, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/486208890. Series URL: https://catalog.archives.gov/id/2363754. Catalog subjects: FOIA 2023-1229-F; Finding aid 2023-0015-S, 2016-2650-S. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -4665,7 +4869,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, First Lady's Office of Scheduling",
+    "sourceFolder": "Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [2]"
   },
   {
     "id": "gap-486208891",
@@ -4692,8 +4898,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "05491",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-009, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-009, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-009, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-009, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/486208891. Series URL: https://catalog.archives.gov/id/2363754. Catalog subjects: FOIA 2023-1229-F; Finding aid 2016-2650-S, 2023-0015-S, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -4705,7 +4911,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, First Lady's Office of Scheduling",
+    "sourceFolder": "Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [3]"
   },
   {
     "id": "gap-492080177",
@@ -4732,8 +4940,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "07113",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-028, 2/26/92 - 2/27/92 Narcotics Summit / San Antonio, Texas. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-028, 2/26/92 - 2/27/92 Narcotics Summit / San Antonio, Texas. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-028, 2/26/92 - 2/27/92 Narcotics Summit / San Antonio, Texas.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-028, 2/26/92 - 2/27/92 Narcotics Summit / San Antonio, Texas.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492080177. Series URL: https://catalog.archives.gov/id/2596211. Catalog subjects: FOIA 1999-0472-F; Finding aid Pres-Bush, 2016-2650-S. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -4745,7 +4953,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Social Office",
+    "sourceFolder": "2/26/92 - 2/27/92 Narcotics Summit / San Antonio, Texas"
   },
   {
     "id": "gap-492080178",
@@ -4773,8 +4983,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "07113",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492080178. Series URL: https://catalog.archives.gov/id/2596211. Catalog subjects: FOIA 1999-0472-F; Finding aid 2016-2650-S, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -4786,7 +4996,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Social Office",
+    "sourceFolder": "2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico"
   },
   {
     "id": "gap-492080179",
@@ -4813,8 +5025,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "07113",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-030, 2/27/92 San Antonio Narcotics Summit / Luncheon McNay Museum. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-030, 2/27/92 San Antonio Narcotics Summit / Luncheon McNay Museum. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-030, 2/27/92 San Antonio Narcotics Summit / Luncheon McNay Museum.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-030, 2/27/92 San Antonio Narcotics Summit / Luncheon McNay Museum.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492080179. Series URL: https://catalog.archives.gov/id/2596211. Catalog subjects: FOIA 1999-0472-F; Finding aid Pres-Bush, 2016-2650-S. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -4826,7 +5038,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "San Antonio summit anchor",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Social Office",
+    "sourceFolder": "2/27/92 San Antonio Narcotics Summit / Luncheon McNay Museum"
   },
   {
     "id": "gap-470439301",
@@ -4853,8 +5067,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "21365",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-043, DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-043, DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-043, DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-043, DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470439301. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/2554916. Digital object: 41-bpr-nsc-howe-21365-043.pdf, object ID 651326694, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-043.pdf. Catalog subjects: Finding aid 2012-3127-S, Pres-Bush, Pres-Bush; Extent One legal file folder.. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "National Drug Control Strategy",
@@ -4869,7 +5083,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "National Drug Control Strategy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992"
   },
   {
     "id": "gap-472436359",
@@ -4896,8 +5112,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "CF01278",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Gary R. Blumenthal Subject Files, OA/ID CF01278-011, [Pan Am 103 Investigation]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Gary R. Blumenthal Subject Files, OA/ID CF01278-011, [Pan Am 103 Investigation]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Gary R. Blumenthal Subject Files, OA/ID CF01278-011, [Pan Am 103 Investigation].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Gary R. Blumenthal Subject Files, OA/ID CF01278-011, [Pan Am 103 Investigation].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472436359. Collection URL: https://catalog.archives.gov/id/2133275. Series URL: https://catalog.archives.gov/id/2191660. Catalog subjects: Finding aid 2023-0133-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103"
@@ -4909,7 +5125,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Cabinet Affairs",
+    "sourceFolder": "[Pan Am 103 Investigation]"
   },
   {
     "id": "gap-563878757",
@@ -4937,8 +5155,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878757. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -4950,7 +5168,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 065180 C.F."
   },
   {
     "id": "gap-285343774",
@@ -4978,8 +5198,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/285343774. Series URL: https://catalog.archives.gov/id/498171441. Digital object: 41-JL003-03-094393.pdf, object ID 285343775, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-094393.pdf. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -4991,7 +5211,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 094393 Unscanned"
   },
   {
     "id": "gap-563878759",
@@ -5019,8 +5241,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878759. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5032,7 +5254,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 094393 Unscanned"
   },
   {
     "id": "gap-285343776",
@@ -5060,8 +5284,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/285343776. Series URL: https://catalog.archives.gov/id/498171441. Digital object: 41-JL003-03-094433.pdf, object ID 285343777, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-094433.pdf. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5073,7 +5297,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 094433 Unscanned"
   },
   {
     "id": "gap-563878758",
@@ -5101,8 +5327,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878758. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5114,7 +5340,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 094433 Unscanned"
   },
   {
     "id": "gap-285343768",
@@ -5142,8 +5370,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/285343768. Series URL: https://catalog.archives.gov/id/498171441. Digital object: 41-JL003-03-144399.pdf, object ID 285343769, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-144399.pdf. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5155,7 +5383,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 144399 Scanned"
   },
   {
     "id": "gap-563878752",
@@ -5183,8 +5413,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878752. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5196,7 +5426,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 144399 Scanned"
   },
   {
     "id": "gap-563878760",
@@ -5224,8 +5456,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878760. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5237,7 +5469,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 152503 Scanned"
   },
   {
     "id": "gap-563878756",
@@ -5265,8 +5499,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878756. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5278,7 +5512,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 258782 C.F."
   },
   {
     "id": "gap-285343772",
@@ -5306,8 +5542,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/285343772. Series URL: https://catalog.archives.gov/id/498171441. Digital object: 41-JL003-03-310240.pdf, object ID 285343773, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-310240.pdf. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5319,7 +5555,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 310240 Scanned"
   },
   {
     "id": "gap-563878754",
@@ -5347,8 +5585,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878754. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5360,7 +5598,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Number 310240 Scanned"
   },
   {
     "id": "gap-563878761",
@@ -5388,8 +5628,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 004708SS to 065180 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 004708SS to 065180 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 004708SS to 065180 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 004708SS to 065180 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878761. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: Finding aid 2019-1489-S, Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5401,7 +5641,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Numbers 004708SS to 065180 Scanned"
   },
   {
     "id": "gap-563878750",
@@ -5429,8 +5671,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 005858 to 091474SS C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 005858 to 091474SS C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 005858 to 091474SS C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 005858 to 091474SS C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878750. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: Finding aid Pres-Bush, 2019-1489-S; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5442,7 +5684,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Numbers 005858 to 091474SS C.F."
   },
   {
     "id": "gap-563878755",
@@ -5470,8 +5714,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 105118 to 223276 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 105118 to 223276 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 105118 to 223276 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 105118 to 223276 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878755. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: Finding aid Pres-Bush, 2019-1489-S; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5483,7 +5727,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Numbers 105118 to 223276 C.F."
   },
   {
     "id": "gap-563878753",
@@ -5511,8 +5757,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 124308 to 308864 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 124308 to 308864 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 124308 to 308864 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 124308 to 308864 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878753. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: Finding aid Pres-Bush, 2019-1489-S; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5524,7 +5770,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Numbers 124308 to 308864 Scanned"
   },
   {
     "id": "gap-563878751",
@@ -5552,8 +5800,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 258782 to 344463SS C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 258782 to 344463SS C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 258782 to 344463SS C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 258782 to 344463SS C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/563878751. Series URL: https://catalog.archives.gov/id/498171441. Catalog subjects: Finding aid Pres-Bush, 2019-1489-S; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Kidnapping/Hostages: Case"
@@ -5565,7 +5813,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "JL003-03 Case Numbers 258782 to 344463SS C.F."
   },
   {
     "id": "gap-472437518",
@@ -5592,8 +5842,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "06375",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Claire Sechler Subject Files, OA/ID 06375-013, Pan Am 103. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Claire Sechler Subject Files, OA/ID 06375-013, Pan Am 103. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Claire Sechler Subject Files, OA/ID 06375-013, Pan Am 103.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Claire Sechler Subject Files, OA/ID 06375-013, Pan Am 103.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472437518. Collection URL: https://catalog.archives.gov/id/2133275. Series URL: https://catalog.archives.gov/id/2193950. Catalog subjects: FOIA 1998-0034-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103"
@@ -5605,7 +5855,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Cabinet Affairs",
+    "sourceFolder": "Pan Am 103"
   },
   {
     "id": "gap-492072948",
@@ -5632,8 +5884,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "45347",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), Nelson Lund Subject Files, OA/ID 45347-009, Pan Am 103 Commission / FACA [Federal Advisory Committee Act]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), Nelson Lund Subject Files, OA/ID 45347-009, Pan Am 103 Commission / FACA [Federal Advisory Committee Act]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, Nelson Lund Subject Files, OA/ID 45347-009, Pan Am 103 Commission / FACA [Federal Advisory Committee Act].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, Nelson Lund Subject Files, OA/ID 45347-009, Pan Am 103 Commission / FACA [Federal Advisory Committee Act].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492072948. Collection URL: https://catalog.archives.gov/id/922149. Series URL: https://catalog.archives.gov/id/1136127. Catalog subjects: FOIA 1998-0034-F; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103"
@@ -5645,7 +5897,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Counsel to the President",
+    "sourceFolder": "Pan Am 103 Commission / FACA [Federal Advisory Committee Act]"
   },
   {
     "id": "gap-645609733",
@@ -5674,8 +5928,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31991",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-002, Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-002, Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-002, Terrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-002, Terrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609733. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31991-002.pdf, object ID 645609734, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31991-002.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Counterterrorism",
@@ -5693,7 +5947,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Terrorism"
   },
   {
     "id": "gap-645609261",
@@ -5720,8 +5976,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31965",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-007, Terrorism [A]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-007, Terrorism [A]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-007, Terrorism [A].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-007, Terrorism [A].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609261. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31965-007.pdf, object ID 645609262, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31965-007.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Terrorism",
@@ -5736,7 +5992,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Terrorism [A]"
   },
   {
     "id": "gap-645610191",
@@ -5764,8 +6022,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32016",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-006, Terrorism [A]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-006, Terrorism [A]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-006, Terrorism [A].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-006, Terrorism [A].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645610191. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32016-006.pdf, object ID 645610192, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32016-006.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Terrorism",
@@ -5781,7 +6039,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Terrorism [A]"
   },
   {
     "id": "gap-472436913",
@@ -5808,8 +6068,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03924",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-022, Transportation: Pan Am 103 / Aviation Security (1). Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-022, Transportation: Pan Am 103 / Aviation Security (1). Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-022, Transportation: Pan Am 103 / Aviation Security (1).",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-022, Transportation: Pan Am 103 / Aviation Security (1).",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472436913. Collection URL: https://catalog.archives.gov/id/2133275. Series URL: https://catalog.archives.gov/id/472234937. Catalog subjects: FOIA 1998-0034-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103",
@@ -5822,7 +6082,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Cabinet Affairs",
+    "sourceFolder": "Transportation: Pan Am 103 / Aviation Security (1)"
   },
   {
     "id": "gap-472436914",
@@ -5849,8 +6111,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03924",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-023, Transportation: Pan Am 103 / Aviation Security (2). Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-023, Transportation: Pan Am 103 / Aviation Security (2). Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-023, Transportation: Pan Am 103 / Aviation Security (2).",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-023, Transportation: Pan Am 103 / Aviation Security (2).",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472436914. Collection URL: https://catalog.archives.gov/id/2133275. Series URL: https://catalog.archives.gov/id/472234937. Catalog subjects: FOIA 1998-0034-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103",
@@ -5863,7 +6125,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Cabinet Affairs",
+    "sourceFolder": "Transportation: Pan Am 103 / Aviation Security (2)"
   },
   {
     "id": "gap-472436915",
@@ -5890,8 +6154,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03924",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-024, Transportation: Pan Am 103 / Aviation Security (3) [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-024, Transportation: Pan Am 103 / Aviation Security (3) [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-024, Transportation: Pan Am 103 / Aviation Security (3) [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-024, Transportation: Pan Am 103 / Aviation Security (3) [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472436915. Collection URL: https://catalog.archives.gov/id/2133275. Series URL: https://catalog.archives.gov/id/472234937. Catalog subjects: FOIA 1998-0034-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103",
@@ -5904,7 +6168,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Cabinet Affairs",
+    "sourceFolder": "Transportation: Pan Am 103 / Aviation Security (3) [1]"
   },
   {
     "id": "gap-472436916",
@@ -5931,8 +6197,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "03924",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-025, Transportation: Pan Am 103 / Aviation Security (3) [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-025, Transportation: Pan Am 103 / Aviation Security (3) [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-025, Transportation: Pan Am 103 / Aviation Security (3) [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-025, Transportation: Pan Am 103 / Aviation Security (3) [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472436916. Collection URL: https://catalog.archives.gov/id/2133275. Series URL: https://catalog.archives.gov/id/472234937. Catalog subjects: FOIA 1998-0034-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103",
@@ -5945,7 +6211,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Cabinet Affairs",
+    "sourceFolder": "Transportation: Pan Am 103 / Aviation Security (3) [2]"
   },
   {
     "id": "gap-470760915",
@@ -5972,8 +6240,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90001",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-012, NSC0025 - July 31, 1989 - Hostage Situation. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-012, NSC0025 - July 31, 1989 - Hostage Situation. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-012, NSC0025 - July 31, 1989 - Hostage Situation.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-012, NSC0025 - July 31, 1989 - Hostage Situation.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470760915. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312293887. Digital object: 41-bpr-nsc-hfiles-nsc_mtgs-25-90001-012.pdf, object ID 483296399, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-25-90001-012.pdf. Catalog subjects: FOIA 2005-1003-F, 2009-0857-F; Finding aid Pres-Bush, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Hostage"
@@ -5985,7 +6253,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC0025 - July 31, 1989 - Hostage Situation"
   },
   {
     "id": "gap-472802366",
@@ -6012,8 +6282,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "02718",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 02718-015, Pan Am 103 Commission. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 02718-015, Pan Am 103 Commission. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 02718-015, Pan Am 103 Commission.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 02718-015, Pan Am 103 Commission.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802366. Series URL: https://catalog.archives.gov/id/2103240. Digital object: bpr-cos-card-02718-015.pdf, object ID 612851289, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-02718-015.pdf. Catalog subjects: FOIA 1998-0034-F; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103 Commission"
@@ -6025,7 +6295,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Pan Am 103 Commission"
   },
   {
     "id": "gap-702471",
@@ -6052,8 +6324,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "29166",
     "releaseStatus": "Chief of Staff listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29166-001, Pan Am 103 Commission (1989). Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29166-001, Pan Am 103 Commission (1989). Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29166-001, Pan Am 103 Commission (1989).",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29166-001, Pan Am 103 Commission (1989).",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/702471. Series URL: https://catalog.archives.gov/id/580478. Digital object: 41-bpr-whcos-sununu-iss-29166-001.pdf, object ID 619451247, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29166-001.pdf. Catalog subjects: FOIA 1998-0004-F, 1998-0034-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103 Commission"
@@ -6065,7 +6337,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "Chief of Staff"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of the Chief of Staff",
+    "sourceFolder": "Pan Am 103 Commission (1989)"
   },
   {
     "id": "gap-470761028",
@@ -6092,8 +6366,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90011",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-007, NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-007, NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-007, NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-007, NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761028. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-54-90011-007.pdf, object ID 483296208, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-54-90011-007.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -6109,7 +6383,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 054 - September 13, 1989 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism"
   },
   {
     "id": "gap-470426187",
@@ -6136,8 +6412,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "CF01618",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, OA/ID CF01618-013, NSC/DC [Deputies Committee] Meeting - April 19, 1990 re: Hostage Situation. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, OA/ID CF01618-013, NSC/DC [Deputies Committee] Meeting - April 19, 1990 re: Hostage Situation. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, OA/ID CF01618-013, NSC/DC [Deputies Committee] Meeting - April 19, 1990 re: Hostage Situation.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, OA/ID CF01618-013, NSC/DC [Deputies Committee] Meeting - April 19, 1990 re: Hostage Situation.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470426187. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/2554866. Digital object: 41-bpr-nsc-haass_meeting-cf01618-013.pdf, object ID 627242313, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/haass/meeting_2554866/41-bpr-nsc-haass_meeting-cf01618-013.pdf. Catalog subjects: FOIA 2012-2230-F, 2004-0416-F; Finding aid Pres-Bush, 2012-3135-S; Extent One legal file folder.. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Hostage"
@@ -6149,7 +6425,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC [Deputies Committee] Meeting - April 19, 1990 re: Hostage Situation"
   },
   {
     "id": "gap-470761109",
@@ -6176,8 +6454,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90014",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-006, NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-006, NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-006, NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-006, NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761109. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-117-90014-006.pdf, object ID 483295812, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-117-90014-006.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: hostage",
@@ -6190,7 +6468,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 117 - April 20, 1990 - NSC/DC Meeting on Hostage situation via SVTS, Keywords: Hostages, Lebanon, Syria"
   },
   {
     "id": "gap-472437039",
@@ -6217,8 +6497,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "06380",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Michael P. Jackson Events Files, OA/ID 06380-059, Meeting with Pan Am 103 Commission, Tuesday, May 15, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Michael P. Jackson Events Files, OA/ID 06380-059, Meeting with Pan Am 103 Commission, Tuesday, May 15, 1990. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Michael P. Jackson Events Files, OA/ID 06380-059, Meeting with Pan Am 103 Commission, Tuesday, May 15, 1990.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Michael P. Jackson Events Files, OA/ID 06380-059, Meeting with Pan Am 103 Commission, Tuesday, May 15, 1990.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472437039. Collection URL: https://catalog.archives.gov/id/2133275. Series URL: https://catalog.archives.gov/id/2192925. Catalog subjects: FOIA 1998-0034-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103"
@@ -6230,7 +6510,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Cabinet Affairs",
+    "sourceFolder": "Meeting with Pan Am 103 Commission, Tuesday, May 15, 1990"
   },
   {
     "id": "gap-498156289",
@@ -6257,8 +6539,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "13153",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Press Secretary (George H. W. Bush Administration), Subject Files, OA/ID 13153-007, President's Commission on Aviation Security and Terrorism [5/15/90 Report – Post Pan Am 103]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Press Secretary (George H. W. Bush Administration), Subject Files, OA/ID 13153-007, President's Commission on Aviation Security and Terrorism [5/15/90 Report – Post Pan Am 103]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Press Secretary, Subject Files, OA/ID 13153-007, President's Commission on Aviation Security and Terrorism [5/15/90 Report – Post Pan Am 103].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Press Secretary, Subject Files, OA/ID 13153-007, President's Commission on Aviation Security and Terrorism [5/15/90 Report – Post Pan Am 103].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/498156289. Series URL: https://catalog.archives.gov/id/577077. Catalog subjects: Finding aid S, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -6270,7 +6552,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Press Secretary",
+    "sourceFolder": "President's Commission on Aviation Security and Terrorism [5/15/90 Report – Post Pan Am 103]"
   },
   {
     "id": "gap-518603150",
@@ -6297,8 +6581,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "27022",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Meetings Files, OA/ID 27022-006, 1/11/91 VP Meetings - Meeting with Former American Hostages Held in Kuwait. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Meetings Files, OA/ID 27022-006, 1/11/91 VP Meetings - Meeting with Former American Hostages Held in Kuwait. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Meetings Files, OA/ID 27022-006, 1/11/91 VP Meetings - Meeting with Former American Hostages Held in Kuwait.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Meetings Files, OA/ID 27022-006, 1/11/91 VP Meetings - Meeting with Former American Hostages Held in Kuwait.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/518603150. Collection URL: https://catalog.archives.gov/id/2579439. Series URL: https://catalog.archives.gov/id/2579573. Catalog subjects: FOIA 2004-0416-F, 2004-1289-F; Finding aid VP-Quayle, 2013-0362-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Hostages"
@@ -6310,7 +6594,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Hostage diplomacy anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Vice Presidential Records, Office of National Security Affairs",
+    "sourceFolder": "1/11/91 VP Meetings - Meeting with Former American Hostages Held in Kuwait"
   },
   {
     "id": "gap-470761250",
@@ -6337,8 +6623,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90018",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-021, NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-021, NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-021, NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-021, NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761250. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-244-90018-021.pdf, object ID 483295965, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-244-90018-021.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F, 2003-0261-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: terrorism",
@@ -6352,7 +6638,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 244 - January 14, 1991 - NSC/DC Meeting on War Risk Insurance, Keywords: Middle East Terrorism"
   },
   {
     "id": "gap-470761309",
@@ -6379,8 +6667,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90020",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-009, NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-009, NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-009, NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-009, NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761309. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-290-90020-009.pdf, object ID 483296030, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-290-90020-009.pdf. Catalog subjects: FOIA 2005-0575-F, 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -6400,7 +6688,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 290 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103, Terrorism, Libya"
   },
   {
     "id": "gap-470761320",
@@ -6427,8 +6717,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90020",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-020, NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-020, NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-020, NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-020, NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761320. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-298-90020-020.pdf, object ID 483296041, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-298-90020-020.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: pan am"
@@ -6440,7 +6730,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 298 - June 27, 1991 - NSC/DC Meeting on Pan Am 103 Investigation, Keywords: Pan Am 103"
   },
   {
     "id": "gap-470761485",
@@ -6467,8 +6759,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90043",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-021, DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-021, DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-021, DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-021, DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761485. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-021.pdf, object ID 483296285, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-021.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Follow-Up: pan am"
@@ -6480,7 +6772,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC Meeting 10/8/91 11:00 am Room 208 Pan Am 103"
   },
   {
     "id": "gap-470761486",
@@ -6507,8 +6801,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90043",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-022, DC Meeting 10/11/91 3:00 Room 208 Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-022, DC Meeting 10/11/91 3:00 Room 208 Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-022, DC Meeting 10/11/91 3:00 Room 208 Pan Am 103.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-022, DC Meeting 10/11/91 3:00 Room 208 Pan Am 103.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761486. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-022.pdf, object ID 483296286, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-022.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Follow-Up: terrorist",
@@ -6521,7 +6815,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC Meeting 10/11/91 3:00 Room 208 Pan Am 103"
   },
   {
     "id": "gap-470760967",
@@ -6548,8 +6844,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90002",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-029, NSC0059 - October 18, 1991 - Pan Am 103, Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-029, NSC0059 - October 18, 1991 - Pan Am 103, Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-029, NSC0059 - October 18, 1991 - Pan Am 103, Terrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-029, NSC0059 - October 18, 1991 - Pan Am 103, Terrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470760967. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312293887. Digital object: 41-bpr-nsc-hfiles-nsc_mtgs-59-90002-029.pdf, object ID 483296454, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-59-90002-029.pdf. Catalog subjects: FOIA 2005-1003-F, 2009-0857-F; Finding aid Pres-Bush, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Terrorism",
@@ -6563,7 +6859,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC0059 - October 18, 1991 - Pan Am 103, Terrorism"
   },
   {
     "id": "gap-470761338",
@@ -6590,8 +6888,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90021",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-003, NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-003, NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-003, NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-003, NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761338. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-315-90021-003.pdf, object ID 483296061, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-315-90021-003.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-0030-F, 2008-1289-F, 2009-0784-F, 2009-0786-F, 2009-1293-F, 2009-0790-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: terrorism",
@@ -6605,7 +6903,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 315 - October 23, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103, Terrorism, Great Britain, France"
   },
   {
     "id": "gap-470761487",
@@ -6632,8 +6932,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90043",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-023, DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-023, DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-023, DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-023, DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761487. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-023.pdf, object ID 483296287, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-023.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Follow-Up: pan am"
@@ -6645,7 +6945,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC Meeting 11/8/91 3:00 pm Room 208 Pan Am 103"
   },
   {
     "id": "gap-470760968",
@@ -6672,8 +6974,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90002",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-030, NSC0060 - November 19, 1991 - Pan Am 103, Terrorism, Libya, Great Britain. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-030, NSC0060 - November 19, 1991 - Pan Am 103, Terrorism, Libya, Great Britain. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-030, NSC0060 - November 19, 1991 - Pan Am 103, Terrorism, Libya, Great Britain.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90002-030, NSC0060 - November 19, 1991 - Pan Am 103, Terrorism, Libya, Great Britain.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470760968. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312293887. Digital object: 41-bpr-nsc-hfiles-nsc_mtgs-60-90002-030.pdf, object ID 483296456, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-60-90002-030.pdf. Catalog subjects: FOIA 2005-1003-F, 2009-0790-F, 2009-0857-F, 2009-1293-F, 2009-0786-F; Finding aid Pres-Bush, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Terrorism",
@@ -6686,7 +6988,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC0060 - November 19, 1991 - Pan Am 103, Terrorism, Libya, Great Britain"
   },
   {
     "id": "gap-470761346",
@@ -6713,8 +7017,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90021",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-011, NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-011, NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-011, NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-011, NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761346. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-323-90021-011.pdf, object ID 483296070, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-323-90021-011.pdf. Catalog subjects: FOIA 2005-1002-F, 2005-0575-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counter terrorism",
@@ -6732,7 +7036,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 323 - December 2, 1991 - NSC/DC Meeting re: Libyan-Sanctions for Pan Am 103, Keywords: Libya, Pan Am 103, Sanctions"
   },
   {
     "id": "gap-470439262",
@@ -6759,8 +7065,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "21365",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-004, DC [Deputies Committee Meeting], re: Pan Am 103 - December 19, 1991. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-004, DC [Deputies Committee Meeting], re: Pan Am 103 - December 19, 1991. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-004, DC [Deputies Committee Meeting], re: Pan Am 103 - December 19, 1991.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-004, DC [Deputies Committee Meeting], re: Pan Am 103 - December 19, 1991.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470439262. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/2554916. Digital object: 41-bpr-nsc-howe-21365-004.pdf, object ID 651326655, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-004.pdf. Catalog subjects: Finding aid Pres-Bush, 2012-3127-S, Pres-Bush; Extent One legal file folder.. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Pan Am 103"
@@ -6772,7 +7078,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC [Deputies Committee Meeting], re: Pan Am 103 - December 19, 1991"
   },
   {
     "id": "gap-470761352",
@@ -6799,8 +7107,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90021",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-017, NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-017, NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-017, NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-017, NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761352. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-329-90021-017.pdf, object ID 483296076, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-329-90021-017.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: terrorism",
@@ -6814,7 +7122,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Pan Am 103/aviation security anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 329 - December 19, 1991 - NSC/DC Meeting re: Pan Am 103, Keywords: Pan Am 103"
   },
   {
     "id": "gap-470761506",
@@ -6839,8 +7149,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90043",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-042, Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-042, Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-042, Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-042, Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761506. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf, object ID 483296306, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-042.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Follow-Up: counternarcotics",
@@ -6854,7 +7164,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "Restricted DC Meeting-Drugs/International Drug Strategy 11:00-12:00"
   },
   {
     "id": "gap-470760997",
@@ -6881,8 +7193,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90010",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-002, NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-002, NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-002, NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-002, NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470760997. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf, object ID 483295947, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-23-90010-002.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -6899,7 +7211,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 023 - May 10, 1989 - NSC/DC Meeting on Counternarcotics Program in Peru, Keywords: Peru Drugs"
   },
   {
     "id": "gap-470761018",
@@ -6924,8 +7238,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90010",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-023, NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-023, NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-023, NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-023, NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761018. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf, object ID 483296197, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-44-90010-023.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -6939,7 +7253,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 044 - August 17, 1989 - NSC/DC Meeting on International Drug Strategy, Keywords: Drugs"
   },
   {
     "id": "gap-470761049",
@@ -6967,8 +7283,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90012",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-003, NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-003, NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-003, NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-003, NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761049. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf, object ID 483296230, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-72-90012-003.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: drug",
@@ -6986,7 +7302,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 072 - November 03, 1989 - NSC/DC Meeting on, Keywords: Drugs"
   },
   {
     "id": "gap-470761104",
@@ -7014,8 +7332,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90014",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-001, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-001, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-001, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-001, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761104. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf, object ID 483295807, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_1-90014-001.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: drugs",
@@ -7031,7 +7349,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [1]"
   },
   {
     "id": "gap-470761105",
@@ -7058,8 +7378,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90014",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-002, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-002, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-002, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-002, NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761105. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf, object ID 483295808, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-114_2-90014-002.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counter narcotics",
@@ -7078,7 +7398,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 114 - April 10, 1990 - NSC/DC Meeting on Andean Implementation Plan, Keywords: Drugs [2]"
   },
   {
     "id": "gap-470761118",
@@ -7105,8 +7427,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90014",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-015, NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-015, NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-015, NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-015, NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761118. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf, object ID 483295821, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-126-90014-015.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7121,7 +7443,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 126 - May 09, 1990 - NSC/DC Meeting on Counternarcotic Interdiction in Latin America via SVTS, Keywords: Drugs, Latin America, Counternarcotics"
   },
   {
     "id": "gap-470761132",
@@ -7149,8 +7473,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90014",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-029, NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-029, NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-029, NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90014-029, NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761132. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-140-90014-029.pdf, object ID 483295837, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-140-90014-029.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7165,7 +7489,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 140 - June 13, 1990 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics"
   },
   {
     "id": "gap-470761185",
@@ -7192,8 +7518,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90016",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90016-019, NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90016-019, NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90016-019, NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90016-019, NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761185. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-191-90016-019.pdf, object ID 483295896, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-191-90016-019.pdf. Catalog subjects: FOIA 2004-0722-F, 2011-2116-F, 2005-0995-F, 2005-0989-F, 2005-0992-F, 2008-1289-F, 2004-0728-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7206,7 +7532,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama"
   },
   {
     "id": "gap-470761220",
@@ -7234,8 +7562,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90017",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-014, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-014, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-014, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-014, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761220. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-219_1-90017-014.pdf, object ID 483295934, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-219_1-90017-014.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7257,7 +7585,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [1]"
   },
   {
     "id": "gap-470761221",
@@ -7285,8 +7615,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90017",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-015, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-015, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-015, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-015, NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761221. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-219_2-90017-015.pdf, object ID 483295935, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-219_2-90017-015.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7308,7 +7638,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 219 - November 07, 1990 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics, Latin America [2]"
   },
   {
     "id": "gap-470761229",
@@ -7333,8 +7665,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90017",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-023, NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-023, NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-023, NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90017-023, NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761229. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf, object ID 483295943, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-226-90017-023.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counter narcotics",
@@ -7353,7 +7685,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 226 - November 29, 1990 - NSC/DC Meeting on Shipboarding and Standoff Policy in Caribbean via SVTS, Keywords: Caribbean, Drugs"
   },
   {
     "id": "gap-470761307",
@@ -7380,8 +7714,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90020",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-007, NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-007, NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-007, NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-007, NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761307. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf, object ID 483296027, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-288-90020-007.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F, 2011-2116-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7396,7 +7730,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 288 - June 24, 1991 - NSC/DC Meeting on Counternarcotics in Latin America, Keywords: Counternarcotics, Latin America"
   },
   {
     "id": "gap-470761330",
@@ -7423,8 +7759,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90020",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-031, NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-031, NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-031, NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90020-031, NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761330. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf, object ID 483296053, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-309-90020-031.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7440,7 +7776,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 309 - September 06, 1991 - NSC/DC Meeting re: Counternarcotics, Keywords: Counternarcotics"
   },
   {
     "id": "gap-470761370",
@@ -7467,8 +7805,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90022",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-005, NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-005, NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-005, NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-005, NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761370. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-346-90022-005.pdf, object ID 483296096, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-346-90022-005.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7486,7 +7824,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 346 - April 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics"
   },
   {
     "id": "gap-470761510",
@@ -7511,8 +7851,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90043",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-046, DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-046, DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-046, DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90043-046, DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761510. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-046.pdf, object ID 483296310, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90043-046.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Follow-Up: counternarcotics",
@@ -7530,7 +7870,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC Meeting-Counternarcotics May 4, 1992 11:00-12:00 Situation Room"
   },
   {
     "id": "gap-470761374",
@@ -7557,8 +7899,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90022",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-009, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-009, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-009, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-009, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761374. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-349_1-90022-009.pdf, object ID 483296100, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-349_1-90022-009.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7574,7 +7916,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [1]"
   },
   {
     "id": "gap-470761375",
@@ -7599,8 +7943,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90022",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-010, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-010, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-010, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-010, NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761375. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-349_2-90022-010.pdf, object ID 483296101, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-349_2-90022-010.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7617,7 +7961,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 349 - May 04, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics [2]"
   },
   {
     "id": "gap-470761386",
@@ -7645,8 +7991,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90022",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-021, NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-021, NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-021, NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-021, NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761386. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-358-90022-021.pdf, object ID 483296113, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-358-90022-021.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7663,7 +8009,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 358 - June 15, 1992 - NSC/DC Meeting on Counternarcotics, Keywords; Counternarcotics"
   },
   {
     "id": "gap-470761390",
@@ -7688,8 +8036,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90022",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-025, NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-025, NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-025, NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90022-025, NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761390. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-362-90022-025.pdf, object ID 483296117, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-362-90022-025.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7706,7 +8054,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 362 - July 09, 1992 - NSC/DC Meeting on Counternarcotics, Keywords: Counternarcotics"
   },
   {
     "id": "gap-470761532",
@@ -7733,8 +8083,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90044",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-020, DC - Counternarcotics -- Colombia July 16, 1992 11:00 - 12:00 Situation Room. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-020, DC - Counternarcotics -- Colombia July 16, 1992 11:00 - 12:00 Situation Room. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-020, DC - Counternarcotics -- Colombia July 16, 1992 11:00 - 12:00 Situation Room.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-020, DC - Counternarcotics -- Colombia July 16, 1992 11:00 - 12:00 Situation Room.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761532. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90044-020.pdf, object ID 483296332, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90044-020.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Counternarcotics"
@@ -7746,7 +8096,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC - Counternarcotics -- Colombia July 16, 1992 11:00 - 12:00 Situation Room"
   },
   {
     "id": "gap-470761393",
@@ -7773,8 +8125,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90023",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90023-003, NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90023-003, NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90023-003, NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90023-003, NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761393. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf, object ID 483296120, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-365-90023-003.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counternarcotics",
@@ -7790,7 +8142,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Counternarcotics country or cartel anchor",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 365 - July 16, 1992 - NSC/DC Meeting on Colombia Counternarcotics Programs, Keywords: Counternarcotics, Colombia"
   },
   {
     "id": "gap-470761009",
@@ -7815,8 +8169,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90010",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-014, NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-014, NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-014, NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90010-014, NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761009. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-35-90010-014.pdf, object ID 483296102, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-35-90010-014.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -7832,7 +8186,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 035 - June 13, 1989 - NSC/DC Meeting on Security for Americans serving in Philippines, Keywords: Philippines, Terrorism"
   },
   {
     "id": "gap-470761238",
@@ -7857,8 +8213,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90018",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-009, NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-009, NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-009, NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-009, NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761238. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-235-90018-009.pdf, object ID 483295952, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-235-90018-009.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -7874,7 +8230,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 235 - January 03, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism"
   },
   {
     "id": "gap-470761241",
@@ -7899,8 +8257,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90018",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-012, NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-012, NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-012, NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-012, NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761241. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-238-90018-012.pdf, object ID 483295955, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-238-90018-012.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -7914,7 +8272,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 238 - January 08, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism"
   },
   {
     "id": "gap-470761245",
@@ -7939,8 +8299,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90018",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-016, NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-016, NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-016, NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-016, NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761245. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-240-90018-016.pdf, object ID 483295960, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-240-90018-016.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism"
@@ -7952,7 +8312,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 240 - January 13, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism"
   },
   {
     "id": "gap-470761249",
@@ -7977,8 +8339,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90018",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-020, NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-020, NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-020, NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-020, NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761249. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-243-90018-020.pdf, object ID 483295964, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-243-90018-020.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -7991,7 +8353,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 243 - January 14, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism"
   },
   {
     "id": "gap-470761257",
@@ -8016,8 +8380,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90018",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-028, NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-028, NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-028, NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90018-028, NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761257. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-249-90018-028.pdf, object ID 483295972, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-249-90018-028.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -8030,7 +8394,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 249 - January 25, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism"
   },
   {
     "id": "gap-470761276",
@@ -8055,8 +8421,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90019",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-007, NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM). Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-007, NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM). Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-007, NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM).",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-007, NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM).",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761276. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-263-90019-007.pdf, object ID 483295993, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-263-90019-007.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: counterterrorism",
@@ -8071,7 +8437,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 263 - March 28, 1991 - NSC/DC Meeting on Counterterrorism, Keywords: Counterterrorism (File located @ LM)"
   },
   {
     "id": "gap-470761298",
@@ -8098,8 +8466,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90019",
     "releaseStatus": "Listed; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-030, NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-030, NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-030, NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90019-030, NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761298. Series URL: https://catalog.archives.gov/id/312294079. Digital object: 41-bpr-nsc-hfiles-dc_mtgs-280-90019-030.pdf, object ID 483296018, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-280-90019-030.pdf. Catalog subjects: FOIA 2005-1002-F, 2008-1289-F; Finding aid Pres-Bush, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "NSC/DC Meetings: terrorism",
@@ -8113,7 +8481,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Decision-process file likely to document policy coordination.",
     "sourceReports": [
       "NSC/DC"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC/DC 280 - May 17, 1991 - NSC/DC Meeting on Libya, Keywords: Libya"
   },
   {
     "id": "gap-518603769",
@@ -8138,8 +8508,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "27037",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Subject Files, OA/ID 27037-003, Counternarcotics. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Subject Files, OA/ID 27037-003, Counternarcotics. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Subject Files, OA/ID 27037-003, Counternarcotics.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Subject Files, OA/ID 27037-003, Counternarcotics.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/518603769. Collection URL: https://catalog.archives.gov/id/2579439. Series URL: https://catalog.archives.gov/id/2579578. Catalog subjects: Finding aid 2013-0362-S, VP-Quayle; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Counternarcotics"
@@ -8151,7 +8521,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Vice Presidential Records, Office of National Security Affairs",
+    "sourceFolder": "Counternarcotics"
   },
   {
     "id": "gap-645609097",
@@ -8176,8 +8548,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31956",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-002, Counternarcotics [A] [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-002, Counternarcotics [A] [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-002, Counternarcotics [A] [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-002, Counternarcotics [A] [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609097. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31956-002.pdf, object ID 645609098, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-002.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Drug Information",
@@ -8190,7 +8562,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [A] [1]"
   },
   {
     "id": "gap-645609103",
@@ -8217,8 +8591,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31956",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-005, Counternarcotics [A] [4]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-005, Counternarcotics [A] [4]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-005, Counternarcotics [A] [4].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-005, Counternarcotics [A] [4].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609103. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31956-005.pdf, object ID 645609104, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-005.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Drug Czar",
@@ -8233,7 +8607,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [A] [4]"
   },
   {
     "id": "gap-645609111",
@@ -8258,8 +8634,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31957",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-003, Counternarcotics [B] [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-003, Counternarcotics [B] [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-003, Counternarcotics [B] [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-003, Counternarcotics [B] [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609111. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31957-003.pdf, object ID 645609112, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-003.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Drug Control",
@@ -8273,7 +8649,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [B] [3]"
   },
   {
     "id": "gap-645609113",
@@ -8300,8 +8678,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31957",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-004, Counternarcotics [C]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-004, Counternarcotics [C]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-004, Counternarcotics [C].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-004, Counternarcotics [C].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609113. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31957-004.pdf, object ID 645609114, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-004.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Drug Policy",
@@ -8319,7 +8697,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics [C]"
   },
   {
     "id": "gap-645609891",
@@ -8344,8 +8724,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32000",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-001, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-001, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-001, Counternarcotics Operations [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-001, Counternarcotics Operations [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609891. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32000-001.pdf, object ID 645609892, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32000-001.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Office of National Drug Control Policy",
@@ -8360,7 +8740,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [1]"
   },
   {
     "id": "gap-645609893",
@@ -8385,8 +8767,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32000",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-002, Counternarcotics Operations [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-002, Counternarcotics Operations [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-002, Counternarcotics Operations [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-002, Counternarcotics Operations [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609893. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32000-002.pdf, object ID 645609894, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32000-002.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Drug Czar",
@@ -8401,7 +8783,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [2]"
   },
   {
     "id": "gap-645610333",
@@ -8426,8 +8810,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32023",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-009, Counternarcotics Operations [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-009, Counternarcotics Operations [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-009, Counternarcotics Operations [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-009, Counternarcotics Operations [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645610333. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32023-009.pdf, object ID 645610334, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32023-009.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Counternarcotics",
@@ -8440,7 +8824,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [2]"
   },
   {
     "id": "gap-645609895",
@@ -8465,8 +8851,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32000",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-003, Counternarcotics Operations [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-003, Counternarcotics Operations [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-003, Counternarcotics Operations [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32000-003, Counternarcotics Operations [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609895. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32000-003.pdf, object ID 645609896, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32000-003.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Drug Czar",
@@ -8482,7 +8868,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [3]"
   },
   {
     "id": "gap-645610335",
@@ -8507,8 +8895,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32023",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-010, Counternarcotics Operations [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-010, Counternarcotics Operations [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-010, Counternarcotics Operations [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-010, Counternarcotics Operations [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645610335. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32023-010.pdf, object ID 645610336, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32023-010.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Drug Policy",
@@ -8522,7 +8910,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [3]"
   },
   {
     "id": "gap-645609441",
@@ -8547,8 +8937,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31975",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-005, Counternarcotics Operations [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-005, Counternarcotics Operations [3]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-005, Counternarcotics Operations [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-005, Counternarcotics Operations [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609441. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31975-005.pdf, object ID 645609442, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-005.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Narcotics",
@@ -8562,7 +8952,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [3]"
   },
   {
     "id": "gap-645609445",
@@ -8587,8 +8979,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31975",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-007, Counternarcotics Operations [5]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-007, Counternarcotics Operations [5]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-007, Counternarcotics Operations [5].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-007, Counternarcotics Operations [5].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609445. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31975-007.pdf, object ID 645609446, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-007.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Counternarcotics"
@@ -8600,7 +8992,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [5]"
   },
   {
     "id": "gap-645609447",
@@ -8625,8 +9019,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31975",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-008, Counternarcotics Operations [6]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-008, Counternarcotics Operations [6]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-008, Counternarcotics Operations [6].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-008, Counternarcotics Operations [6].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609447. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31975-008.pdf, object ID 645609448, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-008.pdf. Catalog subjects: Finding aid Donated, 2020-0556-S; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Narcotics",
@@ -8639,7 +9033,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Counternarcotics Operations [6]"
   },
   {
     "id": "gap-472802664",
@@ -8664,8 +9060,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04792",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-007, Drug Policy (File B) - Drug Strategy IV. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04792-007, Drug Policy (File B) - Drug Strategy IV. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-007, Drug Policy (File B) - Drug Strategy IV.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04792-007, Drug Policy (File B) - Drug Strategy IV.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802664. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy",
@@ -8678,7 +9074,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Drug Policy (File B) - Drug Strategy IV"
   },
   {
     "id": "gap-607949794",
@@ -8705,8 +9103,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 033521 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 033521 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 033521 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 033521 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949794. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8718,7 +9116,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 033521 Scanned"
   },
   {
     "id": "gap-607949796",
@@ -8745,8 +9145,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 040604 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 040604 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 040604 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 040604 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949796. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2002-0208-F; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8758,7 +9158,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 040604 Scanned"
   },
   {
     "id": "gap-607949798",
@@ -8785,8 +9187,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 052447 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 052447 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 052447 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 052447 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949798. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2001-1996-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8798,7 +9200,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 052447 Scanned"
   },
   {
     "id": "gap-607949800",
@@ -8825,8 +9229,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 077083 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 077083 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 077083 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 077083 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949800. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2002-0208-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8838,7 +9242,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 077083 Scanned"
   },
   {
     "id": "gap-607949814",
@@ -8865,8 +9271,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 156911 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 156911 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 156911 C.F..",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 156911 C.F..",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949814. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8878,7 +9284,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 156911 C.F."
   },
   {
     "id": "gap-607949805",
@@ -8905,8 +9313,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 220716 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 220716 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 220716 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 220716 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949805. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 1998-0253-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8918,7 +9326,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 220716 Scanned"
   },
   {
     "id": "gap-607949809",
@@ -8945,8 +9355,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 293180 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 293180 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 293180 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 293180 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949809. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 1998-0253-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8958,7 +9368,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 293180 Scanned"
   },
   {
     "id": "gap-607949811",
@@ -8985,8 +9397,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 355116SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 355116SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 355116SS Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Number 355116SS Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949811. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 1998-0091-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -8998,7 +9410,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Number 355116SS Scanned"
   },
   {
     "id": "gap-607949792",
@@ -9025,8 +9439,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 000064 to 014865 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 000064 to 014865 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 000064 to 014865 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 000064 to 014865 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949792. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9038,7 +9452,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 000064 to 014865 Scanned"
   },
   {
     "id": "gap-607949793",
@@ -9065,8 +9481,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 033466 to 033515 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 033466 to 033515 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 033466 to 033515 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 033466 to 033515 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949793. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9078,7 +9494,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 033466 to 033515 Scanned"
   },
   {
     "id": "gap-607949797",
@@ -9105,8 +9523,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 042020 to 049902SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 042020 to 049902SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 042020 to 049902SS Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 042020 to 049902SS Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949797. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9118,7 +9536,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 042020 to 049902SS Scanned"
   },
   {
     "id": "gap-607949799",
@@ -9145,8 +9565,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 053281CU to 070019 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 053281CU to 070019 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 053281CU to 070019 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 053281CU to 070019 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949799. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9158,7 +9578,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 053281CU to 070019 Scanned"
   },
   {
     "id": "gap-607949801",
@@ -9185,8 +9607,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 079245 to 112653 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 079245 to 112653 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 079245 to 112653 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 079245 to 112653 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949801. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9198,7 +9620,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 079245 to 112653 Scanned"
   },
   {
     "id": "gap-607949802",
@@ -9225,8 +9649,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 137788 to 194682 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 137788 to 194682 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 137788 to 194682 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 137788 to 194682 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949802. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9238,7 +9662,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 137788 to 194682 Scanned"
   },
   {
     "id": "gap-607949803",
@@ -9265,8 +9691,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 194825 to 218265 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 194825 to 218265 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 194825 to 218265 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 194825 to 218265 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949803. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9278,7 +9704,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 194825 to 218265 Scanned"
   },
   {
     "id": "gap-607949804",
@@ -9305,8 +9733,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 218700 to 220140 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 218700 to 220140 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 218700 to 220140 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 218700 to 220140 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949804. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9318,7 +9746,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 218700 to 220140 Scanned"
   },
   {
     "id": "gap-607949806",
@@ -9345,8 +9775,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 223621CU to 223621SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 223621CU to 223621SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 223621CU to 223621SS Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 223621CU to 223621SS Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949806. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9358,7 +9788,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 223621CU to 223621SS Scanned"
   },
   {
     "id": "gap-607949810",
@@ -9385,8 +9817,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 304602 to 344501 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 304602 to 344501 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 304602 to 344501 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 304602 to 344501 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949810. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9398,7 +9830,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 304602 to 344501 Scanned"
   },
   {
     "id": "gap-607949812",
@@ -9425,8 +9859,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 358130 to 370581 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 358130 to 370581 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 358130 to 370581 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Office of National Drug Control Policy, FG006-17 Case Numbers 358130 to 370581 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/607949812. Series URL: https://catalog.archives.gov/id/498170960. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM ONDCP: Case"
@@ -9438,7 +9872,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "FG006-17 Case Numbers 358130 to 370581 Scanned"
   },
   {
     "id": "gap-285343484",
@@ -9463,8 +9899,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 000231 Scanned. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 000231 Scanned. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 000231 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 000231 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/285343484. Series URL: https://catalog.archives.gov/id/498171322. Digital object: 41-HE006-01-000231.pdf, object ID 285343485, URL https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-HE006-01-000231.pdf. Catalog subjects: FOIA 2003-0260-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Narcotics: Case"
@@ -9476,7 +9912,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "HE006-01 Case Number 000231 Scanned"
   },
   {
     "id": "gap-559710696",
@@ -9501,8 +9939,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 333320 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 333320 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 333320 Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Number 333320 Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/559710696. Series URL: https://catalog.archives.gov/id/498171322. Catalog subjects: FOIA 2025-0877-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Narcotics: Case"
@@ -9514,7 +9952,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "HE006-01 Case Number 333320 Scanned"
   },
   {
     "id": "gap-559710695",
@@ -9539,8 +9979,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "",
     "releaseStatus": "WHORM listed case file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Numbers 159082SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Numbers 159082SS Scanned. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Numbers 159082SS Scanned.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Narcotics, HE006-01 Case Numbers 159082SS Scanned.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/559710695. Series URL: https://catalog.archives.gov/id/498171322. Catalog subjects: FOIA 1998-0095-F; Finding aid Pres-Bush; Extent One Legal File Folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "WHORM Narcotics: Case"
@@ -9552,7 +9992,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.",
     "sourceReports": [
       "WHORM"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Records Management",
+    "sourceFolder": "HE006-01 Case Numbers 159082SS Scanned"
   },
   {
     "id": "gap-446394946",
@@ -9577,8 +10019,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90006",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files - National Security Review (NSR) Files, OA/ID 90006-024, NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files - National Security Review (NSR) Files, OA/ID 90006-024, NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files - National Security Review (NSR) Files, OA/ID 90006-024, NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files - National Security Review (NSR) Files, OA/ID 90006-024, NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/446394946. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/313189297. Digital object: 41-bpr-nsc-hfiles-nsr-13-90006-024.pdf, object ID 483296585, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSRs_313189297/41-bpr-nsc-hfiles-nsr-13-90006-024.pdf. Catalog subjects: FOIA 2022-0849-F; Finding aid Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Office of National Drug Control Policy",
@@ -9592,7 +10034,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities"
   },
   {
     "id": "gap-470760903",
@@ -9617,8 +10061,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90000",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90000-019, NSC0016 - May 15, 1989 - Counter Narcotics in Peru. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90000-019, NSC0016 - May 15, 1989 - Counter Narcotics in Peru. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90000-019, NSC0016 - May 15, 1989 - Counter Narcotics in Peru.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90000-019, NSC0016 - May 15, 1989 - Counter Narcotics in Peru.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470760903. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312293887. Digital object: 41-bpr-nsc-hfiles-nsc_mtgs-16-90000-019.pdf, object ID 483296386, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-16-90000-019.pdf. Catalog subjects: FOIA 2009-0857-F, 2005-1003-F; Finding aid Pres-Bush, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Narcotics"
@@ -9630,7 +10074,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC0016 - May 15, 1989 - Counter Narcotics in Peru"
   },
   {
     "id": "gap-470760908",
@@ -9655,8 +10101,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90001",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-005, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-005, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [2]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-005, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC Meeting Files, OA/ID 90001-005, NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470760908. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312293887. Digital object: 41-bpr-nsc-hfiles-nsc_mtgs-20_2-90001-005.pdf, object ID 483296392, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC_Mtgs_312293887/41-bpr-nsc-hfiles-nsc_mtgs-20_2-90001-005.pdf. Catalog subjects: FOIA 2005-1003-F, 2009-0857-F; Finding aid Pres-Bush, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Narcotics"
@@ -9668,7 +10114,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "NSC0020 - May 25, 1989 - Counter Narcotics in Peru, Review of National Security Review 12 - Section IV Regarding Arms Control Implications of Defense Strategy [2]"
   },
   {
     "id": "gap-472802727",
@@ -9693,8 +10141,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04799",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-015, Domestic Policy Council Meeting #15, Drug Policy Strategy - 8/4/89. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-015, Domestic Policy Council Meeting #15, Drug Policy Strategy - 8/4/89. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-015, Domestic Policy Council Meeting #15, Drug Policy Strategy - 8/4/89.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-015, Domestic Policy Council Meeting #15, Drug Policy Strategy - 8/4/89.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802727. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2019-1136-F; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy"
@@ -9706,7 +10154,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Domestic Policy Council Meeting #15, Drug Policy Strategy - 8/4/89"
   },
   {
     "id": "gap-492061172",
@@ -9733,8 +10183,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-012, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-012, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-012, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-012, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061172. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Control",
@@ -9748,7 +10198,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [1]"
   },
   {
     "id": "gap-492061173",
@@ -9775,8 +10227,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08077",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-013, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-013, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-013, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Domestic Policy Council (DPC) Meeting Files, OA/ID 08077-013, 8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492061173. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/473987117. Catalog subjects: FOIA 2010-1073-F; Finding aid 2017-0080-S, Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Control",
@@ -9790,7 +10242,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "8/10/89 (1:30-3:00 p.m.) Domestic Policy Council Meeting re: Drug Control Strategy [Options Regarding Revocation of Drivers Licenses, Status Report and Meeting Information] [2]"
   },
   {
     "id": "gap-472802728",
@@ -9815,8 +10269,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04799",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-016, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-016, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-016, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-016, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802728. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2019-1136-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy"
@@ -9828,7 +10282,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [1]"
   },
   {
     "id": "gap-472802729",
@@ -9853,8 +10309,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04799",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-017, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-017, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-017, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-017, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802729. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2019-1136-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy"
@@ -9866,7 +10322,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [2]"
   },
   {
     "id": "gap-472802730",
@@ -9891,8 +10349,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04799",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-018, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-018, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [3]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-018, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [3].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-018, Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [3].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802730. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2019-1136-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy"
@@ -9904,7 +10362,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Domestic Policy Council Meeting #16, Drug Policy Strategy - 8/10/89 [3]"
   },
   {
     "id": "gap-472802732",
@@ -9929,8 +10389,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04799",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-025, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-025, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [1]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-025, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [1].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-025, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [1].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802732. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2019-1136-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy"
@@ -9942,7 +10402,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [1]"
   },
   {
     "id": "gap-472802733",
@@ -9967,8 +10429,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "04799",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-026, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the Domestic Policy Council (George H. W. Bush Administration), Subject Files, OA/ID 04799-026, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [2]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-026, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [2].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Domestic Policy Council, Subject Files, OA/ID 04799-026, Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [2].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/472802733. Collection URL: https://catalog.archives.gov/id/2163559. Series URL: https://catalog.archives.gov/id/2196611. Catalog subjects: FOIA 2019-1136-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Policy"
@@ -9980,7 +10442,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Domestic Policy Council",
+    "sourceFolder": "Domestic Policy Council Meeting #23, Drug Policy Strategy - 1/9/90 [2]"
   },
   {
     "id": "gap-518603256",
@@ -10005,8 +10469,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "27023",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Meetings Files, OA/ID 27023-009, 8/1/90 VP Meetings - DOD Counternarcotics Briefing for South America Trip. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Meetings Files, OA/ID 27023-009, 8/1/90 VP Meetings - DOD Counternarcotics Briefing for South America Trip. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Meetings Files, OA/ID 27023-009, 8/1/90 VP Meetings - DOD Counternarcotics Briefing for South America Trip.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Meetings Files, OA/ID 27023-009, 8/1/90 VP Meetings - DOD Counternarcotics Briefing for South America Trip.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/518603256. Collection URL: https://catalog.archives.gov/id/2579439. Series URL: https://catalog.archives.gov/id/2579573. Catalog subjects: Finding aid 2013-0362-S, VP-Quayle; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Counternarcotics"
@@ -10018,7 +10482,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Vice Presidential Records, Office of National Security Affairs",
+    "sourceFolder": "8/1/90 VP Meetings - DOD Counternarcotics Briefing for South America Trip"
   },
   {
     "id": "gap-492060756",
@@ -10043,8 +10509,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08066",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Meeting Files, OA/ID 08066-107, December 1991: 12/13/91 (10:00 a.m.) Domestic Policy Council Meeting with President re: Drug Control Policy [Agenda, Background Information, Date and Time]. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Meeting Files, OA/ID 08066-107, December 1991: 12/13/91 (10:00 a.m.) Domestic Policy Council Meeting with President re: Drug Control Policy [Agenda, Background Information, Date and Time]. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Meeting Files, OA/ID 08066-107, December 1991: 12/13/91 (10:00 a.m.) Domestic Policy Council Meeting with President re: Drug Control Policy [Agenda, Background Information, Date and Time].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Meeting Files, OA/ID 08066-107, December 1991: 12/13/91 (10:00 a.m.) Domestic Policy Council Meeting with President re: Drug Control Policy [Agenda, Background Information, Date and Time].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492060756. Collection URL: https://catalog.archives.gov/id/2163561. Series URL: https://catalog.archives.gov/id/2363642. Catalog subjects: FOIA 2010-1073-F; Finding aid Pres-Bush, 2017-0080-S; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Control",
@@ -10058,7 +10524,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, Council of Economic Advisors",
+    "sourceFolder": "December 1991: 12/13/91 (10:00 a.m.) Domestic Policy Council Meeting with President re: Drug Control Policy [Agenda, Background Information, Date and Time]"
   },
   {
     "id": "gap-518603531",
@@ -10083,8 +10551,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "27028",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Karl Jackson and Cary Lord Working Files, OA/ID 27028-013, DC Meetings - Counternarcotics - 1992. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Karl Jackson and Cary Lord Working Files, OA/ID 27028-013, DC Meetings - Counternarcotics - 1992. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Karl Jackson and Cary Lord Working Files, OA/ID 27028-013, DC Meetings - Counternarcotics - 1992.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Karl Jackson and Cary Lord Working Files, OA/ID 27028-013, DC Meetings - Counternarcotics - 1992.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/518603531. Collection URL: https://catalog.archives.gov/id/2579439. Series URL: https://catalog.archives.gov/id/2579571. Catalog subjects: FOIA 2005-1006-F; Finding aid 2013-0362-S, VP-Quayle; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Counternarcotics"
@@ -10096,7 +10564,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Vice Presidential Records, Office of National Security Affairs",
+    "sourceFolder": "DC Meetings - Counternarcotics - 1992"
   },
   {
     "id": "gap-509547092",
@@ -10121,8 +10591,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "08176",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Policy Development (George H. W. Bush Administration), Gina Willis' Subject Files, OA/ID 08176-031, Drug Summit 1992. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Policy Development (George H. W. Bush Administration), Gina Willis' Subject Files, OA/ID 08176-031, Drug Summit 1992. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Policy Development, Gina Willis' Subject Files, OA/ID 08176-031, Drug Summit 1992.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Policy Development, Gina Willis' Subject Files, OA/ID 08176-031, Drug Summit 1992.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/509547092. Collection URL: https://catalog.archives.gov/id/2163585. Series URL: https://catalog.archives.gov/id/2600911. Catalog subjects: FOIA 1999-0472-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Summit"
@@ -10134,7 +10604,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Policy Development",
+    "sourceFolder": "Drug Summit 1992"
   },
   {
     "id": "gap-470439279",
@@ -10159,8 +10631,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "21365",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-021, [NSC/DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-021, [NSC/DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-021, [NSC/DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-021, [NSC/DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470439279. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/2554916. Digital object: 41-bpr-nsc-howe-21365-021.pdf, object ID 651326672, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-021.pdf. Catalog subjects: Finding aid Pres-Bush, 2012-3127-S, Pres-Bush; Extent One legal file folder.. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Drug Control",
@@ -10175,7 +10647,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "[NSC/DC [Deputies Committee] Meeting, re: Counternarcotics - April 15, 1992]"
   },
   {
     "id": "gap-470439338",
@@ -10200,8 +10674,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "21366",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21366-014, DC [Deputies Committee] Meeting, re: Counternarcotics - July 16, 1992. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21366-014, DC [Deputies Committee] Meeting, re: Counternarcotics - July 16, 1992. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21366-014, DC [Deputies Committee] Meeting, re: Counternarcotics - July 16, 1992.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21366-014, DC [Deputies Committee] Meeting, re: Counternarcotics - July 16, 1992.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470439338. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/2554916. Digital object: 41-bpr-nsc-howe-21366-014.pdf, object ID 651326731, URL https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21366-014.pdf. Catalog subjects: Finding aid Pres-Bush, Pres-Bush, 2012-3127-S; Extent One legal file folder.. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Counternarcotics"
@@ -10213,7 +10687,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC [Deputies Committee] Meeting, re: Counternarcotics - July 16, 1992"
   },
   {
     "id": "gap-470761553",
@@ -10238,8 +10714,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "90044",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-041, DC - Counternarcotics - Cancelled November 19, 1992 3:00 - 4:00 Situation Room. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-041, DC - Counternarcotics - Cancelled November 19, 1992 3:00 - 4:00 Situation Room. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-041, DC - Counternarcotics - Cancelled November 19, 1992 3:00 - 4:00 Situation Room.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meeting Follow-Up Files, OA/ID 90044-041, DC - Counternarcotics - Cancelled November 19, 1992 3:00 - 4:00 Situation Room.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/470761553. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/312294094. Digital object: 41-bpr-nsc-hfiles-dc_mtgs_foll_up-90044-041.pdf, object ID 483296353, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_Foll-up_312294094/41-bpr-nsc-hfiles-dc_mtgs_foll_up-90044-041.pdf. Catalog subjects: FOIA 2008-1289-F, 2005-1002-F; Finding aid Pres-Bush; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Counternarcotics"
@@ -10251,7 +10727,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, National Security Council",
+    "sourceFolder": "DC - Counternarcotics - Cancelled November 19, 1992 3:00 - 4:00 Situation Room"
   },
   {
     "id": "gap-492070600",
@@ -10276,8 +10754,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "45040",
     "releaseStatus": "Restricted - Possibly",
     "accessRestrictionStatus": "",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), C. Boyden Gray Meeting Files, OA/ID 45040-026, [Meeting of] CBG [C. Boyden Gray]/[Richard] Darman/[Brent] Scowcroft]/[Nelson] Lund/Raul/[Nicholas] Rostow re: H.R. 91 Anti-Terrorism Amendments, 11:00-11:45. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), C. Boyden Gray Meeting Files, OA/ID 45040-026, [Meeting of] CBG [C. Boyden Gray]/[Richard] Darman/[Brent] Scowcroft]/[Nelson] Lund/Raul/[Nicholas] Rostow re: H.R. 91 Anti-Terrorism Amendments, 11:00-11:45. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, C. Boyden Gray Meeting Files, OA/ID 45040-026, [Meeting of] CBG [C. Boyden Gray]/[Richard] Darman/[Brent] Scowcroft]/[Nelson] Lund/Raul/[Nicholas] Rostow re: H.R. 91 Anti-Terrorism Amendments, 11:00-11:45.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, C. Boyden Gray Meeting Files, OA/ID 45040-026, [Meeting of] CBG [C. Boyden Gray]/[Richard] Darman/[Brent] Scowcroft]/[Nelson] Lund/Raul/[Nicholas] Rostow re: H.R. 91 Anti-Terrorism Amendments, 11:00-11:45.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/492070600. Series URL: https://catalog.archives.gov/id/951764. Catalog subjects: FOIA 2017-1962-F; Finding aid 2023-1148-S, Pres-Bush. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "terrorism OR narcotics"
@@ -10289,7 +10767,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Compiler review candidate from source audit.",
     "sourceReports": [
       "NARA Scout"
-    ]
+    ],
+    "sourceCollection": "Bush Presidential Records, White House Office of Counsel to the President",
+    "sourceFolder": "[Meeting of] CBG [C. Boyden Gray]/[Richard] Darman/[Brent] Scowcroft]/[Nelson] Lund/Raul/[Nicholas] Rostow re: H.R. 91 Anti-Terrorism Amendments, 11:00-11:45"
   },
   {
     "id": "gap-518603092",
@@ -10314,8 +10794,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "27019",
     "releaseStatus": "Textual collection listed file; no online declassified PDF",
     "accessRestrictionStatus": "Restricted - Possibly",
-    "sourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Subject Files, OA/ID 27019-011, Terrorism. Listed in the National Archives Catalog; no online declassified PDF identified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Records of the National Security Affairs Office in the Office of the Vice President (George H. W. Bush Administration), Subject Files, OA/ID 27019-011, Terrorism. Listed in the National Archives Catalog; no online declassified PDF identified.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Subject Files, OA/ID 27019-011, Terrorism.",
+    "frusSourceNote": "Source: George H.W. Bush Library, Bush Vice Presidential Records, Office of National Security Affairs, Subject Files, OA/ID 27019-011, Terrorism.",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/518603092. Collection URL: https://catalog.archives.gov/id/2579439. Series URL: https://catalog.archives.gov/id/2579578. Catalog subjects: Finding aid 2013-0362-S, VP-Quayle; Extent One legal file folder. Access restriction: Restricted - Possibly.",
     "matchedQueries": [
       "Terrorism"
@@ -10327,7 +10807,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Bush Vice Presidential Records, Office of National Security Affairs",
+    "sourceFolder": "Terrorism"
   },
   {
     "id": "gap-645610193",
@@ -10352,8 +10834,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "32016",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-007, Terrorism [B]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-007, Terrorism [B]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-007, Terrorism [B].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-007, Terrorism [B].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645610193. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-32016-007.pdf, object ID 645610194, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32016-007.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Terrorism"
@@ -10365,7 +10847,9 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Terrorism [B]"
   },
   {
     "id": "gap-645609263",
@@ -10390,8 +10874,8 @@ window.FRUS_COMPILER_GAPS = [
     "containerId": "31965",
     "releaseStatus": "Textual collection listed file; PDF available, access may include withdrawals",
     "accessRestrictionStatus": "Restricted - Partly",
-    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-008, Terrorism [B]. Online PDF available through the National Archives Catalog; original classification not verified.",
-    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-008, Terrorism [B]. Online PDF available through the National Archives Catalog; original classification not verified.",
+    "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-008, Terrorism [B].",
+    "frusSourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31965-008, Terrorism [B].",
     "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/645609263. Collection URL: https://catalog.archives.gov/id/284825748. Series URL: https://catalog.archives.gov/id/470572302. Digital object: 41-bpr-dhm-cheney-subject-31965-008.pdf, object ID 645609264, URL https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31965-008.pdf. Catalog subjects: Finding aid 2020-0556-S, Donated; Extent One Legal File Folder. Access restriction: Restricted - Partly.",
     "matchedQueries": [
       "Terrorism"
@@ -10403,6 +10887,8 @@ window.FRUS_COMPILER_GAPS = [
     "why": "Listed textual file may fill non-conversation policy context.",
     "sourceReports": [
       "All textual collections"
-    ]
+    ],
+    "sourceCollection": "Richard Cheney Collection",
+    "sourceFolder": "Terrorism [B]"
   }
 ];

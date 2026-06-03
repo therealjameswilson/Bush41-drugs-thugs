@@ -34,7 +34,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492060960",
         "pdfUrl": "",
         "sourceName": "Michael J. Boskin Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-003, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [1]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-003, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [1]."
       },
       {
         "id": "gap-492060961",
@@ -53,7 +53,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492060961",
         "pdfUrl": "",
         "sourceName": "Michael J. Boskin Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-004, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [2]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-004, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [2]."
       },
       {
         "id": "gap-492060963",
@@ -72,7 +72,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492060963",
         "pdfUrl": "",
         "sourceName": "Michael J. Boskin Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-006, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [4]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-006, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [4]."
       },
       {
         "id": "gap-492060964",
@@ -91,7 +91,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492060964",
         "pdfUrl": "",
         "sourceName": "Michael J. Boskin Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-007, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [5]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-007, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [5]."
       },
       {
         "id": "gap-492060962",
@@ -110,7 +110,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492060962",
         "pdfUrl": "",
         "sourceName": "Michael J. Boskin Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-005, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President][3]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Council of Economic Advisors, Michael J. Boskin Subject Files, OA/ID 08071-005, Drug Control, Office Of [1989-1990 National Drug Control Strategy: Executive Summary and Booklet, transcript of address form the President] [3]."
       },
       {
         "id": "gap-509546508",
@@ -129,7 +129,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/509546508",
         "pdfUrl": "",
         "sourceName": "Rae Nelson Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Policy Development (George H. W. Bush Administration), Rae Nelson Subject Files, OA/ID 07285-009, National Drug Control Strategy, 1989 - 1992 [8]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Policy Development, Rae Nelson Subject Files, OA/ID 07285-009, National Drug Control Strategy, 1989 - 1992 [8]."
       },
       {
         "id": "gap-702683",
@@ -148,7 +148,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/702683",
         "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_ca_580521/41-bpr-whcos-sununu-ca-29186-004.pdf",
         "sourceName": "COS: John Sununu Cabinet Agencies Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-004, Bennett (Drug Policy - 1989). Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Cabinet Agencies Files, OA/ID 29186-004, Bennett (Drug Policy - 1989)."
       },
       {
         "id": "gap-645609099",
@@ -167,7 +167,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609099",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-003.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-003, Counternarcotics [A] [2]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-003, Counternarcotics [A] [2]."
       },
       {
         "id": "gap-645609101",
@@ -186,7 +186,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609101",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-004.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3]."
       },
       {
         "id": "gap-645609105",
@@ -205,7 +205,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609105",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-006.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5]."
       },
       {
         "id": "gap-645609107",
@@ -224,7 +224,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609107",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-001.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1]."
       },
       {
         "id": "gap-645609109",
@@ -243,7 +243,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609109",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-002.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2]."
       }
     ],
     "publicStatements": [
@@ -686,7 +686,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609101",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-004.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-004, Counternarcotics [A] [3]."
       },
       {
         "id": "gap-645609105",
@@ -705,7 +705,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609105",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31956-006.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31956-006, Counternarcotics [A] [5]."
       },
       {
         "id": "gap-645609107",
@@ -724,7 +724,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609107",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-001.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-001, Counternarcotics [B] [1]."
       },
       {
         "id": "gap-645609109",
@@ -743,7 +743,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609109",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31957-002.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31957-002, Counternarcotics [B] [2]."
       },
       {
         "id": "gap-645610331",
@@ -762,7 +762,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645610331",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32023-008.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1]."
       },
       {
         "id": "gap-645609439",
@@ -781,7 +781,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609439",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31975-004.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-004, Counternarcotics Operations [2]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31975-004, Counternarcotics Operations [2]."
       },
       {
         "id": "gap-446396832",
@@ -800,7 +800,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/446396832",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-18-90003-023.pdf",
         "sourceName": "National Security Directives (NSD) Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, National Security Directives (NSD) Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, National Security Directives (NSD) Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy."
       },
       {
         "id": "gap-470761052",
@@ -819,7 +819,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761052",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs."
       },
       {
         "id": "gap-470761063",
@@ -838,7 +838,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761063",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-80-90012-017.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-017, NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-017, NSC/DC 080 - December 07, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs."
       },
       {
         "id": "gap-470761079",
@@ -857,7 +857,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761079",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit."
       },
       {
         "id": "gap-597640513",
@@ -876,7 +876,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640513",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned."
       },
       {
         "id": "gap-597640514",
@@ -895,7 +895,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640514",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned."
       }
     ],
     "publicStatements": [
@@ -1204,7 +1204,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645610331",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32023-008.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32023-008, Counternarcotics Operations [1]."
       },
       {
         "id": "gap-470439285",
@@ -1223,7 +1223,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470439285",
         "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/howe/howe_2554916/41-bpr-nsc-howe-21365-027.pdf",
         "sourceName": "Rear Admiral Jonathan Howe's Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-027, DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Rear Admiral Jonathan Howe's Files, OA/ID 21365-027, DC [Deputies Committee] Meeting, re: Drug Summit - February 14, 1992."
       },
       {
         "id": "gap-470761360",
@@ -1242,7 +1242,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761360",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-337-90021-025.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-025, NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90021-025, NSC/DC 337 - February 14, 1992 - NSC/DC Meeting on Counternarcotics / San Antonio Summit, Keywords: Drugs, Latin America."
       },
       {
         "id": "gap-597640551",
@@ -1261,7 +1261,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640551",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit San Antonio",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in San Antonio, Texas, FO006-15 Case Number Entire Category Processed Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in San Antonio, Texas, FO006-15 Case Number Entire Category Processed Scanned."
       },
       {
         "id": "gap-486208889",
@@ -1280,7 +1280,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/486208889",
         "pdfUrl": "",
         "sourceName": "Ann Brock Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-007, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [1]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-007, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [1]."
       },
       {
         "id": "gap-486208890",
@@ -1299,7 +1299,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/486208890",
         "pdfUrl": "",
         "sourceName": "Ann Brock Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-008, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [2]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-008, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [2]."
       },
       {
         "id": "gap-486208891",
@@ -1318,7 +1318,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/486208891",
         "pdfUrl": "",
         "sourceName": "Ann Brock Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the First Lady's Office of Scheduling (George H. W. Bush Administration), Ann Brock Subject Files, OA/ID 05491-009, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [3]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, First Lady's Office of Scheduling, Ann Brock Subject Files, OA/ID 05491-009, Narcotics Summit - 2/26-27/92 - San Antonio, TX (& GB) [3]."
       },
       {
         "id": "gap-492080177",
@@ -1337,7 +1337,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492080177",
         "pdfUrl": "",
         "sourceName": "Cathy Fenton Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-028, 2/26/92 - 2/27/92 Narcotics Summit / San Antonio, Texas. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-028, 2/26/92 - 2/27/92 Narcotics Summit / San Antonio, Texas."
       },
       {
         "id": "gap-492080178",
@@ -1356,7 +1356,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492080178",
         "pdfUrl": "",
         "sourceName": "Cathy Fenton Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico."
       },
       {
         "id": "gap-492080179",
@@ -1375,7 +1375,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492080179",
         "pdfUrl": "",
         "sourceName": "Cathy Fenton Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-030, 2/27/92 San Antonio Narcotics Summit / Luncheon McNay Museum. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-030, 2/27/92 San Antonio Narcotics Summit / Luncheon McNay Museum."
       }
     ],
     "publicStatements": [
@@ -1799,7 +1799,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761025",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-51-90011-004.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-004, NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90011-004, NSC/DC 051 - September 11, 1989 - NSC/DC Meeting on Narcotics Cooperation with Cuba, Keywords: Drugs, Cuba."
       },
       {
         "id": "gap-472436359",
@@ -1818,7 +1818,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/472436359",
         "pdfUrl": "",
         "sourceName": "Gary R. Blumenthal Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Gary R. Blumenthal Subject Files, OA/ID CF01278-011, [Pan Am 103 Investigation]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Gary R. Blumenthal Subject Files, OA/ID CF01278-011, [Pan Am 103 Investigation]."
       },
       {
         "id": "gap-472437518",
@@ -1837,7 +1837,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/472437518",
         "pdfUrl": "",
         "sourceName": "Claire Sechler Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Claire Sechler Subject Files, OA/ID 06375-013, Pan Am 103. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Claire Sechler Subject Files, OA/ID 06375-013, Pan Am 103."
       },
       {
         "id": "gap-492072948",
@@ -1856,7 +1856,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492072948",
         "pdfUrl": "",
         "sourceName": "Nelson Lund Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Counsel to the President (George H. W. Bush Administration), Nelson Lund Subject Files, OA/ID 45347-009, Pan Am 103 Commission / FACA [Federal Advisory Committee Act]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Counsel to the President, Nelson Lund Subject Files, OA/ID 45347-009, Pan Am 103 Commission / FACA [Federal Advisory Committee Act]."
       },
       {
         "id": "gap-645609733",
@@ -1875,7 +1875,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645609733",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-31991-002.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-002, Terrorism. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 31991-002, Terrorism."
       },
       {
         "id": "gap-645610191",
@@ -1894,7 +1894,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/645610191",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-rbc/subject_470572302/41-bpr-dhm-cheney-subject-32016-006.pdf",
         "sourceName": "Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-006, Terrorism [A]. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Richard Cheney Collection, Subject Files, OA/ID 32016-006, Terrorism [A]."
       },
       {
         "id": "gap-472436913",
@@ -1913,7 +1913,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/472436913",
         "pdfUrl": "",
         "sourceName": "Will Gunn Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-022, Transportation: Pan Am 103 / Aviation Security (1). Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-022, Transportation: Pan Am 103 / Aviation Security (1)."
       },
       {
         "id": "gap-472436914",
@@ -1932,7 +1932,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/472436914",
         "pdfUrl": "",
         "sourceName": "Will Gunn Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-023, Transportation: Pan Am 103 / Aviation Security (2). Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-023, Transportation: Pan Am 103 / Aviation Security (2)."
       },
       {
         "id": "gap-472436915",
@@ -1951,7 +1951,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/472436915",
         "pdfUrl": "",
         "sourceName": "Will Gunn Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-024, Transportation: Pan Am 103 / Aviation Security (3) [1]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-024, Transportation: Pan Am 103 / Aviation Security (3) [1]."
       },
       {
         "id": "gap-472436916",
@@ -1970,7 +1970,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/472436916",
         "pdfUrl": "",
         "sourceName": "Will Gunn Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Office of Cabinet Affairs (George H. W. Bush Administration), Will Gunn Files, OA/ID 03924-025, Transportation: Pan Am 103 / Aviation Security (3) [2]. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Cabinet Affairs, Will Gunn Files, OA/ID 03924-025, Transportation: Pan Am 103 / Aviation Security (3) [2]."
       },
       {
         "id": "gap-472802366",
@@ -1989,7 +1989,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/472802366",
         "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/card_519802567/bpr-cos-card-02718-015.pdf",
         "sourceName": "COS: Andrew Card Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 02718-015, Pan Am 103 Commission. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, Andrew Card Subject Files, OA/ID 02718-015, Pan Am 103 Commission."
       },
       {
         "id": "gap-702471",
@@ -2008,7 +2008,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/702471",
         "pdfUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-cos/sununu_issues_580478/41-bpr-whcos-sununu-iss-29166-001.pdf",
         "sourceName": "COS: John Sununu Issues Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29166-001, Pan Am 103 Commission (1989). Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of the Chief of Staff, John Sununu Issues Files, OA/ID 29166-001, Pan Am 103 Commission (1989)."
       }
     ],
     "publicStatements": [
@@ -2527,7 +2527,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878757",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F.."
       },
       {
         "id": "gap-285343774",
@@ -2546,7 +2546,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343774",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-094393.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned."
       },
       {
         "id": "gap-563878759",
@@ -2565,7 +2565,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878759",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned."
       },
       {
         "id": "gap-285343776",
@@ -2584,7 +2584,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343776",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-094433.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned."
       },
       {
         "id": "gap-563878758",
@@ -2603,7 +2603,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878758",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned."
       },
       {
         "id": "gap-285343768",
@@ -2622,7 +2622,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343768",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-144399.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned."
       },
       {
         "id": "gap-563878752",
@@ -2641,7 +2641,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878752",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned."
       },
       {
         "id": "gap-563878760",
@@ -2660,7 +2660,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878760",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned."
       },
       {
         "id": "gap-563878756",
@@ -2679,7 +2679,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878756",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F.."
       },
       {
         "id": "gap-285343772",
@@ -2698,7 +2698,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343772",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-310240.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned."
       },
       {
         "id": "gap-563878754",
@@ -2717,7 +2717,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878754",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned."
       },
       {
         "id": "gap-563878761",
@@ -2736,7 +2736,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878761",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 004708SS to 065180 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Numbers 004708SS to 065180 Scanned."
       }
     ],
     "publicStatements": [
@@ -3141,7 +3141,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761185",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-191-90016-019.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90016-019, NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90016-019, NSC/DC 191 - August 31, 1990 - NSC/DC Meeting on Counterterrorism and Counternarcotics, Keywords: Counterterrorism, Counternarcotics, Latin America, Africa, East Asia, Nicaragua, Cuba, Panama."
       }
     ],
     "publicStatements": [
@@ -3641,7 +3641,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761052",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-75-90012-006.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90012-006, NSC/DC 075 - November 09, 1989 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs."
       },
       {
         "id": "gap-470761079",
@@ -3660,7 +3660,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/470761079",
         "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSC-DC_Mtgs_312294079/41-bpr-nsc-hfiles-dc_mtgs-95-90013-002.pdf",
         "sourceName": "NSC/DC Meetings",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit."
       },
       {
         "id": "gap-597640513",
@@ -3679,7 +3679,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640513",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned."
       },
       {
         "id": "gap-597640514",
@@ -3698,7 +3698,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640514",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned."
       },
       {
         "id": "gap-597640515",
@@ -3717,7 +3717,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640515",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114980 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114980 Scanned."
       },
       {
         "id": "gap-597640516",
@@ -3736,7 +3736,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640516",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 116972 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 116972 Scanned."
       },
       {
         "id": "gap-597640517",
@@ -3755,7 +3755,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640517",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 117654 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 117654 Scanned."
       },
       {
         "id": "gap-597640518",
@@ -3774,7 +3774,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640518",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 119827 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 119827 Scanned."
       },
       {
         "id": "gap-597640519",
@@ -3793,7 +3793,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597640519",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 124624 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 124624 Scanned."
       },
       {
         "id": "gap-597641119",
@@ -3812,7 +3812,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597641119",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001 C.F.."
       },
       {
         "id": "gap-597641120",
@@ -3831,7 +3831,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597641120",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001SS C.F.. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 127001SS C.F.."
       },
       {
         "id": "gap-597641121",
@@ -3850,7 +3850,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/597641121",
         "pdfUrl": "",
         "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 131733 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 131733 C.F.."
       }
     ],
     "publicStatements": [
@@ -4293,7 +4293,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/492080178",
         "pdfUrl": "",
         "sourceName": "Cathy Fenton Subject Files",
-        "sourceNote": "Source: George H.W. Bush Library, Records of the White House Social Office (George H. W. Bush Administration), Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Social Office, Cathy Fenton Subject Files, OA/ID 07113-029, 2/27/92 Breakfast, San Antonio, Narcotics Summit, President Salinas, Mexico."
       },
       {
         "id": "gap-563878757",
@@ -4312,7 +4312,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878757",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 065180 C.F.."
       },
       {
         "id": "gap-285343774",
@@ -4331,7 +4331,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343774",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-094393.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned."
       },
       {
         "id": "gap-563878759",
@@ -4350,7 +4350,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878759",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094393 Unscanned."
       },
       {
         "id": "gap-285343776",
@@ -4369,7 +4369,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343776",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-094433.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned."
       },
       {
         "id": "gap-563878758",
@@ -4388,7 +4388,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878758",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 094433 Unscanned."
       },
       {
         "id": "gap-285343768",
@@ -4407,7 +4407,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343768",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-144399.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned."
       },
       {
         "id": "gap-563878752",
@@ -4426,7 +4426,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878752",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 144399 Scanned."
       },
       {
         "id": "gap-563878760",
@@ -4445,7 +4445,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878760",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 152503 Scanned."
       },
       {
         "id": "gap-563878756",
@@ -4464,7 +4464,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878756",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F.. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 258782 C.F.."
       },
       {
         "id": "gap-285343772",
@@ -4483,7 +4483,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/285343772",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bushgw/foia/2003/41-JL003-03-310240.pdf",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Online PDF available through the National Archives Catalog; original classification not verified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned."
       },
       {
         "id": "gap-563878754",
@@ -4502,7 +4502,7 @@ window.FRUS_EVENT_DOSSIERS = [
         "catalogUrl": "https://catalog.archives.gov/id/563878754",
         "pdfUrl": "",
         "sourceName": "WHORM Kidnapping/Hostages",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned. Listed in the National Archives Catalog; no online declassified PDF identified."
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Kidnapping and Hostages, JL003-03 Case Number 310240 Scanned."
       }
     ],
     "publicStatements": [
