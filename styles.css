@@ -110,6 +110,11 @@ main {
   padding: clamp(24px, 4vw, 42px) 0 22px;
 }
 
+.hero-copy,
+.brief {
+  min-width: 0;
+}
+
 .kicker {
   margin: 0 0 14px;
   color: var(--red);
@@ -152,6 +157,42 @@ h1 {
   flex-wrap: wrap;
   gap: 12px;
   margin-top: 24px;
+}
+
+.trust-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 10px;
+  max-width: 760px;
+  margin: 22px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.trust-list li {
+  padding: 10px 0 10px 12px;
+  border-left: 3px solid rgba(173, 132, 55, 0.72);
+}
+
+.trust-list strong,
+.trust-list span {
+  display: block;
+}
+
+.trust-list strong {
+  color: var(--blue);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.trust-list span {
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 750;
+  line-height: 1.4;
 }
 
 .button {
@@ -235,6 +276,16 @@ dd {
 .brief dl {
   display: grid;
   gap: 18px;
+}
+
+.brief-note {
+  margin: 18px 0 0;
+  padding-top: 16px;
+  color: #42515a;
+  font-size: 0.9rem;
+  font-weight: 750;
+  line-height: 1.5;
+  border-top: 1px solid rgba(207, 216, 210, 0.9);
 }
 
 dt {
@@ -598,7 +649,7 @@ button:focus-visible {
 
 .compiler-guidance {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
   gap: 12px;
 }
 
@@ -1162,6 +1213,15 @@ footer {
   .quick-queue-list,
   .control-grid {
     grid-template-columns: 1fr;
+  }
+
+  .trust-list {
+    grid-template-columns: 1fr;
+  }
+
+  .brief {
+    justify-self: stretch;
+    width: 100%;
   }
 
   .triage-heading,
