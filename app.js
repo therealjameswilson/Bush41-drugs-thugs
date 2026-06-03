@@ -326,7 +326,7 @@ function getTerms(record) {
 }
 
 function frusSourceNote(record) {
-  return record.frusSourceNote || record.sourceNote || "FRUS-style source note pending.";
+  return record.frusSourceNote || record.sourceNote || "Source note pending.";
 }
 
 function catalogTrail(record) {
@@ -1417,7 +1417,7 @@ function createRecordRow(record) {
 
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
-  sourceNote.textContent = `FRUS-style source note draft: ${frusSourceNote(record)}`;
+  sourceNote.textContent = frusSourceNote(record);
 
   const trail = document.createElement("p");
   trail.className = "record-catalog-trail";
@@ -1532,7 +1532,7 @@ function createStatementRow(statement) {
 
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
-  sourceNote.textContent = `Source note: ${statement.sourceNote || statement.citation}`;
+  sourceNote.textContent = statement.sourceNote || statement.citation || "Citation pending.";
 
   const terms = createStatementTerms(statement);
   body.append(titleLine, createStatementMeta(statement));
@@ -1745,7 +1745,7 @@ function createGapRow(record) {
 
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
-  sourceNote.textContent = `Source note: ${record.frusSourceNote || record.sourceNote || "Source note pending."}`;
+  sourceNote.textContent = record.frusSourceNote || record.sourceNote || "Source note pending.";
 
   const confidenceLine = document.createElement("p");
   confidenceLine.className = "record-catalog-trail";
@@ -1825,7 +1825,7 @@ function createMentionRow(mention) {
 
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
-  sourceNote.textContent = `Source note: ${mention.sourceNote || mention.citation}`;
+  sourceNote.textContent = mention.sourceNote || mention.citation || "Citation pending.";
 
   body.append(titleLine, meta, terms, sourceNote, createMentionActions(mention));
 
@@ -2352,7 +2352,7 @@ function gapPullList(records) {
         `- NAID: ${record.naid || ""}`,
         `- Catalog: ${record.catalogUrl || ""}`,
         record.pdfUrl ? `- PDF: ${record.pdfUrl}` : "",
-        `- Source note: ${record.frusSourceNote || record.sourceNote || "pending"}`,
+        `- ${record.frusSourceNote || record.sourceNote || "Source note pending."}`,
         ""
       );
     }
@@ -2491,7 +2491,7 @@ function compilerStub(record) {
     `Source confidence: ${record.sourceConfidence?.level || "pending"}${record.sourceConfidence?.basis ? ` - ${record.sourceConfidence.basis}` : ""}`,
     `Catalog: ${record.catalogUrl || ""}`,
     `PDF: ${record.pdfUrl || ""}`,
-    `FRUS-style source note draft: ${frusSourceNote(record)}`,
+    frusSourceNote(record),
     `Catalog trail: ${catalogTrail(record)}`,
     `Daily Diary/Backup control: ${scheduleReferenceSummary(record) || "none matched"}`,
     `Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
@@ -2512,7 +2512,7 @@ function referenceStub(statement) {
     `Chapter: ${statement.chapter.name}`,
     `Document type: ${statement.documentType}`,
     `Public voice: ${statement.publicVoice}`,
-    `Source note: ${statement.sourceNote || statement.citation}`,
+    statement.sourceNote || statement.citation || "Citation pending.",
     `GovInfo: ${statement.govinfoUrl || ""}`,
     `PDF page: ${statement.pdfPageUrl || statement.pdfUrl || ""}`,
     `Matched public-paper signals: ${statementTerms(statement).join(", ") || "none"}`
@@ -2542,7 +2542,7 @@ function gapStub(record) {
     `Catalog: ${record.catalogUrl || ""}`,
     `PDF: ${record.pdfUrl || ""}`,
     `Event tags: ${(record.eventTags || []).map(eventTitle).join(", ") || "none assigned"}`,
-    `Source note: ${record.frusSourceNote || record.sourceNote || "pending"}`
+    record.frusSourceNote || record.sourceNote || "Source note pending."
   ].join("\n");
 }
 
@@ -2550,7 +2550,7 @@ function mentionStub(mention) {
   return [
     `${shortDate(mention.date)} - ${mention.title}`,
     `Chapter: ${mention.chapter.name}`,
-    `Source note: ${mention.sourceNote || mention.citation}`,
+    mention.sourceNote || mention.citation || "Citation pending.",
     `GovInfo: ${mention.govinfoUrl || ""}`,
     `PDF: ${mention.pdfUrl || ""}`,
     `Matched terms: ${mentionTerms(mention).join(", ") || "keyword hit"}`
@@ -2561,7 +2561,7 @@ function dossierRecordLine(record) {
   return [
     `- ${record.date || "No date"} - ${record.title || record.documentTitle}`,
     `  - ${[record.documentType, record.pageCount ? `${record.pageCount} pages` : "", record.priority ? `${record.priority} priority` : ""].filter(Boolean).join("; ") || "Record"}`,
-    record.sourceNote || record.frusSourceNote ? `  - Source note: ${record.frusSourceNote || record.sourceNote}` : "",
+    record.sourceNote || record.frusSourceNote ? `  - ${record.frusSourceNote || record.sourceNote}` : "",
     record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : "",
     record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : "",
     record.govinfoUrl ? `  - GovInfo: ${record.govinfoUrl}` : ""

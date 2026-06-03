@@ -112,7 +112,7 @@
       `- Type: ${record.documentType}`,
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
-      `- Source note draft: ${frusSourceNote(record)}`,
+      `- ${frusSourceNote(record)}`,
       `- Compiler note: ${packetCompilerNote(record) || "none"}`,
       `- PDF verification: ${pdfVerificationSummary(record)}`,
       `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
@@ -239,7 +239,7 @@
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `- Catalog: ${record.catalogUrl || "not listed"}`,
       `- PDF: ${record.pdfUrl || "not available"}`,
-      `- FRUS-style source note draft: ${frusSourceNote(record)}`,
+      `- ${frusSourceNote(record)}`,
       `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
       `- Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
       `- PDF verification: ${pdfVerificationSummary(record)}`,
@@ -294,7 +294,7 @@
       `Records needing first-page PDF verification: ${queue.length}`,
       `Filters: ${selectedChronologyFilters()}`,
       "",
-      "Use: verify the listed source-note fields directly in the online PDF before relying on the draft FRUS source note.",
+      "Use: verify the listed source-note fields directly in the online PDF before relying on the source note.",
       ""
     ];
 
@@ -310,7 +310,7 @@
           `- Selection: ${packetSelectionLabel(record)}`,
           `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
           `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
-          `- Source note draft: ${frusSourceNote(record)}`,
+          `- ${frusSourceNote(record)}`,
           `- Parsed PDF metadata: ${pdfVerificationSummary(record)}`,
           `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
           `- PDF: ${record.pdfUrl || "not available"}`,
@@ -326,7 +326,7 @@
 
     lines.push("## Final Source-Note Pass", "");
     lines.push("- Confirm exact dateline, participants, classification markings, drafting/distribution data, excisions, and any attached tabs or distribution markings directly in each PDF.");
-    lines.push("- Reconcile the source note draft against the published FRUS style before moving the record into the final manuscript.");
+    lines.push("- Reconcile the source note against the published FRUS style before moving the record into the final manuscript.");
     return lines.join("\n");
   }
 
