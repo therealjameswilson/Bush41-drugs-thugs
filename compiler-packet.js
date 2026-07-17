@@ -71,6 +71,53 @@
     return typeof recordEventTitles === "function" ? recordEventTitles(record) : [];
   }
 
+  function packetEventObjects(record, dossiers) {
+    return (dossiers || []).filter((event) =>
+      (event.privateRecords || []).some((candidate) =>
+        candidate.id === record.id || String(candidate.naid || "") === String(record.naid || "")
+      )
+    );
+  }
+
+  function packetGapDisposition(record) {
+    return typeof gapDispositionLabel === "function" ? gapDispositionLabel(record) : "Open";
+  }
+
+  function packetGapNote(record) {
+    return typeof gapCompilerNote === "function" ? gapCompilerNote(record) : "";
+  }
+
+  function uniqueByRecordKey(records) {
+    const seen = new Set();
+    return (records || []).filter((record) => {
+      const key = record.id || record.naid || `${record.date || ""}-${record.title || ""}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+
+  function annotationRelatedGaps(record, dossiers) {
+    const priorityOrder = { High: 0, Medium: 1, Review: 2 };
+    return uniqueByRecordKey(
+      packetEventObjects(record, dossiers).flatMap((event) => event.gapRecords || [])
+    )
+      .sort((a, b) =>
+        (priorityOrder[a.priority] ?? 9) - (priorityOrder[b.priority] ?? 9) ||
+        String(a.date || "").localeCompare(String(b.date || "")) ||
+        String(a.title || "").localeCompare(String(b.title || ""))
+      )
+      .slice(0, 8);
+  }
+
+  function annotationPublicStatements(record, dossiers) {
+    return uniqueByRecordKey(
+      packetEventObjects(record, dossiers).flatMap((event) => event.publicStatements || [])
+    )
+      .sort((a, b) => String(a.date || "").localeCompare(String(b.date || "")) || String(a.title || "").localeCompare(String(b.title || "")))
+      .slice(0, 6);
+  }
+
   function packetPageTotal(records) {
     return records.reduce((total, record) => total + (Number(record.pageCount) || 0), 0);
   }
@@ -234,6 +281,143 @@
     return lines.join("\n");
   }
 
+  function annotationGapBlock(record) {
+    return [
+      `- ${record.date || "No date"} - ${record.title}`,
+      `  - ${record.priority || "Review"} priority; ${record.category || record.documentType || "gap record"}; ${record.pageCount || "?"} pages; disposition ${packetGapDisposition(record)}`,
+      packetGapNote(record) ? `  - Pull note: ${packetGapNote(record)}` : "",
+      record.frusSourceNote || record.sourceNote ? `  - ${record.frusSourceNote || record.sourceNote}` : "",
+      record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : "",
+      record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : ""
+    ].filter(Boolean).join("\n");
+  }
+
+  function annotationStatementBlock(statement) {
+    return [
+      `- ${statement.date || "No date"} - ${statement.title}`,
+      `  - ${statement.sourceNote || statement.citation || "Public Papers citation pending."}`,
+      statement.pdfPageUrl || statement.pdfUrl ? `  - PDF: ${statement.pdfPageUrl || statement.pdfUrl}` : "",
+      statement.govinfoUrl ? `  - GovInfo: ${statement.govinfoUrl}` : ""
+    ].filter(Boolean).join("\n");
+  }
+
+  function annotationRecordBlock(record, documentNumber, dossiers) {
+    const events = packetEventObjects(record, dossiers);
+    const relatedGaps = annotationRelatedGaps(record, dossiers);
+    const publicStatements = annotationPublicStatements(record, dossiers);
+    const sourceNote = frusSourceNote(record);
+    const compilerRationale = packetCompilerNote(record);
+    const lines = [
+      `### Document ${documentNumber}. ${record.date} - ${record.documentTitle || record.title}`,
+      "",
+      `- Chapter: ${record.chapter.name}`,
+      `- Type and extent: ${record.documentType}; ${record.pageCount || "unmeasured"} pages`,
+      `- Source check: ${packetSourceCheckLabel(record)}`,
+      `- Compiler rationale: ${compilerRationale || "[add selection rationale]"}`,
+      `- Event dossiers: ${events.map((event) => event.title).join("; ") || "none linked"}`,
+      `- PDF: ${record.pdfUrl || "not available"}`,
+      `- Catalog: ${record.catalogUrl || "not listed"}`,
+      "",
+      "#### First Footnote Worksheet",
+      "",
+      sourceNote,
+      "",
+      `- Original classification lead: ${record.pdfExtract?.classificationMarking || "not isolated; verify in PDF"}`,
+      "- Drafting and distribution: [verify directly in the document; not inferred by this site]",
+      "- President/adviser read status: [verify initials, routing marks, marginalia, or other evidence]",
+      "- Provenance check: [confirm collection, series, file unit, box/OA-ID, and folder title against the archival record]",
+      "- Final first-footnote prose: [revise the Source line only after completing the checks above]",
+      "",
+      "#### Chronology and Text",
+      "",
+      `- Subject lead: ${record.pdfExtract?.subject || record.subjectLine || "not isolated; supply from the document"}`,
+      `- Conversation date/time/place lead: ${record.pdfExtract?.dateTimePlace || "not isolated; verify in PDF"}`,
+      "- Washington-time placement: [verify and normalize when the conversation occurred outside Washington]",
+      `- Participants lead: ${record.pdfExtract?.participants || "not isolated; verify in PDF"}`,
+      `- Daily Diary control state: ${packetScheduleControlLabel(record)}`,
+      `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched; pull or explain the missing calendar control"}`,
+      "- [ ] Supply the document heading.",
+      "- [ ] Check transcription, spelling, capitalization, punctuation, underlining, and original brackets.",
+      "- [ ] Describe marginalia, handwritten notations, attachments, and distribution markings in footnotes.",
+      "- [ ] Account for every excision or omitted passage, including its extent and nature when available.",
+      "",
+      "#### Annotation Leads",
+      "",
+      `- Event context: ${events.map((event) => event.summary).filter(Boolean).join(" ") || "No linked event summary; review the chapter chronology and gap register."}`,
+      `- Next archival check: ${events.map((event) => event.nextAction).filter(Boolean).join(" ") || "Review related chapter gaps and additional documentary sources."}`,
+      "",
+      "Related unprinted or missing records:",
+      ""
+    ];
+
+    if (relatedGaps.length) {
+      for (const gap of relatedGaps) lines.push(annotationGapBlock(gap), "");
+    } else {
+      lines.push("- No event-linked gap records. Review the chapter gap queue before treating coverage as complete.", "");
+    }
+
+    lines.push("Related public statements:", "");
+    if (publicStatements.length) {
+      for (const statement of publicStatements) lines.push(annotationStatementBlock(statement), "");
+    } else {
+      lines.push("- No event-linked Public Papers entry. Search the References register for supplemental public context.", "");
+    }
+
+    lines.push(
+      "#### Draft Editorial Annotation",
+      "",
+      "[Summarize pertinent unprinted material, locate additional sources, cross-reference related FRUS documents, describe key events, and cite public statements that supplement the document.]",
+      ""
+    );
+    return lines.join("\n");
+  }
+
+  function annotationWorksheet(records, dossiers = []) {
+    const includeRecords = outlineSort(records.filter((record) => selectionKey(record) === "include"));
+    const lines = [
+      "# FRUS Volume XXVIII Include Annotation Worksheet",
+      "",
+      `Generated: ${new Date().toISOString()}`,
+      `Included records: ${includeRecords.length}`,
+      `Included page total: ${packetPageTotal(includeRecords)}`,
+      `Included records awaiting source check: ${includeRecords.filter((record) => !packetSourceChecked(record)).length}`,
+      `Included records without compiler rationale: ${includeRecords.filter((record) => !packetCompilerNote(record)).length}`,
+      `Included records with PDF-parser flags: ${packetPdfVerificationQueue(includeRecords).length}`,
+      "Method basis: https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries",
+      "",
+      "Use: this is a working annotation and first-footnote worksheet, not publication-ready copy. Parsed metadata is a lead only. The compiler must verify the document, archival provenance, Washington-time placement, omissions, and annotation directly against the primary sources.",
+      ""
+    ];
+
+    if (!includeRecords.length) {
+      lines.push("No chronology records are marked Include. Mark records Include in the workbench, then export this worksheet again.");
+      return lines.join("\n");
+    }
+
+    let documentNumber = 1;
+    for (const chapterName of CHAPTER_ORDER) {
+      const chapterRecords = includeRecords.filter((record) => record.chapter.name === chapterName);
+      if (!chapterRecords.length) continue;
+      lines.push(`## Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`, "");
+      for (const record of chapterRecords) {
+        lines.push(annotationRecordBlock(record, documentNumber, dossiers));
+        documentNumber += 1;
+      }
+    }
+
+    lines.push(
+      "## Volume-Level Completion Check",
+      "",
+      "- [ ] The selection provides comprehensive documentation of major decisions and significant diplomatic activity.",
+      "- [ ] Major facts affecting decisions are present or accounted for in annotation.",
+      "- [ ] Every omission, excision, and wholly withheld document is acknowledged in chronological place.",
+      "- [ ] Source notes retain provenance and handling information while locator URLs remain in the research trail.",
+      "- [ ] Persons, abbreviations, cross-volume references, and the index are reconciled against the final document set.",
+      ""
+    );
+    return lines.join("\n");
+  }
+
   function pdfVerificationSummary(record) {
     const issues = packetPdfVerificationIssues(record);
     const details = [
@@ -374,6 +558,14 @@
     );
   }
 
+  function exportAnnotationWorksheet() {
+    downloadTextFile(
+      "frus-v28-include-annotation-worksheet.md",
+      annotationWorksheet(allRecords, typeof allEventDossiers === "undefined" ? [] : allEventDossiers),
+      "text/markdown;charset=utf-8"
+    );
+  }
+
   function exportPdfVerificationChecklist() {
     downloadTextFile(
       "frus-v28-visible-pdf-verification-checklist.md",
@@ -387,6 +579,8 @@
     exportCompilerPacket,
     selectedOutline,
     exportSelectedOutline,
+    annotationWorksheet,
+    exportAnnotationWorksheet,
     pdfVerificationChecklist,
     exportPdfVerificationChecklist
   };
@@ -394,6 +588,7 @@
   document.addEventListener("DOMContentLoaded", () => {
     document.querySelector("#export-packet")?.addEventListener("click", exportCompilerPacket);
     document.querySelector("#export-outline")?.addEventListener("click", exportSelectedOutline);
+    document.querySelector("#export-annotation-worksheet")?.addEventListener("click", exportAnnotationWorksheet);
     document.querySelector("#export-pdf-checklist")?.addEventListener("click", exportPdfVerificationChecklist);
   });
 })();

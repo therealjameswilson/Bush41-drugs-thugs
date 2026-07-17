@@ -65,6 +65,10 @@ The workbench supports:
 - Markdown selected-outline export that turns local Include decisions into a
   working FRUS document sequence, with Maybe reserves and high-priority gap
   reminders by chapter
+- Markdown Include annotation worksheet that combines each selected document's
+  Source Note, source-check state, parsed chronology and participant leads,
+  first-footnote checks, omission/marginalia prompts, event-linked gap files,
+  and Public Papers context in proposed document-number order
 - event dossiers for major chronology anchors such as Cartagena, San Antonio,
   Pan Am 103, hostages, and the National Drug Control Strategy
 - a compiler-risk queue for NSC/DC, Chief of Staff, WHORM, and policy files
@@ -88,6 +92,14 @@ repository and collection path first, then classification when the PDF extractio
 supports it. Catalog URLs, NAIDs, digital-object details, FOIA numbers, and
 access flags are kept in the separate Catalog trail rather than the source-note
 line.
+
+The annotation worksheet follows the volume's
+[published editorial methodology](https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries):
+it prompts the compiler to verify Washington-time placement, original
+classification, drafting and distribution information, principal read status,
+marginalia, excisions, related documentary sources, key events, and supplemental
+public statements. Parsed metadata remains a lead rather than a substitute for
+inspection of the document.
 
 ## Source Collections
 
