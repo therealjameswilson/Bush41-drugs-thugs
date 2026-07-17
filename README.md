@@ -67,6 +67,8 @@ The workbench supports:
   copy action for turning visible risk files into a concrete archival request
 - persistent Open / Requested / Obtained / Explained gap dispositions, carried
   through filters, counts, CSV, pull-list exports, and portable triage JSON
+- persistent gap workflow notes for request numbers, pull results, and exclusion
+  explanations, with note filters and a requested-files-missing-notes queue
 - a FRUS-style Persons list generated from the Bush comprehensive names list
   and matched against the Volume XXVIII conversation/gap corpus
 - a separate GovInfo Public Papers reference layer with Public Papers citations,

@@ -1140,6 +1140,57 @@ h2 {
   border-left: 4px solid var(--gold);
 }
 
+.gap-note-editor {
+  margin: 8px 0;
+  padding: 10px 0;
+  border-top: 1px solid rgba(22, 76, 99, 0.18);
+  border-bottom: 1px solid rgba(22, 76, 99, 0.18);
+}
+
+.gap-note-editor[hidden] {
+  display: none;
+}
+
+.gap-note-editor label {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-weight: 850;
+}
+
+.gap-note-editor textarea {
+  display: block;
+  width: 100%;
+  min-height: 78px;
+  padding: 9px 10px;
+  color: var(--ink);
+  font: inherit;
+  line-height: 1.45;
+  resize: vertical;
+  background: #fff;
+  border: 1px solid rgba(22, 76, 99, 0.32);
+  border-radius: 4px;
+}
+
+.gap-note-editor textarea:focus {
+  outline: 3px solid rgba(173, 132, 55, 0.28);
+  border-color: var(--blue);
+}
+
+.gap-note-editor-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.gap-note-editor-actions button {
+  min-height: 32px;
+  padding: 0 10px;
+  font-size: 0.76rem;
+}
+
 .record-actions {
   margin-top: 12px;
 }

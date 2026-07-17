@@ -555,6 +555,14 @@
               </select>
             </label>
             <label>
+              Gap note
+              <select id="gap-note">
+                <option value="">All notes</option>
+                <option value="with-note">Has note</option>
+                <option value="without-note">No note</option>
+              </select>
+            </label>
+            <label>
               Sort
               <select id="sort-gaps">
                 <option value="priority">Priority</option>
@@ -814,7 +822,7 @@
             return chronologyViewUrl({ includeUnknownParams: false, forceChronologyHash: true }).toString();
           }
           const url = new URL(window.location.href);
-          url.hash = "chronology";
+          url.hash = "records";
           return url.toString();
         }
 
