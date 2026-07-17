@@ -65,6 +65,8 @@ The workbench supports:
   that may need pulling, explaining, or excluding
 - one-click gap pull queues, an online-PDF filter, and a Markdown pull-list
   copy action for turning visible risk files into a concrete archival request
+- persistent Open / Requested / Obtained / Explained gap dispositions, carried
+  through filters, counts, CSV, pull-list exports, and portable triage JSON
 - a FRUS-style Persons list generated from the Bush comprehensive names list
   and matched against the Volume XXVIII conversation/gap corpus
 - a separate GovInfo Public Papers reference layer with Public Papers citations,

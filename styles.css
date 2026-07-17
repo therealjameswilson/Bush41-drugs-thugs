@@ -1019,6 +1019,38 @@ h2 {
   background: rgba(156, 62, 53, 0.13);
 }
 
+.selection-badge.gap-disposition-badge.open {
+  color: #42515a;
+  background: rgba(43, 58, 66, 0.08);
+}
+
+.selection-badge.gap-disposition-badge.requested {
+  color: #604719;
+  background: rgba(173, 132, 55, 0.17);
+}
+
+.selection-badge.gap-disposition-badge.obtained {
+  color: #174235;
+  background: rgba(49, 95, 82, 0.15);
+}
+
+.selection-badge.gap-disposition-badge.explained {
+  color: #164c63;
+  background: rgba(22, 76, 99, 0.12);
+}
+
+.gap-row.is-gap-requested {
+  box-shadow: inset 4px 0 0 var(--gold);
+}
+
+.gap-row.is-gap-obtained {
+  box-shadow: inset 4px 0 0 var(--green);
+}
+
+.gap-row.is-gap-explained {
+  box-shadow: inset 4px 0 0 var(--blue);
+}
+
 .record-meta {
   flex-wrap: wrap;
   gap: 6px;
@@ -1138,6 +1170,22 @@ h2 {
 .record-actions .selection-exclude[aria-pressed="true"] {
   background: var(--red);
   border-color: var(--red);
+}
+
+.record-actions .gap-disposition-requested[aria-pressed="true"] {
+  color: #2b2418;
+  background: var(--gold);
+  border-color: var(--gold);
+}
+
+.record-actions .gap-disposition-obtained[aria-pressed="true"] {
+  background: var(--green);
+  border-color: var(--green);
+}
+
+.record-actions .gap-disposition-explained[aria-pressed="true"] {
+  background: var(--blue);
+  border-color: var(--blue);
 }
 
 .record-links {

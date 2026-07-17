@@ -2,11 +2,17 @@ const CHAPTER_ORDER = ["Counternarcotics", "Counterterrorism"];
 const REVIEW_STORAGE_KEY = "frus-v28-reviewed-records";
 const SELECTION_STORAGE_KEY = "frus-v28-record-selections";
 const NOTES_STORAGE_KEY = "frus-v28-record-notes";
-const TRIAGE_STATE_VERSION = 1;
+const GAP_DISPOSITION_STORAGE_KEY = "frus-v28-gap-dispositions";
+const TRIAGE_STATE_VERSION = 2;
 const SELECTION_STATES = {
   include: "Include",
   maybe: "Maybe",
   exclude: "Exclude"
+};
+const GAP_DISPOSITION_STATES = {
+  requested: "Requested",
+  obtained: "Obtained",
+  explained: "Explained"
 };
 const PDF_VERIFICATION_FIELDS = [
   {
@@ -91,6 +97,7 @@ const gapCategoryFilter = document.querySelector("#gap-category");
 const gapPriorityFilter = document.querySelector("#gap-priority");
 const gapConfidenceFilter = document.querySelector("#gap-confidence");
 const gapOnlineFilter = document.querySelector("#gap-online");
+const gapDispositionFilter = document.querySelector("#gap-disposition");
 const gapSortSelect = document.querySelector("#sort-gaps");
 const gapResetButton = document.querySelector("#reset-gaps");
 const gapExportButton = document.querySelector("#export-gaps-csv");
@@ -162,9 +169,15 @@ const QUICK_QUEUE_DEFINITIONS = [
 const GAP_QUEUE_DEFINITIONS = [
   {
     id: "high-offline",
-    label: "High Offline Pulls",
-    detail: "High-priority files without an online PDF",
-    filters: { priority: "High", online: "no-pdf", sort: "priority" }
+    label: "High Offline Open",
+    detail: "Open high-priority files without an online PDF",
+    filters: { priority: "High", online: "no-pdf", disposition: "open", sort: "priority" }
+  },
+  {
+    id: "requested",
+    label: "Requested Files",
+    detail: "Archival pulls already marked as requested",
+    filters: { disposition: "requested", sort: "priority" }
   },
   {
     id: "nsc-dc",
@@ -214,6 +227,7 @@ let recordEventMap = new Map();
 let reviewedRecords = new Set(readReviewedRecords());
 let recordSelections = readRecordSelections();
 let recordNotes = readRecordNotes();
+let gapDispositions = readGapDispositions();
 
 function chapterId(chapterName) {
   return `chapter-${chapterName.toLowerCase().replaceAll(" ", "-")}`;
@@ -306,6 +320,18 @@ function saveRecordNotes() {
   localStorage.setItem(NOTES_STORAGE_KEY, JSON.stringify(recordNotes));
 }
 
+function readGapDispositions() {
+  try {
+    return sanitizeGapDispositions(JSON.parse(localStorage.getItem(GAP_DISPOSITION_STORAGE_KEY) || "{}"));
+  } catch {
+    return {};
+  }
+}
+
+function saveGapDispositions() {
+  localStorage.setItem(GAP_DISPOSITION_STORAGE_KEY, JSON.stringify(gapDispositions));
+}
+
 function selectionState(record) {
   return recordSelections[record.id] || "";
 }
@@ -316,6 +342,14 @@ function selectionLabel(record) {
 
 function compilerNote(record) {
   return recordNotes[record.id] || "";
+}
+
+function gapDispositionState(record) {
+  return gapDispositions[record.id] || "";
+}
+
+function gapDispositionLabel(record) {
+  return GAP_DISPOSITION_STATES[gapDispositionState(record)] || "Open";
 }
 
 function getTerms(record) {
@@ -786,6 +820,7 @@ function gapSearchableText(record) {
     record.releaseStatus,
     record.sourceConfidence?.level,
     record.sourceConfidence?.basis,
+    gapDispositionLabel(record),
     ...(record.eventTags || []).map(eventTitle),
     ...(record.matchedQueries || [])
   ]
@@ -801,7 +836,8 @@ function selectedGapFilters() {
     category: gapCategoryFilter?.value || "",
     priority: gapPriorityFilter?.value || "",
     confidence: gapConfidenceFilter?.value || "",
-    online: gapOnlineFilter?.value || ""
+    online: gapOnlineFilter?.value || "",
+    disposition: gapDispositionFilter?.value || ""
   };
 }
 
@@ -813,6 +849,8 @@ function gapMatchesFilters(record, filters) {
   if (filters.confidence && record.sourceConfidence?.level !== filters.confidence) return false;
   if (filters.online === "no-pdf" && record.pdfUrl) return false;
   if (filters.online === "has-pdf" && !record.pdfUrl) return false;
+  if (filters.disposition === "open" && gapDispositionState(record)) return false;
+  if (filters.disposition && filters.disposition !== "open" && gapDispositionState(record) !== filters.disposition) return false;
   return true;
 }
 
@@ -1013,7 +1051,8 @@ function gapQueueMatchFilters(filters) {
     category: filters.category || "",
     priority: filters.priority || "",
     confidence: filters.confidence || "",
-    online: filters.online || ""
+    online: filters.online || "",
+    disposition: filters.disposition || ""
   };
 }
 
@@ -1234,7 +1273,13 @@ function setPersonCount(persons, all) {
 function setGapCount(records, all) {
   if (!gapCount) return;
   const offline = records.filter((record) => !record.pdfUrl).length;
-  gapCount.textContent = `Showing ${records.length} of ${all.length} compiler gaps; ${offline} visible records lack online PDFs.`;
+  const dispositions = {
+    open: records.filter((record) => !gapDispositionState(record)).length,
+    requested: records.filter((record) => gapDispositionState(record) === "requested").length,
+    obtained: records.filter((record) => gapDispositionState(record) === "obtained").length,
+    explained: records.filter((record) => gapDispositionState(record) === "explained").length
+  };
+  gapCount.textContent = `Showing ${records.length} of ${all.length} compiler gaps; ${dispositions.open} open, ${dispositions.requested} requested, ${dispositions.obtained} obtained, ${dispositions.explained} explained; ${offline} lack online PDFs.`;
 }
 
 function setMentionCount(mentions, all) {
@@ -1713,6 +1758,8 @@ function createGapMeta(record) {
 function createGapRow(record) {
   const row = document.createElement("article");
   row.className = "record-row gap-row";
+  row.id = record.id;
+  if (gapDispositionState(record)) row.classList.add(`is-gap-${gapDispositionState(record)}`);
 
   const date = document.createElement("time");
   date.className = "record-date";
@@ -1733,7 +1780,11 @@ function createGapRow(record) {
   badge.className = `confidence-badge ${record.priority === "High" ? "strong" : record.priority === "Medium" ? "solid" : "review"}`;
   badge.textContent = `${record.priority} priority`;
 
-  titleLine.append(title, badge);
+  const dispositionBadge = document.createElement("span");
+  dispositionBadge.className = `selection-badge gap-disposition-badge ${gapDispositionState(record) || "open"}`;
+  dispositionBadge.textContent = `Gap: ${gapDispositionLabel(record)}`;
+
+  titleLine.append(title, badge, dispositionBadge);
 
   const why = document.createElement("p");
   why.className = "record-signals";
@@ -1783,6 +1834,19 @@ function createGapRow(record) {
 function createGapActions(record) {
   const actions = document.createElement("div");
   actions.className = "record-actions";
+
+  for (const [state, label] of Object.entries(GAP_DISPOSITION_STATES)) {
+    const dispositionButton = document.createElement("button");
+    dispositionButton.type = "button";
+    dispositionButton.dataset.action = "set-gap-disposition";
+    dispositionButton.dataset.gapId = record.id;
+    dispositionButton.dataset.gapDisposition = state;
+    dispositionButton.className = `gap-disposition-action gap-disposition-${state}`;
+    dispositionButton.textContent = label;
+    dispositionButton.setAttribute("aria-pressed", gapDispositionState(record) === state ? "true" : "false");
+    actions.append(dispositionButton);
+  }
+
   const copyButton = document.createElement("button");
   copyButton.type = "button";
   copyButton.dataset.action = "copy-gap";
@@ -2110,7 +2174,7 @@ function resetPersonFilters() {
 }
 
 function resetGapControls() {
-  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapOnlineFilter]) {
+  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapOnlineFilter, gapDispositionFilter]) {
     if (control) control.value = "";
   }
   if (gapSortSelect) gapSortSelect.value = "priority";
@@ -2212,7 +2276,8 @@ function compilerStatePayload() {
     exportedAt: new Date().toISOString(),
     reviewedRecords: [...reviewedRecords],
     selections: recordSelections,
-    notes: recordNotes
+    notes: recordNotes,
+    gapDispositions
   };
 }
 
@@ -2241,15 +2306,26 @@ function sanitizeNotes(notes) {
   );
 }
 
+function sanitizeGapDispositions(dispositions) {
+  if (!dispositions || typeof dispositions !== "object") return {};
+  return Object.fromEntries(
+    Object.entries(dispositions)
+      .filter(([, state]) => GAP_DISPOSITION_STATES[state])
+  );
+}
+
 function applyCompilerStatePayload(payload) {
   reviewedRecords = new Set(Array.isArray(payload?.reviewedRecords) ? payload.reviewedRecords.filter(Boolean) : []);
   recordSelections = sanitizeSelections(payload?.selections || payload?.recordSelections);
   recordNotes = sanitizeNotes(payload?.notes || payload?.recordNotes);
+  gapDispositions = sanitizeGapDispositions(payload?.gapDispositions || payload?.gaps);
 
   saveReviewedRecords();
   saveRecordSelections();
   saveRecordNotes();
+  saveGapDispositions();
   applyFilters();
+  applyGapFilters();
 }
 
 async function importCompilerStateFile(event) {
@@ -2270,6 +2346,7 @@ function exportVisibleGaps() {
     "chapter",
     "date",
     "priority",
+    "disposition",
     "category",
     "title",
     "naid",
@@ -2288,6 +2365,7 @@ function exportVisibleGaps() {
     record.chapter.name,
     record.date,
     record.priority,
+    gapDispositionLabel(record),
     record.category,
     record.title,
     record.naid,
@@ -2321,6 +2399,7 @@ function selectedGapFilterSummary() {
     filters.priority ? `priority=${filters.priority}` : "",
     filters.confidence ? `source=${filters.confidence}` : "",
     filters.online ? `pdf=${filters.online}` : "",
+    filters.disposition ? `disposition=${filters.disposition}` : "",
     gapSortSelect?.value ? `sort=${gapSortSelect.value}` : ""
   ].filter(Boolean).join("; ") || "all compiler gaps";
 }
@@ -2328,6 +2407,10 @@ function selectedGapFilterSummary() {
 function gapPullList(records) {
   const high = records.filter((record) => record.priority === "High").length;
   const offline = records.filter((record) => !record.pdfUrl).length;
+  const open = records.filter((record) => !gapDispositionState(record)).length;
+  const requested = records.filter((record) => gapDispositionState(record) === "requested").length;
+  const obtained = records.filter((record) => gapDispositionState(record) === "obtained").length;
+  const explained = records.filter((record) => gapDispositionState(record) === "explained").length;
   const lines = [
     "# FRUS Volume XXVIII Gap Pull List",
     "",
@@ -2335,6 +2418,7 @@ function gapPullList(records) {
     `Visible gap candidates: ${records.length}`,
     `High-priority candidates: ${high}`,
     `No-online-PDF candidates: ${offline}`,
+    `Dispositions: open ${open}; requested ${requested}; obtained ${obtained}; explained ${explained}`,
     `Filters: ${selectedGapFilterSummary()}`,
     "",
     "Use: pull or explain these non-chronology files before treating the memcon/telcon selection as final.",
@@ -2350,6 +2434,7 @@ function gapPullList(records) {
         `### ${record.date ? shortDate(record.date) : "No date"} - ${record.title}`,
         "",
         `- Priority: ${record.priority || "Review"}`,
+        `- Disposition: ${gapDispositionLabel(record)}`,
         `- Category: ${record.category || "Gap target"}`,
         `- Pages: ${record.pageCount || "unknown"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
         `- Online PDF: ${record.pdfUrl ? "yes" : "no"}`,
@@ -2366,6 +2451,7 @@ function gapPullList(records) {
 
   lines.push("## Compiler Use", "");
   lines.push("- Pull high-priority no-PDF files first, especially when they are tied to event dossiers.");
+  lines.push("- Mark files Requested when the pull is submitted; move them to Obtained or Explained as the gap closes.");
   lines.push("- Compare pulled material against private memcons/telcons before deciding Include, Maybe, or Exclude.");
   lines.push("- Keep final source notes in FRUS style and move Catalog/NAID details into research trails as needed.");
   return lines.filter((line, index, all) => line || all[index - 1] !== "").join("\n");
@@ -2540,6 +2626,7 @@ function gapStub(record) {
     `${record.date ? shortDate(record.date) : "No date"} - ${record.title}`,
     `Chapter: ${record.chapter.name}`,
     `Priority: ${record.priority}`,
+    `Disposition: ${gapDispositionLabel(record)}`,
     `Category: ${record.category}`,
     `Why it matters: ${record.why}`,
     `Source state: ${record.sourceConfidence?.level || "pending"} - ${record.sourceConfidence?.basis || ""}`,
@@ -2674,6 +2761,7 @@ function gapControlByFilterKey() {
     priority: gapPriorityFilter,
     confidence: gapConfidenceFilter,
     online: gapOnlineFilter,
+    disposition: gapDispositionFilter,
     sort: gapSortSelect
   };
 }
@@ -2811,6 +2899,18 @@ function handleGapAction(event) {
   const record = allCompilerGaps.find((item) => item.id === button.dataset.gapId);
   if (!record) return;
 
+  if (button.dataset.action === "set-gap-disposition") {
+    const state = button.dataset.gapDisposition;
+    if (gapDispositionState(record) === state) {
+      delete gapDispositions[record.id];
+    } else if (GAP_DISPOSITION_STATES[state]) {
+      gapDispositions[record.id] = state;
+    }
+    saveGapDispositions();
+    applyGapFilters();
+    return;
+  }
+
   if (button.dataset.action === "copy-gap") {
     copyText(gapStub(record))
       .then((copied) => flashButton(button, copied ? "Copied" : "Copy failed"))
@@ -2898,7 +2998,7 @@ function bindPersonWorkbench() {
 }
 
 function bindGapWorkbench() {
-  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapOnlineFilter, gapSortSelect]) {
+  for (const control of [gapSearchInput, gapChapterFilter, gapCategoryFilter, gapPriorityFilter, gapConfidenceFilter, gapOnlineFilter, gapDispositionFilter, gapSortSelect]) {
     control?.addEventListener("input", applyGapFilters);
     control?.addEventListener("change", applyGapFilters);
   }
