@@ -767,19 +767,57 @@
 
       <section class="section" id="sources" aria-labelledby="sources-title">
         <div class="section-heading">
-          <p class="kicker">Catalog Sources</p>
-          <h2 id="sources-title">Collections Searched</h2>
+          <div>
+            <p class="kicker">Search Accountability</p>
+            <h2 id="sources-title">Collection Coverage Register</h2>
+          </div>
+          <p class="section-note">
+            The searchable audit trail behind the chronology and gap queue, including broad
+            sweeps, focused collection passes, retained files, and reviewed exclusions.
+          </p>
         </div>
-        <div class="source-grid">
-          <a href="https://catalog.archives.gov/id/321498039">Presidential Memcon Files</a>
-          <a href="https://catalog.archives.gov/id/321498139">Presidential Telcon Files</a>
-          <a href="https://catalog.archives.gov/id/186322">Presidential Daily Diary and Daily Backup Materials</a>
-          <a href="https://catalog.archives.gov/id/312294079">NSC/DC Meetings</a>
-          <a href="https://catalog.archives.gov/id/580456">Chief of Staff Files</a>
-          <a href="https://catalog.archives.gov/id/564645">WHORM Files</a>
-          <a href="https://www.govinfo.gov/app/collection/ppp/president-41_Bush%2C%20George%20H.%20W.">GovInfo Public Papers</a>
-          <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries">FRUS Production Guidance</a>
+        <div class="coverage-summary" aria-label="Collection coverage summary">
+          <div><strong id="coverage-total-rows">0</strong><span>source audits</span></div>
+          <div><strong id="coverage-report-count">0</strong><span>evidence reports</span></div>
+          <div><strong id="coverage-empty-outcomes">0</strong><span>no direct-title candidates</span></div>
         </div>
+        <div class="workbench coverage-workbench" aria-label="Collection coverage controls">
+          <div class="control-grid" role="search" aria-label="Filter collection coverage">
+            <label>
+              Search coverage
+              <input id="coverage-search" type="search" placeholder="Try Scowcroft, NSD, WHORM, Daily Diary..." />
+            </label>
+            <label>
+              Source kind
+              <select id="coverage-kind">
+                <option value="">All source kinds</option>
+              </select>
+            </label>
+            <label>
+              Audit type
+              <select id="coverage-status">
+                <option value="">All audit types</option>
+              </select>
+            </label>
+            <label>
+              Sort
+              <select id="coverage-sort">
+                <option value="name">Collection name</option>
+                <option value="kind">Source kind</option>
+                <option value="reviewed">Most records reviewed</option>
+                <option value="recent">Most recent audit</option>
+              </select>
+            </label>
+          </div>
+          <div class="workbench-actions">
+            <p id="coverage-count">Showing 0 of 0 source audits.</p>
+            <div>
+              <button id="reset-coverage" type="button">Reset</button>
+              <button id="export-coverage-csv" type="button">Export coverage CSV</button>
+            </div>
+          </div>
+        </div>
+        <div id="collection-coverage-root" class="coverage-register" aria-live="polite"></div>
       </section>
 
       <section class="section ingest" id="ingest" aria-labelledby="ingest-title">
@@ -798,7 +836,10 @@
           for compiler risk. Run
           <code>node scripts/harvest-public-statements.js</code> to refresh the GovInfo Public Papers
           reference section, then run <code>node scripts/build-compiler-risk-data.js</code> to rebuild
-          event dossiers, gap lists, and the Public Papers review queue.
+          event dossiers, gap lists, and the Public Papers review queue. Run
+          <code>node scripts/harvest-priority-policy-files.js</code> to refresh the Scowcroft Drug War,
+          NSR-13, NSD-13, and NSD-18 files, then
+          <code>node scripts/build-collection-coverage.js</code> to refresh the public search register.
         </p>
       </section>
     </main>
@@ -818,6 +859,7 @@
     <script src="data/event-dossiers.js"></script>
     <script src="data/compiler-gaps.js"></script>
     <script src="data/public-statement-review.js"></script>
+    <script src="data/collection-coverage.js"></script>
     <script src="source-note-provenance.js"></script>
     <script src="app.js"></script>
     <script src="compiler-packet.js"></script>
@@ -894,6 +936,7 @@
             "- Export the visible compiler packet for source-note and document-sequence review.",
             "- Export the chronology ledger to interleave title-dated gaps and resolve provisional dates.",
             "- Export the Include annotation worksheet for first-footnote, chronology, omission, and cross-reference work.",
+            "- Use the Collection Coverage Register to document which archival sources were searched and open the underlying audit JSON.",
             "- Use the PDF checklist for records with missing first-page metadata.",
             "- Reconcile event dossiers against the gap queue before treating the selection as final."
           ].filter(Boolean).join("\n");

@@ -30,6 +30,8 @@ jobs:
           mkdir _site
           cp index.html styles.css app.js compiler-packet.js source-note-provenance.js _site/
           cp -R data _site/data
+          mkdir _site/reports
+          cp reports/*.json _site/reports/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

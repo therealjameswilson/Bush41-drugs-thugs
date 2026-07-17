@@ -1,5 +1,122 @@
 window.FRUS_EVENT_DOSSIERS = [
   {
+    "id": "latin-america-drug-war-policy",
+    "title": "Latin America Drug War Policy",
+    "chapter": {
+      "number": 1,
+      "name": "Counternarcotics"
+    },
+    "dateRange": "1989-1990",
+    "summary": "Scowcroft policy files tracking the Latin American drug war across the first two years of the administration.",
+    "nextAction": "Read the five online Scowcroft folders against the NSR/NSD and presidential-conversation chronology, then identify document-level selections and final control-copy citations.",
+    "counts": {
+      "declassifiedConversations": 0,
+      "compilerGaps": 5,
+      "publicStatements": 0,
+      "publicReviewMentions": 0
+    },
+    "privateRecords": [],
+    "gapRecords": [
+      {
+        "id": "gap-366551932",
+        "naid": "366551932",
+        "title": "Latin America--Drug War (October-November 1989)",
+        "date": "1989-10-01",
+        "documentType": "Scowcroft policy file",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        },
+        "pageCount": 32,
+        "priority": "High",
+        "category": "Scowcroft policy file",
+        "accessRestrictionStatus": "Restricted - Possibly",
+        "catalogUrl": "https://catalog.archives.gov/id/366551932",
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-001.pdf",
+        "sourceName": "Scowcroft Latin America Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-001, Latin America--Drug War (October-November 1989)."
+      },
+      {
+        "id": "gap-366551933",
+        "naid": "366551933",
+        "title": "Latin America--Drug War (February 1990)",
+        "date": "1990-02-01",
+        "documentType": "Scowcroft policy file",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        },
+        "pageCount": 15,
+        "priority": "High",
+        "category": "Scowcroft policy file",
+        "accessRestrictionStatus": "Restricted - Possibly",
+        "catalogUrl": "https://catalog.archives.gov/id/366551933",
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-002.pdf",
+        "sourceName": "Scowcroft Latin America Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-002, Latin America--Drug War (February 1990)."
+      },
+      {
+        "id": "gap-366551934",
+        "naid": "366551934",
+        "title": "Latin America--Drug War (June 1990) [1]",
+        "date": "1990-06-01",
+        "documentType": "Scowcroft policy file",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        },
+        "pageCount": 23,
+        "priority": "High",
+        "category": "Scowcroft policy file",
+        "accessRestrictionStatus": "Restricted - Possibly",
+        "catalogUrl": "https://catalog.archives.gov/id/366551934",
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-003.pdf",
+        "sourceName": "Scowcroft Latin America Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-003, Latin America--Drug War (June 1990) [1]."
+      },
+      {
+        "id": "gap-366551935",
+        "naid": "366551935",
+        "title": "Latin America--Drug War (June 1990) [2]",
+        "date": "1990-06-01",
+        "documentType": "Scowcroft policy file",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        },
+        "pageCount": 43,
+        "priority": "High",
+        "category": "Scowcroft policy file",
+        "accessRestrictionStatus": "Restricted - Possibly",
+        "catalogUrl": "https://catalog.archives.gov/id/366551935",
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-004.pdf",
+        "sourceName": "Scowcroft Latin America Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-004, Latin America--Drug War (June 1990) [2]."
+      },
+      {
+        "id": "gap-366551936",
+        "naid": "366551936",
+        "title": "Latin America--Drug War (October 1990)",
+        "date": "1990-10-01",
+        "documentType": "Scowcroft policy file",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        },
+        "pageCount": 11,
+        "priority": "High",
+        "category": "Scowcroft policy file",
+        "accessRestrictionStatus": "Restricted - Possibly",
+        "catalogUrl": "https://catalog.archives.gov/id/366551936",
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-005.pdf",
+        "sourceName": "Scowcroft Latin America Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-005, Latin America--Drug War (October 1990)."
+      }
+    ],
+    "publicStatements": [],
+    "publicReviewMentions": []
+  },
+  {
     "id": "national-drug-control-strategy",
     "title": "National Drug Control Strategy",
     "chapter": {
@@ -472,7 +589,7 @@ window.FRUS_EVENT_DOSSIERS = [
     "nextAction": "Reconcile NSC/DC summit files, public statements, and presidential meetings with Barco, Paz, and Andean leaders.",
     "counts": {
       "declassifiedConversations": 24,
-      "compilerGaps": 40,
+      "compilerGaps": 45,
       "publicStatements": 6,
       "publicReviewMentions": 8
     },
@@ -788,19 +905,38 @@ window.FRUS_EVENT_DOSSIERS = [
         "naid": "446396832",
         "title": "NSD-18 - August 21, 1989 - International Counternarcotics Strategy",
         "date": "1989-08-21",
-        "documentType": "All textual collections counternarcotics file",
+        "documentType": "National Security Directive file",
         "chapter": {
           "number": 1,
           "name": "Counternarcotics"
         },
         "pageCount": 160,
         "priority": "High",
-        "category": "Policy folder",
+        "category": "National Security Directive file",
         "accessRestrictionStatus": "Restricted - Possibly",
         "catalogUrl": "https://catalog.archives.gov/id/446396832",
-        "pdfUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-18-90003-023.pdf",
-        "sourceName": "National Security Directives (NSD) Files",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, National Security Directives (NSD) Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy."
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-18-90003-023.pdf",
+        "sourceName": "H-Files, NSD Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy."
+      },
+      {
+        "id": "gap-366551932",
+        "naid": "366551932",
+        "title": "Latin America--Drug War (October-November 1989)",
+        "date": "1989-10-01",
+        "documentType": "Scowcroft policy file",
+        "chapter": {
+          "number": 1,
+          "name": "Counternarcotics"
+        },
+        "pageCount": 32,
+        "priority": "High",
+        "category": "Scowcroft policy file",
+        "accessRestrictionStatus": "Restricted - Possibly",
+        "catalogUrl": "https://catalog.archives.gov/id/366551932",
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-001.pdf",
+        "sourceName": "Scowcroft Latin America Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-001, Latin America--Drug War (October-November 1989)."
       },
       {
         "id": "gap-470761052",
@@ -860,42 +996,23 @@ window.FRUS_EVENT_DOSSIERS = [
         "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSC/DC Meetings Files, OA/ID 90013-002, NSC/DC 095 - January 09, 1990 - NSC/DC Meeting on Andean Drug Summit, Keywords: Drugs, Summit."
       },
       {
-        "id": "gap-597640513",
-        "naid": "597640513",
-        "title": "FO006-05 Case Number 097159 Scanned",
-        "date": "1990-02-15",
-        "documentType": "WHORM anchoring event file",
+        "id": "gap-366551933",
+        "naid": "366551933",
+        "title": "Latin America--Drug War (February 1990)",
+        "date": "1990-02-01",
+        "documentType": "Scowcroft policy file",
         "chapter": {
           "number": 1,
           "name": "Counternarcotics"
         },
-        "pageCount": 25,
+        "pageCount": 15,
         "priority": "High",
-        "category": "WHORM case file",
+        "category": "Scowcroft policy file",
         "accessRestrictionStatus": "Restricted - Possibly",
-        "catalogUrl": "https://catalog.archives.gov/id/597640513",
-        "pdfUrl": "",
-        "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 097159 Scanned."
-      },
-      {
-        "id": "gap-597640514",
-        "naid": "597640514",
-        "title": "FO006-05 Case Number 114529 Scanned",
-        "date": "1990-02-15",
-        "documentType": "WHORM anchoring event file",
-        "chapter": {
-          "number": 1,
-          "name": "Counternarcotics"
-        },
-        "pageCount": 25,
-        "priority": "High",
-        "category": "WHORM case file",
-        "accessRestrictionStatus": "Restricted - Possibly",
-        "catalogUrl": "https://catalog.archives.gov/id/597640514",
-        "pdfUrl": "",
-        "sourceName": "WHORM Drug Summit Colombia",
-        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Records Management, Subject Files on Drug Summit in Colombia, FO006-05 Case Number 114529 Scanned."
+        "catalogUrl": "https://catalog.archives.gov/id/366551933",
+        "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-002.pdf",
+        "sourceName": "Scowcroft Latin America Files",
+        "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-002, Latin America--Drug War (February 1990)."
       }
     ],
     "publicStatements": [

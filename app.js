@@ -120,6 +120,17 @@ const mentionPackageFilter = document.querySelector("#mention-package");
 const mentionSortSelect = document.querySelector("#sort-mentions");
 const mentionResetButton = document.querySelector("#reset-mentions");
 const mentionExportButton = document.querySelector("#export-mentions-csv");
+const collectionCoverageRoot = document.querySelector("#collection-coverage-root");
+const coverageCount = document.querySelector("#coverage-count");
+const coverageSearchInput = document.querySelector("#coverage-search");
+const coverageKindFilter = document.querySelector("#coverage-kind");
+const coverageStatusFilter = document.querySelector("#coverage-status");
+const coverageSortSelect = document.querySelector("#coverage-sort");
+const coverageResetButton = document.querySelector("#reset-coverage");
+const coverageExportButton = document.querySelector("#export-coverage-csv");
+const coverageTotalRows = document.querySelector("#coverage-total-rows");
+const coverageReportCount = document.querySelector("#coverage-report-count");
+const coverageEmptyOutcomes = document.querySelector("#coverage-empty-outcomes");
 
 const TOPIC_SIGNALS = [
   { label: "Drug summit", pattern: /\b(drug summit|cartagena|san antonio summit)\b/i, weight: 4 },
@@ -194,6 +205,24 @@ const QUICK_QUEUE_DEFINITIONS = [
 ];
 const GAP_QUEUE_DEFINITIONS = [
   {
+    id: "scowcroft-drug-war",
+    label: "Scowcroft Drug War",
+    detail: "Five online Latin America Drug War folders with measured page counts",
+    filters: { query: "latin america--drug war", online: "has-pdf", sort: "chapter-date" }
+  },
+  {
+    id: "nsd-files",
+    label: "NSD Files",
+    detail: "Direct counternarcotics directive files",
+    filters: { query: "NSD-", online: "has-pdf", chapter: "Counternarcotics", sort: "chapter-date" }
+  },
+  {
+    id: "nsr-files",
+    label: "NSR Files",
+    detail: "Direct counternarcotics review files",
+    filters: { query: "NSR-", online: "has-pdf", chapter: "Counternarcotics", sort: "chapter-date" }
+  },
+  {
     id: "high-offline",
     label: "High Offline Open",
     detail: "Open high-priority files without an online PDF",
@@ -255,6 +284,8 @@ let visibleCompilerGaps = [];
 let allPublicReviewMentions = [];
 let visiblePublicReviewMentions = [];
 let allScheduleReferences = [];
+let allCollectionCoverage = [];
+let visibleCollectionCoverage = [];
 let recordEventMap = new Map();
 let reviewedRecords = new Set(readReviewedRecords());
 let sourceCheckedRecords = new Set(readSourceCheckedRecords());
@@ -694,6 +725,11 @@ function setMentionOptions(mentions) {
   setOptions(mentionPackageFilter, uniqueValues(mentions, (mention) => mention.packageId), "All volumes");
 }
 
+function setCoverageOptions(rows) {
+  setOptions(coverageKindFilter, uniqueValues(rows, (row) => row.kind), "All source kinds");
+  setOptions(coverageStatusFilter, uniqueValues(rows, (row) => row.status), "All audit types");
+}
+
 function setChapterCounts(records) {
   totalRecords.textContent = records.length.toString();
   totalPdfs.textContent = records.filter((record) => record.pdfUrl).length.toString();
@@ -1111,6 +1147,42 @@ function sortMentions(mentions) {
   return sorted.sort(byMentionChapterThenDate);
 }
 
+function coverageSearchableText(row) {
+  return [
+    row.name,
+    row.kind,
+    row.status,
+    row.naid,
+    row.method,
+    row.outcome,
+    ...(row.evidence || []).flatMap((item) => [item.label, item.path])
+  ].filter(Boolean).join(" ").toLowerCase();
+}
+
+function selectedCoverageFilters() {
+  return {
+    query: coverageSearchInput?.value.trim().toLowerCase() || "",
+    kind: coverageKindFilter?.value || "",
+    status: coverageStatusFilter?.value || ""
+  };
+}
+
+function coverageMatchesFilters(row, filters) {
+  if (filters.query && !coverageSearchableText(row).includes(filters.query)) return false;
+  if (filters.kind && row.kind !== filters.kind) return false;
+  if (filters.status && row.status !== filters.status) return false;
+  return true;
+}
+
+function sortCollectionCoverage(rows) {
+  const sorted = [...rows];
+  const mode = coverageSortSelect?.value || "name";
+  if (mode === "kind") return sorted.sort((a, b) => a.kind.localeCompare(b.kind) || a.name.localeCompare(b.name));
+  if (mode === "reviewed") return sorted.sort((a, b) => (b.reviewed || 0) - (a.reviewed || 0) || a.name.localeCompare(b.name));
+  if (mode === "recent") return sorted.sort((a, b) => String(b.lastRun).localeCompare(String(a.lastRun)) || a.name.localeCompare(b.name));
+  return sorted.sort((a, b) => a.name.localeCompare(b.name));
+}
+
 function applyFilters(options = {}) {
   const filters = selectedFilters();
   visibleRecords = sortRecords(allRecords.filter((record) => recordMatchesFilters(record, filters)));
@@ -1153,6 +1225,14 @@ function applyMentionFilters() {
   visiblePublicReviewMentions = sortMentions(allPublicReviewMentions.filter((mention) => mentionMatchesFilters(mention, filters)));
   renderPublicReviewMentions(visiblePublicReviewMentions);
   setMentionCount(visiblePublicReviewMentions, allPublicReviewMentions);
+}
+
+function applyCoverageFilters() {
+  if (!collectionCoverageRoot) return;
+  const filters = selectedCoverageFilters();
+  visibleCollectionCoverage = sortCollectionCoverage(allCollectionCoverage.filter((row) => coverageMatchesFilters(row, filters)));
+  renderCollectionCoverage(visibleCollectionCoverage);
+  if (coverageCount) coverageCount.textContent = `Showing ${visibleCollectionCoverage.length} of ${allCollectionCoverage.length} source audits.`;
 }
 
 function setFilteredCount(records, all) {
@@ -1970,6 +2050,7 @@ function createGapMeta(record) {
     record.pdfUrl ? "Online PDF" : "No online PDF",
     record.pageCount ? `${record.pageCount} pages` : "",
     record.sourceConfidence?.level,
+    record.sourceReports?.length ? `Audit: ${record.sourceReports.join("; ")}` : "",
     `NAID ${record.naid}`,
     record.accessRestrictionStatus
   ]) {
@@ -2263,6 +2344,92 @@ function createPersonEmptyState() {
   return empty;
 }
 
+function formatAuditDate(value) {
+  if (!value) return "Date not recorded";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }).format(date);
+}
+
+function createCoverageRow(row) {
+  const article = document.createElement("article");
+  article.className = `coverage-row${row.retained === 0 ? " no-direct-candidates" : ""}`;
+
+  const heading = document.createElement("div");
+  heading.className = "coverage-heading";
+  const titleWrap = document.createElement("div");
+  const title = document.createElement("h3");
+  const sourceLink = document.createElement("a");
+  sourceLink.href = row.sourceUrl;
+  sourceLink.target = "_blank";
+  sourceLink.rel = "noreferrer";
+  sourceLink.textContent = row.name;
+  title.append(sourceLink);
+  const meta = document.createElement("p");
+  meta.className = "coverage-meta";
+  meta.textContent = [row.kind, row.naid ? `NAID ${row.naid}` : "", `Audited ${formatAuditDate(row.lastRun)}`].filter(Boolean).join(" | ");
+  titleWrap.append(title, meta);
+  const badge = document.createElement("span");
+  badge.className = "coverage-status";
+  badge.textContent = row.status;
+  heading.append(titleWrap, badge);
+
+  const metrics = document.createElement("dl");
+  metrics.className = "coverage-metrics";
+  for (const [label, value] of [["Reviewed", row.reviewed], ["Retained", row.retained], ["Online", row.online]]) {
+    const item = document.createElement("div");
+    const number = document.createElement("dd");
+    number.textContent = Number(value || 0).toLocaleString("en-US");
+    const term = document.createElement("dt");
+    term.textContent = label;
+    item.append(term, number);
+    metrics.append(item);
+  }
+
+  const method = document.createElement("p");
+  method.className = "coverage-method";
+  method.textContent = row.method;
+  const outcome = document.createElement("p");
+  outcome.className = "coverage-outcome";
+  outcome.textContent = row.outcome;
+
+  const links = document.createElement("div");
+  links.className = "coverage-evidence";
+  for (const item of row.evidence || []) {
+    const link = document.createElement("a");
+    link.href = item.path;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.textContent = item.label;
+    links.append(link);
+  }
+
+  article.append(heading, metrics, method, outcome, links);
+  return article;
+}
+
+function renderCollectionCoverage(rows) {
+  if (!collectionCoverageRoot) return;
+  collectionCoverageRoot.replaceChildren();
+  if (!rows.length) {
+    const empty = document.createElement("div");
+    empty.className = "empty-state";
+    empty.textContent = "No source audits match the current filters.";
+    collectionCoverageRoot.append(empty);
+    return;
+  }
+  for (const row of rows) collectionCoverageRoot.append(createCoverageRow(row));
+}
+
+function setCoverageSummary(rows) {
+  if (coverageTotalRows) coverageTotalRows.textContent = rows.length.toLocaleString("en-US");
+  if (coverageReportCount) {
+    const reports = new Set(rows.flatMap((row) => (row.evidence || []).map((item) => item.path)));
+    coverageReportCount.textContent = reports.size.toLocaleString("en-US");
+  }
+  if (coverageEmptyOutcomes) coverageEmptyOutcomes.textContent = rows.filter((row) => row.retained === 0).length.toLocaleString("en-US");
+}
+
 function renderRecords(records) {
   recordsRoot.replaceChildren();
 
@@ -2489,6 +2656,14 @@ function resetMentionFilters() {
   applyMentionFilters();
 }
 
+function resetCoverageFilters() {
+  for (const control of [coverageSearchInput, coverageKindFilter, coverageStatusFilter]) {
+    if (control) control.value = "";
+  }
+  if (coverageSortSelect) coverageSortSelect.value = "name";
+  applyCoverageFilters();
+}
+
 function csvEscape(value) {
   const text = value == null ? "" : String(value);
   return `"${text.replaceAll('"', '""')}"`;
@@ -2502,6 +2677,38 @@ function downloadTextFile(filename, text, type) {
   link.download = filename;
   link.click();
   URL.revokeObjectURL(url);
+}
+
+function exportVisibleCoverage() {
+  const headers = [
+    "source",
+    "source_kind",
+    "audit_type",
+    "naid",
+    "last_audit",
+    "reviewed",
+    "retained",
+    "online",
+    "method",
+    "outcome",
+    "source_url",
+    "evidence_reports"
+  ];
+  const rows = visibleCollectionCoverage.map((row) => [
+    row.name,
+    row.kind,
+    row.status,
+    row.naid,
+    row.lastRun,
+    row.reviewed,
+    row.retained,
+    row.online,
+    row.method,
+    row.outcome,
+    row.sourceUrl,
+    (row.evidence || []).map((item) => `${item.label}: ${new URL(item.path, window.location.href).href}`).join("; ")
+  ].map(csvEscape).join(","));
+  downloadTextFile("frus-v28-collection-coverage.csv", [headers.join(","), ...rows].join("\n"), "text/csv;charset=utf-8");
 }
 
 function exportVisibleRecords() {
@@ -2669,6 +2876,7 @@ function exportVisibleGaps() {
     "source_confidence",
     "access_status",
     "why",
+    "source_reports",
     "event_tags",
     "catalog_url",
     "pdf_url",
@@ -2689,6 +2897,7 @@ function exportVisibleGaps() {
     record.sourceConfidence?.level || "",
     record.accessRestrictionStatus || "",
     record.why || "",
+    (record.sourceReports || []).join("; "),
     (record.eventTags || []).map(eventTitle).join("; "),
     record.catalogUrl,
     record.pdfUrl,
@@ -2759,6 +2968,7 @@ function gapPullList(records) {
         `- Online PDF: ${record.pdfUrl ? "yes" : "no"}`,
         `- Why it matters: ${record.why || "Compiler review needed."}`,
         `- Source state: ${record.sourceConfidence?.level || "pending"}${record.sourceConfidence?.basis ? ` - ${record.sourceConfidence.basis}` : ""}`,
+        `- Audit evidence: ${(record.sourceReports || []).join("; ") || "not recorded"}`,
         `- NAID: ${record.naid || ""}`,
         `- Catalog: ${record.catalogUrl || ""}`,
         record.pdfUrl ? `- PDF: ${record.pdfUrl}` : "",
@@ -2953,6 +3163,7 @@ function gapStub(record) {
     `Category: ${record.category}`,
     `Why it matters: ${record.why}`,
     `Source state: ${record.sourceConfidence?.level || "pending"} - ${record.sourceConfidence?.basis || ""}`,
+    `Audit evidence: ${(record.sourceReports || []).join("; ") || "not recorded"}`,
     `Pages: ${record.pageCount || "unknown"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
     `NAID: ${record.naid}`,
     `Catalog: ${record.catalogUrl || ""}`,
@@ -3401,6 +3612,15 @@ function bindMentionWorkbench() {
   eventDossiersRoot?.addEventListener("click", handleEventDossierAction);
 }
 
+function bindCoverageWorkbench() {
+  for (const control of [coverageSearchInput, coverageKindFilter, coverageStatusFilter, coverageSortSelect]) {
+    control?.addEventListener("input", applyCoverageFilters);
+    control?.addEventListener("change", applyCoverageFilters);
+  }
+  coverageResetButton?.addEventListener("click", resetCoverageFilters);
+  coverageExportButton?.addEventListener("click", exportVisibleCoverage);
+}
+
 async function loadRecords() {
   const response = await fetch("data/records.json");
   if (!response.ok) throw new Error(`Could not load records: ${response.status}`);
@@ -3449,6 +3669,13 @@ async function loadScheduleReferences() {
   return response.json();
 }
 
+async function loadCollectionCoverage() {
+  if (window.FRUS_COLLECTION_COVERAGE) return window.FRUS_COLLECTION_COVERAGE;
+  const response = await fetch("data/collection-coverage.json");
+  if (!response.ok) throw new Error(`Could not load collection coverage: ${response.status}`);
+  return response.json();
+}
+
 async function init() {
   try {
     const publicStatementPromise = publicStatementsRoot ? loadPublicStatements() : Promise.resolve([]);
@@ -3457,14 +3684,16 @@ async function init() {
     const compilerGapPromise = compilerGapsRoot ? loadCompilerGaps() : Promise.resolve([]);
     const publicReviewPromise = publicMentionsRoot ? loadPublicReviewMentions() : Promise.resolve([]);
     const scheduleReferencePromise = totalScheduleReferences ? loadScheduleReferences() : Promise.resolve([]);
-    [allRecords, allPublicStatements, allPersons, allEventDossiers, allCompilerGaps, allPublicReviewMentions, allScheduleReferences] = await Promise.all([
+    const collectionCoveragePromise = collectionCoverageRoot ? loadCollectionCoverage() : Promise.resolve([]);
+    [allRecords, allPublicStatements, allPersons, allEventDossiers, allCompilerGaps, allPublicReviewMentions, allScheduleReferences, allCollectionCoverage] = await Promise.all([
       window.FRUS_RECORDS || loadRecords(),
       publicStatementPromise,
       personsPromise,
       eventDossierPromise,
       compilerGapPromise,
       publicReviewPromise,
-      scheduleReferencePromise
+      scheduleReferencePromise,
+      collectionCoveragePromise
     ]);
     recordEventMap = buildRecordEventMap(allEventDossiers);
     setWorkbenchOptions(allRecords);
@@ -3473,23 +3702,27 @@ async function init() {
     setPersonOptions(allPersons);
     setGapOptions(allCompilerGaps);
     setMentionOptions(allPublicReviewMentions);
+    setCoverageOptions(allCollectionCoverage);
     setPublicStatementCount(allPublicStatements);
     setPersonsCount(allPersons);
     setEventDossierCount(allEventDossiers);
     setCompilerGapCount(allCompilerGaps);
     setScheduleReferenceCount(allScheduleReferences);
+    setCoverageSummary(allCollectionCoverage);
     applyChronologyFiltersFromUrl();
     bindWorkbench();
     bindReferenceWorkbench();
     bindPersonWorkbench();
     bindGapWorkbench();
     bindMentionWorkbench();
+    bindCoverageWorkbench();
     renderEventDossiers(allEventDossiers);
     applyFilters();
     applyReferenceFilters();
     applyPersonFilters();
     applyGapFilters();
     applyMentionFilters();
+    applyCoverageFilters();
     enableChapterCards();
     restoreSectionFromHash();
   } catch (error) {
@@ -3505,6 +3738,9 @@ async function init() {
     }
     if (publicMentionsRoot) {
       publicMentionsRoot.innerHTML = '<p class="error">The Public Papers review queue could not be loaded.</p>';
+    }
+    if (collectionCoverageRoot) {
+      collectionCoverageRoot.innerHTML = '<p class="error">The collection coverage register could not be loaded.</p>';
     }
   }
 }

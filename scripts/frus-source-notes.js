@@ -8,6 +8,9 @@ function trimTerminalPeriod(value) {
 
 function normalizeCollectionTitle(value) {
   const title = clean(value);
+  if (/Brent Scowcroft Papers|Brent Scowcroft Collection/i.test(title)) {
+    return "Bush Presidential Records, Brent Scowcroft Collection";
+  }
   if (/Records of the National Security Council/i.test(title)) {
     return "Bush Presidential Records, National Security Council";
   }
@@ -107,6 +110,7 @@ function sourceCollectionFromFrusSourceNote(value) {
     "Bush Presidential Records, White House Office of Policy Development",
     "Bush Presidential Records, Office of Domestic Policy and Council on Competitiveness",
     "Bush Presidential Records, White House Office of Press Secretary",
+    "Bush Presidential Records, Brent Scowcroft Collection",
     "Richard Cheney Collection"
   ];
   return knownCollections.find((collection) => body.startsWith(collection)) || body.split(", ")[0] || "";

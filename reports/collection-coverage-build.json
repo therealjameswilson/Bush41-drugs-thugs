@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-07-17T15:29:06.849Z",
+  "collectionRows": 15,
+  "statusCounts": {
+    "Direct corpus": 3,
+    "Focused audit": 8,
+    "Collection-wide sweep": 2,
+    "Discovery overlay": 1,
+    "Reference corpus": 1
+  },
+  "sourceKinds": {
+    "Core chronology": 2,
+    "Schedule control": 1,
+    "Policy and decision files": 9,
+    "Cross-collection audit": 2,
+    "Public reference": 1
+  }
+}

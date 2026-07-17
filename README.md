@@ -82,6 +82,12 @@ The workbench supports:
   Pan Am 103, hostages, and the National Drug Control Strategy
 - a compiler-risk queue for NSC/DC, Chief of Staff, WHORM, and policy files
   that may need pulling, explaining, or excluding
+- a collection coverage register that records the search method, last audit,
+  records reviewed, records retained, online availability, and downloadable
+  evidence report for every named source pass
+- focused online coverage of five Brent Scowcroft `Latin America--Drug War`
+  folders plus NSR-13, NSD-13, and NSD-18, with measured PDF page counts and
+  high-priority pull queues
 - one-click gap pull queues, an online-PDF filter, and a Markdown pull-list
   copy action for turning visible risk files into a concrete archival request
 - persistent Open / Requested / Obtained / Explained gap dispositions, carried
@@ -221,8 +227,10 @@ reports:
 After running the broad harvesters, rebuild the site-level risk data with:
 
 ```bash
+node scripts/harvest-priority-policy-files.js
 node scripts/build-compiler-risk-data.js
 node scripts/refresh-source-notes.js
+node scripts/build-collection-coverage.js
 ```
 
 This writes:
@@ -234,6 +242,10 @@ This writes:
 - `data/public-statement-review.json`
 - `data/public-statement-review.js`
 - `reports/compiler-risk-data.json`
+- `reports/priority-policy-files-harvest.json`
+- `data/collection-coverage.json`
+- `data/collection-coverage.js`
+- `reports/collection-coverage-build.json`
 
 The gap builder deduplicates against the published memcon/telcon chronology and
 keeps non-conversation candidates visible as explicit compiler risks. It
@@ -245,6 +257,13 @@ The event dossiers are not final editorial selections. They are working bundles
 for chronology control: each dossier links declassified conversations, missing
 or restricted policy files, promoted Public Papers references, and lower-priority
 Public Papers passing mentions for the same anchoring event.
+
+The focused priority-policy pass corrects a blind spot in the broad title
+classifier: five Scowcroft folders titled `Latin America--Drug War` and the
+online NSD-13 file on cocaine trafficking are now explicit high-priority risks,
+alongside NSR-13 and NSD-18. The collection coverage register keeps the broad
+search counts and focused follow-up evidence visible without moving policy
+folders into the memcon/telcon chronology.
 
 ## Persons List
 

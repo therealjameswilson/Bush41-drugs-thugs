@@ -1,28 +1,37 @@
 {
-  "generatedAt": "2026-05-25T11:18:46.027Z",
+  "generatedAt": "2026-07-17T15:27:58.136Z",
   "publishedConversationRecords": 209,
-  "compilerGaps": 243,
+  "compilerGaps": 249,
   "publicReviewMentions": 497,
-  "eventDossiers": 8,
+  "eventDossiers": 9,
   "gapCountsByCategory": {
-    "Policy folder": 118,
+    "Policy folder": 116,
     "Chief of Staff policy file": 13,
+    "National Security Review file": 1,
+    "National Security Directive file": 2,
     "NSC/DC decision file": 40,
+    "Scowcroft policy file": 5,
     "WHORM case file": 59,
     "Anchoring event file": 7,
     "NSC/DC follow-up file": 5,
     "Meeting minutes": 1
   },
   "gapCountsByPriority": {
-    "High": 155,
+    "High": 162,
     "Medium": 30,
-    "Review": 58
+    "Review": 57
   },
   "gapCountsByConfidence": {
     "Listed/no online PDF": 136,
-    "Measured online PDF": 107
+    "Measured online PDF": 113
   },
   "eventCounts": {
+    "latin-america-drug-war-policy": {
+      "declassifiedConversations": 0,
+      "compilerGaps": 5,
+      "publicStatements": 0,
+      "publicReviewMentions": 0
+    },
     "national-drug-control-strategy": {
       "declassifiedConversations": 0,
       "compilerGaps": 85,
@@ -31,7 +40,7 @@
     },
     "cartagena-andean-drug-summit": {
       "declassifiedConversations": 24,
-      "compilerGaps": 40,
+      "compilerGaps": 45,
       "publicStatements": 6,
       "publicReviewMentions": 8
     },

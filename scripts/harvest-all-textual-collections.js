@@ -22,6 +22,7 @@ const TOPIC_QUERIES = [
   "Drug Control",
   "Drug Policy",
   "Drug Information",
+  "Drug War",
   "Narcotics",
   "Counternarcotics",
   "Counterterrorism",
@@ -51,7 +52,7 @@ const CHAPTERS = {
 };
 
 const COUNTERNARCOTICS_TITLE_RE =
-  /\b(national drug control strategy|office of national drug control policy|drug czar|drug control|drug policy|drug information|narcotics|counternarcotics|counter[- ]?narcotics|drug summit|san antonio narcotics summit|cocaine|andean drug|drug interdiction|drug certification)\b/i;
+  /\b(national drug control strategy|office of national drug control policy|drug czar|drug control|drug policy|drug information|drug war|narcotics|counternarcotics|counter[- ]?narcotics|drug summit|san antonio narcotics summit|cocaine|cocaine trafficking|andean drug|drug interdiction|drug certification)\b/i;
 
 const COUNTERTERRORISM_TITLE_RE =
   /\b(counterterrorism|counter[- ]?terrorism|terrorism|terrorist|pan am 103|lockerbie|hostage|hostages|kidnapping|hijacking|aviation security|terrorist bombing|terrorist incident)\b/i;
@@ -66,7 +67,7 @@ const LOW_VALUE_COLLECTION_RE =
   /\b(Press Secretary|Speechwriting|Communications|Media Affairs|Public Liaison|Public Affairs|Presidential Personnel|Correspondence|Management and Administration|National Service|Political Affairs|Intergovernmental Affairs|Legislative Affairs|Executive Clerk|First Lady's Office|Office of Administration of the Vice President|Staff Secretary of the Vice President)\b/i;
 
 const ANCHOR_TITLE_RE =
-  /\b(Pan Am 103|Lockerbie|President's Commission on Aviation Security and Terrorism|National Drug Control Strategy|Domestic Policy Council Meeting|Drug Policy Strategy|Drug Control Policy|NSD-|NSR-|NSC\/DC|Deputies Committee|DC \[Deputies Committee\]|Drug Summit|San Antonio Narcotics Summit)\b/i;
+  /\b(Pan Am 103|Lockerbie|President's Commission on Aviation Security and Terrorism|National Drug Control Strategy|Domestic Policy Council Meeting|Drug Policy Strategy|Drug Control Policy|Drug War|Cocaine Trafficking|NSD-|NSR-|NSC\/DC|Deputies Committee|DC \[Deputies Committee\]|Drug Summit|San Antonio Narcotics Summit)\b/i;
 
 const POLICY_DOCUMENT_RE =
   /\b(meeting|minutes|memorandum|memo|briefing|briefing book|report|commission|strategy|directive|review|summit|agenda|issues for consideration|decision|paper)\b/i;
@@ -296,7 +297,7 @@ function classifySelection(record) {
     chapterName: "Counternarcotics",
     documentType: /drug summit|san antonio narcotics summit/i.test(title)
       ? "All textual collections drug summit file"
-      : /national drug control strategy|office of national drug control policy|drug czar|drug policy|drug control/i.test(title)
+      : /national drug control strategy|office of national drug control policy|drug czar|drug policy|drug control|drug war|cocaine trafficking/i.test(title)
         ? "All textual collections drug policy file"
         : "All textual collections counternarcotics file",
     topicTerms: topicTerms("Counternarcotics", title)
@@ -325,8 +326,8 @@ function priorityReason(record, selection) {
     return "Excluded from the chronology because the series or title is a press, speech, publication, pardon, appointment, personnel, travel, or investigative-administration file.";
   }
 
-  if (/National Security Council|National Security Affairs Office in the Office of the Vice President|Richard Cheney Collection|President's Foreign Intelligence Advisory Board/i.test(sourceText)) {
-    if (POLICY_DOCUMENT_RE.test(title) || /\b(counternarcotics|counter[- ]?narcotics|counterterrorism|counter[- ]?terrorism|terrorism|hostage|hijacking|aviation security|pan am 103|lockerbie)\b/i.test(title)) {
+  if (/National Security Council|National Security Affairs Office in the Office of the Vice President|Richard Cheney Collection|Brent Scowcroft Papers|President's Foreign Intelligence Advisory Board/i.test(sourceText)) {
+    if (POLICY_DOCUMENT_RE.test(title) || /\b(counternarcotics|counter[- ]?narcotics|narcotics|cocaine|drug war|drug trafficking|counterterrorism|counter[- ]?terrorism|terrorism|hostage|hijacking|aviation security|pan am 103|lockerbie)\b/i.test(title)) {
       return "";
     }
   }

@@ -1,0 +1,407 @@
+{
+  "generatedAt": "2026-07-17T15:12:17.104Z",
+  "policy": "Focused audit of online Scowcroft Drug War, NSR-13, NSD-13, and NSD-18 source files omitted or under-described by the broad title classifier.",
+  "targetNaids": [
+    "366551932",
+    "366551933",
+    "366551934",
+    "366551935",
+    "366551936",
+    "446394946",
+    "446396825",
+    "446396832"
+  ],
+  "recordsReviewed": 8,
+  "recordsCaptured": 8,
+  "onlinePdfRecords": 8,
+  "measuredRecords": 8,
+  "errors": [],
+  "records": [
+    {
+      "id": "priority-policy-446394946",
+      "naid": "446394946",
+      "title": "NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities",
+      "documentTitle": "NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities",
+      "documentType": "National Security Review file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-03-29",
+      "sortDate": "1989-03-29",
+      "dateLine": "1989-03-29",
+      "subjectLine": "H-Files - National Security Review (NSR) Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "NSR-13",
+          "International Counternarcotics Activities"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/446394946",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-nsc/H-Files/NSRs_313189297/41-bpr-nsc-hfiles-nsr-13-90006-024.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-nsr-13-90006-024.pdf",
+      "objectFileSize": 14120073,
+      "pageCount": 59,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "90006-024",
+      "containerId": "90006",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "313189297",
+        "title": "H-Files - National Security Review (NSR) Files",
+        "shortName": "H-Files, NSR Files",
+        "url": "https://catalog.archives.gov/id/313189297"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files, OA/ID 90006-024, NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities.",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSR Files, OA/ID 90006-024, NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities.",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/446394946. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/313189297. Digital object: 41-bpr-nsc-hfiles-nsr-13-90006-024.pdf, object ID 483296585, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-nsc/H-Files/NSRs_313189297/41-bpr-nsc-hfiles-nsr-13-90006-024.pdf. Other finding aid identifier: Pres-Bush. Container: 90006. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSR-13",
+        "International Counternarcotics Activities"
+      ],
+      "sourceCollection": "Bush Presidential Records, National Security Council",
+      "sourceFolder": "NSR-13 - March 29, 1989 - National Security Review of International Counternarcotics Activities"
+    },
+    {
+      "id": "priority-policy-446396825",
+      "naid": "446396825",
+      "title": "NSD-13 - June 07, 1989 - Cocaine Trafficking",
+      "documentTitle": "NSD-13 - June 07, 1989 - Cocaine Trafficking",
+      "documentType": "National Security Directive file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-06-07",
+      "sortDate": "1989-06-07",
+      "dateLine": "1989-06-07",
+      "subjectLine": "National Security Directives (NSD) Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "NSD-13",
+          "Cocaine Trafficking"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/446396825",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-13-90003-016.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-nsd-13-90003-016.pdf",
+      "objectFileSize": 8164084,
+      "pageCount": 36,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "90003-016",
+      "containerId": "90003",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "313189290",
+        "title": "National Security Directives (NSD) Files",
+        "shortName": "H-Files, NSD Files",
+        "url": "https://catalog.archives.gov/id/313189290"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90003-016, NSD-13 - June 07, 1989 - Cocaine Trafficking.",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90003-016, NSD-13 - June 07, 1989 - Cocaine Trafficking.",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/446396825. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/313189290. Digital object: 41-bpr-nsc-hfiles-nsd-13-90003-016.pdf, object ID 483296471, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-13-90003-016.pdf. Other finding aid identifier: Pres-Bush. Container: 90003. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSD-13",
+        "Cocaine Trafficking"
+      ],
+      "sourceCollection": "Bush Presidential Records, National Security Council",
+      "sourceFolder": "NSD-13 - June 07, 1989 - Cocaine Trafficking"
+    },
+    {
+      "id": "priority-policy-446396832",
+      "naid": "446396832",
+      "title": "NSD-18 - August 21, 1989 - International Counternarcotics Strategy",
+      "documentTitle": "NSD-18 - August 21, 1989 - International Counternarcotics Strategy",
+      "documentType": "National Security Directive file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-08-21",
+      "sortDate": "1989-08-21",
+      "dateLine": "1989-08-21",
+      "subjectLine": "National Security Directives (NSD) Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "NSD-18",
+          "International Counternarcotics Strategy"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/446396832",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-18-90003-023.pdf",
+      "objectFilename": "41-bpr-nsc-hfiles-nsd-18-90003-023.pdf",
+      "objectFileSize": 27937126,
+      "pageCount": 160,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "90003-023",
+      "containerId": "90003",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "313189290",
+        "title": "National Security Directives (NSD) Files",
+        "shortName": "H-Files, NSD Files",
+        "url": "https://catalog.archives.gov/id/313189290"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy.",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, H-Files, NSD Files, OA/ID 90003-023, NSD-18 - August 21, 1989 - International Counternarcotics Strategy.",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/446396832. Collection URL: https://catalog.archives.gov/id/2163580. Series URL: https://catalog.archives.gov/id/313189290. Digital object: 41-bpr-nsc-hfiles-nsd-18-90003-023.pdf, object ID 483296477, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-nsc/H-Files/NSDs_313189290/41-bpr-nsc-hfiles-nsd-18-90003-023.pdf. Other finding aid identifier: Pres-Bush. Container: 90003. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "NSD-18",
+        "International Counternarcotics Strategy"
+      ],
+      "sourceCollection": "Bush Presidential Records, National Security Council",
+      "sourceFolder": "NSD-18 - August 21, 1989 - International Counternarcotics Strategy"
+    },
+    {
+      "id": "priority-policy-366551932",
+      "naid": "366551932",
+      "title": "Latin America--Drug War (October-November 1989)",
+      "documentTitle": "Latin America--Drug War (October-November 1989)",
+      "documentType": "Scowcroft policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1989-10-01",
+      "sortDate": "1989-10-01",
+      "dateLine": "1989-10-01",
+      "subjectLine": "Latin America Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "Latin America Drug War",
+          "Drug War",
+          "Andean counternarcotics policy"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/366551932",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-001.pdf",
+      "objectFilename": "41-bpr-scow-la-drugchr-91141-001.pdf",
+      "objectFileSize": 11103860,
+      "pageCount": 32,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "91141-001",
+      "containerId": "91141",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "4545957",
+        "title": "Latin America Files",
+        "shortName": "Scowcroft Latin America Files",
+        "url": "https://catalog.archives.gov/id/4545957"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-001, Latin America--Drug War (October-November 1989).",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-001, Latin America--Drug War (October-November 1989).",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/366551932. Collection URL: https://catalog.archives.gov/id/4522156. Series URL: https://catalog.archives.gov/id/4545957. Digital object: 41-bpr-scow-la-drugchr-91141-001.pdf, object ID 506682387, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-001.pdf. Other finding aid identifier: 2009-0275-S. Extent: One legal file folder. Container: 91141. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "Latin America Drug War",
+        "Drug War",
+        "Andean counternarcotics policy"
+      ],
+      "sourceCollection": "Bush Presidential Records, Brent Scowcroft Collection",
+      "sourceFolder": "Latin America--Drug War (October-November 1989)"
+    },
+    {
+      "id": "priority-policy-366551933",
+      "naid": "366551933",
+      "title": "Latin America--Drug War (February 1990)",
+      "documentTitle": "Latin America--Drug War (February 1990)",
+      "documentType": "Scowcroft policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-02-01",
+      "sortDate": "1990-02-01",
+      "dateLine": "1990-02-01",
+      "subjectLine": "Latin America Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "Latin America Drug War",
+          "Drug War",
+          "Andean counternarcotics policy"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/366551933",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-002.pdf",
+      "objectFilename": "41-bpr-scow-la-drugchr-91141-002.pdf",
+      "objectFileSize": 5594575,
+      "pageCount": 15,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "91141-002",
+      "containerId": "91141",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "4545957",
+        "title": "Latin America Files",
+        "shortName": "Scowcroft Latin America Files",
+        "url": "https://catalog.archives.gov/id/4545957"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-002, Latin America--Drug War (February 1990).",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-002, Latin America--Drug War (February 1990).",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/366551933. Collection URL: https://catalog.archives.gov/id/4522156. Series URL: https://catalog.archives.gov/id/4545957. Digital object: 41-bpr-scow-la-drugchr-91141-002.pdf, object ID 506682388, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-002.pdf. Other finding aid identifier: 2009-0275-S. Extent: One legal file folder. Container: 91141. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "Latin America Drug War",
+        "Drug War",
+        "Andean counternarcotics policy"
+      ],
+      "sourceCollection": "Bush Presidential Records, Brent Scowcroft Collection",
+      "sourceFolder": "Latin America--Drug War (February 1990)"
+    },
+    {
+      "id": "priority-policy-366551934",
+      "naid": "366551934",
+      "title": "Latin America--Drug War (June 1990) [1]",
+      "documentTitle": "Latin America--Drug War (June 1990) [1]",
+      "documentType": "Scowcroft policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-06-01",
+      "sortDate": "1990-06-01",
+      "dateLine": "1990-06-01",
+      "subjectLine": "Latin America Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "Latin America Drug War",
+          "Drug War",
+          "Andean counternarcotics policy"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/366551934",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-003.pdf",
+      "objectFilename": "41-bpr-scow-la-drugchr-91141-003.pdf",
+      "objectFileSize": 7441595,
+      "pageCount": 23,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "91141-003",
+      "containerId": "91141",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "4545957",
+        "title": "Latin America Files",
+        "shortName": "Scowcroft Latin America Files",
+        "url": "https://catalog.archives.gov/id/4545957"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-003, Latin America--Drug War (June 1990) [1].",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-003, Latin America--Drug War (June 1990) [1].",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/366551934. Collection URL: https://catalog.archives.gov/id/4522156. Series URL: https://catalog.archives.gov/id/4545957. Digital object: 41-bpr-scow-la-drugchr-91141-003.pdf, object ID 506682389, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-003.pdf. Other finding aid identifier: 2009-0275-S. Extent: One legal file folder. Container: 91141. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "Latin America Drug War",
+        "Drug War",
+        "Andean counternarcotics policy"
+      ],
+      "sourceCollection": "Bush Presidential Records, Brent Scowcroft Collection",
+      "sourceFolder": "Latin America--Drug War (June 1990) [1]"
+    },
+    {
+      "id": "priority-policy-366551935",
+      "naid": "366551935",
+      "title": "Latin America--Drug War (June 1990) [2]",
+      "documentTitle": "Latin America--Drug War (June 1990) [2]",
+      "documentType": "Scowcroft policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-06-01",
+      "sortDate": "1990-06-01",
+      "dateLine": "1990-06-01",
+      "subjectLine": "Latin America Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "Latin America Drug War",
+          "Drug War",
+          "Andean counternarcotics policy"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/366551935",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-004.pdf",
+      "objectFilename": "41-bpr-scow-la-drugchr-91141-004.pdf",
+      "objectFileSize": 15651730,
+      "pageCount": 43,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "91141-004",
+      "containerId": "91141",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "4545957",
+        "title": "Latin America Files",
+        "shortName": "Scowcroft Latin America Files",
+        "url": "https://catalog.archives.gov/id/4545957"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-004, Latin America--Drug War (June 1990) [2].",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-004, Latin America--Drug War (June 1990) [2].",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/366551935. Collection URL: https://catalog.archives.gov/id/4522156. Series URL: https://catalog.archives.gov/id/4545957. Digital object: 41-bpr-scow-la-drugchr-91141-004.pdf, object ID 506682390, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-004.pdf. Other finding aid identifier: 2009-0275-S. Extent: One legal file folder. Container: 91141. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "Latin America Drug War",
+        "Drug War",
+        "Andean counternarcotics policy"
+      ],
+      "sourceCollection": "Bush Presidential Records, Brent Scowcroft Collection",
+      "sourceFolder": "Latin America--Drug War (June 1990) [2]"
+    },
+    {
+      "id": "priority-policy-366551936",
+      "naid": "366551936",
+      "title": "Latin America--Drug War (October 1990)",
+      "documentTitle": "Latin America--Drug War (October 1990)",
+      "documentType": "Scowcroft policy file",
+      "chapter": {
+        "number": 1,
+        "name": "Counternarcotics"
+      },
+      "date": "1990-10-01",
+      "sortDate": "1990-10-01",
+      "dateLine": "1990-10-01",
+      "subjectLine": "Latin America Files",
+      "topicTerms": {
+        "Counternarcotics": [
+          "Latin America Drug War",
+          "Drug War",
+          "Andean counternarcotics policy"
+        ]
+      },
+      "catalogUrl": "https://catalog.archives.gov/id/366551936",
+      "pdfUrl": "https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-005.pdf",
+      "objectFilename": "41-bpr-scow-la-drugchr-91141-005.pdf",
+      "objectFileSize": 3815301,
+      "pageCount": 11,
+      "pageCountBasis": "measured from online PDF with pdfinfo",
+      "localIdentifier": "91141-005",
+      "containerId": "91141",
+      "releaseStatus": "Online processed folder PDF; verify withdrawal sheets and item-level markings before citation",
+      "accessRestrictionStatus": "Restricted - Possibly",
+      "scoutCategory": "priority-policy-file",
+      "source": {
+        "naid": "4545957",
+        "title": "Latin America Files",
+        "shortName": "Scowcroft Latin America Files",
+        "url": "https://catalog.archives.gov/id/4545957"
+      },
+      "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-005, Latin America--Drug War (October 1990).",
+      "frusSourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, Brent Scowcroft Collection, Latin America Files, OA/ID 91141-005, Latin America--Drug War (October 1990).",
+      "catalogTrail": "Catalog URL: https://catalog.archives.gov/id/366551936. Collection URL: https://catalog.archives.gov/id/4522156. Series URL: https://catalog.archives.gov/id/4545957. Digital object: 41-bpr-scow-la-drugchr-91141-005.pdf, object ID 506682391, URL https://catalog.archives.gov/medialz/presidential-libraries/bush/gb-gbs/4545957/41-bpr-scow-la-drugchr-91141-005.pdf. Other finding aid identifier: 2009-0275-S. Extent: One legal file folder. Container: 91141. Access restriction: Restricted - Possibly.",
+      "matchedQueries": [
+        "Latin America Drug War",
+        "Drug War",
+        "Andean counternarcotics policy"
+      ],
+      "sourceCollection": "Bush Presidential Records, Brent Scowcroft Collection",
+      "sourceFolder": "Latin America--Drug War (October 1990)"
+    }
+  ]
+}

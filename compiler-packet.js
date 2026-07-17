@@ -246,6 +246,7 @@
       `- ${record.date || "No date"} - ${record.title}`,
       `  - ${record.category || "Gap"}; priority ${record.priority || "Review"}; pages ${record.pageCount || "unknown"}`,
       `  - Why: ${record.why || "Compiler review needed."}`,
+      `  - Audit evidence: ${(record.sourceReports || []).join("; ") || "not recorded"}`,
       `  - Catalog: ${record.catalogUrl || "not listed"}`
     ].join("\n");
   }
@@ -329,6 +330,7 @@
       `- ${record.date || "No date"} - ${record.title}`,
       `  - ${record.priority || "Review"} priority; ${record.category || record.documentType || "gap record"}; ${record.pageCount || "?"} pages; disposition ${packetGapDisposition(record)}`,
       packetGapNote(record) ? `  - Pull note: ${packetGapNote(record)}` : "",
+      `  - Audit evidence: ${(record.sourceReports || []).join("; ") || "not recorded"}`,
       record.frusSourceNote || record.sourceNote ? `  - ${record.frusSourceNote || record.sourceNote}` : "",
       record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : "",
       record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : ""
@@ -549,6 +551,7 @@
       `  - Extent: ${record.pageCount || "?"} pages${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `  - Availability: ${record.pdfUrl ? "online PDF listed" : record.releaseStatus || "no online PDF listed"}`,
       packetGapNote(record) ? `  - Pull note: ${packetGapNote(record)}` : "",
+      `  - Audit evidence: ${(record.sourceReports || []).join("; ") || "not recorded"}`,
       record.frusSourceNote || record.sourceNote ? `  - ${record.frusSourceNote || record.sourceNote}` : "",
       record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : "",
       record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : ""

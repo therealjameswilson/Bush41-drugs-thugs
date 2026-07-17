@@ -1,0 +1,330 @@
+[
+  {
+    "id": "presidential-memcons",
+    "name": "Presidential Memcon Files",
+    "kind": "Core chronology",
+    "status": "Direct corpus",
+    "naid": "321498039",
+    "sourceUrl": "https://catalog.archives.gov/id/321498039",
+    "lastRun": "2026-05-20T01:26:37.359Z",
+    "reviewed": 128,
+    "retained": 128,
+    "online": 128,
+    "method": "Direct item-level sweep of the Presidential Memcon Files using the chapter topic vocabulary.",
+    "outcome": "Every retained record is an online presidential memorandum of conversation in the declassified chronology.",
+    "evidence": [
+      {
+        "label": "Conversation harvest",
+        "path": "reports/presidential-conversation-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "presidential-telcons",
+    "name": "Presidential Telcon Files",
+    "kind": "Core chronology",
+    "status": "Direct corpus",
+    "naid": "321498139",
+    "sourceUrl": "https://catalog.archives.gov/id/321498139",
+    "lastRun": "2026-05-20T01:26:37.359Z",
+    "reviewed": 81,
+    "retained": 81,
+    "online": 81,
+    "method": "Direct item-level sweep of the Presidential Telcon Files using the chapter topic vocabulary.",
+    "outcome": "Every retained record is an online presidential telephone conversation in the declassified chronology.",
+    "evidence": [
+      {
+        "label": "Conversation harvest",
+        "path": "reports/presidential-conversation-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "daily-diary",
+    "name": "Presidential Daily Diary and Daily Backup Materials",
+    "kind": "Schedule control",
+    "status": "Direct corpus",
+    "naid": "186322",
+    "sourceUrl": "https://catalog.archives.gov/id/186322",
+    "lastRun": "2026-05-26T02:03:52.568Z",
+    "reviewed": 166,
+    "retained": 338,
+    "online": 338,
+    "method": "Exact-date Catalog checks for each unique memcon and telcon date.",
+    "outcome": "209 conversations have same-day Diary or Daily Backup control references; 0 lack a control.",
+    "evidence": [
+      {
+        "label": "Daily Diary audit",
+        "path": "reports/daily-diary-references-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "scowcroft-papers",
+    "name": "Brent Scowcroft Papers",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "4522156",
+    "sourceUrl": "https://catalog.archives.gov/id/4522156",
+    "lastRun": "2026-07-17T15:12:17.104Z",
+    "reviewed": 195,
+    "retained": 5,
+    "online": 5,
+    "method": "Full textual-index topic sweep followed by a focused review of direct-title Latin America--Drug War folders.",
+    "outcome": "Five online Drug War folders are now high-priority compiler risks with measured page counts and OA/ID controls.",
+    "evidence": [
+      {
+        "label": "Priority policy audit",
+        "path": "reports/priority-policy-files-harvest.json"
+      },
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "nsc-meetings",
+    "name": "H-Files - NSC Meeting Files",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "312293887",
+    "sourceUrl": "https://catalog.archives.gov/id/312293887",
+    "lastRun": "2026-05-19T10:19:26.654Z",
+    "reviewed": 9,
+    "retained": 6,
+    "online": 6,
+    "method": "Direct NSC minutes search plus the all-textual title audit.",
+    "outcome": "Relevant NSC meeting files are preserved in the pull/explain queue, with measured pages when an online PDF exists.",
+    "evidence": [
+      {
+        "label": "NSC/DC minutes audit",
+        "path": "reports/nsc-dc-minutes-harvest.json"
+      },
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "dc-meetings",
+    "name": "H-Files - NSC/Deputies Committee Meetings",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "312294079",
+    "sourceUrl": "https://catalog.archives.gov/id/312294079",
+    "lastRun": "2026-05-19T10:19:26.654Z",
+    "reviewed": 45,
+    "retained": 40,
+    "online": 40,
+    "method": "Direct Deputies Committee minutes search plus the all-textual title audit.",
+    "outcome": "Listed minutes remain visible even when not fully declassified; measured or series-based page counts are carried into the risk queue.",
+    "evidence": [
+      {
+        "label": "NSC/DC minutes audit",
+        "path": "reports/nsc-dc-minutes-harvest.json"
+      },
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "dc-follow-up",
+    "name": "H-Files - NSC/Deputies Committee Follow-Up",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "312294094",
+    "sourceUrl": "https://catalog.archives.gov/id/312294094",
+    "lastRun": "2026-05-19T10:19:26.654Z",
+    "reviewed": 7,
+    "retained": 5,
+    "online": 5,
+    "method": "Direct follow-up-file search plus the all-textual title audit.",
+    "outcome": "Follow-up files are kept as decision-process evidence rather than folded into the declassified conversation chronology.",
+    "evidence": [
+      {
+        "label": "NSC/DC minutes audit",
+        "path": "reports/nsc-dc-minutes-harvest.json"
+      },
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "nsr-files",
+    "name": "H-Files - National Security Review Files",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "313189297",
+    "sourceUrl": "https://catalog.archives.gov/id/313189297",
+    "lastRun": "2026-07-17T15:12:17.104Z",
+    "reviewed": 3,
+    "retained": 1,
+    "online": 1,
+    "method": "All-textual title sweep with direct PDF verification of NSR-13.",
+    "outcome": "NSR-13, the National Security Review of International Counternarcotics Activities, is a measured online pull target.",
+    "evidence": [
+      {
+        "label": "Priority policy audit",
+        "path": "reports/priority-policy-files-harvest.json"
+      },
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "nsd-files",
+    "name": "H-Files - National Security Directive Files",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "313189290",
+    "sourceUrl": "https://catalog.archives.gov/id/313189290",
+    "lastRun": "2026-07-17T15:12:17.104Z",
+    "reviewed": 6,
+    "retained": 2,
+    "online": 2,
+    "method": "All-textual title sweep with direct PDF verification of NSD-13 and NSD-18.",
+    "outcome": "Both Cocaine Trafficking and International Counternarcotics Strategy directive files are measured online pull targets.",
+    "evidence": [
+      {
+        "label": "Priority policy audit",
+        "path": "reports/priority-policy-files-harvest.json"
+      },
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "transition-files",
+    "name": "Institutional Files - Transition Files",
+    "kind": "Policy and decision files",
+    "status": "Collection-wide sweep",
+    "naid": "348937136",
+    "sourceUrl": "https://catalog.archives.gov/id/348937136",
+    "lastRun": "2026-05-19T14:54:23.801Z",
+    "reviewed": 2,
+    "retained": 0,
+    "online": 2,
+    "method": "Complete Bush Library textual-index topic sweep.",
+    "outcome": "Two keyword-bearing transition files were reviewed; neither had a direct Volume XXVIII title signal.",
+    "evidence": [
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "whorm",
+    "name": "White House Office of Records Management",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "564645",
+    "sourceUrl": "https://catalog.archives.gov/id/564645",
+    "lastRun": "2026-05-19T11:53:23.158Z",
+    "reviewed": 62,
+    "retained": 59,
+    "online": 5,
+    "method": "Focused sweep of Drug Summit, ONDCP, Narcotics, and Kidnapping/Hostages subject series.",
+    "outcome": "Target-series cases are preserved as event and policy pull targets; generic correspondence hits remain in the audit report.",
+    "evidence": [
+      {
+        "label": "WHORM audit",
+        "path": "reports/whorm-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "chief-of-staff",
+    "name": "White House Office of the Chief of Staff",
+    "kind": "Policy and decision files",
+    "status": "Focused audit",
+    "naid": "580456",
+    "sourceUrl": "https://catalog.archives.gov/id/580456",
+    "lastRun": "2026-05-19T12:44:23.833Z",
+    "reviewed": 13,
+    "retained": 13,
+    "online": 13,
+    "method": "Focused review of direct-title drug strategy, Drug Czar, senior policy, and Pan Am 103 Commission files.",
+    "outcome": "Senior staff policy files are retained in the compiler risk queue with lower-value correspondence left in the report.",
+    "evidence": [
+      {
+        "label": "Chief of Staff audit",
+        "path": "reports/chief-of-staff-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "all-textual",
+    "name": "Bush Library All Textual Collections",
+    "kind": "Cross-collection audit",
+    "status": "Collection-wide sweep",
+    "naid": "",
+    "sourceUrl": "https://www.bush41library.gov/digital-research-room/about-textual-collections/all-textual-collections",
+    "lastRun": "2026-05-19T14:54:23.801Z",
+    "reviewed": 3300,
+    "retained": 118,
+    "online": 44,
+    "method": "22 topic queries across 122 listed textual collections.",
+    "outcome": "The broad audit preserves excluded and lower-priority hits so the narrower compiler queue remains explainable.",
+    "evidence": [
+      {
+        "label": "All textual collections audit",
+        "path": "reports/all-textual-collections-harvest.json"
+      }
+    ]
+  },
+  {
+    "id": "nara-scout",
+    "name": "NARA Scout Bush 41 Cross-Collection Search",
+    "kind": "Cross-collection audit",
+    "status": "Discovery overlay",
+    "naid": "",
+    "sourceUrl": "https://therealjameswilson.github.io/nara-scout/#q=terrorism+OR+narcotics&sort=relevance&perColl=25&perPage=50&scope=bush41",
+    "lastRun": "2026-05-19T10:19:21.292Z",
+    "reviewed": 222,
+    "retained": 14,
+    "online": 6,
+    "method": "Terrorism OR narcotics across 70 Bush 41 collections, capped at 25 records per collection.",
+    "outcome": "The Scout result is a discovery overlay; direct collection audits supersede its per-collection cap for final coverage claims.",
+    "evidence": [
+      {
+        "label": "NARA Scout raw audit",
+        "path": "reports/nara-scout-terrorism-narcotics-raw.json"
+      },
+      {
+        "label": "NARA Scout compiler review",
+        "path": "reports/nara-scout-volume28-candidates.json"
+      }
+    ]
+  },
+  {
+    "id": "public-papers",
+    "name": "Public Papers of President George H.W. Bush",
+    "kind": "Public reference",
+    "status": "Reference corpus",
+    "naid": "",
+    "sourceUrl": "https://www.govinfo.gov/app/collection/ppp/president-41_Bush%2C%20George%20H.%20W.",
+    "lastRun": "2026-05-22T11:33:08.428Z",
+    "reviewed": 4968,
+    "retained": 262,
+    "online": 262,
+    "method": "Full-text parsing of all eight GovInfo Public Papers volumes for 1989-1993.",
+    "outcome": "262 substantive references are published; 497 passing mentions remain separately reviewable.",
+    "evidence": [
+      {
+        "label": "Public Papers audit",
+        "path": "reports/public-statements-harvest.json"
+      }
+    ]
+  }
+]

@@ -12,6 +12,7 @@ const paths = {
   chiefOfStaff: path.join(repoRoot, "reports", "chief-of-staff-harvest.json"),
   whorm: path.join(repoRoot, "reports", "whorm-harvest.json"),
   allTextual: path.join(repoRoot, "reports", "all-textual-collections-harvest.json"),
+  priorityPolicy: path.join(repoRoot, "reports", "priority-policy-files-harvest.json"),
   publicHarvest: path.join(repoRoot, "reports", "public-statements-harvest.json"),
   compilerGaps: path.join(repoRoot, "data", "compiler-gaps.json"),
   compilerGapsScript: path.join(repoRoot, "data", "compiler-gaps.js"),
@@ -23,6 +24,15 @@ const paths = {
 };
 
 const EVENT_DEFINITIONS = [
+  {
+    id: "latin-america-drug-war-policy",
+    title: "Latin America Drug War Policy",
+    chapter: { number: 1, name: "Counternarcotics" },
+    dateRange: "1989-1990",
+    summary: "Scowcroft policy files tracking the Latin American drug war across the first two years of the administration.",
+    nextAction: "Read the five online Scowcroft folders against the NSR/NSD and presidential-conversation chronology, then identify document-level selections and final control-copy citations.",
+    terms: [/latin america--drug war/i, /latin america drug war/i]
+  },
   {
     id: "national-drug-control-strategy",
     title: "National Drug Control Strategy",
@@ -98,6 +108,10 @@ const EVENT_DEFINITIONS = [
 ];
 
 const PRIORITY_PATTERNS = [
+  [/latin america--drug war|latin america drug war/i, "High", "Scowcroft Latin America Drug War policy file"],
+  [/nsd-13|cocaine trafficking/i, "High", "National Security Directive on cocaine trafficking"],
+  [/nsr-13|national security review of international counternarcotics/i, "High", "National Security Review of international counternarcotics activities"],
+  [/nsd-18|international counternarcotics strategy/i, "High", "National Security Directive on international counternarcotics strategy"],
   [/san antonio/i, "High", "San Antonio summit anchor"],
   [/cartagena|andean drug summit|drug summit in colombia/i, "High", "Cartagena/Andean drug summit anchor"],
   [/national drug control strategy|strategy ii/i, "High", "National Drug Control Strategy anchor"],
@@ -173,6 +187,8 @@ function whyFor(record, category) {
   }
   if (/nsc\/dc|deputies committee/i.test(category)) return "Decision-process file likely to document policy coordination.";
   if (/chief of staff/i.test(category)) return "White House senior staff policy file that may explain decision context.";
+  if (/scowcroft/i.test(category)) return "Senior national security policy file with direct Latin America Drug War title evidence.";
+  if (/national security directive|national security review/i.test(category)) return "Presidential national security policy file with a direct counternarcotics title.";
   if (/whorm/i.test(category)) return "WHORM case file may hold public/private correspondence or event logistics for chronology anchors.";
   if (/policy folder|textual/i.test(category)) return "Listed textual file may fill non-conversation policy context.";
   return "Compiler review candidate from source audit.";
@@ -198,6 +214,12 @@ function confidenceFor(record) {
 }
 
 function categoryFor(record, reportName) {
+  if (reportName === "Priority policy files") {
+    if (/Scowcroft/i.test(record.documentType || record.source?.shortName || "")) return "Scowcroft policy file";
+    if (/National Security Directive/i.test(record.documentType || "")) return "National Security Directive file";
+    if (/National Security Review/i.test(record.documentType || "")) return "National Security Review file";
+    return "Priority policy file";
+  }
   if (reportName === "NSC/DC") {
     return /follow/i.test(record.source?.shortName || record.source?.title || "") ? "NSC/DC follow-up file" : "NSC/DC decision file";
   }
@@ -225,8 +247,6 @@ function normalizeGap(record, reportName) {
     category,
     documentType: record.documentType || category,
     sourceName: record.source?.shortName || record.source?.title || reportName,
-    sourceCollection: notes.sourceCollection || "",
-    sourceFolder: notes.sourceFolder || "",
     priority,
     eventTags,
     catalogUrl: record.catalogUrl || (record.naid ? `https://catalog.archives.gov/id/${record.naid}` : ""),
@@ -243,7 +263,9 @@ function normalizeGap(record, reportName) {
     matchedQueries: record.matchedQueries || [],
     sourceConfidence: confidenceFor(record),
     why: whyFor(record, category),
-    sourceReports: [reportName]
+    sourceReports: [reportName],
+    sourceCollection: notes.sourceCollection || "",
+    sourceFolder: notes.sourceFolder || ""
   };
 }
 
@@ -402,9 +424,11 @@ function main() {
   const chiefOfStaff = readJson(paths.chiefOfStaff);
   const whorm = readJson(paths.whorm);
   const allTextual = readJson(paths.allTextual);
+  const priorityPolicy = readJson(paths.priorityPolicy);
   const publicHarvest = readJson(paths.publicHarvest);
 
   const compilerGaps = buildCompilerGaps(records, [
+    { name: "Priority policy files", records: priorityPolicy.records || [] },
     { name: "NSC/DC", records: nscDc.records || [] },
     { name: "NARA Scout", records: scout.candidates || [] },
     { name: "Chief of Staff", records: chiefOfStaff.records || [] },
