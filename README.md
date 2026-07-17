@@ -65,6 +65,10 @@ The workbench supports:
 - Markdown selected-outline export that turns local Include decisions into a
   working FRUS document sequence, with Maybe reserves and high-priority gap
   reminders by chapter
+- Markdown chronology-control ledger that interleaves declassified conversations
+  with title-dateable pull/explain targets, surfaces stored/title date conflicts,
+  and quarantines folder-level administrative dates instead of presenting them
+  as exact chronology
 - Markdown Include annotation worksheet that combines each selected document's
   Source Note, source-check state, parsed chronology and participant leads,
   first-footnote checks, omission/marginalia prompts, event-linked gap files,
@@ -100,6 +104,12 @@ classification, drafting and distribution information, principal read status,
 marginalia, excisions, related documentary sources, key events, and supplemental
 public statements. Parsed metadata remains a lead rather than a substitute for
 inspection of the document.
+
+The chronology ledger applies the same caution to missing-document control.
+Only gap titles that supply a usable day are interleaved with the declassified
+sequence. Administrative start dates, folder-level dates, and other provisional
+controls remain in a separate resolution queue, while overseas conversation
+times are flagged for final Washington-time placement by the compiler.
 
 ## Source Collections
 

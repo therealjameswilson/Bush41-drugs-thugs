@@ -1,4 +1,31 @@
 (function () {
+  const GAP_MONTHS = {
+    january: 1,
+    february: 2,
+    march: 3,
+    april: 4,
+    may: 5,
+    june: 6,
+    july: 7,
+    august: 8,
+    september: 9,
+    october: 10,
+    november: 11,
+    december: 12,
+    jan: 1,
+    feb: 2,
+    mar: 3,
+    apr: 4,
+    jun: 6,
+    jul: 7,
+    aug: 8,
+    sep: 9,
+    sept: 9,
+    oct: 10,
+    nov: 11,
+    dec: 12
+  };
+
   function downloadTextFile(filename, text, type) {
     const blob = new Blob([text], { type });
     const url = URL.createObjectURL(blob);
@@ -418,6 +445,173 @@
     return lines.join("\n");
   }
 
+  function chronologyIsoDate(year, month, day) {
+    const normalizedYear = Number(year) < 100 ? Number(year) + 1900 : Number(year);
+    const normalizedMonth = Number(month);
+    const normalizedDay = Number(day);
+    if (normalizedYear < 1989 || normalizedYear > 1992 || normalizedMonth < 1 || normalizedMonth > 12 || normalizedDay < 1 || normalizedDay > 31) return "";
+    const date = new Date(Date.UTC(normalizedYear, normalizedMonth - 1, normalizedDay));
+    if (date.getUTCFullYear() !== normalizedYear || date.getUTCMonth() !== normalizedMonth - 1 || date.getUTCDate() !== normalizedDay) return "";
+    return `${normalizedYear}-${String(normalizedMonth).padStart(2, "0")}-${String(normalizedDay).padStart(2, "0")}`;
+  }
+
+  function monthNameGapDate(title) {
+    const single = title.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December|Jan\.?|Feb\.?|Mar\.?|Apr\.?|Jun\.?|Jul\.?|Aug\.?|Sep\.?|Sept\.?|Oct\.?|Nov\.?|Dec\.?)\s+(\d{1,2}),?\s+(19(?:89|90|91|92))\b/i);
+    if (single) {
+      return {
+        date: chronologyIsoDate(single[3], GAP_MONTHS[single[1].toLowerCase().replace(".", "")], single[2]),
+        isRange: false
+      };
+    }
+
+    const range = title.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December|Jan\.?|Feb\.?|Mar\.?|Apr\.?|Jun\.?|Jul\.?|Aug\.?|Sep\.?|Sept\.?|Oct\.?|Nov\.?|Dec\.?)\s+(\d{1,2})\s*[-]\s*\d{1,2},?\s+(19(?:89|90|91|92))\b/i);
+    if (!range) return null;
+    return {
+      date: chronologyIsoDate(range[3], GAP_MONTHS[range[1].toLowerCase().replace(".", "")], range[2]),
+      isRange: true
+    };
+  }
+
+  function numericGapDate(title) {
+    const fullDatePattern = /(^|[^\d])((?:0?[1-9]|1[0-2]))[\/-]((?:0?[1-9]|[12]\d|3[01]))[\/-]((?:19)?(?:89|90|91|92))(?!\d)/g;
+    for (const match of title.matchAll(fullDatePattern)) {
+      const date = chronologyIsoDate(match[4], match[2], match[3]);
+      if (date) return { date, isRange: false };
+    }
+
+    const range = title.match(/\b((?:0?[1-9]|1[0-2]))[\/-]((?:0?[1-9]|[12]\d|3[01]))\s*[-]\s*(?:0?[1-9]|[12]\d|3[01])[\/-]((?:19)?(?:89|90|91|92))\b/);
+    if (!range) return null;
+    return {
+      date: chronologyIsoDate(range[3], range[1], range[2]),
+      isRange: true
+    };
+  }
+
+  function gapChronologyControl(record) {
+    const title = record.title || "";
+    const parsed = monthNameGapDate(title) || numericGapDate(title);
+    const listedDate = record.sortDate || record.date || "";
+    if (parsed?.date) {
+      return {
+        date: parsed.date,
+        precision: parsed.isRange ? "title-range-start" : "title-date",
+        label: parsed.isRange ? "Title date range; placed at its start date pending file review" : "Date stated in title; verify against the file",
+        listedDate,
+        mismatch: Boolean(listedDate && listedDate !== parsed.date)
+      };
+    }
+    return {
+      date: "",
+      precision: "provisional",
+      label: `No usable document date in title; listed control ${listedDate || "not supplied"} is provisional`,
+      listedDate,
+      mismatch: false
+    };
+  }
+
+  function chronologyConversationBlock(record) {
+    return [
+      `- Declassified ${record.documentType}: ${record.documentTitle || record.title}`,
+      `  - Selection ${packetSelectionLabel(record)}; ${packetSourceCheckLabel(record)}; ${record.pageCount || "?"} pages`,
+      `  - Date control: conversation record date ${record.date}; verify Washington-time placement from the PDF time/place`,
+      record.pdfExtract?.dateTimePlace ? `  - PDF time/place lead: ${record.pdfExtract.dateTimePlace}` : "",
+      `  - Daily Diary control: ${packetScheduleControlLabel(record)}`,
+      `  - ${frusSourceNote(record)}`,
+      record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : "",
+      record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : ""
+    ].filter(Boolean).join("\n");
+  }
+
+  function chronologyGapBlock(record, control) {
+    return [
+      `- Pull/explain target: ${record.title}`,
+      `  - ${record.priority || "Review"} priority; ${record.category || record.documentType || "gap record"}; disposition ${packetGapDisposition(record)}`,
+      `  - Date control: ${control.label}${control.mismatch ? `; stored control ${control.listedDate} differs` : ""}`,
+      `  - Extent: ${record.pageCount || "?"} pages${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
+      `  - Availability: ${record.pdfUrl ? "online PDF listed" : record.releaseStatus || "no online PDF listed"}`,
+      packetGapNote(record) ? `  - Pull note: ${packetGapNote(record)}` : "",
+      record.frusSourceNote || record.sourceNote ? `  - ${record.frusSourceNote || record.sourceNote}` : "",
+      record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : "",
+      record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : ""
+    ].filter(Boolean).join("\n");
+  }
+
+  function mergedChronologyLedger(records, gaps = []) {
+    const gapControls = gaps.map((record) => ({ record, control: gapChronologyControl(record) }));
+    const datedGaps = gapControls.filter((item) => item.control.date);
+    const provisionalGaps = gapControls.filter((item) => !item.control.date);
+    const mismatches = datedGaps.filter((item) => item.control.mismatch);
+    const lines = [
+      "# FRUS Volume XXVIII Chronology Control Ledger",
+      "",
+      `Generated: ${new Date().toISOString()}`,
+      `Declassified conversations: ${records.length}`,
+      `Title-dateable pull/explain targets: ${datedGaps.length}`,
+      `Provisional or undated pull/explain targets: ${provisionalGaps.length}`,
+      `Stored/title date mismatches requiring resolution: ${mismatches.length}`,
+      "Method basis: https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries",
+      "",
+      "Use: this ledger accounts for declassified conversations and missing, restricted, or unselected control files in one chapter chronology. A gap enters the dated sequence only when its title supplies a usable date. Folder-level and administrative dates are quarantined below. Same-day order and Washington-time placement remain compiler checks.",
+      ""
+    ];
+
+    if (mismatches.length) {
+      lines.push("## Date-Control Mismatches to Resolve", "");
+      for (const { record, control } of mismatches) {
+        lines.push(
+          `- ${record.title}`,
+          `  - Title-derived date: ${control.date}`,
+          `  - Stored control date: ${control.listedDate}`,
+          `  - Catalog: ${record.catalogUrl || "not listed"}`,
+          ""
+        );
+      }
+    }
+
+    for (const chapterName of CHAPTER_ORDER) {
+      const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
+      const chapterDatedGaps = datedGaps.filter((item) => item.record.chapter?.name === chapterName);
+      const datedItems = [
+        ...chapterRecords.map((record) => ({ kind: "conversation", date: record.date, title: record.documentTitle || record.title, record })),
+        ...chapterDatedGaps.map(({ record, control }) => ({ kind: "gap", date: control.date, title: record.title, record, control }))
+      ].sort((a, b) => a.date.localeCompare(b.date) || (a.kind === b.kind ? a.title.localeCompare(b.title) : a.kind === "conversation" ? -1 : 1));
+      const chapterProvisional = provisionalGaps
+        .filter((item) => item.record.chapter?.name === chapterName)
+        .sort((a, b) => String(a.control.listedDate).localeCompare(String(b.control.listedDate)) || String(a.record.title).localeCompare(String(b.record.title)));
+
+      lines.push(`## Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`, "");
+      lines.push(`Dated sequence: ${chapterRecords.length} declassified conversations and ${chapterDatedGaps.length} title-dateable pull/explain targets. Provisional date queue: ${chapterProvisional.length}.`, "");
+      lines.push("### Dated Sequence", "");
+      let currentDate = "";
+      for (const item of datedItems) {
+        if (item.date !== currentDate) {
+          currentDate = item.date;
+          lines.push(`#### ${item.date}`, "");
+        }
+        lines.push(item.kind === "conversation" ? chronologyConversationBlock(item.record) : chronologyGapBlock(item.record, item.control), "");
+      }
+
+      lines.push("### Provisional or Undated Control Files", "");
+      if (chapterProvisional.length) {
+        for (const { record, control } of chapterProvisional) lines.push(chronologyGapBlock(record, control), "");
+      } else {
+        lines.push("No provisional gap records in this chapter.", "");
+      }
+    }
+
+    lines.push(
+      "## Compiler Completion Check",
+      "",
+      "- [ ] Resolve stored/title date mismatches against the underlying file.",
+      "- [ ] Assign usable dates or date ranges to provisional control files where the evidence permits.",
+      "- [ ] Normalize overseas conversations to Washington time before final document numbering.",
+      "- [ ] Place wholly withheld documents in chronological position with heading, Source Note, and pages withheld.",
+      "- [ ] Explain every high-priority gap that is not represented in the final volume.",
+      ""
+    );
+    return lines.join("\n");
+  }
+
   function pdfVerificationSummary(record) {
     const issues = packetPdfVerificationIssues(record);
     const details = [
@@ -566,6 +760,14 @@
     );
   }
 
+  function exportChronologyLedger() {
+    downloadTextFile(
+      "frus-v28-chronology-control-ledger.md",
+      mergedChronologyLedger(allRecords, typeof allCompilerGaps === "undefined" ? [] : allCompilerGaps),
+      "text/markdown;charset=utf-8"
+    );
+  }
+
   function exportPdfVerificationChecklist() {
     downloadTextFile(
       "frus-v28-visible-pdf-verification-checklist.md",
@@ -581,6 +783,8 @@
     exportSelectedOutline,
     annotationWorksheet,
     exportAnnotationWorksheet,
+    mergedChronologyLedger,
+    exportChronologyLedger,
     pdfVerificationChecklist,
     exportPdfVerificationChecklist
   };
@@ -589,6 +793,7 @@
     document.querySelector("#export-packet")?.addEventListener("click", exportCompilerPacket);
     document.querySelector("#export-outline")?.addEventListener("click", exportSelectedOutline);
     document.querySelector("#export-annotation-worksheet")?.addEventListener("click", exportAnnotationWorksheet);
+    document.querySelector("#export-chronology-ledger")?.addEventListener("click", exportChronologyLedger);
     document.querySelector("#export-pdf-checklist")?.addEventListener("click", exportPdfVerificationChecklist);
   });
 })();
