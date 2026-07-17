@@ -62,6 +62,7 @@ const reviewFilter = document.querySelector("#filter-review");
 const selectionFilter = document.querySelector("#filter-selection");
 const noteFilter = document.querySelector("#filter-note");
 const pdfCheckFilter = document.querySelector("#filter-pdf-check");
+const scheduleFilter = document.querySelector("#filter-schedule");
 const eventFilter = document.querySelector("#filter-event");
 const sortSelect = document.querySelector("#sort-records");
 const resetButton = document.querySelector("#reset-filters");
@@ -142,6 +143,12 @@ const QUICK_QUEUE_DEFINITIONS = [
     label: "Missing Participants",
     detail: "Records whose first-page participant block still needs PDF verification",
     filters: { pdfCheck: "missing-participants", sort: "date" }
+  },
+  {
+    id: "diary-control-checks",
+    label: "Diary Control Checks",
+    detail: "Daily Diary is empty or absent; use the Daily Backup and verify time/place",
+    filters: { schedule: "needs-diary-check", sort: "date" }
   },
   {
     id: "strong-unassigned",
@@ -409,6 +416,39 @@ function scheduleReferenceSourceNotes(record) {
   return scheduleReferences(record).map((reference) => reference.sourceNote).filter(Boolean).join(" | ");
 }
 
+function dailyDiaryReferences(record) {
+  return scheduleReferences(record).filter((reference) =>
+    /Diary/i.test(reference.documentType || reference.title || "") &&
+    !/Backup/i.test(reference.documentType || reference.title || "")
+  );
+}
+
+function scheduleControlState(record) {
+  const references = scheduleReferences(record);
+  if (!references.length) return "missing-control";
+  const diaries = dailyDiaryReferences(record);
+  if (diaries.some((reference) => !reference.isEmptyDiary && !/\[EMPTY\]/i.test(reference.title || ""))) {
+    return "usable-diary";
+  }
+  if (diaries.some((reference) => reference.isEmptyDiary || /\[EMPTY\]/i.test(reference.title || ""))) {
+    return "empty-diary";
+  }
+  return "backup-only";
+}
+
+function scheduleControlLabel(record) {
+  return {
+    "usable-diary": "Usable Daily Diary",
+    "empty-diary": "Empty Daily Diary; use Daily Backup",
+    "backup-only": "Daily Backup only; Diary not listed",
+    "missing-control": "No same-day schedule control"
+  }[scheduleControlState(record)];
+}
+
+function needsDiaryControlCheck(record) {
+  return scheduleControlState(record) !== "usable-diary";
+}
+
 function searchableText(record) {
   return [
     record.naid,
@@ -433,6 +473,7 @@ function searchableText(record) {
       reference.catalogTrail,
       reference.matchBasis
     ].filter(Boolean).join(" ")).join(" "),
+    scheduleControlLabel(record),
     record.objectFilename,
     compilerNote(record),
     getTerms(record).join(" "),
@@ -653,6 +694,7 @@ function selectedFilters() {
     selection: selectionFilter?.value || "",
     note: noteFilter?.value || "",
     pdfCheck: pdfCheckFilter?.value || "",
+    schedule: scheduleFilter?.value || "",
     event: eventFilter?.value || ""
   };
 }
@@ -669,6 +711,7 @@ function chronologyUrlControls() {
     { param: "selection", control: selectionFilter, defaultValue: "" },
     { param: "note", control: noteFilter, defaultValue: "" },
     { param: "pdf", control: pdfCheckFilter, defaultValue: "" },
+    { param: "schedule", control: scheduleFilter, defaultValue: "" },
     { param: "event", control: eventFilter, defaultValue: "" },
     { param: "sort", control: sortSelect, defaultValue: "chapter-date" }
   ];
@@ -686,6 +729,7 @@ function chronologyControlByFilterKey() {
     selection: selectionFilter,
     note: noteFilter,
     pdfCheck: pdfCheckFilter,
+    schedule: scheduleFilter,
     event: eventFilter,
     sort: sortSelect
   };
@@ -756,6 +800,7 @@ function queueMatchFilters(filters) {
     selection: filters.selection || "",
     note: filters.note || "",
     pdfCheck: filters.pdfCheck || "",
+    schedule: filters.schedule || "",
     event: filters.event || ""
   };
 }
@@ -793,6 +838,8 @@ function recordMatchesFilters(record, filters) {
   if (filters.note === "with-note" && !compilerNote(record)) return false;
   if (filters.note === "without-note" && compilerNote(record)) return false;
   if (filters.pdfCheck && !recordMatchesPdfCheck(record, filters.pdfCheck)) return false;
+  if (filters.schedule === "needs-diary-check" && !needsDiaryControlCheck(record)) return false;
+  if (filters.schedule && filters.schedule !== "needs-diary-check" && scheduleControlState(record) !== filters.schedule) return false;
   if (filters.event && !recordEvents(record).some((event) => event.id === filters.event)) return false;
   return true;
 }
@@ -1049,7 +1096,8 @@ function setFilteredCount(records, all) {
   const excludeCount = records.filter((record) => selectionState(record) === "exclude").length;
   const noteCount = records.filter((record) => compilerNote(record)).length;
   const pdfQueueCount = records.filter((record) => pdfVerificationIssues(record).length).length;
-  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${pdfQueueCount} PDF checks.`;
+  const diaryQueueCount = records.filter(needsDiaryControlCheck).length;
+  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${pdfQueueCount} PDF checks; ${diaryQueueCount} diary checks.`;
 }
 
 function quickQueueCount(queue) {
@@ -1174,7 +1222,7 @@ function createCoverageTable(records) {
   table.className = "triage-table";
 
   const header = document.createElement("tr");
-  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "PDF issues", "Include pages"]) {
+  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "PDF issues", "Diary checks", "Include pages"]) {
     const cell = document.createElement("th");
     cell.scope = "col";
     cell.textContent = label;
@@ -1201,6 +1249,7 @@ function createCoverageTable(records) {
       recordsForSelection(chapterRecords, "unassigned").length,
       chapterRecords.filter((record) => compilerNote(record)).length,
       chapterRecords.filter((record) => pdfVerificationIssues(record).length).length,
+      chapterRecords.filter(needsDiaryControlCheck).length,
       pageTotal(includeRecords)
     ]) {
       const cell = document.createElement("td");
@@ -1237,9 +1286,11 @@ function createTriageLeadList(title, records, emptyText) {
     link.textContent = record.documentTitle || record.title;
     const meta = document.createElement("span");
     const pdfIssues = pdfVerificationLabels(record);
+    const diaryCheck = needsDiaryControlCheck(record) ? scheduleControlLabel(record) : "";
     meta.textContent = [
       `${shortDate(record.date)} | ${record.chapter.name} | ${record.documentType} | ${record.pageCount || "?"} pages`,
-      pdfIssues.length ? pdfIssues.join(", ") : ""
+      pdfIssues.length ? pdfIssues.join(", ") : "",
+      diaryCheck
     ].filter(Boolean).join(" | ");
     item.append(link, meta);
     list.append(item);
@@ -1260,6 +1311,9 @@ function renderTriageSummary(records) {
   const includeWithoutNotes = includeRecords.filter((record) => !compilerNote(record));
   const pdfVerificationQueue = records.filter((record) => pdfVerificationIssues(record).length);
   const selectedPdfVerificationQueue = records.filter((record) => ["include", "maybe"].includes(selectionState(record)) && pdfVerificationIssues(record).length);
+  const diaryControlQueue = records.filter(needsDiaryControlCheck);
+  const emptyDiaryCount = diaryControlQueue.filter((record) => scheduleControlState(record) === "empty-diary").length;
+  const backupOnlyCount = diaryControlQueue.filter((record) => scheduleControlState(record) === "backup-only").length;
   const strongUnassigned = unassignedRecords
     .filter((record) => confidence(record).value === "strong")
     .sort(byConfidence);
@@ -1280,6 +1334,7 @@ function renderTriageSummary(records) {
   appendMetric(metrics, "unassigned", unassignedRecords.length.toString(), `${strongUnassigned.length} strong hits`);
   appendMetric(metrics, "include without note", includeWithoutNotes.length.toString(), "needs rationale");
   appendMetric(metrics, "PDF checks", pdfVerificationQueue.length.toString(), `${selectedPdfVerificationQueue.length} selected`);
+  appendMetric(metrics, "Diary checks", diaryControlQueue.length.toString(), `${emptyDiaryCount} empty; ${backupOnlyCount} backup only`);
 
   const leads = document.createElement("div");
   leads.className = "triage-lead-grid";
@@ -1298,6 +1353,11 @@ function renderTriageSummary(records) {
       "PDF Verification Queue",
       pdfVerificationQueue,
       "Every record has complete first-page metadata parsed."
+    ),
+    createTriageLeadList(
+      "Daily Diary Control Checks",
+      diaryControlQueue,
+      "Every record has a usable Daily Diary control."
     )
   );
 
@@ -1415,10 +1475,14 @@ function createCompilerNoteLine(record) {
 
 function createScheduleReferenceLine(record) {
   const references = scheduleReferences(record);
-  if (!references.length) return null;
-
   const line = document.createElement("p");
-  line.className = "record-schedule";
+  line.className = `record-schedule${needsDiaryControlCheck(record) ? " needs-verification" : ""}`;
+
+  if (!references.length) {
+    line.textContent = "Daily Diary/Backup control: none matched. Schedule state: No same-day schedule control. Pull or explain the missing calendar control before publication.";
+    return line;
+  }
+
   line.append(document.createTextNode("Daily Diary/Backup control: "));
 
   references.forEach((reference, index) => {
@@ -1431,7 +1495,7 @@ function createScheduleReferenceLine(record) {
     line.append(link);
   });
 
-  line.append(document.createTextNode(". Same-day schedule-control source; verify time/place or call context against the PDF."));
+  line.append(document.createTextNode(`. Schedule state: ${scheduleControlLabel(record)}. Same-day schedule-control source; verify time/place or call context against the PDF.`));
   return line;
 }
 
@@ -2251,7 +2315,7 @@ function renderPublicReviewMentions(mentions) {
 }
 
 function resetFilters() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, eventFilter]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter]) {
     if (control) control.value = "";
   }
   if (sortSelect) sortSelect.value = "chapter-date";
@@ -2351,6 +2415,7 @@ function exportVisibleRecords() {
     "pdf_url",
     "matched_terms",
     "compiler_flags",
+    "daily_diary_control_state",
     "daily_diary_backup_references",
     "frus_source_note_draft",
     "catalog_trail"
@@ -2380,6 +2445,7 @@ function exportVisibleRecords() {
       record.pdfUrl,
       [...new Set(getTerms(record))].join("; "),
       signalMatches(record).map((signal) => signal.label).join("; "),
+      scheduleControlLabel(record),
       scheduleReferenceSummary(record),
       frusSourceNote(record),
       catalogTrail(record)
@@ -2714,6 +2780,7 @@ function compilerStub(record) {
     `PDF: ${record.pdfUrl || ""}`,
     frusSourceNote(record),
     `Catalog trail: ${catalogTrail(record)}`,
+    `Daily Diary control state: ${scheduleControlLabel(record)}`,
     `Daily Diary/Backup control: ${scheduleReferenceSummary(record) || "none matched"}`,
     `Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
     `PDF verification queue: ${pdfVerificationLabels(record).join("; ") || "complete first-page metadata"}`,
@@ -3119,7 +3186,7 @@ function enableChapterCards() {
 }
 
 function bindWorkbench() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, eventFilter, sortSelect]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter, sortSelect]) {
     control?.addEventListener("input", applyFilters);
     control?.addEventListener("change", applyFilters);
   }

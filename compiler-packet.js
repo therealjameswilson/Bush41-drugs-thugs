@@ -22,6 +22,7 @@
       filters.selection ? `selection=${filters.selection}` : "",
       filters.note ? `note=${filters.note}` : "",
       filters.pdfCheck ? `pdf check=${filters.pdfCheck}` : "",
+      filters.schedule ? `diary control=${filters.schedule}` : "",
       filters.event ? `event=${filters.event}` : "",
       sortSelect?.value ? `sort=${sortSelect.value}` : ""
     ].filter(Boolean).join("; ") || "all declassified memcons/telcons";
@@ -47,6 +48,14 @@
 
   function packetCompilerNote(record) {
     return typeof compilerNote === "function" ? compilerNote(record) : "";
+  }
+
+  function packetScheduleControlLabel(record) {
+    return typeof scheduleControlLabel === "function" ? scheduleControlLabel(record) : "Schedule control state pending";
+  }
+
+  function packetNeedsDiaryControlCheck(record) {
+    return typeof needsDiaryControlCheck === "function" ? needsDiaryControlCheck(record) : false;
   }
 
   function packetEventDossiers(record) {
@@ -87,7 +96,7 @@
         const maybe = packetStateCount(chapterRecords, "maybe");
         const exclude = packetStateCount(chapterRecords, "exclude");
         const unassigned = packetStateCount(chapterRecords, "unassigned");
-        return `- Chapter ${chapterIndex + 1}: ${chapterName}: include ${include.length} (${packetPageTotal(include)} pages); maybe ${maybe.length}; exclude ${exclude.length}; unassigned ${unassigned.length}; notes ${chapterRecords.filter((record) => packetCompilerNote(record)).length}`;
+        return `- Chapter ${chapterIndex + 1}: ${chapterName}: include ${include.length} (${packetPageTotal(include)} pages); maybe ${maybe.length}; exclude ${exclude.length}; unassigned ${unassigned.length}; notes ${chapterRecords.filter((record) => packetCompilerNote(record)).length}; diary checks ${chapterRecords.filter(packetNeedsDiaryControlCheck).length}`;
       })
       .filter(Boolean)
       .join("\n");
@@ -115,6 +124,7 @@
       `- ${frusSourceNote(record)}`,
       `- Compiler note: ${packetCompilerNote(record) || "none"}`,
       `- PDF verification: ${pdfVerificationSummary(record)}`,
+      `- Daily Diary control state: ${packetScheduleControlLabel(record)}`,
       `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
       `- PDF: ${record.pdfUrl || "not available"}`,
       `- Catalog: ${record.catalogUrl || "not listed"}`,
@@ -240,6 +250,7 @@
       `- Catalog: ${record.catalogUrl || "not listed"}`,
       `- PDF: ${record.pdfUrl || "not available"}`,
       `- ${frusSourceNote(record)}`,
+      `- Daily Diary control state: ${packetScheduleControlLabel(record)}`,
       `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
       `- Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
       `- PDF verification: ${pdfVerificationSummary(record)}`,
@@ -259,9 +270,10 @@
       `Selection summary: ${packetSelectionSummary(records)}`,
       `Compiler notes: ${records.filter((record) => packetCompilerNote(record)).length}`,
       `PDF verification queue: ${packetPdfVerificationQueue(records).length}`,
+      `Daily Diary control queue: ${records.filter(packetNeedsDiaryControlCheck).length}`,
       `Filters: ${selectedChronologyFilters()}`,
       "",
-      "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts.",
+      "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts. The diary-control queue flags empty or absent Diary entries even when a Daily Backup remains available.",
       ""
     ];
 

@@ -1103,6 +1103,13 @@ h2 {
   font-weight: 750;
 }
 
+.record-schedule.needs-verification {
+  margin: 6px 0;
+  padding-left: 10px;
+  color: #573d1d;
+  border-left: 4px solid var(--gold);
+}
+
 .record-schedule a {
   color: #1d5f72;
   overflow-wrap: anywhere;

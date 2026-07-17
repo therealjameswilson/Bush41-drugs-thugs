@@ -51,6 +51,8 @@ The workbench supports:
 - copyable FRUS-style source-note drafts for PDF verification and editorial drafting
 - same-day Presidential Daily Diary and Daily Backup control references for
   meetings and calls
+- a Diary Control filter and quick queue that distinguish usable Daily Diary
+  entries from empty diaries and Daily-Backup-only controls
 - a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
 - CSV export of the currently visible record set
 - Markdown compiler-packet export for the currently visible chronology, with
@@ -121,6 +123,11 @@ The Daily Diary step queries NAID 186322 by exact date and attaches same-day
 schedule-control references to each declassified memcon/telcon. These references
 are meant to corroborate appointment, call, time, and location context; they are
 not treated as substitute conversation transcripts.
+
+As currently built, all 209 chronology records have a same-day control and a
+Presidential Daily Backup. Of those, 172 have a usable Daily Diary, 35 have an
+explicitly empty Diary file, and 2 have only the Daily Backup listed. The latter
+37 records remain visible in the Diary Control Checks queue.
 
 Refresh the public-statements reference layer with:
 

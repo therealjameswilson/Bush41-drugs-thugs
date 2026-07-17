@@ -281,6 +281,17 @@
               </select>
             </label>
             <label>
+              Diary control
+              <select id="filter-schedule">
+                <option value="">All schedule controls</option>
+                <option value="needs-diary-check">Diary check needed</option>
+                <option value="usable-diary">Usable Daily Diary</option>
+                <option value="empty-diary">Empty Daily Diary</option>
+                <option value="backup-only">Daily Backup only</option>
+                <option value="missing-control">No schedule control</option>
+              </select>
+            </label>
+            <label>
               Event dossier
               <select id="filter-event">
                 <option value="">All event dossiers</option>
@@ -812,6 +823,7 @@
             ["Selection", selectedOptionText("#filter-selection")],
             ["Compiler note", selectedOptionText("#filter-note")],
             ["PDF check", selectedOptionText("#filter-pdf-check")],
+            ["Diary control", selectedOptionText("#filter-schedule")],
             ["Event dossier", selectedOptionText("#filter-event")]
           ].filter(([, value]) => value);
           return filters.map(([label, value]) => `${label}: ${value}`).join("; ") || "none";
