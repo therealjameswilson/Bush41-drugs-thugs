@@ -1,10 +1,11 @@
 const CHAPTER_ORDER = ["Counternarcotics", "Counterterrorism"];
 const REVIEW_STORAGE_KEY = "frus-v28-reviewed-records";
+const SOURCE_CHECK_STORAGE_KEY = "frus-v28-source-checked-records";
 const SELECTION_STORAGE_KEY = "frus-v28-record-selections";
 const NOTES_STORAGE_KEY = "frus-v28-record-notes";
 const GAP_DISPOSITION_STORAGE_KEY = "frus-v28-gap-dispositions";
 const GAP_NOTES_STORAGE_KEY = "frus-v28-gap-notes";
-const TRIAGE_STATE_VERSION = 3;
+const TRIAGE_STATE_VERSION = 4;
 const SELECTION_STATES = {
   include: "Include",
   maybe: "Maybe",
@@ -42,6 +43,7 @@ const recordsRoot = document.querySelector("#records-root");
 const totalRecords = document.querySelector("#total-records");
 const totalPdfs = document.querySelector("#total-pdfs");
 const totalReviewed = document.querySelector("#total-reviewed");
+const totalSourceChecked = document.querySelector("#total-source-checked");
 const totalSelected = document.querySelector("#total-selected");
 const totalNoted = document.querySelector("#total-noted");
 const totalPublicStatements = document.querySelector("#total-public-statements");
@@ -59,6 +61,7 @@ const yearFilter = document.querySelector("#filter-year");
 const sourceFilter = document.querySelector("#filter-source");
 const confidenceFilter = document.querySelector("#filter-confidence");
 const reviewFilter = document.querySelector("#filter-review");
+const sourceCheckFilter = document.querySelector("#filter-source-check");
 const selectionFilter = document.querySelector("#filter-selection");
 const noteFilter = document.querySelector("#filter-note");
 const pdfCheckFilter = document.querySelector("#filter-pdf-check");
@@ -163,6 +166,12 @@ const QUICK_QUEUE_DEFINITIONS = [
     filters: { selection: "include", note: "without-note", sort: "date" }
   },
   {
+    id: "included-source-checks",
+    label: "Included Source Checks",
+    detail: "Include selections not yet checked against the PDF and archival provenance",
+    filters: { selection: "include", sourceCheck: "pending", sort: "date" }
+  },
+  {
     id: "lockerbie",
     label: "Lockerbie / Pan Am",
     detail: "Counterterrorism anchor queue for Pan Am 103 and Lockerbie",
@@ -240,6 +249,7 @@ let visiblePublicReviewMentions = [];
 let allScheduleReferences = [];
 let recordEventMap = new Map();
 let reviewedRecords = new Set(readReviewedRecords());
+let sourceCheckedRecords = new Set(readSourceCheckedRecords());
 let recordSelections = readRecordSelections();
 let recordNotes = readRecordNotes();
 let gapDispositions = readGapDispositions();
@@ -303,6 +313,18 @@ function readReviewedRecords() {
 
 function saveReviewedRecords() {
   localStorage.setItem(REVIEW_STORAGE_KEY, JSON.stringify([...reviewedRecords]));
+}
+
+function readSourceCheckedRecords() {
+  try {
+    return JSON.parse(localStorage.getItem(SOURCE_CHECK_STORAGE_KEY) || "[]");
+  } catch {
+    return [];
+  }
+}
+
+function saveSourceCheckedRecords() {
+  localStorage.setItem(SOURCE_CHECK_STORAGE_KEY, JSON.stringify([...sourceCheckedRecords]));
 }
 
 function readRecordSelections() {
@@ -370,6 +392,14 @@ function selectionLabel(record) {
 
 function compilerNote(record) {
   return recordNotes[record.id] || "";
+}
+
+function sourceCheckState(record) {
+  return sourceCheckedRecords.has(record.id) ? "checked" : "pending";
+}
+
+function sourceCheckLabel(record) {
+  return sourceCheckedRecords.has(record.id) ? "Source checked" : "Source check pending";
 }
 
 function gapDispositionState(record) {
@@ -474,6 +504,7 @@ function searchableText(record) {
       reference.matchBasis
     ].filter(Boolean).join(" ")).join(" "),
     scheduleControlLabel(record),
+    sourceCheckLabel(record),
     record.objectFilename,
     compilerNote(record),
     getTerms(record).join(" "),
@@ -648,6 +679,9 @@ function setChapterCounts(records) {
   totalRecords.textContent = records.length.toString();
   totalPdfs.textContent = records.filter((record) => record.pdfUrl).length.toString();
   totalReviewed.textContent = records.filter((record) => reviewedRecords.has(record.id)).length.toString();
+  if (totalSourceChecked) {
+    totalSourceChecked.textContent = records.filter((record) => sourceCheckedRecords.has(record.id)).length.toString();
+  }
   if (totalSelected) {
     totalSelected.textContent = records.filter((record) => selectionState(record)).length.toString();
   }
@@ -691,6 +725,7 @@ function selectedFilters() {
     source: sourceFilter?.value || "",
     confidence: confidenceFilter?.value || "",
     review: reviewFilter?.value || "",
+    sourceCheck: sourceCheckFilter?.value || "",
     selection: selectionFilter?.value || "",
     note: noteFilter?.value || "",
     pdfCheck: pdfCheckFilter?.value || "",
@@ -708,6 +743,7 @@ function chronologyUrlControls() {
     { param: "source", control: sourceFilter, defaultValue: "" },
     { param: "match", control: confidenceFilter, defaultValue: "" },
     { param: "review", control: reviewFilter, defaultValue: "" },
+    { param: "source-check", control: sourceCheckFilter, defaultValue: "" },
     { param: "selection", control: selectionFilter, defaultValue: "" },
     { param: "note", control: noteFilter, defaultValue: "" },
     { param: "pdf", control: pdfCheckFilter, defaultValue: "" },
@@ -726,6 +762,7 @@ function chronologyControlByFilterKey() {
     source: sourceFilter,
     confidence: confidenceFilter,
     review: reviewFilter,
+    sourceCheck: sourceCheckFilter,
     selection: selectionFilter,
     note: noteFilter,
     pdfCheck: pdfCheckFilter,
@@ -797,6 +834,7 @@ function queueMatchFilters(filters) {
     source: filters.source || "",
     confidence: filters.confidence || "",
     review: filters.review || "",
+    sourceCheck: filters.sourceCheck || "",
     selection: filters.selection || "",
     note: filters.note || "",
     pdfCheck: filters.pdfCheck || "",
@@ -833,6 +871,8 @@ function recordMatchesFilters(record, filters) {
   if (filters.confidence && confidence(record).value !== filters.confidence) return false;
   if (filters.review === "open" && reviewedRecords.has(record.id)) return false;
   if (filters.review === "reviewed" && !reviewedRecords.has(record.id)) return false;
+  if (filters.sourceCheck === "pending" && sourceCheckedRecords.has(record.id)) return false;
+  if (filters.sourceCheck === "checked" && !sourceCheckedRecords.has(record.id)) return false;
   if (filters.selection === "unassigned" && selectionState(record)) return false;
   if (filters.selection && filters.selection !== "unassigned" && selectionState(record) !== filters.selection) return false;
   if (filters.note === "with-note" && !compilerNote(record)) return false;
@@ -1091,13 +1131,14 @@ function applyMentionFilters() {
 function setFilteredCount(records, all) {
   if (!filteredCount) return;
   const reviewedCount = records.filter((record) => reviewedRecords.has(record.id)).length;
+  const sourceCheckedCount = records.filter((record) => sourceCheckedRecords.has(record.id)).length;
   const includeCount = records.filter((record) => selectionState(record) === "include").length;
   const maybeCount = records.filter((record) => selectionState(record) === "maybe").length;
   const excludeCount = records.filter((record) => selectionState(record) === "exclude").length;
   const noteCount = records.filter((record) => compilerNote(record)).length;
   const pdfQueueCount = records.filter((record) => pdfVerificationIssues(record).length).length;
   const diaryQueueCount = records.filter(needsDiaryControlCheck).length;
-  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${pdfQueueCount} PDF checks; ${diaryQueueCount} diary checks.`;
+  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${sourceCheckedCount} source checked; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${pdfQueueCount} PDF checks; ${diaryQueueCount} diary checks.`;
 }
 
 function quickQueueCount(queue) {
@@ -1222,7 +1263,7 @@ function createCoverageTable(records) {
   table.className = "triage-table";
 
   const header = document.createElement("tr");
-  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "PDF issues", "Diary checks", "Include pages"]) {
+  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "Source checked", "PDF issues", "Diary checks", "Include pages"]) {
     const cell = document.createElement("th");
     cell.scope = "col";
     cell.textContent = label;
@@ -1248,6 +1289,7 @@ function createCoverageTable(records) {
       recordsForSelection(chapterRecords, "exclude").length,
       recordsForSelection(chapterRecords, "unassigned").length,
       chapterRecords.filter((record) => compilerNote(record)).length,
+      chapterRecords.filter((record) => sourceCheckedRecords.has(record.id)).length,
       chapterRecords.filter((record) => pdfVerificationIssues(record).length).length,
       chapterRecords.filter(needsDiaryControlCheck).length,
       pageTotal(includeRecords)
@@ -1289,6 +1331,7 @@ function createTriageLeadList(title, records, emptyText) {
     const diaryCheck = needsDiaryControlCheck(record) ? scheduleControlLabel(record) : "";
     meta.textContent = [
       `${shortDate(record.date)} | ${record.chapter.name} | ${record.documentType} | ${record.pageCount || "?"} pages`,
+      sourceCheckLabel(record),
       pdfIssues.length ? pdfIssues.join(", ") : "",
       diaryCheck
     ].filter(Boolean).join(" | ");
@@ -1309,6 +1352,8 @@ function renderTriageSummary(records) {
   const excludeRecords = recordsForSelection(records, "exclude");
   const unassignedRecords = recordsForSelection(records, "unassigned");
   const includeWithoutNotes = includeRecords.filter((record) => !compilerNote(record));
+  const includeAwaitingSourceCheck = includeRecords.filter((record) => !sourceCheckedRecords.has(record.id));
+  const sourceCheckedCount = records.filter((record) => sourceCheckedRecords.has(record.id)).length;
   const pdfVerificationQueue = records.filter((record) => pdfVerificationIssues(record).length);
   const selectedPdfVerificationQueue = records.filter((record) => ["include", "maybe"].includes(selectionState(record)) && pdfVerificationIssues(record).length);
   const diaryControlQueue = records.filter(needsDiaryControlCheck);
@@ -1333,6 +1378,7 @@ function renderTriageSummary(records) {
   appendMetric(metrics, "exclude", excludeRecords.length.toString(), `${pageTotal(excludeRecords)} pages`);
   appendMetric(metrics, "unassigned", unassignedRecords.length.toString(), `${strongUnassigned.length} strong hits`);
   appendMetric(metrics, "include without note", includeWithoutNotes.length.toString(), "needs rationale");
+  appendMetric(metrics, "source checked", sourceCheckedCount.toString(), `${includeAwaitingSourceCheck.length} included pending`);
   appendMetric(metrics, "PDF checks", pdfVerificationQueue.length.toString(), `${selectedPdfVerificationQueue.length} selected`);
   appendMetric(metrics, "Diary checks", diaryControlQueue.length.toString(), `${emptyDiaryCount} empty; ${backupOnlyCount} backup only`);
 
@@ -1348,6 +1394,11 @@ function renderTriageSummary(records) {
       "Included Records Missing Notes",
       includeWithoutNotes,
       "Every included record has a compiler note."
+    ),
+    createTriageLeadList(
+      "Included Awaiting Source Check",
+      includeAwaitingSourceCheck,
+      "Every included record has been checked against its PDF and archival provenance."
     ),
     createTriageLeadList(
       "PDF Verification Queue",
@@ -1509,13 +1560,22 @@ function createRecordActions(record) {
   reviewButton.dataset.recordId = record.id;
   reviewButton.textContent = reviewedRecords.has(record.id) ? "Reviewed" : "Mark reviewed";
 
+  const sourceCheckButton = document.createElement("button");
+  sourceCheckButton.type = "button";
+  sourceCheckButton.dataset.action = "toggle-source-check";
+  sourceCheckButton.dataset.recordId = record.id;
+  sourceCheckButton.className = "source-check-action";
+  sourceCheckButton.textContent = sourceCheckedRecords.has(record.id) ? "Source checked" : "Mark source checked";
+  sourceCheckButton.setAttribute("aria-pressed", sourceCheckedRecords.has(record.id) ? "true" : "false");
+  sourceCheckButton.title = "Confirm the PDF, archival provenance, and Source Note draft have been checked by the compiler";
+
   const copyButton = document.createElement("button");
   copyButton.type = "button";
   copyButton.dataset.action = "copy-note";
   copyButton.dataset.recordId = record.id;
   copyButton.textContent = "Copy source stub";
 
-  actions.append(reviewButton, copyButton);
+  actions.append(reviewButton, sourceCheckButton, copyButton);
 
   for (const [state, label] of Object.entries(SELECTION_STATES)) {
     const selectionButton = document.createElement("button");
@@ -1546,6 +1606,7 @@ function createRecordRow(record) {
   row.className = "record-row";
   row.id = record.id;
   if (reviewedRecords.has(record.id)) row.classList.add("is-reviewed");
+  if (sourceCheckedRecords.has(record.id)) row.classList.add("is-source-checked");
   if (selectionState(record)) row.classList.add(`is-selection-${selectionState(record)}`);
 
   const date = document.createElement("time");
@@ -1572,7 +1633,11 @@ function createRecordRow(record) {
   selectionBadge.className = `selection-badge ${selectionState(record) || "unassigned"}`;
   selectionBadge.textContent = `Selection: ${selectionLabel(record)}`;
 
-  titleLine.append(title, confidenceBadge, selectionBadge);
+  const sourceCheckBadge = document.createElement("span");
+  sourceCheckBadge.className = `selection-badge source-check-badge ${sourceCheckState(record)}`;
+  sourceCheckBadge.textContent = sourceCheckLabel(record);
+
+  titleLine.append(title, confidenceBadge, selectionBadge, sourceCheckBadge);
 
   const sourceNote = document.createElement("p");
   sourceNote.className = "record-source-note";
@@ -2315,7 +2380,7 @@ function renderPublicReviewMentions(mentions) {
 }
 
 function resetFilters() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, sourceCheckFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter]) {
     if (control) control.value = "";
   }
   if (sortSelect) sortSelect.value = "chapter-date";
@@ -2399,6 +2464,7 @@ function exportVisibleRecords() {
     "document_type",
     "confidence",
     "reviewed",
+    "source_checked",
     "selection",
     "compiler_note",
     "event_dossiers",
@@ -2429,6 +2495,7 @@ function exportVisibleRecords() {
       record.documentType,
       confidenceInfo.label,
       reviewedRecords.has(record.id) ? "yes" : "no",
+      sourceCheckedRecords.has(record.id) ? "yes" : "no",
       selectionLabel(record),
       compilerNote(record),
       recordEventTitles(record).join("; "),
@@ -2461,6 +2528,7 @@ function compilerStatePayload() {
     version: TRIAGE_STATE_VERSION,
     exportedAt: new Date().toISOString(),
     reviewedRecords: [...reviewedRecords],
+    sourceCheckedRecords: [...sourceCheckedRecords],
     selections: recordSelections,
     notes: recordNotes,
     gapDispositions,
@@ -2503,12 +2571,15 @@ function sanitizeGapDispositions(dispositions) {
 
 function applyCompilerStatePayload(payload) {
   reviewedRecords = new Set(Array.isArray(payload?.reviewedRecords) ? payload.reviewedRecords.filter(Boolean) : []);
+  sourceCheckedRecords = new Set(Array.isArray(payload?.sourceCheckedRecords) ? payload.sourceCheckedRecords.filter(Boolean) : []);
+  for (const id of sourceCheckedRecords) reviewedRecords.add(id);
   recordSelections = sanitizeSelections(payload?.selections || payload?.recordSelections);
   recordNotes = sanitizeNotes(payload?.notes || payload?.recordNotes);
   gapDispositions = sanitizeGapDispositions(payload?.gapDispositions || payload?.gaps);
   gapNotes = sanitizeNotes(payload?.gapNotes || payload?.compilerGapNotes);
 
   saveReviewedRecords();
+  saveSourceCheckedRecords();
   saveRecordSelections();
   saveRecordNotes();
   saveGapDispositions();
@@ -2770,6 +2841,7 @@ function compilerStub(record) {
     `Chapter: ${record.chapter.name}`,
     `Document type: ${record.documentType}`,
     `Selection: ${selectionLabel(record)}`,
+    `Source check: ${sourceCheckLabel(record)}`,
     `Compiler note: ${compilerNote(record) || "none"}`,
     `Event dossiers: ${recordEventTitles(record).join("; ") || "none matched"}`,
     `Source series: ${record.source?.title || record.source?.shortName || "Presidential conversation files"}`,
@@ -3028,6 +3100,20 @@ function handleRecordAction(event) {
     return;
   }
 
+  if (button.dataset.action === "toggle-source-check") {
+    if (sourceCheckedRecords.has(record.id)) {
+      sourceCheckedRecords.delete(record.id);
+    } else {
+      sourceCheckedRecords.add(record.id);
+      reviewedRecords.add(record.id);
+    }
+
+    saveSourceCheckedRecords();
+    saveReviewedRecords();
+    applyFilters();
+    return;
+  }
+
   if (button.dataset.action === "copy-note") {
     copyText(compilerStub(record))
       .then((copied) => flashButton(button, copied ? "Copied" : "Copy failed"))
@@ -3186,7 +3272,7 @@ function enableChapterCards() {
 }
 
 function bindWorkbench() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter, sortSelect]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, sourceCheckFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter, sortSelect]) {
     control?.addEventListener("input", applyFilters);
     control?.addEventListener("change", applyFilters);
   }

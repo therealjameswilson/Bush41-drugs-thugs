@@ -25,8 +25,8 @@ The workbench supports:
 
 - search across titles, NAIDs, source notes, source series, filenames, and
   matched topical evidence
-- filters for chapter, document type, year, source series, match strength, and
-  local review state
+- filters for chapter, document type, year, source series, match strength,
+  local review state, and human Source checked state
 - chapter chronology, single chronology, match-strength, and document-type sorts
 - shareable chronology view links that preserve active filter and sort settings
 - one-click compiler quick queues for source-note checks, strong unassigned
@@ -37,13 +37,15 @@ The workbench supports:
 - a top-level compiler-network handoff button that copies the current view,
   active filters, and adjacent research-tool links
 - local "reviewed" marking in browser storage
+- a separate portable Source checked state for the compiler's direct review of
+  the PDF, archival provenance, and FRUS-style Source Note draft
 - local Include / Maybe / Exclude selection triage, with selection filters and
   export fields for compiler working decisions
 - local per-record compiler notes, note filters, and portable triage JSON
   export/import for moving review state across browsers
 - live selection-coverage dashboard with chapter balance, selected page totals,
-  strong unassigned leads, included records still missing compiler notes, and
-  records still needing first-page PDF metadata verification
+  strong unassigned leads, included records still awaiting a source check or
+  compiler note, and records still needing first-page PDF metadata verification
 - measured PDF page counts and first-page extraction checks for subject,
   participants, date/time/place, and classification markings
 - PDF verification filters and a Markdown checklist export for records missing
@@ -53,6 +55,8 @@ The workbench supports:
   meetings and calls
 - a Diary Control filter and quick queue that distinguish usable Daily Diary
   entries from empty diaries and Daily-Backup-only controls
+- an Included Source Checks queue that isolates selected records whose PDF,
+  provenance, and Source Note draft have not yet been checked by the compiler
 - a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
 - CSV export of the currently visible record set
 - Markdown compiler-packet export for the currently visible chronology, with

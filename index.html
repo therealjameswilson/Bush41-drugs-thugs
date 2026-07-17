@@ -251,6 +251,14 @@
               </select>
             </label>
             <label>
+              Source check
+              <select id="filter-source-check">
+                <option value="">All source checks</option>
+                <option value="pending">Source check pending</option>
+                <option value="checked">Source checked</option>
+              </select>
+            </label>
+            <label>
               Selection
               <select id="filter-selection">
                 <option value="">All selections</option>
@@ -379,6 +387,10 @@
         <div>
           <span id="total-reviewed">0</span>
           <p>reviewed locally</p>
+        </div>
+        <div>
+          <span id="total-source-checked">0</span>
+          <p>source checked</p>
         </div>
         <div>
           <span id="total-selected">0</span>
@@ -820,6 +832,7 @@
             ["Source series", selectedOptionText("#filter-source")],
             ["Match strength", selectedOptionText("#filter-confidence")],
             ["Review state", selectedOptionText("#filter-review")],
+            ["Source check", selectedOptionText("#filter-source-check")],
             ["Selection", selectedOptionText("#filter-selection")],
             ["Compiler note", selectedOptionText("#filter-note")],
             ["PDF check", selectedOptionText("#filter-pdf-check")],
@@ -856,6 +869,7 @@
             "Strobe FOIA: https://therealjameswilson.github.io/strobe-talbott-foia/",
             "",
             "Suggested next actions:",
+            "- Clear Included Source Checks after verifying each PDF, archival provenance, and Source Note draft.",
             "- Export the visible compiler packet for source-note and document-sequence review.",
             "- Use the PDF checklist for records with missing first-page metadata.",
             "- Reconcile event dossiers against the gap queue before treating the selection as final."

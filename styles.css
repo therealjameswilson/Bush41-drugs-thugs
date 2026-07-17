@@ -1019,6 +1019,18 @@ h2 {
   background: rgba(156, 62, 53, 0.13);
 }
 
+.selection-badge.source-check-badge.checked {
+  color: #174235;
+  background: rgba(49, 95, 82, 0.15);
+  border-color: rgba(49, 95, 82, 0.28);
+}
+
+.selection-badge.source-check-badge.pending {
+  color: #604719;
+  background: rgba(173, 132, 55, 0.12);
+  border-color: rgba(173, 132, 55, 0.25);
+}
+
 .selection-badge.gap-disposition-badge.open {
   color: #42515a;
   background: rgba(43, 58, 66, 0.08);
@@ -1228,6 +1240,11 @@ h2 {
 .record-actions .selection-exclude[aria-pressed="true"] {
   background: var(--red);
   border-color: var(--red);
+}
+
+.record-actions .source-check-action[aria-pressed="true"] {
+  background: var(--green);
+  border-color: var(--green);
 }
 
 .record-actions .gap-disposition-requested[aria-pressed="true"] {

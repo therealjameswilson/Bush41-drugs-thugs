@@ -19,6 +19,7 @@
       filters.source ? `source=${filters.source}` : "",
       filters.confidence ? `match=${filters.confidence}` : "",
       filters.review ? `review=${filters.review}` : "",
+      filters.sourceCheck ? `source check=${filters.sourceCheck}` : "",
       filters.selection ? `selection=${filters.selection}` : "",
       filters.note ? `note=${filters.note}` : "",
       filters.pdfCheck ? `pdf check=${filters.pdfCheck}` : "",
@@ -48,6 +49,14 @@
 
   function packetCompilerNote(record) {
     return typeof compilerNote === "function" ? compilerNote(record) : "";
+  }
+
+  function packetSourceChecked(record) {
+    return typeof sourceCheckState === "function" ? sourceCheckState(record) === "checked" : false;
+  }
+
+  function packetSourceCheckLabel(record) {
+    return typeof sourceCheckLabel === "function" ? sourceCheckLabel(record) : "Source check pending";
   }
 
   function packetScheduleControlLabel(record) {
@@ -96,7 +105,7 @@
         const maybe = packetStateCount(chapterRecords, "maybe");
         const exclude = packetStateCount(chapterRecords, "exclude");
         const unassigned = packetStateCount(chapterRecords, "unassigned");
-        return `- Chapter ${chapterIndex + 1}: ${chapterName}: include ${include.length} (${packetPageTotal(include)} pages); maybe ${maybe.length}; exclude ${exclude.length}; unassigned ${unassigned.length}; notes ${chapterRecords.filter((record) => packetCompilerNote(record)).length}; diary checks ${chapterRecords.filter(packetNeedsDiaryControlCheck).length}`;
+        return `- Chapter ${chapterIndex + 1}: ${chapterName}: include ${include.length} (${packetPageTotal(include)} pages); include source checks pending ${include.filter((record) => !packetSourceChecked(record)).length}; maybe ${maybe.length}; exclude ${exclude.length}; unassigned ${unassigned.length}; notes ${chapterRecords.filter((record) => packetCompilerNote(record)).length}; diary checks ${chapterRecords.filter(packetNeedsDiaryControlCheck).length}`;
       })
       .filter(Boolean)
       .join("\n");
@@ -122,6 +131,7 @@
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
       `- ${frusSourceNote(record)}`,
+      `- Source check: ${packetSourceCheckLabel(record)}`,
       `- Compiler note: ${packetCompilerNote(record) || "none"}`,
       `- PDF verification: ${pdfVerificationSummary(record)}`,
       `- Daily Diary control state: ${packetScheduleControlLabel(record)}`,
@@ -137,6 +147,7 @@
       `- ${record.date} - ${record.documentTitle || record.title}`,
       `  - ${record.documentType}; ${record.pageCount || "?"} pages; ${packetSelectionLabel(record)}`,
       `  - Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
+      `  - Source check: ${packetSourceCheckLabel(record)}`,
       `  - Note: ${packetCompilerNote(record) || "none"}`,
       `  - PDF: ${record.pdfUrl || "not available"}`
     ].join("\n");
@@ -168,6 +179,7 @@
       `Included records: ${includeRecords.length}`,
       `Included page total: ${packetPageTotal(includeRecords)}`,
       `Maybe records: ${maybeRecords.length}`,
+      `Included records awaiting source check: ${includeRecords.filter((record) => !packetSourceChecked(record)).length}`,
       `Included records needing PDF verification: ${packetPdfVerificationQueue(includeRecords).length}`,
       `High-priority gap reminders: ${highGaps.length}`,
       "",
@@ -183,7 +195,7 @@
       const chapterGaps = highGaps.filter((record) => record.chapter?.name === chapterName);
 
       lines.push(`## Chapter ${chapterNumber}: ${chapterName}`, "");
-      lines.push(`Include: ${chapterIncludes.length} records, ${packetPageTotal(chapterIncludes)} pages. Maybe: ${chapterMaybes.length}. Include PDF checks: ${packetPdfVerificationQueue(chapterIncludes).length}. High-priority gaps: ${chapterGaps.length}.`, "");
+      lines.push(`Include: ${chapterIncludes.length} records, ${packetPageTotal(chapterIncludes)} pages. Include source checks pending: ${chapterIncludes.filter((record) => !packetSourceChecked(record)).length}. Maybe: ${chapterMaybes.length}. Include PDF checks: ${packetPdfVerificationQueue(chapterIncludes).length}. High-priority gaps: ${chapterGaps.length}.`, "");
 
       if (chapterIncludes.length) {
         lines.push("### Proposed Document Sequence", "");
@@ -214,6 +226,7 @@
     }
 
     lines.push("## Editorial Checks Before Drafting", "");
+    lines.push("- Clear the source-check queue for every Include record after checking the PDF, archival provenance, and Source Note draft.");
     lines.push("- Reconcile Include selections against high-priority gap reminders before treating this as a final document list.");
     lines.push("- Confirm dates, participants, classification markings, drafting/distribution data, and excisions directly in each PDF.");
     lines.push("- Use Public Papers references as public-positioning context, not substitutes for private conversation records.");
@@ -243,6 +256,7 @@
       `- Chapter: ${record.chapter.name}`,
       `- Type: ${record.documentType}`,
       `- Selection: ${packetSelectionLabel(record)}`,
+      `- Source check: ${packetSourceCheckLabel(record)}`,
       `- Compiler note: ${packetCompilerNote(record) || "none"}`,
       `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
       `- NAID: ${record.naid}`,
@@ -268,12 +282,13 @@
       `Generated: ${new Date().toISOString()}`,
       `Visible records: ${records.length}`,
       `Selection summary: ${packetSelectionSummary(records)}`,
+      `Source checked: ${records.filter(packetSourceChecked).length}`,
       `Compiler notes: ${records.filter((record) => packetCompilerNote(record)).length}`,
       `PDF verification queue: ${packetPdfVerificationQueue(records).length}`,
       `Daily Diary control queue: ${records.filter(packetNeedsDiaryControlCheck).length}`,
       `Filters: ${selectedChronologyFilters()}`,
       "",
-      "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts. The diary-control queue flags empty or absent Diary entries even when a Daily Backup remains available.",
+      "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Source checked is a portable human verification state for the PDF, archival provenance, and Source Note draft; it is never inferred from extraction metadata. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts. The diary-control queue flags empty or absent Diary entries even when a Daily Backup remains available.",
       ""
     ];
 
@@ -320,6 +335,7 @@
           "",
           `- Missing: ${packetPdfVerificationIssues(record).join("; ")}`,
           `- Selection: ${packetSelectionLabel(record)}`,
+          `- Source check: ${packetSourceCheckLabel(record)}`,
           `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
           `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
           `- ${frusSourceNote(record)}`,
