@@ -196,22 +196,6 @@ function extentFromNote(sourceNote) {
   return fieldFromCatalogNote(sourceNote, "Extent");
 }
 
-function buildFrusSourceNote({ collectionTitle, seriesTitle, folderTitle, naid, accessRestriction }) {
-  const pathParts = [
-    "Source: George H.W. Bush Library",
-    normalizeCollectionTitle(collectionTitle),
-    normalizeSeriesTitle(seriesTitle),
-    folderTitle
-  ].filter(Boolean);
-
-  const note = [
-    `${pathParts.join(", ")}${naid ? `, NAID ${naid}` : ""}.`,
-    accessRestriction ? `Access restriction: ${accessRestriction}.` : ""
-  ];
-
-  return note.filter(Boolean).join(" ");
-}
-
 function buildFrusStyleSourceNote({
   collectionTitle,
   seriesTitle,

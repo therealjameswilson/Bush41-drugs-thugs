@@ -44,6 +44,7 @@ const totalRecords = document.querySelector("#total-records");
 const totalPdfs = document.querySelector("#total-pdfs");
 const totalReviewed = document.querySelector("#total-reviewed");
 const totalSourceChecked = document.querySelector("#total-source-checked");
+const totalSourceNoteControls = document.querySelector("#total-source-note-controls");
 const totalSelected = document.querySelector("#total-selected");
 const totalNoted = document.querySelector("#total-noted");
 const totalPublicStatements = document.querySelector("#total-public-statements");
@@ -62,6 +63,7 @@ const sourceFilter = document.querySelector("#filter-source");
 const confidenceFilter = document.querySelector("#filter-confidence");
 const reviewFilter = document.querySelector("#filter-review");
 const sourceCheckFilter = document.querySelector("#filter-source-check");
+const sourceNoteProvenanceFilter = document.querySelector("#filter-source-note-provenance");
 const selectionFilter = document.querySelector("#filter-selection");
 const noteFilter = document.querySelector("#filter-note");
 const pdfCheckFilter = document.querySelector("#filter-pdf-check");
@@ -170,6 +172,12 @@ const QUICK_QUEUE_DEFINITIONS = [
     label: "Included Source Checks",
     detail: "Include selections not yet checked against the PDF and archival provenance",
     filters: { selection: "include", sourceCheck: "pending", sort: "date" }
+  },
+  {
+    id: "source-note-controls",
+    label: "Source Note Controls",
+    detail: "Published-style citations still needing an OA/ID, box, or equivalent control-copy locator",
+    filters: { sourceProvenance: "needs-control", sort: "date" }
   },
   {
     id: "lockerbie",
@@ -422,7 +430,15 @@ function getTerms(record) {
 }
 
 function frusSourceNote(record) {
-  return record.frusSourceNote || record.sourceNote || "Source note pending.";
+  return globalThis.FrusSourceNoteProvenance?.sourceNote(record) || "Source note pending.";
+}
+
+function sourceNoteProvenance(record) {
+  return globalThis.FrusSourceNoteProvenance.audit(record);
+}
+
+function sourceNoteProvenanceLabel(record) {
+  return sourceNoteProvenance(record).label;
 }
 
 function catalogTrail(record) {
@@ -505,6 +521,9 @@ function searchableText(record) {
     ].filter(Boolean).join(" ")).join(" "),
     scheduleControlLabel(record),
     sourceCheckLabel(record),
+    sourceNoteProvenanceLabel(record),
+    sourceNoteProvenance(record).pendingFields.join(" "),
+    sourceNoteProvenance(record).controlLead,
     record.objectFilename,
     compilerNote(record),
     getTerms(record).join(" "),
@@ -682,6 +701,9 @@ function setChapterCounts(records) {
   if (totalSourceChecked) {
     totalSourceChecked.textContent = records.filter((record) => sourceCheckedRecords.has(record.id)).length.toString();
   }
+  if (totalSourceNoteControls) {
+    totalSourceNoteControls.textContent = records.filter((record) => !sourceNoteProvenance(record).hasControl).length.toString();
+  }
   if (totalSelected) {
     totalSelected.textContent = records.filter((record) => selectionState(record)).length.toString();
   }
@@ -726,6 +748,7 @@ function selectedFilters() {
     confidence: confidenceFilter?.value || "",
     review: reviewFilter?.value || "",
     sourceCheck: sourceCheckFilter?.value || "",
+    sourceProvenance: sourceNoteProvenanceFilter?.value || "",
     selection: selectionFilter?.value || "",
     note: noteFilter?.value || "",
     pdfCheck: pdfCheckFilter?.value || "",
@@ -744,6 +767,7 @@ function chronologyUrlControls() {
     { param: "match", control: confidenceFilter, defaultValue: "" },
     { param: "review", control: reviewFilter, defaultValue: "" },
     { param: "source-check", control: sourceCheckFilter, defaultValue: "" },
+    { param: "source-note", control: sourceNoteProvenanceFilter, defaultValue: "" },
     { param: "selection", control: selectionFilter, defaultValue: "" },
     { param: "note", control: noteFilter, defaultValue: "" },
     { param: "pdf", control: pdfCheckFilter, defaultValue: "" },
@@ -763,6 +787,7 @@ function chronologyControlByFilterKey() {
     confidence: confidenceFilter,
     review: reviewFilter,
     sourceCheck: sourceCheckFilter,
+    sourceProvenance: sourceNoteProvenanceFilter,
     selection: selectionFilter,
     note: noteFilter,
     pdfCheck: pdfCheckFilter,
@@ -835,6 +860,7 @@ function queueMatchFilters(filters) {
     confidence: filters.confidence || "",
     review: filters.review || "",
     sourceCheck: filters.sourceCheck || "",
+    sourceProvenance: filters.sourceProvenance || "",
     selection: filters.selection || "",
     note: filters.note || "",
     pdfCheck: filters.pdfCheck || "",
@@ -873,6 +899,7 @@ function recordMatchesFilters(record, filters) {
   if (filters.review === "reviewed" && !reviewedRecords.has(record.id)) return false;
   if (filters.sourceCheck === "pending" && sourceCheckedRecords.has(record.id)) return false;
   if (filters.sourceCheck === "checked" && !sourceCheckedRecords.has(record.id)) return false;
+  if (filters.sourceProvenance && !globalThis.FrusSourceNoteProvenance.matches(record, filters.sourceProvenance)) return false;
   if (filters.selection === "unassigned" && selectionState(record)) return false;
   if (filters.selection && filters.selection !== "unassigned" && selectionState(record) !== filters.selection) return false;
   if (filters.note === "with-note" && !compilerNote(record)) return false;
@@ -1138,7 +1165,8 @@ function setFilteredCount(records, all) {
   const noteCount = records.filter((record) => compilerNote(record)).length;
   const pdfQueueCount = records.filter((record) => pdfVerificationIssues(record).length).length;
   const diaryQueueCount = records.filter(needsDiaryControlCheck).length;
-  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${sourceCheckedCount} source checked; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${pdfQueueCount} PDF checks; ${diaryQueueCount} diary checks.`;
+  const sourceNoteControlCount = records.filter((record) => !sourceNoteProvenance(record).hasControl).length;
+  filteredCount.textContent = `Showing ${records.length} of ${all.length} records; ${reviewedCount} reviewed; ${sourceCheckedCount} source checked; ${includeCount} include, ${maybeCount} maybe, ${excludeCount} exclude; ${noteCount} notes; ${sourceNoteControlCount} Source Note controls; ${pdfQueueCount} PDF checks; ${diaryQueueCount} diary checks.`;
 }
 
 function quickQueueCount(queue) {
@@ -1263,7 +1291,7 @@ function createCoverageTable(records) {
   table.className = "triage-table";
 
   const header = document.createElement("tr");
-  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "Source checked", "PDF issues", "Diary checks", "Include pages"]) {
+  for (const label of ["Chapter", "Include", "Maybe", "Exclude", "Unassigned", "Notes", "Source checked", "Source Note controls", "PDF issues", "Diary checks", "Include pages"]) {
     const cell = document.createElement("th");
     cell.scope = "col";
     cell.textContent = label;
@@ -1290,6 +1318,7 @@ function createCoverageTable(records) {
       recordsForSelection(chapterRecords, "unassigned").length,
       chapterRecords.filter((record) => compilerNote(record)).length,
       chapterRecords.filter((record) => sourceCheckedRecords.has(record.id)).length,
+      chapterRecords.filter((record) => !sourceNoteProvenance(record).hasControl).length,
       chapterRecords.filter((record) => pdfVerificationIssues(record).length).length,
       chapterRecords.filter(needsDiaryControlCheck).length,
       pageTotal(includeRecords)
@@ -1332,6 +1361,7 @@ function createTriageLeadList(title, records, emptyText) {
     meta.textContent = [
       `${shortDate(record.date)} | ${record.chapter.name} | ${record.documentType} | ${record.pageCount || "?"} pages`,
       sourceCheckLabel(record),
+      sourceNoteProvenanceLabel(record),
       pdfIssues.length ? pdfIssues.join(", ") : "",
       diaryCheck
     ].filter(Boolean).join(" | ");
@@ -1354,6 +1384,7 @@ function renderTriageSummary(records) {
   const includeWithoutNotes = includeRecords.filter((record) => !compilerNote(record));
   const includeAwaitingSourceCheck = includeRecords.filter((record) => !sourceCheckedRecords.has(record.id));
   const sourceCheckedCount = records.filter((record) => sourceCheckedRecords.has(record.id)).length;
+  const sourceNoteControlQueue = records.filter((record) => !sourceNoteProvenance(record).hasControl);
   const pdfVerificationQueue = records.filter((record) => pdfVerificationIssues(record).length);
   const selectedPdfVerificationQueue = records.filter((record) => ["include", "maybe"].includes(selectionState(record)) && pdfVerificationIssues(record).length);
   const diaryControlQueue = records.filter(needsDiaryControlCheck);
@@ -1379,6 +1410,7 @@ function renderTriageSummary(records) {
   appendMetric(metrics, "unassigned", unassignedRecords.length.toString(), `${strongUnassigned.length} strong hits`);
   appendMetric(metrics, "include without note", includeWithoutNotes.length.toString(), "needs rationale");
   appendMetric(metrics, "source checked", sourceCheckedCount.toString(), `${includeAwaitingSourceCheck.length} included pending`);
+  appendMetric(metrics, "Source Note controls", sourceNoteControlQueue.length.toString(), "OA/ID, box, or equivalent pending");
   appendMetric(metrics, "PDF checks", pdfVerificationQueue.length.toString(), `${selectedPdfVerificationQueue.length} selected`);
   appendMetric(metrics, "Diary checks", diaryControlQueue.length.toString(), `${emptyDiaryCount} empty; ${backupOnlyCount} backup only`);
 
@@ -1399,6 +1431,11 @@ function renderTriageSummary(records) {
       "Included Awaiting Source Check",
       includeAwaitingSourceCheck,
       "Every included record has been checked against its PDF and archival provenance."
+    ),
+    createTriageLeadList(
+      "Source Note Control-Copy Queue",
+      sourceNoteControlQueue,
+      "Every Source Note has a verified item-level archival control locator."
     ),
     createTriageLeadList(
       "PDF Verification Queue",
@@ -1486,6 +1523,14 @@ function createPdfExtractLine(record) {
   const line = document.createElement("p");
   line.className = `record-pdf-check ${issues.length ? "needs-verification" : "is-complete"}`;
   line.textContent = `PDF first-page check: ${pdfVerificationSummary(record)}`;
+  return line;
+}
+
+function createSourceNoteProvenanceLine(record) {
+  const provenance = sourceNoteProvenance(record);
+  const line = document.createElement("p");
+  line.className = `record-source-provenance ${provenance.state === "complete" ? "is-complete" : "needs-verification"}`;
+  line.textContent = `Source Note provenance: ${provenance.label}. ${provenance.summary}`;
   return line;
 }
 
@@ -1653,6 +1698,7 @@ function createRecordRow(record) {
   const noteLine = createCompilerNoteLine(record);
   const pdfCheck = createPdfExtractLine(record);
   const scheduleLine = createScheduleReferenceLine(record);
+  const sourceProvenanceLine = createSourceNoteProvenanceLine(record);
   body.append(titleLine, createMeta(record));
   if (terms) body.append(terms);
   if (signals) body.append(signals);
@@ -1660,6 +1706,7 @@ function createRecordRow(record) {
   if (noteLine) body.append(noteLine);
   if (pdfCheck) body.append(pdfCheck);
   if (scheduleLine) body.append(scheduleLine);
+  body.append(sourceProvenanceLine);
   body.append(sourceNote);
   if (catalogTrail(record)) body.append(trail);
   body.append(createRecordActions(record));
@@ -2380,7 +2427,7 @@ function renderPublicReviewMentions(mentions) {
 }
 
 function resetFilters() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, sourceCheckFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, sourceCheckFilter, sourceNoteProvenanceFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter]) {
     if (control) control.value = "";
   }
   if (sortSelect) sortSelect.value = "chapter-date";
@@ -2472,6 +2519,9 @@ function exportVisibleRecords() {
     "naid",
     "page_count",
     "source_confidence",
+    "source_note_provenance_state",
+    "source_note_provenance_pending_fields",
+    "pdf_header_control_number_lead",
     "pdf_verification_issues",
     "pdf_subject",
     "pdf_participants",
@@ -2503,6 +2553,9 @@ function exportVisibleRecords() {
       record.naid,
       record.pageCount || "",
       record.sourceConfidence?.level || "",
+      sourceNoteProvenance(record).label,
+      sourceNoteProvenance(record).pendingFields.join("; "),
+      sourceNoteProvenance(record).controlLead,
       pdfVerificationLabels(record).join("; "),
       record.pdfExtract?.subject || "",
       record.pdfExtract?.participants || "",
@@ -2848,6 +2901,7 @@ function compilerStub(record) {
     `NAID: ${record.naid}`,
     `Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
     `Source confidence: ${record.sourceConfidence?.level || "pending"}${record.sourceConfidence?.basis ? ` - ${record.sourceConfidence.basis}` : ""}`,
+    `Source Note provenance: ${sourceNoteProvenanceLabel(record)} - ${sourceNoteProvenance(record).summary}`,
     `Catalog: ${record.catalogUrl || ""}`,
     `PDF: ${record.pdfUrl || ""}`,
     frusSourceNote(record),
@@ -3272,7 +3326,7 @@ function enableChapterCards() {
 }
 
 function bindWorkbench() {
-  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, sourceCheckFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter, sortSelect]) {
+  for (const control of [searchInput, chapterFilter, typeFilter, yearFilter, sourceFilter, confidenceFilter, reviewFilter, sourceCheckFilter, sourceNoteProvenanceFilter, selectionFilter, noteFilter, pdfCheckFilter, scheduleFilter, eventFilter, sortSelect]) {
     control?.addEventListener("input", applyFilters);
     control?.addEventListener("change", applyFilters);
   }

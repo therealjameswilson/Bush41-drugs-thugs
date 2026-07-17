@@ -259,6 +259,18 @@
               </select>
             </label>
             <label>
+              Source Note provenance
+              <select id="filter-source-note-provenance">
+                <option value="">All Source Note states</option>
+                <option value="needs-control">Needs control-copy locator</option>
+                <option value="needs-marking">Needs original marking</option>
+                <option value="has-control-lead">Has PDF control-number lead</option>
+                <option value="missing-control-lead">No PDF control-number lead</option>
+                <option value="complete">Published-style fields complete</option>
+                <option value="invalid">Source line needs correction</option>
+              </select>
+            </label>
+            <label>
               Selection
               <select id="filter-selection">
                 <option value="">All selections</option>
@@ -326,6 +338,7 @@
               <button id="export-outline" type="button">Export selected outline</button>
               <button id="export-chronology-ledger" type="button">Export chronology ledger</button>
               <button id="export-annotation-worksheet" type="button">Export annotation worksheet</button>
+              <button id="export-source-note-audit" type="button">Export Source Note audit</button>
               <button id="export-pdf-checklist" type="button">Export PDF checklist</button>
               <button id="export-state" type="button">Export triage JSON</button>
               <button id="import-state" type="button">Import triage JSON</button>
@@ -346,11 +359,11 @@
               </p>
             </div>
             <div>
-              <h3>Source Note Prep</h3>
+              <h3>Source Note Provenance</h3>
               <p>
-                Use the FRUS-style draft as a starting point. Verify participants, classification,
-                drafting/distribution data, date/time, and excisions directly in the PDF; keep
-                Catalog URLs in the research trail.
+                Follow the published order: repository, records and series, file unit, item-level
+                control locator, then classification and handling. Keep Catalog URLs and NAIDs in
+                the separate research trail. <a href="https://history.state.gov/historicaldocuments/frus1989-92v31/d216">Compare the published model.</a>
               </p>
             </div>
             <div>
@@ -393,6 +406,10 @@
         <div>
           <span id="total-source-checked">0</span>
           <p>source checked</p>
+        </div>
+        <div>
+          <span id="total-source-note-controls">0</span>
+          <p>Source Note controls pending</p>
         </div>
         <div>
           <span id="total-selected">0</span>
@@ -801,6 +818,7 @@
     <script src="data/event-dossiers.js"></script>
     <script src="data/compiler-gaps.js"></script>
     <script src="data/public-statement-review.js"></script>
+    <script src="source-note-provenance.js"></script>
     <script src="app.js"></script>
     <script src="compiler-packet.js"></script>
     <script id="compiler-network-script">
@@ -872,6 +890,7 @@
             "",
             "Suggested next actions:",
             "- Clear Included Source Checks after verifying each PDF, archival provenance, and Source Note draft.",
+            "- Export the Source Note audit and resolve item-level OA/ID, box, or equivalent control-copy locators before publication.",
             "- Export the visible compiler packet for source-note and document-sequence review.",
             "- Export the chronology ledger to interleave title-dated gaps and resolve provisional dates.",
             "- Export the Include annotation worksheet for first-footnote, chronology, omission, and cross-reference work.",

@@ -1083,6 +1083,7 @@ h2 {
 .record-source-note,
 .record-catalog-trail,
 .record-pdf-check,
+.record-source-provenance,
 .record-note,
 .record-schedule,
 .record-events,
@@ -1107,6 +1108,22 @@ h2 {
 }
 
 .record-pdf-check.is-complete {
+  color: #2f493c;
+}
+
+.record-source-provenance {
+  margin: 6px 0;
+  color: #31424a;
+  font-weight: 750;
+}
+
+.record-source-provenance.needs-verification {
+  padding-left: 10px;
+  color: #573d1d;
+  border-left: 4px solid var(--gold);
+}
+
+.record-source-provenance.is-complete {
   color: #2f493c;
 }
 

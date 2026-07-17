@@ -47,6 +47,7 @@
       filters.confidence ? `match=${filters.confidence}` : "",
       filters.review ? `review=${filters.review}` : "",
       filters.sourceCheck ? `source check=${filters.sourceCheck}` : "",
+      filters.sourceProvenance ? `Source Note provenance=${filters.sourceProvenance}` : "",
       filters.selection ? `selection=${filters.selection}` : "",
       filters.note ? `note=${filters.note}` : "",
       filters.pdfCheck ? `pdf check=${filters.pdfCheck}` : "",
@@ -84,6 +85,17 @@
 
   function packetSourceCheckLabel(record) {
     return typeof sourceCheckLabel === "function" ? sourceCheckLabel(record) : "Source check pending";
+  }
+
+  function packetSourceNoteProvenance(record) {
+    return typeof sourceNoteProvenance === "function"
+      ? sourceNoteProvenance(record)
+      : globalThis.FrusSourceNoteProvenance.audit(record);
+  }
+
+  function packetSourceNoteProvenanceLine(record) {
+    const result = packetSourceNoteProvenance(record);
+    return `${result.label}. ${result.summary}`;
   }
 
   function packetScheduleControlLabel(record) {
@@ -179,7 +191,7 @@
         const maybe = packetStateCount(chapterRecords, "maybe");
         const exclude = packetStateCount(chapterRecords, "exclude");
         const unassigned = packetStateCount(chapterRecords, "unassigned");
-        return `- Chapter ${chapterIndex + 1}: ${chapterName}: include ${include.length} (${packetPageTotal(include)} pages); include source checks pending ${include.filter((record) => !packetSourceChecked(record)).length}; maybe ${maybe.length}; exclude ${exclude.length}; unassigned ${unassigned.length}; notes ${chapterRecords.filter((record) => packetCompilerNote(record)).length}; diary checks ${chapterRecords.filter(packetNeedsDiaryControlCheck).length}`;
+        return `- Chapter ${chapterIndex + 1}: ${chapterName}: include ${include.length} (${packetPageTotal(include)} pages); include source checks pending ${include.filter((record) => !packetSourceChecked(record)).length}; Source Note controls pending ${chapterRecords.filter((record) => !packetSourceNoteProvenance(record).hasControl).length}; maybe ${maybe.length}; exclude ${exclude.length}; unassigned ${unassigned.length}; notes ${chapterRecords.filter((record) => packetCompilerNote(record)).length}; diary checks ${chapterRecords.filter(packetNeedsDiaryControlCheck).length}`;
       })
       .filter(Boolean)
       .join("\n");
@@ -205,6 +217,7 @@
       `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
       `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
       `- ${frusSourceNote(record)}`,
+      `- Source Note provenance: ${packetSourceNoteProvenanceLine(record)}`,
       `- Source check: ${packetSourceCheckLabel(record)}`,
       `- Compiler note: ${packetCompilerNote(record) || "none"}`,
       `- PDF verification: ${pdfVerificationSummary(record)}`,
@@ -222,6 +235,7 @@
       `  - ${record.documentType}; ${record.pageCount || "?"} pages; ${packetSelectionLabel(record)}`,
       `  - Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
       `  - Source check: ${packetSourceCheckLabel(record)}`,
+      `  - Source Note provenance: ${packetSourceNoteProvenanceLine(record)}`,
       `  - Note: ${packetCompilerNote(record) || "none"}`,
       `  - PDF: ${record.pdfUrl || "not available"}`
     ].join("\n");
@@ -254,6 +268,7 @@
       `Included page total: ${packetPageTotal(includeRecords)}`,
       `Maybe records: ${maybeRecords.length}`,
       `Included records awaiting source check: ${includeRecords.filter((record) => !packetSourceChecked(record)).length}`,
+      `Included records awaiting Source Note control locator: ${includeRecords.filter((record) => !packetSourceNoteProvenance(record).hasControl).length}`,
       `Included records needing PDF verification: ${packetPdfVerificationQueue(includeRecords).length}`,
       `High-priority gap reminders: ${highGaps.length}`,
       "",
@@ -269,7 +284,7 @@
       const chapterGaps = highGaps.filter((record) => record.chapter?.name === chapterName);
 
       lines.push(`## Chapter ${chapterNumber}: ${chapterName}`, "");
-      lines.push(`Include: ${chapterIncludes.length} records, ${packetPageTotal(chapterIncludes)} pages. Include source checks pending: ${chapterIncludes.filter((record) => !packetSourceChecked(record)).length}. Maybe: ${chapterMaybes.length}. Include PDF checks: ${packetPdfVerificationQueue(chapterIncludes).length}. High-priority gaps: ${chapterGaps.length}.`, "");
+      lines.push(`Include: ${chapterIncludes.length} records, ${packetPageTotal(chapterIncludes)} pages. Include source checks pending: ${chapterIncludes.filter((record) => !packetSourceChecked(record)).length}. Include Source Note controls pending: ${chapterIncludes.filter((record) => !packetSourceNoteProvenance(record).hasControl).length}. Maybe: ${chapterMaybes.length}. Include PDF checks: ${packetPdfVerificationQueue(chapterIncludes).length}. High-priority gaps: ${chapterGaps.length}.`, "");
 
       if (chapterIncludes.length) {
         lines.push("### Proposed Document Sequence", "");
@@ -301,6 +316,7 @@
 
     lines.push("## Editorial Checks Before Drafting", "");
     lines.push("- Clear the source-check queue for every Include record after checking the PDF, archival provenance, and Source Note draft.");
+    lines.push("- Supply an OA/ID, box, or equivalent item-level control locator from the archival control copy; never substitute a NAID or Catalog URL in the Source line.");
     lines.push("- Reconcile Include selections against high-priority gap reminders before treating this as a final document list.");
     lines.push("- Confirm dates, participants, classification markings, drafting/distribution data, and excisions directly in each PDF.");
     lines.push("- Use Public Papers references as public-positioning context, not substitutes for private conversation records.");
@@ -349,10 +365,12 @@
       "",
       sourceNote,
       "",
+      `- Source Note provenance state: ${packetSourceNoteProvenanceLine(record)}`,
       `- Original classification lead: ${record.pdfExtract?.classificationMarking || "not isolated; verify in PDF"}`,
       "- Drafting and distribution: [verify directly in the document; not inferred by this site]",
       "- President/adviser read status: [verify initials, routing marks, marginalia, or other evidence]",
-      "- Provenance check: [confirm collection, series, file unit, box/OA-ID, and folder title against the archival record]",
+      `- PDF header control-number lead: ${packetSourceNoteProvenance(record).controlLead || "not isolated; inspect the control copy"}`,
+      "- Provenance check: [confirm repository, records, series, file unit, OA/ID or equivalent item control, and folder title against the archival control copy]",
       "- Final first-footnote prose: [revise the Source line only after completing the checks above]",
       "",
       "#### Chronology and Text",
@@ -517,6 +535,7 @@
       record.pdfExtract?.dateTimePlace ? `  - PDF time/place lead: ${record.pdfExtract.dateTimePlace}` : "",
       `  - Daily Diary control: ${packetScheduleControlLabel(record)}`,
       `  - ${frusSourceNote(record)}`,
+      `  - Source Note provenance: ${packetSourceNoteProvenanceLine(record)}`,
       record.pdfUrl ? `  - PDF: ${record.pdfUrl}` : "",
       record.catalogUrl ? `  - Catalog: ${record.catalogUrl}` : ""
     ].filter(Boolean).join("\n");
@@ -642,6 +661,7 @@
       `- Catalog: ${record.catalogUrl || "not listed"}`,
       `- PDF: ${record.pdfUrl || "not available"}`,
       `- ${frusSourceNote(record)}`,
+      `- Source Note provenance: ${packetSourceNoteProvenanceLine(record)}`,
       `- Daily Diary control state: ${packetScheduleControlLabel(record)}`,
       `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
       `- Daily Diary/Backup source notes: ${scheduleReferenceSourceNotes(record) || "none matched"}`,
@@ -661,12 +681,14 @@
       `Visible records: ${records.length}`,
       `Selection summary: ${packetSelectionSummary(records)}`,
       `Source checked: ${records.filter(packetSourceChecked).length}`,
+      `Source Note controls pending: ${records.filter((record) => !packetSourceNoteProvenance(record).hasControl).length}`,
+      `Source Note original markings pending: ${records.filter((record) => !packetSourceNoteProvenance(record).hasClassification).length}`,
       `Compiler notes: ${records.filter((record) => packetCompilerNote(record)).length}`,
       `PDF verification queue: ${packetPdfVerificationQueue(records).length}`,
       `Daily Diary control queue: ${records.filter(packetNeedsDiaryControlCheck).length}`,
       `Filters: ${selectedChronologyFilters()}`,
       "",
-      "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Source checked is a portable human verification state for the PDF, archival provenance, and Source Note draft; it is never inferred from extraction metadata. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts. The diary-control queue flags empty or absent Diary entries even when a Daily Backup remains available.",
+      "Scope: declassified presidential memoranda of conversation and telephone conversations with online PDFs. Source checked is a portable human verification state for the PDF, archival provenance, and Source Note draft; it is never inferred from extraction metadata. Source Note provenance is a separate, derived gate: Catalog URLs and NAIDs remain locator evidence, while the publishable Source line requires repository-order provenance and an item-level archival control locator. Daily Diary/Backup entries are same-day schedule-control references, not substitute conversation transcripts.",
       ""
     ];
 
@@ -717,6 +739,7 @@
           `- Pages: ${record.pageCount || "unmeasured"}${record.pageCountBasis ? ` (${record.pageCountBasis})` : ""}`,
           `- Event dossiers: ${packetEventDossiers(record).join("; ") || "none matched"}`,
           `- ${frusSourceNote(record)}`,
+          `- Source Note provenance: ${packetSourceNoteProvenanceLine(record)}`,
           `- Parsed PDF metadata: ${pdfVerificationSummary(record)}`,
           `- Daily Diary/Backup controls: ${scheduleReferenceSummary(record) || "none matched"}`,
           `- PDF: ${record.pdfUrl || "not available"}`,
@@ -733,6 +756,56 @@
     lines.push("## Final Source-Note Pass", "");
     lines.push("- Confirm exact dateline, participants, classification markings, drafting/distribution data, excisions, and any attached tabs or distribution markings directly in each PDF.");
     lines.push("- Reconcile the source note against the published FRUS style before moving the record into the final manuscript.");
+    return lines.join("\n");
+  }
+
+  function sourceNoteProvenanceAudit(records) {
+    const summary = globalThis.FrusSourceNoteProvenance.summarize(records);
+    const lines = [
+      "# FRUS Volume XXVIII Source Note Provenance Audit",
+      "",
+      `Generated: ${new Date().toISOString()}`,
+      `Visible records audited: ${summary.total}`,
+      `Published-style fields complete: ${summary.complete}`,
+      `Control-copy locators pending: ${summary.needsControl}`,
+      `Original classification/handling markings pending: ${summary.needsMarking}`,
+      `PDF header control-number leads isolated: ${summary.controlLeads}`,
+      `Malformed or locator-contaminated Source lines: ${summary.invalid}`,
+      `Filters: ${selectedChronologyFilters()}`,
+      "",
+      "Published standard: repository; presidential records or originating agency; series and file unit; OA/ID, box, lot, or equivalent item-level control; classification and handling; short provenance facts.",
+      `Official comparison: ${globalThis.FrusSourceNoteProvenance.PUBLISHED_STANDARD_URL}`,
+      `Published model: ${globalThis.FrusSourceNoteProvenance.PUBLISHED_MODEL_SOURCE_NOTE}`,
+      "Model only: do not transfer its OA/ID or control number to another document.",
+      "",
+      "Catalog URLs, NAIDs, object IDs, and download URLs are retained below as research locators, never as substitutes for Source Note provenance. PDF header numbers are leads only. This audit does not transfer an OA/ID or control number from one document to another.",
+      ""
+    ];
+
+    for (const chapterName of CHAPTER_ORDER) {
+      const chapterRecords = records.filter((record) => record.chapter.name === chapterName);
+      if (!chapterRecords.length) continue;
+      lines.push(`## Chapter ${CHAPTER_ORDER.indexOf(chapterName) + 1}: ${chapterName}`, "");
+      for (const record of chapterRecords) {
+        const result = packetSourceNoteProvenance(record);
+        lines.push(
+          `### ${record.date} - ${record.documentTitle || record.title}`,
+          "",
+          frusSourceNote(record),
+          "",
+          `- State: ${result.label}`,
+          `- Pending published fields: ${result.pendingFields.join("; ") || "none detected; human control-copy verification remains required"}`,
+          `- Hard issues: ${result.hardIssues.join("; ") || "none"}`,
+          `- PDF header control-number lead: ${result.controlLead || "not isolated"}`,
+          `- Original marking lead: ${record.pdfExtract?.classificationMarking || "not isolated"}`,
+          `- Source check: ${packetSourceCheckLabel(record)}`,
+          `- Catalog locator: ${record.catalogUrl || "not listed"}`,
+          `- PDF: ${record.pdfUrl || "not available"}`,
+          ""
+        );
+      }
+    }
+
     return lines.join("\n");
   }
 
@@ -776,6 +849,14 @@
     );
   }
 
+  function exportSourceNoteProvenanceAudit() {
+    downloadTextFile(
+      "frus-v28-visible-source-note-provenance-audit.md",
+      sourceNoteProvenanceAudit(visibleRecords),
+      "text/markdown;charset=utf-8"
+    );
+  }
+
   window.FRUS_PACKET_EXPORT = {
     compilerPacket,
     exportCompilerPacket,
@@ -786,7 +867,9 @@
     mergedChronologyLedger,
     exportChronologyLedger,
     pdfVerificationChecklist,
-    exportPdfVerificationChecklist
+    exportPdfVerificationChecklist,
+    sourceNoteProvenanceAudit,
+    exportSourceNoteProvenanceAudit
   };
 
   document.addEventListener("DOMContentLoaded", () => {
@@ -794,6 +877,7 @@
     document.querySelector("#export-outline")?.addEventListener("click", exportSelectedOutline);
     document.querySelector("#export-annotation-worksheet")?.addEventListener("click", exportAnnotationWorksheet);
     document.querySelector("#export-chronology-ledger")?.addEventListener("click", exportChronologyLedger);
+    document.querySelector("#export-source-note-audit")?.addEventListener("click", exportSourceNoteProvenanceAudit);
     document.querySelector("#export-pdf-checklist")?.addEventListener("click", exportPdfVerificationChecklist);
   });
 })();

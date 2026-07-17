@@ -39,6 +39,9 @@ The workbench supports:
 - local "reviewed" marking in browser storage
 - a separate portable Source checked state for the compiler's direct review of
   the PDF, archival provenance, and FRUS-style Source Note draft
+- a separate Source Note provenance gate for repository order, file-unit
+  identity, item-level control locators, and original classification/handling
+  markings
 - local Include / Maybe / Exclude selection triage, with selection filters and
   export fields for compiler working decisions
 - local per-record compiler notes, note filters, and portable triage JSON
@@ -58,6 +61,8 @@ The workbench supports:
 - an Included Source Checks queue that isolates selected records whose PDF,
   provenance, and Source Note draft have not yet been checked by the compiler
 - a separate Catalog trail for URLs, object IDs, NAIDs, access status, and digital-object evidence
+- a Source Note audit export that carries the clean citation, pending published
+  fields, PDF header control-number lead, and locator trail without merging them
 - CSV export of the currently visible record set
 - Markdown compiler-packet export for the currently visible chronology, with
   source-note drafts, PDF links, Catalog trails, Daily Diary controls, and
@@ -92,10 +97,32 @@ The workbench reflects FRUS production practice: it keeps chronological
 arrangement central, treats source-note metadata as something to verify in the
 PDF, and separates discovery evidence from final editorial selection. Source-note
 drafts follow the compact pattern used in FRUS 1989-1992, Volume XXXI:
-repository and collection path first, then classification when the PDF extraction
-supports it. Catalog URLs, NAIDs, digital-object details, FOIA numbers, and
-access flags are kept in the separate Catalog trail rather than the source-note
-line.
+repository, presidential records or originating agency, series and file unit,
+item-level archival control, then classification/handling and short provenance
+facts. Catalog URLs, NAIDs, digital-object details, FOIA numbers, and access
+flags are kept in the separate Catalog trail rather than the source-note line.
+
+The current NARA item hierarchy supplies repository, records, series, and file
+unit, but it does not supply the Presidential Accession File OA/ID or equivalent
+control-copy locator used by published FRUS source notes. The site therefore
+labels these lines as drafts and queues the missing item-level control instead
+of substituting a NAID. A number parsed from a PDF header is exposed only as a
+lead until the compiler verifies it against the archival control copy. The
+published comparison is [Document 216 in Volume XXXI](https://history.state.gov/historicaldocuments/frus1989-92v31/d216).
+Its first footnote supplies the concrete pattern: `Source: George H.W. Bush
+Library, Bush Presidential Records, National Security Council, Presidential
+Accession File, OA/ID CF01664, 9103951. Secret.` That locator belongs only to
+the cited Gorbachev telcon and must not be copied to another record.
+
+Run the provenance regression audit after refreshing record data:
+
+```bash
+node scripts/audit-source-notes.js
+```
+
+The command exits nonzero if a Source line loses repository-first order or
+leaks Catalog locator metadata. Pending OA/ID/box controls and original markings
+are reported as compiler work, not treated as hard data errors.
 
 The annotation worksheet follows the volume's
 [published editorial methodology](https://history.state.gov/historicaldocuments/frus1989-92v31/abouttheseries):
