@@ -32,6 +32,57 @@ jobs:
           cp -R data _site/data
           mkdir _site/reports
           cp reports/*.json _site/reports/
+      - name: Build and verify public offline ZIP
+        run: |
+          python3 - _site _site/offline-site.zip Bush41-drugs-thugs <<'PY'
+          from pathlib import Path
+          import argparse, os, re, zipfile
+          
+          p = argparse.ArgumentParser()
+          p.add_argument("site", type=Path)
+          p.add_argument("output", type=Path)
+          p.add_argument("slug")
+          p.add_argument("--prune", action="store_true")
+          a = p.parse_args()
+          site = a.site.resolve()
+          online = "https://therealjameswilson.github.io/" + a.slug + "/"
+          allowed = {"index.html", "app.js", "styles.css", "README.md", "persons.html", "persons.js", "compiler-packet.js", "source-note-provenance.js", "assets", "data", "documents", "reports"}
+          instructions = f"""OFFLINE COPY | {a.slug}
+          
+          Extract the whole ZIP; keep its folders together. For full search, filtering, and
+          tables, start a local HTTP server from the extracted folder and open the address:
+          
+            macOS/Linux: python3 -m http.server 8000 --bind 127.0.0.1
+            Windows:     py -m http.server 8000 --bind 127.0.0.1
+          
+          Visit http://127.0.0.1:8000/ in your browser. Stop the server with Ctrl+C.
+          On locked-down computers, use an approved local static web server instead.
+          Double-clicking index.html may show the shell, but browsers often block local data
+          requests that way. You can browse the raw files in data/ directly if needed.
+          
+          The site pages, local datasets, and available bundled documents are included.
+          Linked third-party records, archives, fonts, and cross-site links still require
+          network access; linked-only documents are not blank pages or missing ZIP files.
+          Keep external URLs for provenance. The public source site is {online}
+          """
+          a.output.parent.mkdir(parents=True, exist_ok=True)
+          with zipfile.ZipFile(a.output, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=7) as bundle:
+              bundle.writestr("README-OFFLINE.txt", instructions)
+              for f in sorted(site.rglob("*")):
+                  rel = f.relative_to(site)
+                  if rel.parts[0] not in allowed or any(x.startswith(".") for x in rel.parts) or f.is_symlink() or not f.is_file():
+                      continue
+                  if re.search(r"(?:^|[-_.])(secret|credential|private|token|api[-_]?key)s?(?:$|[-_.])", f.name, re.I):
+                      continue
+                  if f == site / "index.html":
+                      bundle.writestr(rel.as_posix(), f.read_text(encoding="utf-8").replace('href="offline-site.zip"', f'href="{online}offline-site.zip"'))
+                  else:
+                      bundle.write(f, rel.as_posix())
+          with zipfile.ZipFile(a.output) as bundle:
+              if bundle.testzip() or not {"index.html", "README-OFFLINE.txt"}.issubset(bundle.namelist()) or not any(n.startswith("data/") for n in bundle.namelist()):
+                  raise RuntimeError("Invalid or incomplete offline archive")
+              print(f"{a.output}: {len(bundle.namelist())} files, {a.output.stat().st_size:,} bytes")
+          PY
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
