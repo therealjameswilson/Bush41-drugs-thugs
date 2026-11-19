@@ -28,12 +28,75 @@
     return String(value || "").replace(/\s+/g, " ").trim();
   }
 
+  // Each row is verified against the Bush Library citation marker appended to the
+  // digitized item; the OA/ID and folder ID on that marker do not identify the item.
+  const SCAN_REVIEW = Object.freeze({
+  "428080173": [
+    "325592635",
+    "CF01731",
+    "CF01731-008",
+    3,
+    "Confidential",
+    "6275"
+  ],
+  "428080241": [
+    "325377393",
+    "CF01729",
+    "CF01729-009",
+    9,
+    "Secret",
+    ""
+  ],
+  "428080243": [
+    "325377394",
+    "CF01729",
+    "CF01729-010",
+    6,
+    "Secret",
+    "6625 / ADD ON 2"
+  ],
+  "428080487": [
+    "325377405",
+    "CF01729",
+    "CF01729-014",
+    8,
+    "Confidential",
+    "1597 MEMCON"
+  ],
+  "428080509": [
+    "325592640",
+    "CF01731",
+    "CF01731-013",
+    4,
+    "Secret",
+    "0687"
+  ]
+});
+  function scanReview(record) {
+    const row = SCAN_REVIEW[String(record?.naid)];
+    if (!Array.isArray(row)) return null;
+    const [folderNaid, collectionOaId, folderId, markerPdfPage, originalMarking, headerLead] = row;
+    return { folderNaid, collectionOaId, folderId, markerPdfPage, originalMarking, headerLead };
+  }
+
+  function reviewedRecord(record) {
+    const review = scanReview(record);
+    if (!review) return record;
+    return { ...record, pdfExtract: { ...record.pdfExtract, classificationMarking: review.originalMarking } };
+  }
+
   function sourceNote(record) {
-    return clean(record?.frusSourceNote || record?.sourceNote || "");
+    const review = scanReview(record);
+    if (!review) return clean(record?.frusSourceNote || record?.sourceNote || "");
+    const series = clean(record.source?.title);
+    const folder = clean(record.sourceFolder);
+    if (!series || !folder) return clean(record.frusSourceNote || record.sourceNote || "");
+    return `Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, ${series}, ${folder}, OA/ID ${review.collectionOaId}, folder ${review.folderId}. ${review.originalMarking}.`;
   }
 
   function hasControlLocator(note) {
-    return CONTROL_PATTERN.test(note);
+    const withoutFolder = note.replace(/\bOA\/ID\s+[A-Z0-9]+(?:[-–][A-Z0-9]+)*/gi, "").replace(/\bfolder(?:\s+ID)?\s+[A-Z0-9]+(?:[-–][A-Z0-9]+)*/gi, "");
+    return CONTROL_PATTERN.test(withoutFolder);
   }
 
   function pdfControlNumberLead(record) {
@@ -58,16 +121,18 @@
     const fileUnitTitle = clean(record?.sourceFolder);
     const hasSeries = Boolean(seriesTitle && note.includes(seriesTitle));
     const hasFileUnit = Boolean(fileUnitTitle && note.includes(fileUnitTitle));
-    const hasControl = hasControlLocator(note);
+    const review = scanReview(record);
+    // Never treat a scan-verified collection OA/ID or folder ID as an item control.
+    const hasControl = !review && hasControlLocator(note);
     const hasClassification = CLASSIFICATION_PATTERN.test(note);
-    const controlLead = pdfControlNumberLead(record);
+    const controlLead = review ? review.headerLead : pdfControlNumberLead(record);
 
     if (!note) hardIssues.push("Source line missing");
     if (note && !hasRepository) hardIssues.push("repository-first Source order missing");
     if (note && LOCATOR_LEAK_PATTERN.test(note)) hardIssues.push("Catalog locator leaked into Source line");
     if (!hasSeries) hardIssues.push("series provenance missing");
     if (!hasFileUnit) hardIssues.push("file-unit provenance missing");
-    if (!hasControl) pendingFields.push("OA/ID, box, or equivalent control-copy locator");
+    if (!hasControl) pendingFields.push("item-level archival control-copy locator");
     if (!hasClassification) pendingFields.push("original classification and handling markings");
 
     let state = "complete";
@@ -88,6 +153,7 @@
 
     const summaryParts = [];
     if (!hardIssues.length) summaryParts.push("Repository, records, series, and file-unit order is clean");
+    if (review) summaryParts.push(`Bush Library citation marker verified on PDF p. ${review.markerPdfPage}: collection OA/ID ${review.collectionOaId}; folder ID ${review.folderId} (not item control). Original ${review.originalMarking} marking verified from the scan`);
     if (controlLead) summaryParts.push(`PDF header control lead ${controlLead}; verify before citing`);
     if (pendingFields.length) summaryParts.push(`Supply ${pendingFields.join(" and ")}`);
     if (!pendingFields.length && !hardIssues.length) summaryParts.push("Confirm against the archival control copy before publication");
@@ -134,6 +200,8 @@
     PUBLISHED_STANDARD_URL,
     PUBLISHED_MODEL_SOURCE_NOTE,
     audit,
+    scanReview,
+    reviewedRecord,
     matches,
     pdfControlNumberLead,
     sourceNote,

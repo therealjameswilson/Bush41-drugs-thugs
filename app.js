@@ -3695,6 +3695,20 @@ async function init() {
       scheduleReferencePromise,
       collectionCoveragePromise
     ]);
+    const provenanceApi = globalThis.FrusSourceNoteProvenance;
+    if (provenanceApi?.reviewedRecord) {
+      allRecords = allRecords.map(provenanceApi.reviewedRecord);
+      const byId = new Map(allRecords.map((record) => [record.id, record]));
+      allEventDossiers = allEventDossiers.map((dossier) => ({
+        ...dossier,
+        privateRecords: (dossier.privateRecords || []).map((record) => {
+          const full = byId.get(record.id);
+          return full && provenanceApi.scanReview(full)
+            ? { ...record, sourceNote: provenanceApi.sourceNote(full) }
+            : record;
+        })
+      }));
+    }
     recordEventMap = buildRecordEventMap(allEventDossiers);
     setWorkbenchOptions(allRecords);
     setEventFilterOptions(allEventDossiers);
